@@ -1,0 +1,340 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "yake", 
+          "moja", 
+          "kwenda"
+        ], 
+        "ungrammatical_english": [
+          "its", 
+          "one", 
+          "going"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Siku moja mamangu alinunua matunda mengi sana.", 
+      "stem": "Siku moja mamangu alinunua matunda mengi", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bora", 
+          "ndefu", 
+          "popote"
+        ], 
+        "nonsensical_english": [
+          "fine", 
+          "long", 
+          "anywhere"
+        ], 
+        "plausible": [
+          "bora", 
+          "mashuhuri", 
+          "refu"
+        ], 
+        "plausible_english": [
+          "better", 
+          "famous", 
+          "deep"
+        ], 
+        "ungrammatical": [
+          "mkono", 
+          "mkia", 
+          "gari"
+        ], 
+        "ungrammatical_english": [
+          "hand", 
+          "tail", 
+          "locomotive"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mimi na ndugu zangu tulijiuliza lini mama angetugawia ili tule.", 
+      "stem": "Mimi na ndugu zangu tulijiuliza lini mama angetugawia ili", 
+      "target": "tule"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Baadaye, kakangu, Rahim, alijificha.", 
+      "stem": "Baadaye, kakangu, Rahim,", 
+      "target": "alijificha"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "siku", 
+          "kwamba", 
+          "juu"
+        ], 
+        "ungrammatical_english": [
+          "formerly", 
+          "that", 
+          "up"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Aliyala matunda yale yote peke yake!", 
+      "stem": "Aliyala matunda yale yote peke", 
+      "target": "yake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kivuli", 
+          "sanduku", 
+          "kiti"
+        ], 
+        "nonsensical_english": [
+          "vision", 
+          "case", 
+          "starfish"
+        ], 
+        "plausible": [
+          "mawimbi", 
+          "mchanga", 
+          "makao"
+        ], 
+        "plausible_english": [
+          "surf", 
+          "prime", 
+          "settlement"
+        ], 
+        "ungrammatical": [
+          "naam", 
+          "yu", 
+          "tuli"
+        ], 
+        "ungrammatical_english": [
+          "course", 
+          "she", 
+          "quiet"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Mimi na ndugu yangu tulipogundua, tulilia tukisema, \"Rahim ni mtukutu tena ni mchoyo.\"", 
+      "stem": "Mimi na ndugu yangu tulipogundua, tulilia tukisema, \"Rahim ni mtukutu tena ni", 
+      "target": "mchoyo"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Mama alikasirika sana alipogundua kwamba matunda yote yalikuwa yameliwa.", 
+      "stem": "Mama alikasirika sana alipogundua kwamba matunda yote yalikuwa", 
+      "target": "yameliwa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kivuli", 
+          "msaada", 
+          "umbali"
+        ], 
+        "nonsensical_english": [
+          "ghost", 
+          "assistance", 
+          "remoteness"
+        ], 
+        "plausible": [
+          "mafuta", 
+          "mate", 
+          "mawimbi"
+        ], 
+        "plausible_english": [
+          "oil", 
+          "saliva", 
+          "tide"
+        ], 
+        "ungrammatical": [
+          "a", 
+          "kamili", 
+          "ambacho"
+        ], 
+        "ungrammatical_english": [
+          "pain", 
+          "sharp", 
+          "which"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mimi na ndugu yangu tulimwangalia Rahim kwa macho makali.", 
+      "stem": "Mimi na ndugu yangu tulimwangalia Rahim kwa macho", 
+      "target": "makali"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Tulmwuliza mama ikiwa angemwadhibu Rahim.", 
+      "stem": "Tulmwuliza mama ikiwa angemwadhibu", 
+      "target": "Rahim"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Lakini, Rahim alipata adhabu ambayo hatukutarajia.", 
+      "stem": "Lakini, Rahim alipata adhabu ambayo", 
+      "target": "hatukutarajia"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kubwa", 
+          "yule", 
+          "ule"
+        ], 
+        "nonsensical_english": [
+          "big", 
+          "that", 
+          "that"
+        ], 
+        "plausible": [
+          "kubwa", 
+          "yule", 
+          "ule"
+        ], 
+        "plausible_english": [
+          "weighty", 
+          "that", 
+          "that"
+        ], 
+        "ungrammatical": [
+          "hadi", 
+          "hii", 
+          "juu"
+        ], 
+        "ungrammatical_english": [
+          "until", 
+          "this", 
+          "as"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Rahim hakuweza kutulia pahali pamoja!", 
+      "stem": "Rahim hakuweza kutulia pahali", 
+      "target": "pamoja"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "ua", 
+          "tamaa", 
+          "pembe"
+        ], 
+        "nonsensical_english": [
+          "fence", 
+          "drive", 
+          "horn"
+        ], 
+        "plausible": [
+          "mpira", 
+          "mgongo", 
+          "mdomo"
+        ], 
+        "plausible_english": [
+          "football", 
+          "backbone", 
+          "mouth"
+        ], 
+        "ungrammatical": [
+          "wazi", 
+          "a", 
+          "chako"
+        ], 
+        "ungrammatical_english": [
+          "overt", 
+          "it", 
+          "your"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Mama alipomwuuliza alijibu kwa sauti ya chini, \"Naumwa na tumbo.\"", 
+      "stem": "Mama alipomwuuliza alijibu kwa sauti ya chini, \"Naumwa na", 
+      "target": "tumbo"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nyumba", 
+          "siku", 
+          "fisi"
+        ], 
+        "nonsensical_english": [
+          "apartment", 
+          "everyday", 
+          "hyena"
+        ], 
+        "plausible": [
+          "mamba", 
+          "mti", 
+          "mtoto"
+        ], 
+        "plausible_english": [
+          "leech", 
+          "shaft", 
+          "kid"
+        ], 
+        "ungrammatical": [
+          "kila", 
+          "kwamba", 
+          "za"
+        ], 
+        "ungrammatical_english": [
+          "entire", 
+          "order", 
+          "they"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Sote tuliona kwamba hiyo ilikuwa adhabu mbaya kuliko kama Rahim angechapwa na mama.", 
+      "stem": "Sote tuliona kwamba hiyo ilikuwa adhabu mbaya kuliko kama Rahim angechapwa na", 
+      "target": "mama"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "amu", 
+          "keki", 
+          "koo"
+        ], 
+        "nonsensical_english": [
+          "Lamu", 
+          "pastry", 
+          "throat"
+        ], 
+        "plausible": [
+          "mjusi", 
+          "mbingu", 
+          "mlio"
+        ], 
+        "plausible_english": [
+          "astrologer", 
+          "cloudiness", 
+          "report"
+        ], 
+        "ungrammatical": [
+          "hodari", 
+          "tia", 
+          "cheza"
+        ], 
+        "ungrammatical_english": [
+          "brave", 
+          "cause", 
+          "ball"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Baadaye alipopata nafuu, Rahim alituomba msamaha.", 
+      "stem": "Baadaye alipopata nafuu, Rahim alituomba", 
+      "target": "msamaha"
+    }
+  ], 
+  "title": "placeholder"
+}

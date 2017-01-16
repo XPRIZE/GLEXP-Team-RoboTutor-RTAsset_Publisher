@@ -1,0 +1,51 @@
+ Volume in drive E is STEK_RAID_1
+ Volume Serial Number is 8047-6269
+
+ Directory of E:\Projects\GitHUB\RoboTutor\app\src\main\assets\tutors\trackdata\LIBRARY\audio\en\cmu\xprize\arithmetic
+
+01/05/2017  01:45 PM    <DIR>          .
+01/05/2017  01:45 PM    <DIR>          ..
+01/05/2017  01:33 PM            35,325 and adding them up.mp3
+01/05/2017  01:33 PM            44,685 and count them one by one.mp3
+01/05/2017  01:33 PM            38,205 and count up from.mp3
+01/05/2017  01:33 PM            40,365 and write the result here.mp3
+01/05/2017  01:45 PM                 0 audiolist.txt
+01/05/2017  01:33 PM            31,725 circle.mp3
+01/05/2017  01:33 PM            40,365 Copy your answer here.mp3
+01/05/2017  01:33 PM            22,365 Good.mp3
+01/05/2017  01:33 PM            25,245 here.mp3
+01/05/2017  01:33 PM            33,165 hexagon.mp3
+01/05/2017  01:33 PM            46,125 How many things are left.mp3
+01/05/2017  01:33 PM            45,405 How many things do you get.mp3
+01/05/2017  01:33 PM            34,818 Let's add some numbers now.mp3
+01/05/2017  01:33 PM            44,849 Let's multiply some numbers now.mp3
+01/05/2017  01:33 PM            40,252 Let's subtract some numbers now.mp3
+01/05/2017  01:33 PM            34,605 Let's write.mp3
+01/05/2017  01:33 PM            38,205 means writing.mp3
+01/05/2017  01:33 PM            28,967 Multiplying.mp3
+01/05/2017  01:33 PM            45,405 Not quite try again.mp3
+01/05/2017  01:33 PM            45,405 Now add the first two.mp3
+01/05/2017  01:33 PM            41,085 Now add the last.mp3
+01/05/2017  01:33 PM            42,525 Now add the next.mp3
+01/05/2017  01:33 PM            42,525 Now add the third.mp3
+01/05/2017  01:33 PM            33,165 pentagon.mp3
+01/05/2017  01:33 PM            27,405 Right.mp3
+01/05/2017  01:33 PM            48,285 s and write their sum here.mp3
+01/05/2017  01:33 PM            40,365 So what is.mp3
+01/05/2017  01:33 PM            31,725 square.mp3
+01/05/2017  01:33 PM            27,405 star.mp3
+01/05/2017  01:33 PM            55,581 Tap here and please write your answer.mp3
+01/05/2017  01:33 PM            34,701 Tap on the.mp3
+01/05/2017  01:33 PM            51,885 times one under the other.mp3
+01/05/2017  01:33 PM            26,555 times.mp3
+01/05/2017  01:33 PM            37,485 to take them away.mp3
+01/05/2017  01:33 PM            33,165 triangle.mp3
+01/05/2017  01:33 PM            33,885 Write the fifth.mp3
+01/05/2017  01:33 PM            33,165 Write the first.mp3
+01/05/2017  01:33 PM            32,445 Write the fourth.mp3
+01/05/2017  01:33 PM            35,325 Write the last.mp3
+01/05/2017  01:33 PM            34,605 Write the second.mp3
+01/05/2017  01:33 PM            36,045 Write the sixth.mp3
+01/05/2017  01:33 PM            33,885 Write the third.mp3
+              42 File(s)      1,528,693 bytes
+               2 Dir(s)  447,056,240,640 bytes free

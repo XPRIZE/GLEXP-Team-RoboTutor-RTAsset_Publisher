@@ -1,0 +1,251 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "kali", 
+          "badala", 
+          "tatu"
+        ], 
+        "nonsensical_english": [
+          "sour", 
+          "replacement", 
+          "third"
+        ], 
+        "plausible": [
+          "mashua", 
+          "kali", 
+          "badala"
+        ], 
+        "plausible_english": [
+          "boats", 
+          "scorching", 
+          "replacement"
+        ], 
+        "ungrammatical": [
+          "kupita", 
+          "kuliko", 
+          "mwake"
+        ], 
+        "ungrammatical_english": [
+          "than", 
+          "than", 
+          "hers"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Khalai ni msichana mwenye umri wa miaka saba.", 
+      "stem": "Khalai ni msichana mwenye umri wa miaka", 
+      "target": "saba"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Jina lake lina maana ya 'aliye mzuri' katika lugha yake ya Lubukusu.", 
+      "stem": "Jina lake lina maana ya 'aliye mzuri' katika lugha yake ya", 
+      "target": "Lubukusu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".\"", 
+      "sentence": "Khalai anaamka na kuongea na mmea mchanga wa Mchungwa, \"Tafadhali mti wa Mchungwa, kua mkubwa uzae machungwa mengi mabivu.\"", 
+      "stem": "Khalai anaamka na kuongea na mmea mchanga wa Mchungwa, \"Tafadhali mti wa Mchungwa, kua mkubwa uzae machungwa mengi", 
+      "target": "mabivu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".\"", 
+      "sentence": "Khalai anaenda shuleni na njiani anaongea na Nyasi, \"Tafadhali Nyasi, kua kijani zaidi na zaidi na wala usikauke.\"", 
+      "stem": "Khalai anaenda shuleni na njiani anaongea na Nyasi, \"Tafadhali Nyasi, kua kijani zaidi na zaidi na wala", 
+      "target": "usikauke"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "lake", 
+          "ambayo", 
+          "hiki"
+        ], 
+        "nonsensical_english": [
+          "his", 
+          "that", 
+          "this"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mawe", 
+          "mwezi", 
+          "tawi"
+        ], 
+        "ungrammatical_english": [
+          "nonsense", 
+          "march", 
+          "cluster"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Khalai anayapita Maua ya mwituni na kusema, \"Tafadhali Maua, endelea kunawiri ili niweze kukuweka kwenye nywele zangu.\"", 
+      "stem": "Khalai anayapita Maua ya mwituni na kusema, \"Tafadhali Maua, endelea kunawiri ili niweze kukuweka kwenye nywele", 
+      "target": "zangu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "langu", 
+          "lini", 
+          "mwangu"
+        ], 
+        "nonsensical_english": [
+          "my", 
+          "when", 
+          "my"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "usalama", 
+          "kasi", 
+          "salama"
+        ], 
+        "ungrammatical_english": [
+          "security", 
+          "calabash", 
+          "well-being"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Akiwa shuleni, Khalai anauzungumzia Mti ulioko katikati ya shule, \"Tafadhali Mti, zaa matawi makubwa ili tusomee chini ya kivuli chako.\"", 
+      "stem": "Akiwa shuleni, Khalai anauzungumzia Mti ulioko katikati ya shule, \"Tafadhali Mti, zaa matawi makubwa ili tusomee chini ya kivuli", 
+      "target": "chako"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".\"", 
+      "sentence": "Khalai anauzungumzia ua unaoizingira shule yake, \"Tafadhali Ua, kua mwenye nguvu ili uzuie shule yetu kutokana na watu wabaya.\"", 
+      "stem": "Khalai anauzungumzia ua unaoizingira shule yake, \"Tafadhali Ua, kua mwenye nguvu ili uzuie shule yetu kutokana na watu", 
+      "target": "wabaya"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Anaporudi nyumbani alasiri, Khalai anautembelea mti wa Mchungwa kuangalia ikiwa machungwa yameiva.", 
+      "stem": "Anaporudi nyumbani alasiri, Khalai anautembelea mti wa Mchungwa kuangalia ikiwa machungwa", 
+      "target": "yameiva"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "usingizi", 
+          "tumbo", 
+          "pua"
+        ], 
+        "nonsensical_english": [
+          "sleep", 
+          "diarrhoea", 
+          "knock"
+        ], 
+        "plausible": [
+          "hamu", 
+          "tumbo", 
+          "gari"
+        ], 
+        "plausible_english": [
+          "desire", 
+          "entrails", 
+          "water"
+        ], 
+        "ungrammatical": [
+          "ndipo", 
+          "wazi", 
+          "mbona"
+        ], 
+        "ungrammatical_english": [
+          "there", 
+          "overt", 
+          "reason"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "\"Machungwa bado mabichi,\" Khalai anashusha pumzi.", 
+      "stem": "\"Machungwa bado mabichi,\" Khalai anashusha", 
+      "target": "pumzi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kucha", 
+          "umbo", 
+          "kaka"
+        ], 
+        "nonsensical_english": [
+          "night", 
+          "profile", 
+          "shell"
+        ], 
+        "plausible": [
+          "mwavuli", 
+          "mbingu", 
+          "mkonga"
+        ], 
+        "plausible_english": [
+          "parasol", 
+          "heaven", 
+          "trunk"
+        ], 
+        "ungrammatical": [
+          "tazama", 
+          "fofofo", 
+          "fupi"
+        ], 
+        "ungrammatical_english": [
+          "test", 
+          "sleep", 
+          "short"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "\"Nitakuona kesho, we mti Mchungwa.", 
+      "stem": "\"Nitakuona kesho, we mti", 
+      "target": "Mchungwa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "zake", 
+          "pale", 
+          "huyo"
+        ], 
+        "nonsensical_english": [
+          "theirs", 
+          "then", 
+          "that"
+        ], 
+        "plausible": [
+          "pale", 
+          "huyo", 
+          "zake"
+        ], 
+        "plausible_english": [
+          "that", 
+          "that", 
+          "hers"
+        ], 
+        "ungrammatical": [
+          "bi", 
+          "nguvu", 
+          "hata"
+        ], 
+        "ungrammatical_english": [
+          "in", 
+          "custody", 
+          "never"
+        ]
+      }, 
+      "punctuation": ".\"", 
+      "sentence": "Labda utanipa chungwa mbivu wakati huo.\"", 
+      "stem": "Labda utanipa chungwa mbivu wakati", 
+      "target": "huo"
+    }
+  ], 
+  "title": "placeholder"
+}

@@ -1,0 +1,663 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "wazo", 
+          "safari", 
+          "ndugu"
+        ], 
+        "nonsensical_english": [
+          "idea", 
+          "trip", 
+          "birthmark"
+        ], 
+        "plausible": [
+          "kobe", 
+          "jina", 
+          "maziwa"
+        ], 
+        "plausible_english": [
+          "ramadhan", 
+          "name", 
+          "milk"
+        ], 
+        "ungrammatical": [
+          "ambao", 
+          "tangu", 
+          "bi"
+        ], 
+        "ungrammatical_english": [
+          "that", 
+          "ever", 
+          "by"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Yayeri mashuhuri anaamka mapema sana kila asubuhi.", 
+      "stem": "Yayeri mashuhuri anaamka mapema sana kila", 
+      "target": "asubuhi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "refu", 
+          "ndefu", 
+          "bora"
+        ], 
+        "nonsensical_english": [
+          "long", 
+          "long", 
+          "better"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mzima", 
+          "sayari", 
+          "ziwa"
+        ], 
+        "ungrammatical_english": [
+          "adult", 
+          "planet", 
+          "lake"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Anashukuru kwa usiku uliopita.", 
+      "stem": "Anashukuru kwa usiku", 
+      "target": "uliopita"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "popote", 
+          "ndefu", 
+          "refu"
+        ], 
+        "nonsensical_english": [
+          "wherever", 
+          "long", 
+          "long"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kishindo", 
+          "nia", 
+          "mpira"
+        ], 
+        "ungrammatical_english": [
+          "revenge", 
+          "goal", 
+          "inner tube"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "yake", 
+          "siku", 
+          "kwamba"
+        ], 
+        "ungrammatical_english": [
+          "hers", 
+          "day", 
+          "as if"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anatandika kitanda chake vizuri sana.", 
+      "stem": "Anatandika kitanda chake vizuri", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nono", 
+          "popote", 
+          "mizigo"
+        ], 
+        "nonsensical_english": [
+          "well-fed", 
+          "everywhere", 
+          "cargo"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kishindo", 
+          "nia", 
+          "woga"
+        ], 
+        "ungrammatical_english": [
+          "blow", 
+          "consider", 
+          "scare"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "pale", 
+          "huyo", 
+          "yao"
+        ], 
+        "nonsensical_english": [
+          "then", 
+          "this", 
+          "their"
+        ], 
+        "plausible": [
+          "yao", 
+          "pale", 
+          "huo"
+        ], 
+        "plausible_english": [
+          "theirs", 
+          "afterwards", 
+          "that"
+        ], 
+        "ungrammatical": [
+          "mara", 
+          "tena", 
+          "mahali"
+        ], 
+        "ungrammatical_english": [
+          "time", 
+          "then", 
+          "place"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anawasalimu wazazi wake na mababu zake.", 
+      "stem": "Anawasalimu wazazi wake na mababu", 
+      "target": "zake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "ndefu", 
+          "bora", 
+          "nono"
+        ], 
+        "nonsensical_english": [
+          "long", 
+          "better", 
+          "fat"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "moyo", 
+          "lako", 
+          "acha"
+        ], 
+        "ungrammatical_english": [
+          "dishearten", 
+          "your", 
+          "acquit"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mashua", 
+          "kali", 
+          "tatu"
+        ], 
+        "nonsensical_english": [
+          "boat", 
+          "fierce", 
+          "third"
+        ], 
+        "plausible": [
+          "mungu", 
+          "kali", 
+          "giza"
+        ], 
+        "plausible_english": [
+          "fate", 
+          "sharp", 
+          "gloom"
+        ], 
+        "ungrammatical": [
+          "pa", 
+          "punde", 
+          "tangu"
+        ], 
+        "ungrammatical_english": [
+          "accomplish", 
+          "presently", 
+          "since"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anaosha uso wake kwa sabuni ya bluu.", 
+      "stem": "Anaosha uso wake kwa sabuni ya", 
+      "target": "bluu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bora", 
+          "refu", 
+          "popote"
+        ], 
+        "nonsensical_english": [
+          "improved", 
+          "high", 
+          "anywhere"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "sina", 
+          "haya", 
+          "mbio"
+        ], 
+        "ungrammatical_english": [
+          "have", 
+          "they", 
+          "quickly"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Anapiga mswaki meno yake na mswaki aina ya lughano.", 
+      "stem": "Anapiga mswaki meno yake na mswaki aina ya", 
+      "target": "lughano"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "refu", 
+          "nono", 
+          "popote"
+        ], 
+        "nonsensical_english": [
+          "tall", 
+          "plump", 
+          "anywhere"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "ila", 
+          "upinde", 
+          "nasi"
+        ], 
+        "ungrammatical_english": [
+          "shortcoming", 
+          "bend", 
+          "too"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "paa", 
+          "nguo", 
+          "kamba"
+        ], 
+        "nonsensical_english": [
+          "mount", 
+          "fabric", 
+          "lace"
+        ], 
+        "plausible": [
+          "nguo", 
+          "paa", 
+          "mkono"
+        ], 
+        "plausible_english": [
+          "fabric", 
+          "win", 
+          "branch"
+        ], 
+        "ungrammatical": [
+          "kabisa", 
+          "ndiyo", 
+          "mwangu"
+        ], 
+        "ungrammatical_english": [
+          "exactly", 
+          "yes", 
+          "my"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anaoga kwa maji baridi.", 
+      "stem": "Anaoga kwa maji", 
+      "target": "baridi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "ndefu", 
+          "bora", 
+          "popote"
+        ], 
+        "nonsensical_english": [
+          "long", 
+          "improved", 
+          "anywhere"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "moyo", 
+          "mzima", 
+          "gari"
+        ], 
+        "ungrammatical_english": [
+          "courage", 
+          "grown-up", 
+          "vehicle"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nono", 
+          "popote", 
+          "refu"
+        ], 
+        "nonsensical_english": [
+          "well-fed", 
+          "anywhere", 
+          "high"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "jongoo", 
+          "jembe", 
+          "woga"
+        ], 
+        "ungrammatical_english": [
+          "millipede", 
+          "plow", 
+          "nervousness"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anavaa sare ya shule ya rangi ya machungwa.", 
+      "stem": "Anavaa sare ya shule ya rangi ya", 
+      "target": "machungwa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bora", 
+          "mizigo", 
+          "popote"
+        ], 
+        "nonsensical_english": [
+          "first-class", 
+          "cargo", 
+          "everywhere"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mkutano", 
+          "mgongo", 
+          "mkono"
+        ], 
+        "ungrammatical_english": [
+          "consultation", 
+          "spine", 
+          "hand"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Anavaa viatu vyake vyeusi.", 
+      "stem": "Anavaa viatu vyake", 
+      "target": "vyeusi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nono", 
+          "tule", 
+          "mizigo"
+        ], 
+        "nonsensical_english": [
+          "fat", 
+          "miserable", 
+          "cargo"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "bidii", 
+          "usalama", 
+          "pua"
+        ], 
+        "ungrammatical_english": [
+          "activity", 
+          "safety", 
+          "harden"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "punde", 
+          "huwa", 
+          "ghafla"
+        ], 
+        "nonsensical_english": [
+          "while", 
+          "ordinarily", 
+          "abruptly"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "sote", 
+          "ila", 
+          "kali"
+        ], 
+        "ungrammatical_english": [
+          "us", 
+          "flaw", 
+          "severe"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anafika shuleni mapema.", 
+      "stem": "Anafika shuleni", 
+      "target": "mapema"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mizigo", 
+          "bora", 
+          "popote"
+        ], 
+        "nonsensical_english": [
+          "cargo", 
+          "improved", 
+          "anywhere"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mvua", 
+          "simu", 
+          "mawingu"
+        ], 
+        "ungrammatical_english": [
+          "rain", 
+          "phone", 
+          "cloudy"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "to", 
+          "ati", 
+          "kifupi"
+        ], 
+        "ungrammatical_english": [
+          "non", 
+          "disagreement", 
+          "brief"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anajifunza masomo ya sayansi, ya kijamii na hesabu.", 
+      "stem": "Anajifunza masomo ya sayansi, ya kijamii na", 
+      "target": "hesabu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nne", 
+          "popote", 
+          "nono"
+        ], 
+        "nonsensical_english": [
+          "four", 
+          "wherever", 
+          "plump"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mkutano", 
+          "kishindo", 
+          "mkono"
+        ], 
+        "ungrammatical_english": [
+          "contest", 
+          "shock", 
+          "cubit"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "sauti", 
+          "nguvu", 
+          "lazima"
+        ], 
+        "nonsensical_english": [
+          "treble", 
+          "passion", 
+          "irrevocably"
+        ], 
+        "plausible": [
+          "nguvu", 
+          "sauti", 
+          "lazima"
+        ], 
+        "plausible_english": [
+          "vehemently", 
+          "deep", 
+          "obligation"
+        ], 
+        "ungrammatical": [
+          "baada", 
+          "wote", 
+          "zake"
+        ], 
+        "ungrammatical_english": [
+          "behind", 
+          "everyone", 
+          "her"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Anaimba na kucheza otamenhaibuga, pamoja na mpira wa miguu.", 
+      "stem": "Anaimba na kucheza otamenhaibuga, pamoja na mpira wa", 
+      "target": "miguu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "popote", 
+          "tule", 
+          "mizigo"
+        ], 
+        "nonsensical_english": [
+          "wherever", 
+          "miserable", 
+          "cargo"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "sherehe", 
+          "mwangaza", 
+          "kituo"
+        ], 
+        "ungrammatical_english": [
+          "ceremony", 
+          "clarify", 
+          "settlement"
+        ]
+      }, 
+      "punctuation": "?\"", 
+      "sentence": "Tunajiuliza, \"Kwa nini Yayeri ni mashuhuri?\"", 
+      "stem": "Tunajiuliza, \"Kwa nini Yayeri ni", 
+      "target": "mashuhuri"
+    }
+  ], 
+  "title": "placeholder"
+}

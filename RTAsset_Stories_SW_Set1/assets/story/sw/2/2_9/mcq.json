@@ -1,0 +1,361 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "bado", 
+          "njiani", 
+          "bila"
+        ], 
+        "nonsensical_english": [
+          "yet", 
+          "along", 
+          "without"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "njia", 
+          "kunguru", 
+          "kubwa"
+        ], 
+        "ungrammatical_english": [
+          "way", 
+          "rook", 
+          "serious"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Jembe lake lilikuwa fupi mno.", 
+      "stem": "Jembe lake lilikuwa fupi", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bado", 
+          "njiani", 
+          "bila"
+        ], 
+        "nonsensical_english": [
+          "not ready", 
+          "along", 
+          "without"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "mwalimu", 
+          "mwenye", 
+          "kubwa"
+        ], 
+        "ungrammatical_english": [
+          "scientist", 
+          "possessor", 
+          "essential"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mlango wake ulikuwa chini mno.", 
+      "stem": "Mlango wake ulikuwa chini", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bado", 
+          "njiani", 
+          "bila"
+        ], 
+        "nonsensical_english": [
+          "yet", 
+          "along", 
+          "without"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "msitu", 
+          "wao", 
+          "vya"
+        ], 
+        "ungrammatical_english": [
+          "bush", 
+          "they", 
+          "they"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Kitanda chake kilikuwa kifupi mno.", 
+      "stem": "Kitanda chake kilikuwa kifupi", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bado", 
+          "bila", 
+          "njiani"
+        ], 
+        "nonsensical_english": [
+          "not ready", 
+          "without", 
+          "along"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "jambo", 
+          "njia", 
+          "kamba"
+        ], 
+        "ungrammatical_english": [
+          "issue", 
+          "means", 
+          "shoelace"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Baisikeli yake ilikuwa fupi mno.", 
+      "stem": "Baisikeli yake ilikuwa fupi", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "ndege", 
+          "pia", 
+          "mara"
+        ], 
+        "nonsensical_english": [
+          "omen", 
+          "top", 
+          "once"
+        ], 
+        "plausible": [
+          "kuku", 
+          "mara", 
+          "ndege"
+        ], 
+        "plausible_english": [
+          "chicken", 
+          "occasion", 
+          "air"
+        ], 
+        "ungrammatical": [
+          "zake", 
+          "baada", 
+          "pamoja"
+        ], 
+        "ungrammatical_english": [
+          "theirs", 
+          "after", 
+          "altogether"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mtu huyu alikuwa mrefu zaidi.", 
+      "stem": "Mtu huyu alikuwa mrefu", 
+      "target": "zaidi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "nyumbani", 
+          "wakati", 
+          "kwamba"
+        ], 
+        "ungrammatical_english": [
+          "home", 
+          "whenever", 
+          "order"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alitengeneza mpini wa jembe mrefu sana.", 
+      "stem": "Alitengeneza mpini wa jembe mrefu", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kijiji", 
+          "kunguru", 
+          "nyoka"
+        ], 
+        "nonsensical_english": [
+          "village", 
+          "raven", 
+          "snake"
+        ], 
+        "plausible": [
+          "mtoto", 
+          "mti", 
+          "mahali"
+        ], 
+        "plausible_english": [
+          "boy", 
+          "post", 
+          "district"
+        ], 
+        "ungrammatical": [
+          "bado", 
+          "mwa", 
+          "karibu"
+        ], 
+        "ungrammatical_english": [
+          "yet", 
+          "you", 
+          "around"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alitengeneza fremu refu za mlango.", 
+      "stem": "Alitengeneza fremu refu za", 
+      "target": "mlango"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "mama", 
+          "kwenda", 
+          "lakini"
+        ], 
+        "ungrammatical_english": [
+          "maam", 
+          "going", 
+          "but"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alitengeneza kitanda kirefu sana.", 
+      "stem": "Alitengeneza kitanda kirefu", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bila", 
+          "bado", 
+          "njiani"
+        ], 
+        "nonsensical_english": [
+          "without", 
+          "yet", 
+          "along"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kubwa", 
+          "kamba", 
+          "jua"
+        ], 
+        "ungrammatical_english": [
+          "principal", 
+          "rope", 
+          "sunshine"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Kisha akanunua baiskikeli iliyo refu mno.", 
+      "stem": "Kisha akanunua baiskikeli iliyo refu", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "wakati", 
+          "mama", 
+          "kwenye"
+        ], 
+        "ungrammatical_english": [
+          "fixed", 
+          "aunt", 
+          "containing"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Aliketi juu ya kiti kilichokuwa juu sana.", 
+      "stem": "Aliketi juu ya kiti kilichokuwa juu", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bado", 
+          "njiani", 
+          "bila"
+        ], 
+        "nonsensical_english": [
+          "still", 
+          "along", 
+          "without"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "njaa", 
+          "nina", 
+          "zao"
+        ], 
+        "ungrammatical_english": [
+          "shortage", 
+          "mother", 
+          "production"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alikula kwa kutumia uma iliyokuwa refu mno.", 
+      "stem": "Alikula kwa kutumia uma iliyokuwa refu", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "nyasi", 
+          "kitu", 
+          "nyoka"
+        ], 
+        "nonsensical_english": [
+          "grass", 
+          "something", 
+          "worm"
+        ], 
+        "plausible": [
+          "mtu", 
+          "mlango", 
+          "mtoto"
+        ], 
+        "plausible_english": [
+          "human being", 
+          "sense", 
+          "son"
+        ], 
+        "ungrammatical": [
+          "mimi", 
+          "hiyo", 
+          "kubwa"
+        ], 
+        "ungrammatical_english": [
+          "I", 
+          "that", 
+          "total"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Aliacha nyumba yake na kuishi katika msitu mkubwa.", 
+      "stem": "Aliacha nyumba yake na kuishi katika msitu", 
+      "target": "mkubwa"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Aliishi kwa miaka mingi.", 
+      "stem": "Aliishi kwa miaka", 
+      "target": "mingi"
+    }
+  ], 
+  "title": "placeholder"
+}

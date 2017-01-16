@@ -1,0 +1,107 @@
+{
+  "level": "2", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "upepo", 
+          "kamba", 
+          "baridi"
+        ], 
+        "nonsensical_english": [
+          "fan", 
+          "line", 
+          "refreshment"
+        ], 
+        "plausible": [
+          "kamba", 
+          "upepo", 
+          "paka"
+        ], 
+        "plausible_english": [
+          "rope", 
+          "breeze", 
+          "spread"
+        ], 
+        "ungrammatical": [
+          "au", 
+          "punde", 
+          "lake"
+        ], 
+        "ungrammatical_english": [
+          "or", 
+          "presently", 
+          "his"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Wakati mmoja palikuwa na mamba mwenye njaa.", 
+      "stem": "Wakati mmoja palikuwa na mamba mwenye", 
+      "target": "njaa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "pili", 
+          "kawaida", 
+          "tamu"
+        ], 
+        "nonsensical_english": [
+          "page", 
+          "usual", 
+          "pleasant"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kuliko", 
+          "chako", 
+          "vya"
+        ], 
+        "ungrammatical_english": [
+          "as", 
+          "your", 
+          "of"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alitafuta chakula pole pole tena kimya.", 
+      "stem": "Alitafuta chakula pole pole tena", 
+      "target": "kimya"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "!", 
+      "sentence": "Mamba anashambulia!", 
+      "stem": "Mamba", 
+      "target": "anashambulia"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Baada ya hiyo hana njaa tena,na anafurahi.", 
+      "stem": "Baada ya hiyo hana njaa tena,na", 
+      "target": "anafurahi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "nyumbani", 
+          "wakati", 
+          "fisi"
+        ], 
+        "ungrammatical_english": [
+          "home", 
+          "chance", 
+          "otter"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Hadi anapohisi njaa tena.", 
+      "stem": "Hadi anapohisi njaa", 
+      "target": "tena"
+    }
+  ], 
+  "title": "placeholder"
+}

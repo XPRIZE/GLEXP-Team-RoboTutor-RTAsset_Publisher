@@ -1,0 +1,376 @@
+{
+  "level": "3", 
+  "questions": [
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Siku moja, babangu alinibeba katika gari letu la rangi ya kibuluu kwenda mjini.", 
+      "stem": "Siku moja, babangu alinibeba katika gari letu la rangi ya kibuluu kwenda", 
+      "target": "mjini"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mwisho", 
+          "kawaida", 
+          "tamu"
+        ], 
+        "nonsensical_english": [
+          "result", 
+          "ordinary", 
+          "dessert"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "lo", 
+          "rudi", 
+          "hebu"
+        ], 
+        "ungrammatical_english": [
+          "my", 
+          "respond", 
+          "come"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Tulisimama kwenye mzunguko tukisubiri taa zigeuke kijani.", 
+      "stem": "Tulisimama kwenye mzunguko tukisubiri taa zigeuke", 
+      "target": "kijani"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Nilimwona mwanamke aliyevaa nguo nzuri ya rangi ya machungwa, akitembea pembeni mwa bararabara.", 
+      "stem": "Nilimwona mwanamke aliyevaa nguo nzuri ya rangi ya machungwa, akitembea pembeni mwa", 
+      "target": "bararabara"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Alikuwa amefunga kiunoni mshipi mkubwa mwekundu.", 
+      "stem": "Alikuwa amefunga kiunoni mshipi mkubwa", 
+      "target": "mwekundu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mizigo", 
+          "bora", 
+          "refu"
+        ], 
+        "nonsensical_english": [
+          "cargo", 
+          "better", 
+          "tall"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "ziwa", 
+          "mvua", 
+          "ugonjwa"
+        ], 
+        "ungrammatical_english": [
+          "lake", 
+          "hail", 
+          "illness"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mkononi alishika mkoba wa rangi ya machungwa.", 
+      "stem": "Mkononi alishika mkoba wa rangi ya", 
+      "target": "machungwa"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Miguuni, alivaa viatu vya rangi ya machungwa vya visigino virefu.", 
+      "stem": "Miguuni, alivaa viatu vya rangi ya machungwa vya visigino", 
+      "target": "virefu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mashuhuri", 
+          "mwanawe", 
+          "ndefu"
+        ], 
+        "nonsensical_english": [
+          "outstanding", 
+          "sensational", 
+          "long"
+        ], 
+        "plausible": [
+          "bora", 
+          "mashuhuri", 
+          "popote"
+        ], 
+        "plausible_english": [
+          "excellent", 
+          "famous", 
+          "anywhere"
+        ], 
+        "ungrammatical": [
+          "konokono", 
+          "mimea", 
+          "mgongo"
+        ], 
+        "ungrammatical_english": [
+          "custard apple", 
+          "vegetation", 
+          "crest"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mwanamke huyu alisimama na kugusa nywele zake refu.", 
+      "stem": "Mwanamke huyu alisimama na kugusa nywele zake", 
+      "target": "refu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "bora", 
+          "mizigo", 
+          "wenyewe"
+        ], 
+        "nonsensical_english": [
+          "excellent", 
+          "cargo", 
+          "itself"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "ishara", 
+          "tumbili", 
+          "mchana"
+        ], 
+        "ungrammatical_english": [
+          "strange", 
+          "monkey", 
+          "day"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Zilikiwa zimeshikiwa katikati kwa kutumia kibano cha rangi ya machungwa.", 
+      "stem": "Zilikiwa zimeshikiwa katikati kwa kutumia kibano cha rangi ya", 
+      "target": "machungwa"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "ili", 
+          "wote", 
+          "vile"
+        ], 
+        "ungrammatical_english": [
+          "so", 
+          "everyone", 
+          "because"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alipokuwa akirekebisha kibano chake cha nywele, mkoba wake ulianguka chini.", 
+      "stem": "Alipokuwa akirekebisha kibano chake cha nywele, mkoba wake ulianguka", 
+      "target": "chini"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "\"Uuu,\" nilisema huku nikimhurumia.", 
+      "stem": "\"Uuu,\" nilisema huku", 
+      "target": "nikimhurumia"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "maji", 
+          "ndani", 
+          "kuwa"
+        ], 
+        "ungrammatical_english": [
+          "water", 
+          "inwardly", 
+          "grow"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Mwanamke huyu aliinama kuuokota mkoba wake.", 
+      "stem": "Mwanamke huyu aliinama kuuokota mkoba", 
+      "target": "wake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "kuwa", 
+          "maji", 
+          "katika"
+        ], 
+        "ungrammatical_english": [
+          "because", 
+          "brine", 
+          "cut"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Niliviona vipuli virefu vikubwa vya rangi ya machungwa vikitingisika alipofuta vumbi kutoka kwenye mkoba wake.", 
+      "stem": "Niliviona vipuli virefu vikubwa vya rangi ya machungwa vikitingisika alipofuta vumbi kutoka kwenye mkoba", 
+      "target": "wake"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "zetu", 
+          "yenu", 
+          "wetu"
+        ], 
+        "nonsensical_english": [
+          "ours", 
+          "your", 
+          "ours"
+        ], 
+        "plausible": [
+          "wetu", 
+          "yenu", 
+          "mle"
+        ], 
+        "plausible_english": [
+          "our", 
+          "your", 
+          "that"
+        ], 
+        "ungrammatical": [
+          "kando", 
+          "shamba", 
+          "kisu"
+        ], 
+        "ungrammatical_english": [
+          "alongside", 
+          "farm", 
+          "knife"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Wakati huo, taa ziligeuka kijani nasi tuliendelea na safari yetu.", 
+      "stem": "Wakati huo, taa ziligeuka kijani nasi tuliendelea na safari", 
+      "target": "yetu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?\"", 
+      "sentence": "\"Nini unaangalia?\"", 
+      "stem": "\"Nini", 
+      "target": "unaangalia"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "kasi", 
+          "kimya", 
+          "salama"
+        ], 
+        "nonsensical_english": [
+          "haste", 
+          "silence", 
+          "favorably"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "pa", 
+          "wako", 
+          "rudi"
+        ], 
+        "ungrammatical_english": [
+          "accomplish", 
+          "there", 
+          "reprove"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "babangu aliniuliza nilipogeuka kumwangalia yule mwanamke wa rangi ya machungwa mara ya mwisho.", 
+      "stem": "babangu aliniuliza nilipogeuka kumwangalia yule mwanamke wa rangi ya machungwa mara ya", 
+      "target": "mwisho"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "panya", 
+          "kazi", 
+          "jua"
+        ], 
+        "nonsensical_english": [
+          "rat", 
+          "obligation", 
+          "sunny"
+        ], 
+        "plausible": [
+          "hadithi", 
+          "nguo", 
+          "kelele"
+        ], 
+        "plausible_english": [
+          "tell", 
+          "gonolek", 
+          "yell"
+        ], 
+        "ungrammatical": [
+          "zake", 
+          "hata", 
+          "nenda"
+        ], 
+        "ungrammatical_english": [
+          "its", 
+          "until", 
+          "go"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "\"Mwanamke wa rangi ya machungwa,\" nilimjibu baba.", 
+      "stem": "\"Mwanamke wa rangi ya machungwa,\" nilimjibu", 
+      "target": "baba"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "safari", 
+          "huzuni", 
+          "uchungu"
+        ], 
+        "nonsensical_english": [
+          "departure", 
+          "grief", 
+          "dejection"
+        ], 
+        "plausible": [
+          "ndugu", 
+          "ndoto", 
+          "nafaka"
+        ], 
+        "plausible_english": [
+          "relative", 
+          "sleep", 
+          "corn"
+        ], 
+        "ungrammatical": [
+          "hebu", 
+          "uko", 
+          "mashuhuri"
+        ], 
+        "ungrammatical_english": [
+          "well", 
+          "there", 
+          "prominent"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Nilifikiria juu ya rangi ya machungwa siku nzima.", 
+      "stem": "Nilifikiria juu ya rangi ya machungwa siku", 
+      "target": "nzima"
+    }
+  ], 
+  "title": "placeholder"
+}

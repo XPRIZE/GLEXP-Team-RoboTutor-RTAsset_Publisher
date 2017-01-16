@@ -1,0 +1,12 @@
+# put ignore spec here
+# Ignore the built folders
+**/RTAsset_Audio_EN_Set1.1.1.0
+**/RTAsset_Audio_SW_Set1.1.1.0
+**/RTAsset_Stories_EN_Set1.1.1.0
+**/RTAsset_Stories_SW_Set1.1.1.0
+**/RTAsset*.zip
+
+# ignore the per-build Hash Filename cross reference files
+
+master_cross*.csv
+master_error*.csv
