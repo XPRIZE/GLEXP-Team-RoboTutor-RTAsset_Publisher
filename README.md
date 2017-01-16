@@ -10,11 +10,19 @@ This repository should be used for publishing Asset data for use in RoboTutor.  
 
 1 Clone this repo to your development computer
 
+```
+ git clone https://github.com/synaptek/RTAsset_Publisher.git
+```
+
 2 Note that cloning this support repo will require up to a GB of space.
 
 3 Once you have cloned the assets:
   * Attach your target device to the development machine.
-  * Execute the 4 PUSHxx.bat files to transfer the assets to your device.
+  * Execute:
+     * PUSH_Audio_EN.bat 
+     * PUSH_Audio_SW.bat 
+     * PUSH_Stories_EN.bat 
+     * PUSH_Stories_SW.bat 
 
 
 
