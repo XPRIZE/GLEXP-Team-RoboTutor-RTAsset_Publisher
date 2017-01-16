@@ -24,6 +24,9 @@ This repository should be used for publishing Asset data for use in RoboTutor.  
      * PUSH_Stories_EN.bat 
      * PUSH_Stories_SW.bat 
 
+4 RoboTutor will then have the assets required on the target device.
+
+5 Continue to [build RoboTutor](https://github.com/synaptek/RoboTutor).
 
 
 
