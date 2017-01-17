@@ -1,5 +1,6 @@
 # put ignore spec here
 # Ignore the built folders
+**/repo*
 **/RTAsset_Audio_EN_Set1.1.1.0
 **/RTAsset_Audio_SW_Set1.1.1.0
 **/RTAsset_Stories_EN_Set1.1.1.0
