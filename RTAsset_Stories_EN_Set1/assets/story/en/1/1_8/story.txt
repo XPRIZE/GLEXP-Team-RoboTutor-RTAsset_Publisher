@@ -1,7 +1,10 @@
-{Counting Cats} {Jack Mostow} {COUNT}
+{Counting Cats} {Nina Orange} {1}
 
 
-Counting Cats
+How many cats?
+
+
+0 Zero cats.
 
 
 
@@ -10,16 +13,7 @@ Counting Cats
 How many cats?
 
 
-
-
-
-0
-
-
-
-
-
-Zero cats.
+1 One cat.
 
 
 
@@ -28,16 +22,7 @@ Zero cats.
 How many cats?
 
 
-
-
-
-1
-
-
-
-
-
-One cat.
+2 Two cats.
 
 
 
@@ -46,16 +31,7 @@ One cat.
 How many cats?
 
 
-
-
-
-2
-
-
-
-
-
-Two cats.
+3 Three cats.
 
 
 
@@ -64,16 +40,7 @@ Two cats.
 How many cats?
 
 
-
-
-
-3
-
-
-
-
-
-Three cats.
+4 Four cats.
 
 
 
@@ -82,16 +49,7 @@ Three cats.
 How many cats?
 
 
-
-
-
-4
-
-
-
-
-
-Four cats.
+5 Five cats.
 
 
 
@@ -100,16 +58,7 @@ Four cats.
 How many cats?
 
 
-
-
-
-5
-
-
-
-
-
-Five cats.
+6 Six cats.
 
 
 
@@ -118,16 +67,7 @@ Five cats.
 How many cats?
 
 
-
-
-
-6
-
-
-
-
-
-Six cats.
+7 Seven cats.
 
 
 
@@ -136,34 +76,7 @@ Six cats.
 How many cats?
 
 
-
-
-
-7
-
-
-
-
-
-Seven cats.
-
-
-
-
-
-How many cats?
-
-
-
-
-
-8
-
-
-
-
-
-Eight cats.
+8 Eight cats.
 
 
 
@@ -172,13 +85,7 @@ Eight cats.
 What's this we see?
 
 
-
-
-
 A kitten is stuck in a tree!
-
-
-
 
 
 "I will rescue you!
@@ -187,28 +94,11 @@ A kitten is stuck in a tree!
 
 
 
-Mama, can we keep him?
-
-
-
-
-
+"Mama, can we keep him?
 Just one more."
-
-
-
 
 
 How many cats?
 
 
-
-
-
-9
-
-
-
-
-
-Nine cats.
+9 Nine cats.

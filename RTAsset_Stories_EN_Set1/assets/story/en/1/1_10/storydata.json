@@ -2,6 +2,37 @@
   "author": "Nina Orange",
   "data": [
     {
+      "image": "counting_cats_4_page_01_image_0001.jpg",
+      "page": 1,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "counting_cats.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 2,
+                    "word": "Counting"
+                  },
+                  {
+                    "end": 146,
+                    "start": 73,
+                    "word": "Cats"
+                  }
+                ],
+                "until": 146,
+                "utterances": "Counting Cats"
+              }
+            ],
+            "sentence": "Counting Cats"
+          }
+        ]
+      ]
+    },
+    {
       "image": "counting_cats_4_page_02_image_0001.jpg",
       "page": 2,
       "text": [

@@ -1,9 +1,9 @@
 {
-  "author": "Jack Mostow",
+  "author": "Nina Orange",
   "data": [
     {
-      "image": null,
-      "page": 2,
+      "image": "counting_cats_4_page_01_image_0001.jpg",
+      "page": 1,
       "text": [
         [
           {
@@ -33,7 +33,73 @@
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_02_image_0001.jpg",
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "how_many_cats.mp3",
+                "from": 16,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 16,
+                    "word": "How"
+                  },
+                  {
+                    "end": 76,
+                    "start": 37,
+                    "word": "many"
+                  },
+                  {
+                    "end": 132,
+                    "start": 77,
+                    "word": "cats"
+                  }
+                ],
+                "until": 132,
+                "utterances": "How many cats"
+              }
+            ],
+            "sentence": "How many cats?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "0_zero_cats.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 20,
+                    "word": "0"
+                  },
+                  {
+                    "end": 177,
+                    "start": 117,
+                    "word": "Zero"
+                  },
+                  {
+                    "end": 244,
+                    "start": 178,
+                    "word": "cats"
+                  }
+                ],
+                "until": 244,
+                "utterances": "0 Zero cats"
+              }
+            ],
+            "sentence": "0 Zero cats."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "counting_cats_4_page_03_image_0001.jpg",
       "page": 3,
       "text": [
         [
@@ -65,68 +131,173 @@
             ],
             "sentence": "How many cats?"
           }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "1_one_cat.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 20,
+                    "word": "1"
+                  },
+                  {
+                    "end": 143,
+                    "start": 100,
+                    "word": "One"
+                  },
+                  {
+                    "end": 236,
+                    "start": 144,
+                    "word": "cat"
+                  }
+                ],
+                "until": 236,
+                "utterances": "1 One cat"
+              }
+            ],
+            "sentence": "1 One cat."
+          }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_04_image_0001.jpg",
       "page": 4,
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "0.mp3",
-                "from": 21,
+                "audio": "how_many_cats.mp3",
+                "from": 16,
                 "segmentation": [
                   {
-                    "end": 78,
-                    "start": 21,
-                    "word": "0"
+                    "end": 36,
+                    "start": 16,
+                    "word": "How"
+                  },
+                  {
+                    "end": 76,
+                    "start": 37,
+                    "word": "many"
+                  },
+                  {
+                    "end": 132,
+                    "start": 77,
+                    "word": "cats"
                   }
                 ],
-                "until": 78,
-                "utterances": "0"
+                "until": 132,
+                "utterances": "How many cats"
               }
             ],
-            "sentence": "0"
+            "sentence": "How many cats?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "2_two_cats.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 20,
+                    "word": "2"
+                  },
+                  {
+                    "end": 117,
+                    "start": 94,
+                    "word": "Two"
+                  },
+                  {
+                    "end": 173,
+                    "start": 118,
+                    "word": "cats"
+                  }
+                ],
+                "until": 173,
+                "utterances": "2 Two cats"
+              }
+            ],
+            "sentence": "2 Two cats."
           }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_05_image_0001.jpg",
       "page": 5,
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "zero_cats.mp3",
-                "from": 21,
+                "audio": "how_many_cats.mp3",
+                "from": 16,
                 "segmentation": [
                   {
-                    "end": 61,
-                    "start": 21,
-                    "word": "Zero"
+                    "end": 36,
+                    "start": 16,
+                    "word": "How"
                   },
                   {
-                    "end": 120,
-                    "start": 62,
+                    "end": 76,
+                    "start": 37,
+                    "word": "many"
+                  },
+                  {
+                    "end": 132,
+                    "start": 77,
                     "word": "cats"
                   }
                 ],
-                "until": 120,
-                "utterances": "Zero cats"
+                "until": 132,
+                "utterances": "How many cats"
               }
             ],
-            "sentence": "Zero cats."
+            "sentence": "How many cats?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "3_three_cats.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 21,
+                    "word": "3"
+                  },
+                  {
+                    "end": 122,
+                    "start": 95,
+                    "word": "Three"
+                  },
+                  {
+                    "end": 186,
+                    "start": 123,
+                    "word": "cats"
+                  }
+                ],
+                "until": 186,
+                "utterances": "3 Three cats"
+              }
+            ],
+            "sentence": "3 Three cats."
           }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_06_image_0001.jpg",
       "page": 6,
       "text": [
         [
@@ -158,68 +329,173 @@
             ],
             "sentence": "How many cats?"
           }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "4_four_cats.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 2,
+                    "word": "4"
+                  },
+                  {
+                    "end": 134,
+                    "start": 104,
+                    "word": "Four"
+                  },
+                  {
+                    "end": 191,
+                    "start": 135,
+                    "word": "cats"
+                  }
+                ],
+                "until": 191,
+                "utterances": "4 Four cats"
+              }
+            ],
+            "sentence": "4 Four cats."
+          }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_07_image_0001.jpg",
       "page": 7,
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "1.mp3",
-                "from": 20,
+                "audio": "how_many_cats.mp3",
+                "from": 16,
                 "segmentation": [
                   {
-                    "end": 61,
-                    "start": 20,
-                    "word": "1"
+                    "end": 36,
+                    "start": 16,
+                    "word": "How"
+                  },
+                  {
+                    "end": 76,
+                    "start": 37,
+                    "word": "many"
+                  },
+                  {
+                    "end": 132,
+                    "start": 77,
+                    "word": "cats"
                   }
                 ],
-                "until": 61,
-                "utterances": "1"
+                "until": 132,
+                "utterances": "How many cats"
               }
             ],
-            "sentence": "1"
+            "sentence": "How many cats?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "5_five_cats.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 2,
+                    "word": "5"
+                  },
+                  {
+                    "end": 146,
+                    "start": 108,
+                    "word": "Five"
+                  },
+                  {
+                    "end": 201,
+                    "start": 147,
+                    "word": "cats"
+                  }
+                ],
+                "until": 201,
+                "utterances": "5 Five cats"
+              }
+            ],
+            "sentence": "5 Five cats."
           }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_08_image_0001.jpg",
       "page": 8,
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "one_cat.mp3",
-                "from": 19,
+                "audio": "how_many_cats.mp3",
+                "from": 16,
                 "segmentation": [
                   {
-                    "end": 46,
-                    "start": 19,
-                    "word": "One"
+                    "end": 36,
+                    "start": 16,
+                    "word": "How"
+                  },
+                  {
+                    "end": 76,
+                    "start": 37,
+                    "word": "many"
                   },
                   {
                     "end": 132,
-                    "start": 47,
-                    "word": "cat"
+                    "start": 77,
+                    "word": "cats"
                   }
                 ],
                 "until": 132,
-                "utterances": "One cat"
+                "utterances": "How many cats"
               }
             ],
-            "sentence": "One cat."
+            "sentence": "How many cats?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "6_six_cats.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "6"
+                  },
+                  {
+                    "end": 140,
+                    "start": 97,
+                    "word": "Six"
+                  },
+                  {
+                    "end": 194,
+                    "start": 141,
+                    "word": "cats"
+                  }
+                ],
+                "until": 194,
+                "utterances": "6 Six cats"
+              }
+            ],
+            "sentence": "6 Six cats."
           }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_09_image_0001.jpg",
       "page": 9,
       "text": [
         [
@@ -251,74 +527,47 @@
             ],
             "sentence": "How many cats?"
           }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "7_seven_cats.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "7"
+                  },
+                  {
+                    "end": 152,
+                    "start": 107,
+                    "word": "Seven"
+                  },
+                  {
+                    "end": 212,
+                    "start": 153,
+                    "word": "cats"
+                  }
+                ],
+                "until": 212,
+                "utterances": "7 Seven cats"
+              }
+            ],
+            "sentence": "7 Seven cats."
+          }
         ]
       ]
     },
     {
-      "image": null,
+      "image": "counting_cats_4_page_10_image_0001.jpg",
       "page": 10,
       "text": [
         [
           {
             "narration": [
               {
-                "audio": "2.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 59,
-                    "start": 21,
-                    "word": "2"
-                  }
-                ],
-                "until": 59,
-                "utterances": "2"
-              }
-            ],
-            "sentence": "2"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 11,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "two_cats.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 42,
-                    "start": 21,
-                    "word": "Two"
-                  },
-                  {
-                    "end": 97,
-                    "start": 43,
-                    "word": "cats"
-                  }
-                ],
-                "until": 97,
-                "utterances": "Two cats"
-              }
-            ],
-            "sentence": "Two cats."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 12,
-      "text": [
-        [
-          {
-            "narration": [
-              {
                 "audio": "how_many_cats.mp3",
                 "from": 16,
                 "segmentation": [
@@ -344,534 +593,42 @@
             ],
             "sentence": "How many cats?"
           }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 13,
-      "text": [
+        ],
         [
           {
             "narration": [
               {
-                "audio": "3.mp3",
-                "from": 19,
-                "segmentation": [
-                  {
-                    "end": 68,
-                    "start": 19,
-                    "word": "3"
-                  }
-                ],
-                "until": 68,
-                "utterances": "3"
-              }
-            ],
-            "sentence": "3"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 14,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "three_cats.mp3",
-                "from": 19,
-                "segmentation": [
-                  {
-                    "end": 46,
-                    "start": 19,
-                    "word": "Three"
-                  },
-                  {
-                    "end": 101,
-                    "start": 47,
-                    "word": "cats"
-                  }
-                ],
-                "until": 101,
-                "utterances": "Three cats"
-              }
-            ],
-            "sentence": "Three cats."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 15,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "how_many_cats.mp3",
-                "from": 16,
-                "segmentation": [
-                  {
-                    "end": 36,
-                    "start": 16,
-                    "word": "How"
-                  },
-                  {
-                    "end": 76,
-                    "start": 37,
-                    "word": "many"
-                  },
-                  {
-                    "end": 132,
-                    "start": 77,
-                    "word": "cats"
-                  }
-                ],
-                "until": 132,
-                "utterances": "How many cats"
-              }
-            ],
-            "sentence": "How many cats?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 16,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "4.mp3",
-                "from": 22,
-                "segmentation": [
-                  {
-                    "end": 68,
-                    "start": 22,
-                    "word": "4"
-                  }
-                ],
-                "until": 68,
-                "utterances": "4"
-              }
-            ],
-            "sentence": "4"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 17,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "four_cats.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 46,
-                    "start": 2,
-                    "word": "Four"
-                  },
-                  {
-                    "end": 103,
-                    "start": 47,
-                    "word": "cats"
-                  }
-                ],
-                "until": 103,
-                "utterances": "Four cats"
-              }
-            ],
-            "sentence": "Four cats."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 18,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "how_many_cats.mp3",
-                "from": 16,
-                "segmentation": [
-                  {
-                    "end": 36,
-                    "start": 16,
-                    "word": "How"
-                  },
-                  {
-                    "end": 76,
-                    "start": 37,
-                    "word": "many"
-                  },
-                  {
-                    "end": 132,
-                    "start": 77,
-                    "word": "cats"
-                  }
-                ],
-                "until": 132,
-                "utterances": "How many cats"
-              }
-            ],
-            "sentence": "How many cats?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 19,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "5.mp3",
-                "from": 18,
-                "segmentation": [
-                  {
-                    "end": 64,
-                    "start": 18,
-                    "word": "5"
-                  }
-                ],
-                "until": 64,
-                "utterances": "5"
-              }
-            ],
-            "sentence": "5"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 20,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "five_cats.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 54,
-                    "start": 2,
-                    "word": "Five"
-                  },
-                  {
-                    "end": 107,
-                    "start": 55,
-                    "word": "cats"
-                  }
-                ],
-                "until": 107,
-                "utterances": "Five cats"
-              }
-            ],
-            "sentence": "Five cats."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 21,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "how_many_cats.mp3",
-                "from": 16,
-                "segmentation": [
-                  {
-                    "end": 36,
-                    "start": 16,
-                    "word": "How"
-                  },
-                  {
-                    "end": 76,
-                    "start": 37,
-                    "word": "many"
-                  },
-                  {
-                    "end": 132,
-                    "start": 77,
-                    "word": "cats"
-                  }
-                ],
-                "until": 132,
-                "utterances": "How many cats"
-              }
-            ],
-            "sentence": "How many cats?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 22,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "6.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 77,
-                    "start": 20,
-                    "word": "6"
-                  }
-                ],
-                "until": 77,
-                "utterances": "6"
-              }
-            ],
-            "sentence": "6"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 23,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "six_cats.mp3",
+                "audio": "8_eight_cats.mp3",
                 "from": 20,
                 "segmentation": [
                   {
                     "end": 63,
                     "start": 20,
-                    "word": "Six"
-                  },
-                  {
-                    "end": 113,
-                    "start": 64,
-                    "word": "cats"
-                  }
-                ],
-                "until": 113,
-                "utterances": "Six cats"
-              }
-            ],
-            "sentence": "Six cats."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 24,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "how_many_cats.mp3",
-                "from": 16,
-                "segmentation": [
-                  {
-                    "end": 36,
-                    "start": 16,
-                    "word": "How"
-                  },
-                  {
-                    "end": 76,
-                    "start": 37,
-                    "word": "many"
-                  },
-                  {
-                    "end": 132,
-                    "start": 77,
-                    "word": "cats"
-                  }
-                ],
-                "until": 132,
-                "utterances": "How many cats"
-              }
-            ],
-            "sentence": "How many cats?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 25,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "7.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 69,
-                    "start": 21,
-                    "word": "7"
-                  }
-                ],
-                "until": 69,
-                "utterances": "7"
-              }
-            ],
-            "sentence": "7"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 26,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "seven_cats.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 63,
-                    "start": 21,
-                    "word": "Seven"
-                  },
-                  {
-                    "end": 116,
-                    "start": 64,
-                    "word": "cats"
-                  }
-                ],
-                "until": 116,
-                "utterances": "Seven cats"
-              }
-            ],
-            "sentence": "Seven cats."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 27,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "how_many_cats.mp3",
-                "from": 16,
-                "segmentation": [
-                  {
-                    "end": 36,
-                    "start": 16,
-                    "word": "How"
-                  },
-                  {
-                    "end": 76,
-                    "start": 37,
-                    "word": "many"
-                  },
-                  {
-                    "end": 132,
-                    "start": 77,
-                    "word": "cats"
-                  }
-                ],
-                "until": 132,
-                "utterances": "How many cats"
-              }
-            ],
-            "sentence": "How many cats?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 28,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "8.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 65,
-                    "start": 21,
                     "word": "8"
-                  }
-                ],
-                "until": 65,
-                "utterances": "8"
-              }
-            ],
-            "sentence": "8"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 29,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "eight_cats.mp3",
-                "from": 21,
-                "segmentation": [
+                  },
                   {
-                    "end": 52,
-                    "start": 21,
+                    "end": 126,
+                    "start": 100,
                     "word": "Eight"
                   },
                   {
-                    "end": 119,
-                    "start": 53,
+                    "end": 185,
+                    "start": 127,
                     "word": "cats"
                   }
                 ],
-                "until": 119,
-                "utterances": "Eight cats"
+                "until": 185,
+                "utterances": "8 Eight cats"
               }
             ],
-            "sentence": "Eight cats."
+            "sentence": "8 Eight cats."
           }
         ]
       ]
     },
     {
-      "image": null,
-      "page": 30,
+      "image": "counting_cats_4_page_11_image_0001.jpg",
+      "page": 11,
       "text": [
         [
           {
@@ -907,13 +664,7 @@
             ],
             "sentence": "What's this we see?"
           }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 31,
-      "text": [
+        ],
         [
           {
             "narration": [
@@ -963,13 +714,7 @@
             ],
             "sentence": "A kitten is stuck in a tree!"
           }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 32,
-      "text": [
+        ],
         [
           {
             "narration": [
@@ -1008,8 +753,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 33,
+      "image": "counting_cats_4_page_12_image_0001.jpg",
+      "page": 12,
       "text": [
         [
           {
@@ -1048,16 +793,8 @@
                 "utterances": "Mama can we keep him"
               }
             ],
-            "sentence": "Mama, can we keep him?"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 34,
-      "text": [
-        [
+            "sentence": "\"Mama, can we keep him?"
+          },
           {
             "narration": [
               {
@@ -1086,13 +823,7 @@
             ],
             "sentence": "Just one more.\""
           }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 35,
-      "text": [
+        ],
         [
           {
             "narration": [
@@ -1122,68 +853,41 @@
             ],
             "sentence": "How many cats?"
           }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 36,
-      "text": [
+        ],
         [
           {
             "narration": [
               {
-                "audio": "9.mp3",
+                "audio": "9_nine_cats.mp3",
                 "from": 21,
                 "segmentation": [
                   {
-                    "end": 81,
+                    "end": 74,
                     "start": 21,
                     "word": "9"
-                  }
-                ],
-                "until": 81,
-                "utterances": "9"
-              }
-            ],
-            "sentence": "9"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 37,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "nine_cats.mp3",
-                "from": 20,
-                "segmentation": [
+                  },
                   {
-                    "end": 92,
-                    "start": 20,
+                    "end": 136,
+                    "start": 100,
                     "word": "Nine"
                   },
                   {
-                    "end": 175,
-                    "start": 93,
+                    "end": 205,
+                    "start": 137,
                     "word": "cats"
                   }
                 ],
-                "until": 175,
-                "utterances": "Nine cats"
+                "until": 205,
+                "utterances": "9 Nine cats"
               }
             ],
-            "sentence": "Nine cats."
+            "sentence": "9 Nine cats."
           }
         ]
       ]
     }
   ],
-  "level": 1,
+  "level": "1",
   "title": "Counting Cats",
-  "titleimage": null
+  "titleimage": "counting_cats_4_page_01_image_0001.jpg"
 }
