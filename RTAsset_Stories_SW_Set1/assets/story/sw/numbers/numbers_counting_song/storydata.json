@@ -1,0 +1,559 @@
+{
+  "author": "Leonora Kivuva",
+  "data": [
+    {
+      "image": null,
+      "page": 2,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swahili_counting_song.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 20,
+                    "word": "Swahili"
+                  },
+                  {
+                    "end": 166,
+                    "start": 102,
+                    "word": "counting"
+                  },
+                  {
+                    "end": 220,
+                    "start": 167,
+                    "word": "song"
+                  }
+                ],
+                "until": 220,
+                "utterances": "Swahili counting song"
+              }
+            ],
+            "sentence": "Swahili counting song"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 3,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moja_mbili_tatu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Moja"
+                  },
+                  {
+                    "end": 116,
+                    "start": 67,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 195,
+                    "start": 117,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Moja mbili tatu"
+              }
+            ],
+            "sentence": "Moja, mbili, tatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 4,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nne_tano_sita.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "Nne"
+                  },
+                  {
+                    "end": 116,
+                    "start": 62,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 191,
+                    "start": 117,
+                    "word": "sita"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Nne tano sita"
+              }
+            ],
+            "sentence": "Nne, tano, sita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 5,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "saba_nane_tisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Saba"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "nane"
+                  },
+                  {
+                    "end": 195,
+                    "start": 119,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Saba nane tisa"
+              }
+            ],
+            "sentence": "Saba, nane, tisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 6,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sifuri_ni_bila.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Sifuri"
+                  },
+                  {
+                    "end": 117,
+                    "start": 93,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 187,
+                    "start": 118,
+                    "word": "bila"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Sifuri ni bila"
+              }
+            ],
+            "sentence": "Sifuri ni bila."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 7,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "habari_ya_januari.mp3",
+                "from": 31,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 31,
+                    "word": "Habari"
+                  },
+                  {
+                    "end": 127,
+                    "start": 112,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 227,
+                    "start": 128,
+                    "word": "januari"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Habari ya januari"
+              }
+            ],
+            "sentence": "Habari ya januari."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 8,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuna_mtu_mmoja.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Kuna"
+                  },
+                  {
+                    "end": 109,
+                    "start": 65,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 189,
+                    "start": 110,
+                    "word": "mmoja"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Kuna mtu mmoja"
+              }
+            ],
+            "sentence": "Kuna mtu mmoja."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 9,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliyepotea.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 191,
+                    "start": 21,
+                    "word": "Aliyepotea"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Aliyepotea"
+              }
+            ],
+            "sentence": "Aliyepotea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 10,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akipatikana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 190,
+                    "start": 20,
+                    "word": "Akipatikana"
+                  }
+                ],
+                "until": 190,
+                "utterances": "Akipatikana"
+              }
+            ],
+            "sentence": "Akipatikana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 11,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tutamfunga_jela.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 21,
+                    "word": "Tutamfunga"
+                  },
+                  {
+                    "end": 214,
+                    "start": 148,
+                    "word": "jela"
+                  }
+                ],
+                "until": 214,
+                "utterances": "Tutamfunga jela"
+              }
+            ],
+            "sentence": "Tutamfunga jela."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 12,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "adui_yangu_nenda.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 18,
+                    "word": "Adui"
+                  },
+                  {
+                    "end": 143,
+                    "start": 104,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 224,
+                    "start": 144,
+                    "word": "nenda"
+                  }
+                ],
+                "until": 224,
+                "utterances": "Adui yangu nenda"
+              }
+            ],
+            "sentence": "Adui yangu nenda!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 13,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_kuja.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 30,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 193,
+                    "start": 109,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 233,
+                    "start": 194,
+                    "word": "kuja"
+                  }
+                ],
+                "until": 233,
+                "utterances": "Rafiki yangu kuja"
+              }
+            ],
+            "sentence": "Rafiki yangu kuja!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 14,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moja_mbili_tatu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Moja"
+                  },
+                  {
+                    "end": 116,
+                    "start": 67,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 195,
+                    "start": 117,
+                    "word": "tatu"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Moja mbili tatu"
+              }
+            ],
+            "sentence": "Moja, mbili, tatu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 15,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nne_tano_sita.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "Nne"
+                  },
+                  {
+                    "end": 116,
+                    "start": 62,
+                    "word": "tano"
+                  },
+                  {
+                    "end": 191,
+                    "start": 117,
+                    "word": "sita"
+                  }
+                ],
+                "until": 191,
+                "utterances": "Nne tano sita"
+              }
+            ],
+            "sentence": "Nne, tano, sita."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 16,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "saba_nane_tisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Saba"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "nane"
+                  },
+                  {
+                    "end": 195,
+                    "start": 119,
+                    "word": "tisa"
+                  }
+                ],
+                "until": 195,
+                "utterances": "Saba nane tisa"
+              }
+            ],
+            "sentence": "Saba, nane, tisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "page": 17,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumi_ni_vidole.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 2,
+                    "word": "Kumi"
+                  },
+                  {
+                    "end": 84,
+                    "start": 59,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 162,
+                    "start": 85,
+                    "word": "vidole"
+                  }
+                ],
+                "until": 162,
+                "utterances": "Kumi ni vidole"
+              }
+            ],
+            "sentence": "Kumi ni vidole!"
+          }
+        ]
+      ]
+    }
+  ],
+  "level": "COUNT",
+  "title": "Swahili Counting Song",
+  "titleimage": null
+}
