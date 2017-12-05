@@ -19,15 +19,27 @@ This repository should be used for publishing Asset data for use in RoboTutor.  
 3 Once you have cloned the assets:
   * Attach your target device to the development machine.
   * Execute:
-     * PUSH_Audio_EN.bat 
+     * PUSH_Audio_EN.bat      (or the respective .sh file if you use Mac/Linux)
      * PUSH_Audio_SW.bat 
      * PUSH_Stories_EN.bat 
      * PUSH_Stories_SW.bat 
 
 4 RoboTutor will then have the assets required on the target device.
 
-5 Continue to [build RoboTutor](https://github.com/synaptek/RoboTutor).
+5 Continue to [build RoboTutor](https://github.com/RoboTutorLLC/RoboTutor).
 
+
+**Zipping Assets**
+
+An alternative method to Step 3 above (after cloning) is to zip the assets. This is useful for pushing to remote devices.
+
+  * Execute:
+     * ZIP_Audio_EN_Set1.bat  (or .sh)
+     * ZIP_Audio_SW_Set1.bat  (or .sh)
+     * ZIP_Stories_EN_Set1.bat  (or .sh)
+     * ZIP_Stories_SW_Set1.bat  (or .sh)
+  * Zipped folders will be ignored by git (see .gitignore)
+  * When placed in the "Download" folder of an Android, RoboTutor will detect these .zip files and install them into the "robotutor_assets" folder.
 
 
 ## **Usage:**
