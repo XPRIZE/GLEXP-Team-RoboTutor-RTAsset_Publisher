@@ -2,44 +2,8 @@
   "author": "Leonora Kivuva",
   "data": [
     {
-      "image": null,
+      "image": "one_two_three.jpg",
       "page": 2,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "swahili_counting_song.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 101,
-                    "start": 20,
-                    "word": "Swahili"
-                  },
-                  {
-                    "end": 166,
-                    "start": 102,
-                    "word": "counting"
-                  },
-                  {
-                    "end": 220,
-                    "start": 167,
-                    "word": "song"
-                  }
-                ],
-                "until": 220,
-                "utterances": "Swahili counting song"
-              }
-            ],
-            "sentence": "Swahili counting song"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 3,
       "text": [
         [
           {
@@ -74,8 +38,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 4,
+      "image": "four_five_six.jpg",
+      "page": 3,
       "text": [
         [
           {
@@ -110,8 +74,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 5,
+      "image": "seven_eight_nine.jpg",
+      "page": 4,
       "text": [
         [
           {
@@ -146,8 +110,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 6,
+      "image": "zero.jpg",
+      "page": 5,
       "text": [
         [
           {
@@ -182,235 +146,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 7,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "habari_ya_januari.mp3",
-                "from": 31,
-                "segmentation": [
-                  {
-                    "end": 111,
-                    "start": 31,
-                    "word": "Habari"
-                  },
-                  {
-                    "end": 127,
-                    "start": 112,
-                    "word": "ya"
-                  },
-                  {
-                    "end": 227,
-                    "start": 128,
-                    "word": "januari"
-                  }
-                ],
-                "until": 227,
-                "utterances": "Habari ya januari"
-              }
-            ],
-            "sentence": "Habari ya januari."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 8,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "kuna_mtu_mmoja.mp3",
-                "from": 2,
-                "segmentation": [
-                  {
-                    "end": 64,
-                    "start": 2,
-                    "word": "Kuna"
-                  },
-                  {
-                    "end": 109,
-                    "start": 65,
-                    "word": "mtu"
-                  },
-                  {
-                    "end": 189,
-                    "start": 110,
-                    "word": "mmoja"
-                  }
-                ],
-                "until": 189,
-                "utterances": "Kuna mtu mmoja"
-              }
-            ],
-            "sentence": "Kuna mtu mmoja."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 9,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "aliyepotea.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 191,
-                    "start": 21,
-                    "word": "Aliyepotea"
-                  }
-                ],
-                "until": 191,
-                "utterances": "Aliyepotea"
-              }
-            ],
-            "sentence": "Aliyepotea."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 10,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "akipatikana.mp3",
-                "from": 20,
-                "segmentation": [
-                  {
-                    "end": 190,
-                    "start": 20,
-                    "word": "Akipatikana"
-                  }
-                ],
-                "until": 190,
-                "utterances": "Akipatikana"
-              }
-            ],
-            "sentence": "Akipatikana."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 11,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "tutamfunga_jela.mp3",
-                "from": 21,
-                "segmentation": [
-                  {
-                    "end": 147,
-                    "start": 21,
-                    "word": "Tutamfunga"
-                  },
-                  {
-                    "end": 214,
-                    "start": 148,
-                    "word": "jela"
-                  }
-                ],
-                "until": 214,
-                "utterances": "Tutamfunga jela"
-              }
-            ],
-            "sentence": "Tutamfunga jela."
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 12,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "adui_yangu_nenda.mp3",
-                "from": 18,
-                "segmentation": [
-                  {
-                    "end": 103,
-                    "start": 18,
-                    "word": "Adui"
-                  },
-                  {
-                    "end": 143,
-                    "start": 104,
-                    "word": "yangu"
-                  },
-                  {
-                    "end": 224,
-                    "start": 144,
-                    "word": "nenda"
-                  }
-                ],
-                "until": 224,
-                "utterances": "Adui yangu nenda"
-              }
-            ],
-            "sentence": "Adui yangu nenda!"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 13,
-      "text": [
-        [
-          {
-            "narration": [
-              {
-                "audio": "rafiki_yangu_kuja.mp3",
-                "from": 30,
-                "segmentation": [
-                  {
-                    "end": 108,
-                    "start": 30,
-                    "word": "Rafiki"
-                  },
-                  {
-                    "end": 193,
-                    "start": 109,
-                    "word": "yangu"
-                  },
-                  {
-                    "end": 233,
-                    "start": 194,
-                    "word": "kuja"
-                  }
-                ],
-                "until": 233,
-                "utterances": "Rafiki yangu kuja"
-              }
-            ],
-            "sentence": "Rafiki yangu kuja!"
-          }
-        ]
-      ]
-    },
-    {
-      "image": null,
-      "page": 14,
+      "image": "one_two_three.jpg",
+      "page": 6,
       "text": [
         [
           {
@@ -445,8 +182,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 15,
+      "image": "four_five_six.jpg",
+      "page": 7,
       "text": [
         [
           {
@@ -481,8 +218,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 16,
+      "image": "seven_eight_nine.jpg",
+      "page": 8,
       "text": [
         [
           {
@@ -517,8 +254,8 @@
       ]
     },
     {
-      "image": null,
-      "page": 17,
+      "image": "ten_fingers.jpg",
+      "page": 9,
       "text": [
         [
           {
@@ -554,6 +291,6 @@
     }
   ],
   "level": "COUNT",
-  "title": "Swahili Counting Song",
+  "title": "Moja Mbili Tatu",
   "titleimage": null
 }
