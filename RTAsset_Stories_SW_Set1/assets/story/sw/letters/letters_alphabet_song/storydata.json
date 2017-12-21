@@ -1079,25 +1079,9 @@
               }
             ],
             "sentence": "R"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }
+        ],
+        [
           {
             "narration": [
               {
@@ -1115,25 +1099,8 @@
               }
             ],
             "sentence": "r"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }
+        ],[
           {
             "narration": [
               {
@@ -1177,25 +1144,7 @@
               }
             ],
             "sentence": "S"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1213,25 +1162,7 @@
               }
             ],
             "sentence": "s"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1275,25 +1206,7 @@
               }
             ],
             "sentence": "T"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1311,25 +1224,7 @@
               }
             ],
             "sentence": "t"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1373,25 +1268,7 @@
               }
             ],
             "sentence": "U"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1409,25 +1286,7 @@
               }
             ],
             "sentence": "u"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1471,25 +1330,7 @@
               }
             ],
             "sentence": "V"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1507,25 +1348,7 @@
               }
             ],
             "sentence": "v"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1569,25 +1392,7 @@
               }
             ],
             "sentence": "W"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1605,25 +1410,7 @@
               }
             ],
             "sentence": "w"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1667,25 +1454,7 @@
               }
             ],
             "sentence": "Y"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1703,25 +1472,7 @@
               }
             ],
             "sentence": "y"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1765,25 +1516,7 @@
               }
             ],
             "sentence": "Z"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {
@@ -1801,25 +1534,7 @@
               }
             ],
             "sentence": "z"
-          },
-          {
-            "narration": [
-              {
-                "audio": "",
-                "from": -1,
-                "segmentation": [
-                  {
-                    "end": -1,
-                    "start": -1,
-                    "word": ""
-                  }
-                ],
-                "until": -1,
-                "utterances": ""
-              }
-            ],
-            "sentence": ""
-          },
+          }],[
           {
             "narration": [
               {

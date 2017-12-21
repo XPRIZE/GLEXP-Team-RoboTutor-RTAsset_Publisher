@@ -216,7 +216,9 @@ Pua
 {{{rafiki.jpeg
 R
 
+
 r
+
 
 Rafiki
 
@@ -227,7 +229,9 @@ Rafiki
 {{{sikio.jpg
 S
 
+
 s
+
 
 Sikio
 
@@ -236,7 +240,9 @@ Sikio
 {{{taa.jpeg
 T
 
+
 t
+
 
 Taa
 
@@ -247,7 +253,9 @@ Taa
 {{{ugali.jpg
 U
 
+
 u
+
 
 Ugali
 
@@ -258,7 +266,9 @@ Ugali
 {{{viatu.jpeg
 V
 
+
 v
+
 
 Viatu
 
@@ -269,7 +279,9 @@ Viatu
 {{{watoto.jpeg
 W
 
+
 w
+
 
 Watoto
 
@@ -280,7 +292,9 @@ Watoto
 {{{yai.jpg
 Y
 
+
 y
+
 
 Yai
 
@@ -291,6 +305,9 @@ Yai
 {{{zipu.jpeg
 Z
 
+
 z
 
+
 zipu
+
