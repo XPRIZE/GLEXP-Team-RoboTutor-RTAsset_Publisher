@@ -5,14 +5,14 @@
 
 
 
-{{{andazi.jpg
+{{{angani.jpeg
 A
 
 
 a
 
 
-Andazi
+Angani
 
 
 
@@ -31,7 +31,7 @@ Baba
 
 
 
-{{{chakula.jpg
+{{{chakula.jpeg
 Ch
 
 
@@ -44,7 +44,7 @@ Chakula
 
 
 
-{{{dada.jpg
+{{{dada.jpeg
 D
 
 
@@ -57,7 +57,7 @@ Dada
 
 
 
-{{{embe.jpg
+{{{embe.jpeg
 E
 
 
@@ -83,7 +83,7 @@ Fagio
 
 
 
-{{{gari.jpg
+{{{gari.jpeg
 G
 
 
@@ -109,7 +109,7 @@ Hunywa
 
 
 
-{{{imara.jpg
+{{{imara.jpeg
 I
 
 
@@ -122,7 +122,7 @@ Imara
 
 
 
-{{{jua.jpg
+{{{jua.jpeg
 J
 
 
@@ -135,7 +135,7 @@ Jua
 
 
 
-{{{kuku.jpg
+{{{kuku.jpeg
 K
 
 
@@ -161,7 +161,7 @@ Lori
 
 
 
-{{{mama.jpg
+{{{mama.jpeg
 M
 
 
@@ -174,7 +174,7 @@ Mama
 
 
 
-{{{ndizi.jpg
+{{{ndizi.jpeg
 N
 
 
@@ -187,7 +187,7 @@ Ndizi
 
 
 
-{{{ogelea.jpg
+{{{ogelea.jpeg
 O
 
 
@@ -200,7 +200,7 @@ Ogelea
 
 
 
-{{{pua.jpg
+{{{pua.jpeg
 P
 
 
@@ -213,7 +213,7 @@ Pua
 
 
 
-{{{rafiki.jpg
+{{{rafiki.jpeg
 R
 
 r
@@ -233,7 +233,7 @@ Sikio
 
 
 
-{{{taa.jpg
+{{{taa.jpeg
 T
 
 t
@@ -255,7 +255,7 @@ Ugali
 
 
 
-{{{viatu.jpg
+{{{viatu.jpeg
 V
 
 v
@@ -266,7 +266,7 @@ Viatu
 
 
 
-{{{watoto.jpg
+{{{watoto.jpeg
 W
 
 w
@@ -288,7 +288,7 @@ Yai
 
 
 
-{{{zipu.jpg
+{{{zipu.jpeg
 Z
 
 z

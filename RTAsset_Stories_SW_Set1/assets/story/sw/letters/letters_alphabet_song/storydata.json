@@ -2,7 +2,7 @@
   "author": "RoboTutor",
   "data": [
     {
-      "image": "andazi.jpg",
+      "image": "angani.jpeg",
       "page": 2,
       "text": [
         [
@@ -55,14 +55,14 @@
                   {
                     "end": -1,
                     "start": -1,
-                    "word": "Andazi"
+                    "word": "Angani"
                   }
                 ],
                 "until": -1,
-                "utterances": "Andazi"
+                "utterances": "Angani"
               }
             ],
-            "sentence": "Andazi"
+            "sentence": "Angani"
           }
         ]
       ]
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "image": "chakula.jpg",
+      "image": "chakula.jpeg",
       "page": 4,
       "text": [
         [
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "image": "dada.jpg",
+      "image": "dada.jpeg",
       "page": 5,
       "text": [
         [
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "image": "gari.jpg",
+      "image": "gari.jpeg",
       "page": 8,
       "text": [
         [
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "image": "imara.jpg",
+      "image": "imara.jpeg",
       "page": 10,
       "text": [
         [
@@ -596,7 +596,7 @@
       ]
     },
     {
-      "image": "jua.jpg",
+      "image": "jua.jpeg",
       "page": 11,
       "text": [
         [
@@ -662,7 +662,7 @@
       ]
     },
     {
-      "image": "kuku.jpg",
+      "image": "kuku.jpeg",
       "page": 12,
       "text": [
         [
@@ -794,7 +794,7 @@
       ]
     },
     {
-      "image": "mama.jpg",
+      "image": "mama.jpeg",
       "page": 14,
       "text": [
         [
@@ -860,7 +860,7 @@
       ]
     },
     {
-      "image": "ndizi.jpg",
+      "image": "ndizi.jpeg",
       "page": 15,
       "text": [
         [
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "image": "ogelea.jpg",
+      "image": "ogelea.jpeg",
       "page": 16,
       "text": [
         [
@@ -992,7 +992,7 @@
       ]
     },
     {
-      "image": "pua.jpg",
+      "image": "pua.jpeg",
       "page": 17,
       "text": [
         [
@@ -1058,7 +1058,7 @@
       ]
     },
     {
-      "image": "rafiki.jpg",
+      "image": "rafiki.jpeg",
       "page": 18,
       "text": [
         [
@@ -1254,7 +1254,7 @@
       ]
     },
     {
-      "image": "taa.jpg",
+      "image": "taa.jpeg",
       "page": 20,
       "text": [
         [
@@ -1450,7 +1450,7 @@
       ]
     },
     {
-      "image": "viatu.jpg",
+      "image": "viatu.jpeg",
       "page": 22,
       "text": [
         [
@@ -1548,7 +1548,7 @@
       ]
     },
     {
-      "image": "watoto.jpg",
+      "image": "watoto.jpeg",
       "page": 23,
       "text": [
         [
@@ -1744,7 +1744,7 @@
       ]
     },
     {
-      "image": "zipu.jpg",
+      "image": "zipu.jpeg",
       "page": 25,
       "text": [
         [
