@@ -10,4 +10,5 @@
 # ignore the per-build Hash Filename cross reference files
 
 master_cross*.csv
-master_error*.csv
+master_error*.csv.DS_Store
+**/.DS_Store
