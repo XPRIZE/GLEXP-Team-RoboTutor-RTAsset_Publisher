@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "75_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "75.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini na tano"
+              }
+            ],
+            "sentence": "Sabini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "76_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "76.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini na sita"
+              }
+            ],
+            "sentence": "Sabini na Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "77_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "77.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini na saba"
+              }
+            ],
+            "sentence": "Sabini na Saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "78_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "78.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini na nane"
+              }
+            ],
+            "sentence": "Sabini na Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "79_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "79.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini na tisa"
+              }
+            ],
+            "sentence": "Sabini na Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "80_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "80.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              }
+            ],
+            "sentence": "Themanini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "81_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "81.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini na moja"
+              }
+            ],
+            "sentence": "Themanini na Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "82_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "82.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini na mbili"
+              }
+            ],
+            "sentence": "Themanini na Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "83_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "83.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini na tatu"
+              }
+            ],
+            "sentence": "Themanini na Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "84_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "84.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini na nne"
+              }
+            ],
+            "sentence": "Themanini na Nne"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.0..100.DD_OFF1_INC_RAND.level20"
+}

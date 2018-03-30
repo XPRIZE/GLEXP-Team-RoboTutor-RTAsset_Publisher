@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "56_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "56.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na sita"
+              }
+            ],
+            "sentence": "Hamsini na Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "55_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "55.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na tano"
+              }
+            ],
+            "sentence": "Hamsini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "54_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "54.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na nne"
+              }
+            ],
+            "sentence": "Hamsini na Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "53_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "53.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na tatu"
+              }
+            ],
+            "sentence": "Hamsini na Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "52_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "52.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na mbili"
+              }
+            ],
+            "sentence": "Hamsini na Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "51_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "51.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na moja"
+              }
+            ],
+            "sentence": "Hamsini na Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "50_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "50.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hamsini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini"
+              }
+            ],
+            "sentence": "Hamsini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "49_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "49.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini na tisa"
+              }
+            ],
+            "sentence": "Arobaini na Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "48_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "48.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini na nane"
+              }
+            ],
+            "sentence": "Arobaini na Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "47_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "47.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini na saba"
+              }
+            ],
+            "sentence": "Arobaini na Saba"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.0..100.DD_OFF1_DES_RAND.level21"
+}

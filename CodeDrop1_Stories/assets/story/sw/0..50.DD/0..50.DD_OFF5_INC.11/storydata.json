@@ -1,0 +1,287 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "0_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "0.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sifuri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sifuri"
+              }
+            ],
+            "sentence": "Sifuri"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "5.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "10.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "Kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "15_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "15.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na tano"
+              }
+            ],
+            "sentence": "Kumi na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "20_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "20.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ishirini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini"
+              }
+            ],
+            "sentence": "Ishirini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "25_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "25.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na tano"
+              }
+            ],
+            "sentence": "Ishirini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "30_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "30.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini"
+              }
+            ],
+            "sentence": "Thelathini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "35_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "35.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini na tano"
+              }
+            ],
+            "sentence": "Thelathini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "40_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "40.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "arobaini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini"
+              }
+            ],
+            "sentence": "Arobaini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "45_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "45.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini na tano"
+              }
+            ],
+            "sentence": "Arobaini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "50_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "50.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hamsini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini"
+              }
+            ],
+            "sentence": "Hamsini"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.0..50.DD_OFF5_INC.level11"
+}

@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "24_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "24.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na nne"
+              }
+            ],
+            "sentence": "Ishirini na Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "25_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "25.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na tano"
+              }
+            ],
+            "sentence": "Ishirini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "26_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "26.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na sita"
+              }
+            ],
+            "sentence": "Ishirini na Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "27_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "27.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na saba"
+              }
+            ],
+            "sentence": "Ishirini na Saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "28_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "28.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na nane"
+              }
+            ],
+            "sentence": "Ishirini na Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "29_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "29.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini na tisa"
+              }
+            ],
+            "sentence": "Ishirini na Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "30_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "30.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini"
+              }
+            ],
+            "sentence": "Thelathini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "31_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "31.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini na moja"
+              }
+            ],
+            "sentence": "Thelathini na Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "32_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "32.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini na mbili"
+              }
+            ],
+            "sentence": "Thelathini na Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "33_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "33.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini na tatu"
+              }
+            ],
+            "sentence": "Thelathini na Tatu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.0..100.DD_OFF1_INC_RAND.level46"
+}

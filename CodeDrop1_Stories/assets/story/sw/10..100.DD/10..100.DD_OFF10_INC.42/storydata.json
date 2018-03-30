@@ -1,0 +1,267 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "10_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "10.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "Kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "20_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "20.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ishirini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini"
+              }
+            ],
+            "sentence": "Ishirini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "30_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "30.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini"
+              }
+            ],
+            "sentence": "Thelathini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "40_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "40.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "arobaini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini"
+              }
+            ],
+            "sentence": "Arobaini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "50_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "50.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hamsini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini"
+              }
+            ],
+            "sentence": "Hamsini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "60_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "60.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sitini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sitini"
+              }
+            ],
+            "sentence": "Sitini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "70_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "70.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sabini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini"
+              }
+            ],
+            "sentence": "Sabini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "80_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "80.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              }
+            ],
+            "sentence": "Themanini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "90_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "90.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini"
+              }
+            ],
+            "sentence": "Tisini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "100_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "100.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia moja"
+              }
+            ],
+            "sentence": "Mia Moja"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.10..100.DD_OFF10_INC.level42"
+}
