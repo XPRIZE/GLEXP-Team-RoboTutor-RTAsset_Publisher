@@ -1,0 +1,287 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "0_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "0.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sifuri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sifuri"
+              }
+            ],
+            "sentence": "Sifuri"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "1_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "1.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "2.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "3.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "4.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "5_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "5.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "6_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "6.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
+              }
+            ],
+            "sentence": "Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "7_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "7.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "saba"
+              }
+            ],
+            "sentence": "Saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "8_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "8.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "9_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "9.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "10.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "Kumi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.0..10.SS_OFF1_INC.level30"
+}

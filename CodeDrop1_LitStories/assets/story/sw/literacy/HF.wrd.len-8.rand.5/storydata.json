@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kusubiri_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kusubiri.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kusubiri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kusubiri"
+              }
+            ],
+            "sentence": "kusubiri"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwengine_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwengine.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwengine"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwengine"
+              }
+            ],
+            "sentence": "mwengine"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lilikuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lilikuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lilikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lilikuwa"
+              }
+            ],
+            "sentence": "lilikuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alifuata_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alifuata.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alifuata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alifuata"
+              }
+            ],
+            "sentence": "alifuata"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alitumia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alitumia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alitumia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alitumia"
+              }
+            ],
+            "sentence": "alitumia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwekundu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwekundu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwekundu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwekundu"
+              }
+            ],
+            "sentence": "mwekundu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "karatasi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "karatasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "karatasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "karatasi"
+              }
+            ],
+            "sentence": "karatasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wakaishi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakaishi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakaishi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakaishi"
+              }
+            ],
+            "sentence": "wakaishi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alimpiga_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimpiga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alimpiga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alimpiga"
+              }
+            ],
+            "sentence": "alimpiga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ikitokea_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ikitokea.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ikitokea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ikitokea"
+              }
+            ],
+            "sentence": "ikitokea"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-8.rand.5.json"
+}

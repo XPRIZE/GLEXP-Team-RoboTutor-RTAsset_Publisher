@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "a_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "a"
+                  }
+                ],
+                "until": -1,
+                "utterances": "a"
+              }
+            ],
+            "sentence": "a"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "e_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "e.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "e"
+                  }
+                ],
+                "until": -1,
+                "utterances": "e"
+              }
+            ],
+            "sentence": "e"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "i"
+                  }
+                ],
+                "until": -1,
+                "utterances": "i"
+              }
+            ],
+            "sentence": "i"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "o_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "o.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "o"
+                  }
+                ],
+                "until": -1,
+                "utterances": "o"
+              }
+            ],
+            "sentence": "o"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "u_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "u.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "u"
+                  }
+                ],
+                "until": -1,
+                "utterances": "u"
+              }
+            ],
+            "sentence": "u"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "vow.A..Z.asc.lc.5.json"
+}

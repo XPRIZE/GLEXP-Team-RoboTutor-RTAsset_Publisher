@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kombe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kombe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kombe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kombe"
+              }
+            ],
+            "sentence": "kombe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwito_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwito.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwito"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwito"
+              }
+            ],
+            "sentence": "mwito"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sketi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sketi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sketi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sketi"
+              }
+            ],
+            "sentence": "sketi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chuma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chuma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chuma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chuma"
+              }
+            ],
+            "sentence": "chuma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wenye_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wenye.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wenye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wenye"
+              }
+            ],
+            "sentence": "wenye"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ikiwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ikiwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ikiwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ikiwa"
+              }
+            ],
+            "sentence": "ikiwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "usiku_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "usiku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "usiku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "usiku"
+              }
+            ],
+            "sentence": "usiku"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwake_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwake.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwake"
+              }
+            ],
+            "sentence": "mwake"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "simba_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "simba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simba"
+              }
+            ],
+            "sentence": "simba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mtoni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mtoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mtoni"
+              }
+            ],
+            "sentence": "mtoni"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-5.rand.2.json"
+}

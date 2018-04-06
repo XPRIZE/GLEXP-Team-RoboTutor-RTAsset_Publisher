@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "sisa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sisa"
+              }
+            ],
+            "sentence": "sisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tisa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sasa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sasa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sasa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sasa"
+              }
+            ],
+            "sentence": "sasa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kasa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kasa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kasa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kasa"
+              }
+            ],
+            "sentence": "kasa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kosa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kosa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kosa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kosa"
+              }
+            ],
+            "sentence": "kosa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kukosa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kukosa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kukosa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kukosa"
+              }
+            ],
+            "sentence": "kukosa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kabisa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kabisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kabisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kabisa"
+              }
+            ],
+            "sentence": "kabisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "elsa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "elsa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "elsa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "elsa"
+              }
+            ],
+            "sentence": "elsa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "makosa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "makosa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "makosa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "makosa"
+              }
+            ],
+            "sentence": "makosa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pesa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pesa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pesa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pesa"
+              }
+            ],
+            "sentence": "pesa"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.sa.rand.15"
+}

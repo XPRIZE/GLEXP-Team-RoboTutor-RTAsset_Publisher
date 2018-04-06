@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "myembamba_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "myembamba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "myembamba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "myembamba"
+              }
+            ],
+            "sentence": "myembamba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akamsikia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akamsikia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akamsikia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akamsikia"
+              }
+            ],
+            "sentence": "akamsikia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliporudi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliporudi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliporudi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliporudi"
+              }
+            ],
+            "sentence": "aliporudi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alifahamu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alifahamu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alifahamu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alifahamu"
+              }
+            ],
+            "sentence": "alifahamu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "angefanya_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "angefanya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "angefanya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "angefanya"
+              }
+            ],
+            "sentence": "angefanya"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliyekuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliyekuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliyekuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliyekuwa"
+              }
+            ],
+            "sentence": "aliyekuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "machungwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "machungwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "machungwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "machungwa"
+              }
+            ],
+            "sentence": "machungwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alikutana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikutana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alikutana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alikutana"
+              }
+            ],
+            "sentence": "alikutana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kifurushi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kifurushi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kifurushi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kifurushi"
+              }
+            ],
+            "sentence": "kifurushi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliyeitwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliyeitwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliyeitwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliyeitwa"
+              }
+            ],
+            "sentence": "aliyeitwa"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-9.rand.6.json"
+}

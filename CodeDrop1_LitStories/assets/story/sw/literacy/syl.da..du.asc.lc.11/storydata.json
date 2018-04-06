@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "da_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "da.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "da"
+                  }
+                ],
+                "until": -1,
+                "utterances": "da"
+              }
+            ],
+            "sentence": "da"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "de_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "de.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "de"
+                  }
+                ],
+                "until": -1,
+                "utterances": "de"
+              }
+            ],
+            "sentence": "de"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "di_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "di.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "di"
+                  }
+                ],
+                "until": -1,
+                "utterances": "di"
+              }
+            ],
+            "sentence": "di"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "do_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "do.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "do"
+                  }
+                ],
+                "until": -1,
+                "utterances": "do"
+              }
+            ],
+            "sentence": "do"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "du_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "du.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "du"
+                  }
+                ],
+                "until": -1,
+                "utterances": "du"
+              }
+            ],
+            "sentence": "du"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.da..du.asc.lc.11.json"
+}

@@ -1,0 +1,623 @@
+{
+  "authors": "Cornelius Gulere",
+  "copyright": "Copyright (c) Text: Ugandan Community Libraries Association; Illustration: African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_17_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jembe_lake_lilikuwa_fupi_mno.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Jembe"
+                  },
+                  {
+                    "end": 123,
+                    "start": 68,
+                    "word": "lake"
+                  },
+                  {
+                    "end": 211,
+                    "start": 124,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 279,
+                    "start": 212,
+                    "word": "fupi"
+                  },
+                  {
+                    "end": 324,
+                    "start": 280,
+                    "word": "mno"
+                  }
+                ],
+                "until": 324,
+                "utterances": "Jembe lake lilikuwa fupi mno"
+              }
+            ],
+            "sentence": "Jembe lake lilikuwa fupi mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mlango_wake_ulikuwa_chini_mno.mp3",
+                "from": 54,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 54,
+                    "word": "Mlango"
+                  },
+                  {
+                    "end": 158,
+                    "start": 111,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 260,
+                    "start": 159,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 327,
+                    "start": 261,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 376,
+                    "start": 328,
+                    "word": "mno"
+                  }
+                ],
+                "until": 376,
+                "utterances": "Mlango wake ulikuwa chini mno"
+              }
+            ],
+            "sentence": "Mlango wake ulikuwa chini mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kitanda_chake_kilikuwa_kifupi_mno.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 2,
+                    "word": "Kitanda"
+                  },
+                  {
+                    "end": 139,
+                    "start": 79,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 218,
+                    "start": 140,
+                    "word": "kilikuwa"
+                  },
+                  {
+                    "end": 314,
+                    "start": 219,
+                    "word": "kifupi"
+                  },
+                  {
+                    "end": 356,
+                    "start": 315,
+                    "word": "mno"
+                  }
+                ],
+                "until": 356,
+                "utterances": "Kitanda chake kilikuwa kifupi mno"
+              }
+            ],
+            "sentence": "Kitanda chake kilikuwa kifupi mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baisikeli_yake_ilikuwa_fupi_mno.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 2,
+                    "word": "Baisikeli"
+                  },
+                  {
+                    "end": 155,
+                    "start": 99,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 240,
+                    "start": 167,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 312,
+                    "start": 241,
+                    "word": "fupi"
+                  },
+                  {
+                    "end": 354,
+                    "start": 313,
+                    "word": "mno"
+                  }
+                ],
+                "until": 354,
+                "utterances": "Baisikeli yake ilikuwa fupi mno"
+              }
+            ],
+            "sentence": "Baisikeli yake ilikuwa fupi mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtu_huyu_alikuwa_mrefu_zaidi.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 10,
+                    "word": "Mtu"
+                  },
+                  {
+                    "end": 98,
+                    "start": 57,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 173,
+                    "start": 99,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 278,
+                    "start": 174,
+                    "word": "mrefu"
+                  },
+                  {
+                    "end": 375,
+                    "start": 301,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 375,
+                "utterances": "Mtu huyu alikuwa mrefu zaidi"
+              }
+            ],
+            "sentence": "Mtu huyu alikuwa mrefu zaidi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alitengeneza_mpini_wa_jembe_mrefu_sana.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 156,
+                    "start": 22,
+                    "word": "Alitengeneza"
+                  },
+                  {
+                    "end": 233,
+                    "start": 157,
+                    "word": "mpini"
+                  },
+                  {
+                    "end": 256,
+                    "start": 234,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 312,
+                    "start": 257,
+                    "word": "jembe"
+                  },
+                  {
+                    "end": 411,
+                    "start": 313,
+                    "word": "mrefu"
+                  },
+                  {
+                    "end": 487,
+                    "start": 423,
+                    "word": "sana"
+                  }
+                ],
+                "until": 487,
+                "utterances": "Alitengeneza mpini wa jembe mrefu sana"
+              }
+            ],
+            "sentence": "Alitengeneza mpini wa jembe mrefu sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alitengeneza_fremu_refu_za_mlango.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 160,
+                    "start": 21,
+                    "word": "Alitengeneza"
+                  },
+                  {
+                    "end": 257,
+                    "start": 161,
+                    "word": "fremu"
+                  },
+                  {
+                    "end": 314,
+                    "start": 258,
+                    "word": "refu"
+                  },
+                  {
+                    "end": 366,
+                    "start": 346,
+                    "word": "za"
+                  },
+                  {
+                    "end": 443,
+                    "start": 367,
+                    "word": "mlango"
+                  }
+                ],
+                "until": 443,
+                "utterances": "Alitengeneza fremu refu za mlango"
+              }
+            ],
+            "sentence": "Alitengeneza fremu refu za mlango."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alitengeneza_kitanda_kirefu_sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 154,
+                    "start": 21,
+                    "word": "Alitengeneza"
+                  },
+                  {
+                    "end": 236,
+                    "start": 155,
+                    "word": "kitanda"
+                  },
+                  {
+                    "end": 327,
+                    "start": 237,
+                    "word": "kirefu"
+                  },
+                  {
+                    "end": 401,
+                    "start": 353,
+                    "word": "sana"
+                  }
+                ],
+                "until": 401,
+                "utterances": "Alitengeneza kitanda kirefu sana"
+              }
+            ],
+            "sentence": "Alitengeneza kitanda kirefu sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisha_akanunua_baiskikeli_iliyo_refu_mno.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Kisha"
+                  },
+                  {
+                    "end": 189,
+                    "start": 75,
+                    "word": "akanunua"
+                  },
+                  {
+                    "end": 282,
+                    "start": 190,
+                    "word": "baiskikeli"
+                  },
+                  {
+                    "end": 368,
+                    "start": 283,
+                    "word": "iliyo"
+                  },
+                  {
+                    "end": 423,
+                    "start": 369,
+                    "word": "refu"
+                  },
+                  {
+                    "end": 501,
+                    "start": 450,
+                    "word": "mno"
+                  }
+                ],
+                "until": 501,
+                "utterances": "Kisha akanunua baiskikeli iliyo refu mno"
+              }
+            ],
+            "sentence": "Kisha akanunua baiskikeli iliyo refu mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliketi_juu_ya_kiti_kilichokuwa_juu_sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 21,
+                    "word": "Aliketi"
+                  },
+                  {
+                    "end": 139,
+                    "start": 106,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 160,
+                    "start": 140,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 214,
+                    "start": 161,
+                    "word": "kiti"
+                  },
+                  {
+                    "end": 311,
+                    "start": 215,
+                    "word": "kilichokuwa"
+                  },
+                  {
+                    "end": 371,
+                    "start": 312,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 432,
+                    "start": 372,
+                    "word": "sana"
+                  }
+                ],
+                "until": 432,
+                "utterances": "Aliketi juu ya kiti kilichokuwa juu sana"
+              }
+            ],
+            "sentence": "Aliketi juu ya kiti kilichokuwa juu sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikula_kwa_kutumia_uma_iliyokuwa_refu_mno.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 20,
+                    "word": "Alikula"
+                  },
+                  {
+                    "end": 145,
+                    "start": 120,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 232,
+                    "start": 146,
+                    "word": "kutumia"
+                  },
+                  {
+                    "end": 287,
+                    "start": 248,
+                    "word": "uma"
+                  },
+                  {
+                    "end": 397,
+                    "start": 300,
+                    "word": "iliyokuwa"
+                  },
+                  {
+                    "end": 469,
+                    "start": 398,
+                    "word": "refu"
+                  },
+                  {
+                    "end": 511,
+                    "start": 470,
+                    "word": "mno"
+                  }
+                ],
+                "until": 511,
+                "utterances": "Alikula kwa kutumia uma iliyokuwa refu mno"
+              }
+            ],
+            "sentence": "Alikula kwa kutumia uma iliyokuwa refu mno."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_17_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliacha_nyumba_yake_na_kuishi_katika_msitu_mkubwa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 21,
+                    "word": "Aliacha"
+                  },
+                  {
+                    "end": 155,
+                    "start": 107,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 218,
+                    "start": 156,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 280,
+                    "start": 256,
+                    "word": "na"
+                  },
+                  {
+                    "end": 347,
+                    "start": 281,
+                    "word": "kuishi"
+                  },
+                  {
+                    "end": 412,
+                    "start": 348,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 505,
+                    "start": 413,
+                    "word": "msitu"
+                  },
+                  {
+                    "end": 601,
+                    "start": 506,
+                    "word": "mkubwa"
+                  }
+                ],
+                "until": 601,
+                "utterances": "Aliacha nyumba yake na kuishi katika msitu mkubwa"
+              }
+            ],
+            "sentence": "Aliacha nyumba yake na kuishi katika msitu mkubwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliishi_kwa_miaka_mingi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 21,
+                    "word": "Aliishi"
+                  },
+                  {
+                    "end": 127,
+                    "start": 103,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 200,
+                    "start": 128,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 304,
+                    "start": 201,
+                    "word": "mingi"
+                  }
+                ],
+                "until": 304,
+                "utterances": "Aliishi kwa miaka mingi"
+              }
+            ],
+            "sentence": "Aliishi kwa miaka mingi."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Catherine Groenewald",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Ursula Nafula",
+  "title": "Mwanamme mrefu",
+  "titleimage": "level2_17_page_01_image_0001.jpg"
+}

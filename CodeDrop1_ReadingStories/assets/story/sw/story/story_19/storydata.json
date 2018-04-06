@@ -1,0 +1,1848 @@
+{
+  "authors": "Mecelin Kakoro",
+  "copyright": "Copyright (c) African Storybook Initiative, 2015",
+  "data": [
+    {
+      "image": "level2_3_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "palikuwa_na_basi_moja_tu_katika_kijiji_cha_ebei.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 20,
+                    "word": "Palikuwa"
+                  },
+                  {
+                    "end": 106,
+                    "start": 84,
+                    "word": "na"
+                  },
+                  {
+                    "end": 150,
+                    "start": 107,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 193,
+                    "start": 151,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 224,
+                    "start": 194,
+                    "word": "tu"
+                  },
+                  {
+                    "end": 303,
+                    "start": 252,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 362,
+                    "start": 304,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 386,
+                    "start": 363,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 464,
+                    "start": 387,
+                    "word": "Ebei"
+                  }
+                ],
+                "until": 464,
+                "utterances": "Palikuwa na basi moja tu katika kijiji cha Ebei"
+              }
+            ],
+            "sentence": "Palikuwa na basi moja tu katika kijiji cha Ebei."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ilikuwa_kubwa_na_ya_buluu.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 19,
+                    "word": "Ilikuwa"
+                  },
+                  {
+                    "end": 200,
+                    "start": 144,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 243,
+                    "start": 227,
+                    "word": "na"
+                  },
+                  {
+                    "end": 261,
+                    "start": 244,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 320,
+                    "start": 262,
+                    "word": "buluu"
+                  }
+                ],
+                "until": 320,
+                "utterances": "Ilikuwa kubwa na ya buluu"
+              }
+            ],
+            "sentence": "Ilikuwa kubwa na ya buluu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ilitoa_kelele_sana.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 129,
+                    "start": 22,
+                    "word": "Ilitoa"
+                  },
+                  {
+                    "end": 191,
+                    "start": 130,
+                    "word": "kelele"
+                  },
+                  {
+                    "end": 266,
+                    "start": 192,
+                    "word": "sana"
+                  }
+                ],
+                "until": 266,
+                "utterances": "Ilitoa kelele sana"
+              }
+            ],
+            "sentence": "Ilitoa kelele sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_mama_ya_ebei_alisema_kesho_tutakwenda_mjini_kununua_sare_yako_ya_shule.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 21,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 130,
+                    "start": 65,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 215,
+                    "start": 174,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 237,
+                    "start": 216,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 312,
+                    "start": 250,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 397,
+                    "start": 316,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 505,
+                    "start": 444,
+                    "word": "Kesho"
+                  },
+                  {
+                    "end": 606,
+                    "start": 506,
+                    "word": "tutakwenda"
+                  },
+                  {
+                    "end": 697,
+                    "start": 607,
+                    "word": "mjini"
+                  },
+                  {
+                    "end": 803,
+                    "start": 728,
+                    "word": "kununua"
+                  },
+                  {
+                    "end": 844,
+                    "start": 804,
+                    "word": "sare"
+                  },
+                  {
+                    "end": 904,
+                    "start": 845,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 921,
+                    "start": 905,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 978,
+                    "start": 922,
+                    "word": "shule"
+                  }
+                ],
+                "until": 978,
+                "utterances": "Siku moja mama ya Ebei alisema Kesho tutakwenda mjini kununua sare yako ya shule"
+              }
+            ],
+            "sentence": "Siku moja mama ya Ebei alisema, \"Kesho tutakwenda mjini kununua sare yako ya shule.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_alifurahi_sana.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 22,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 214,
+                    "start": 103,
+                    "word": "alifurahi"
+                  },
+                  {
+                    "end": 285,
+                    "start": 215,
+                    "word": "sana"
+                  }
+                ],
+                "until": 285,
+                "utterances": "Ebei alifurahi sana"
+              }
+            ],
+            "sentence": "Ebei alifurahi sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "angesafiria_katika_ile_basi_kubwa_ya_buluu.mp3",
+                "from": 34,
+                "segmentation": [
+                  {
+                    "end": 155,
+                    "start": 34,
+                    "word": "Angesafiria"
+                  },
+                  {
+                    "end": 216,
+                    "start": 156,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 258,
+                    "start": 230,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 308,
+                    "start": 259,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 356,
+                    "start": 309,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 377,
+                    "start": 357,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 446,
+                    "start": 378,
+                    "word": "buluu"
+                  }
+                ],
+                "until": 446,
+                "utterances": "Angesafiria katika ile basi kubwa ya buluu"
+              }
+            ],
+            "sentence": "Angesafiria katika ile basi kubwa ya buluu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hakuweza_kulala_usiku_huo.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 18,
+                    "word": "Hakuweza"
+                  },
+                  {
+                    "end": 163,
+                    "start": 107,
+                    "word": "kulala"
+                  },
+                  {
+                    "end": 215,
+                    "start": 164,
+                    "word": "usiku"
+                  },
+                  {
+                    "end": 260,
+                    "start": 235,
+                    "word": "huo"
+                  }
+                ],
+                "until": 260,
+                "utterances": "Hakuweza kulala usiku huo"
+              }
+            ],
+            "sentence": "Hakuweza kulala usiku huo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_alikuwa_tayari_amevaa_wakati_mama_yake_alikwenda_kumuamsha.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 10,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 150,
+                    "start": 80,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 243,
+                    "start": 151,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 377,
+                    "start": 279,
+                    "word": "amevaa"
+                  },
+                  {
+                    "end": 442,
+                    "start": 378,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 478,
+                    "start": 443,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 530,
+                    "start": 479,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 637,
+                    "start": 564,
+                    "word": "alikwenda"
+                  },
+                  {
+                    "end": 746,
+                    "start": 638,
+                    "word": "kumuamsha"
+                  }
+                ],
+                "until": 746,
+                "utterances": "Ebei alikuwa tayari amevaa wakati mama yake alikwenda kumuamsha"
+              }
+            ],
+            "sentence": "Ebei alikuwa tayari amevaa wakati mama yake alikwenda kumuamsha."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_na_mama_yake_walitembea_kwenda_katika_kituo_cha_basi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 21,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 100,
+                    "start": 80,
+                    "word": "na"
+                  },
+                  {
+                    "end": 138,
+                    "start": 101,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 188,
+                    "start": 139,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 307,
+                    "start": 189,
+                    "word": "walitembea"
+                  },
+                  {
+                    "end": 393,
+                    "start": 345,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 496,
+                    "start": 423,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 559,
+                    "start": 497,
+                    "word": "kituo"
+                  },
+                  {
+                    "end": 584,
+                    "start": 560,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 641,
+                    "start": 585,
+                    "word": "basi"
+                  }
+                ],
+                "until": 641,
+                "utterances": "Ebei na mama yake walitembea kwenda katika kituo cha basi"
+              }
+            ],
+            "sentence": "Ebei na mama yake walitembea kwenda katika kituo cha basi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "walisubiri_ile_basi_kubwa_ya_buluu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 143,
+                    "start": 21,
+                    "word": "Walisubiri"
+                  },
+                  {
+                    "end": 178,
+                    "start": 147,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 224,
+                    "start": 179,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 280,
+                    "start": 225,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 299,
+                    "start": 281,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 357,
+                    "start": 300,
+                    "word": "buluu"
+                  }
+                ],
+                "until": 357,
+                "utterances": "Walisubiri ile basi kubwa ya buluu"
+              }
+            ],
+            "sentence": "Walisubiri ile basi kubwa ya buluu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_basi_haikufika.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 14,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 106,
+                    "start": 63,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 226,
+                    "start": 107,
+                    "word": "haikufika"
+                  }
+                ],
+                "until": 226,
+                "utterances": "Lakini basi haikufika"
+              }
+            ],
+            "sentence": "Lakini basi haikufika."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "watu_wengine_walifika_pale_kwenye_kituo.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 19,
+                    "word": "Watu"
+                  },
+                  {
+                    "end": 132,
+                    "start": 67,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 212,
+                    "start": 133,
+                    "word": "walifika"
+                  },
+                  {
+                    "end": 258,
+                    "start": 213,
+                    "word": "pale"
+                  },
+                  {
+                    "end": 302,
+                    "start": 259,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 351,
+                    "start": 303,
+                    "word": "kituo"
+                  }
+                ],
+                "until": 351,
+                "utterances": "Watu wengine walifika pale kwenye kituo"
+              }
+            ],
+            "sentence": "Watu wengine walifika pale kwenye kituo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "walilalamika_kwani_basi_ilichelewa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 173,
+                    "start": 21,
+                    "word": "Walilalamika"
+                  },
+                  {
+                    "end": 223,
+                    "start": 174,
+                    "word": "kwani"
+                  },
+                  {
+                    "end": 282,
+                    "start": 224,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 389,
+                    "start": 331,
+                    "word": "ilichelewa"
+                  }
+                ],
+                "until": 389,
+                "utterances": "Walilalamika kwani basi ilichelewa"
+              }
+            ],
+            "sentence": "Walilalamika kwani basi ilichelewa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi_imetuacha.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 196,
+                    "start": 68,
+                    "word": "imetuacha"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Basi imetuacha"
+              }
+            ],
+            "sentence": "\"Basi imetuacha?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_alikuwa_na_wasiwasi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 22,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 163,
+                    "start": 58,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 190,
+                    "start": 164,
+                    "word": "na"
+                  },
+                  {
+                    "end": 315,
+                    "start": 191,
+                    "word": "wasiwasi"
+                  }
+                ],
+                "until": 315,
+                "utterances": "Ebei alikuwa na wasiwasi"
+              }
+            ],
+            "sentence": "Ebei alikuwa na wasiwasi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hatutaweza_kwenda_mjini.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 138,
+                    "start": 20,
+                    "word": "Hatutaweza"
+                  },
+                  {
+                    "end": 200,
+                    "start": 139,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 293,
+                    "start": 201,
+                    "word": "mjini"
+                  }
+                ],
+                "until": 293,
+                "utterances": "Hatutaweza kwenda mjini"
+              }
+            ],
+            "sentence": "\"Hatutaweza kwenda mjini."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sitapata_sare_yangu_ya_shule_aliwaza.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 112,
+                    "start": 22,
+                    "word": "Sitapata"
+                  },
+                  {
+                    "end": 144,
+                    "start": 113,
+                    "word": "sare"
+                  },
+                  {
+                    "end": 196,
+                    "start": 145,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 204,
+                    "start": 197,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 270,
+                    "start": 205,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 396,
+                    "start": 302,
+                    "word": "aliwaza"
+                  }
+                ],
+                "until": 396,
+                "utterances": "Sitapata sare yangu ya shule aliwaza"
+              }
+            ],
+            "sentence": "Sitapata sare yangu ya shule,\" aliwaza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baadhi_ya_watu_walikata_tamaa_wakarudi_nyumbani.mp3",
+                "from": 57,
+                "segmentation": [
+                  {
+                    "end": 137,
+                    "start": 57,
+                    "word": "Baadhi"
+                  },
+                  {
+                    "end": 150,
+                    "start": 138,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 204,
+                    "start": 151,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 299,
+                    "start": 205,
+                    "word": "walikata"
+                  },
+                  {
+                    "end": 378,
+                    "start": 300,
+                    "word": "tamaa"
+                  },
+                  {
+                    "end": 457,
+                    "start": 379,
+                    "word": "wakarudi"
+                  },
+                  {
+                    "end": 541,
+                    "start": 458,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 541,
+                "utterances": "Baadhi ya watu walikata tamaa wakarudi nyumbani"
+              }
+            ],
+            "sentence": "Baadhi ya watu walikata tamaa wakarudi nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_ebei_alilia_akakataa_kwenda.mp3",
+                "from": 34,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 34,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 163,
+                    "start": 110,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 260,
+                    "start": 183,
+                    "word": "alilia"
+                  },
+                  {
+                    "end": 408,
+                    "start": 300,
+                    "word": "akakataa"
+                  },
+                  {
+                    "end": 482,
+                    "start": 409,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": 482,
+                "utterances": "Lakini Ebei alilia akakataa kwenda"
+              }
+            ],
+            "sentence": "Lakini Ebei alilia akakataa kwenda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama_yake_alimtuliza_tutasubiri_zaidi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 2,
+                    "word": "Mama"
+                  },
+                  {
+                    "end": 114,
+                    "start": 62,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 262,
+                    "start": 122,
+                    "word": "alimtuliza"
+                  },
+                  {
+                    "end": 424,
+                    "start": 312,
+                    "word": "Tutasubiri"
+                  },
+                  {
+                    "end": 526,
+                    "start": 425,
+                    "word": "zaidi"
+                  }
+                ],
+                "until": 526,
+                "utterances": "Mama yake alimtuliza Tutasubiri zaidi"
+              }
+            ],
+            "sentence": "Mama yake alimtuliza, \"Tutasubiri zaidi.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ghafla_walisikia_kelele.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 20,
+                    "word": "Ghafla"
+                  },
+                  {
+                    "end": 248,
+                    "start": 160,
+                    "word": "walisikia"
+                  },
+                  {
+                    "end": 329,
+                    "start": 249,
+                    "word": "kelele"
+                  }
+                ],
+                "until": 329,
+                "utterances": "Ghafla walisikia kelele"
+              }
+            ],
+            "sentence": "Ghafla, walisikia kelele."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakaona_vumbi_hewani.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 20,
+                    "word": "Wakaona"
+                  },
+                  {
+                    "end": 152,
+                    "start": 93,
+                    "word": "vumbi"
+                  },
+                  {
+                    "end": 227,
+                    "start": 153,
+                    "word": "hewani"
+                  }
+                ],
+                "until": 227,
+                "utterances": "Wakaona vumbi hewani"
+              }
+            ],
+            "sentence": "Wakaona vumbi hewani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi_ilikuwa_inakuja.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 135,
+                    "start": 78,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 221,
+                    "start": 136,
+                    "word": "inakuja"
+                  }
+                ],
+                "until": 221,
+                "utterances": "Basi ilikuwa inakuja"
+              }
+            ],
+            "sentence": "Basi ilikuwa inakuja."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_basi_haikuwa_buluu.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 55,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 155,
+                    "start": 107,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 220,
+                    "start": 156,
+                    "word": "haikuwa"
+                  },
+                  {
+                    "end": 262,
+                    "start": 221,
+                    "word": "buluu"
+                  }
+                ],
+                "until": 262,
+                "utterances": "Lakini basi haikuwa buluu"
+              }
+            ],
+            "sentence": "Lakini basi haikuwa buluu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "haikuwa_kubwa.mp3",
+                "from": 52,
+                "segmentation": [
+                  {
+                    "end": 136,
+                    "start": 52,
+                    "word": "Haikuwa"
+                  },
+                  {
+                    "end": 199,
+                    "start": 137,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 199,
+                "utterances": "Haikuwa kubwa"
+              }
+            ],
+            "sentence": "Haikuwa kubwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi_ile_ilikuwa_nyekundu_na_ndogo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 192,
+                    "start": 116,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 286,
+                    "start": 193,
+                    "word": "nyekundu"
+                  },
+                  {
+                    "end": 325,
+                    "start": 308,
+                    "word": "na"
+                  },
+                  {
+                    "end": 391,
+                    "start": 326,
+                    "word": "ndogo"
+                  }
+                ],
+                "until": 391,
+                "utterances": "Basi ile ilikuwa nyekundu na ndogo"
+              }
+            ],
+            "sentence": "Basi ile ilikuwa nyekundu na ndogo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "waliosubiri_waliiangalia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 178,
+                    "start": 21,
+                    "word": "Waliosubiri"
+                  },
+                  {
+                    "end": 408,
+                    "start": 212,
+                    "word": "waliiangalia"
+                  }
+                ],
+                "until": 408,
+                "utterances": "Waliosubiri waliiangalia"
+              }
+            ],
+            "sentence": "Waliosubiri waliiangalia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hawakuingia_ndani.mp3",
+                "from": 48,
+                "segmentation": [
+                  {
+                    "end": 167,
+                    "start": 48,
+                    "word": "Hawakuingia"
+                  },
+                  {
+                    "end": 220,
+                    "start": 168,
+                    "word": "ndani"
+                  }
+                ],
+                "until": 220,
+                "utterances": "Hawakuingia ndani"
+              }
+            ],
+            "sentence": "Hawakuingia ndani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dereva_aliita.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "dereva"
+                  },
+                  {
+                    "end": 180,
+                    "start": 84,
+                    "word": "aliita"
+                  }
+                ],
+                "until": 180,
+                "utterances": "dereva aliita"
+              }
+            ],
+            "sentence": "Dereva aliita."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumechelewa_sana_leo_alisema.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 121,
+                    "start": 21,
+                    "word": "Tumechelewa"
+                  },
+                  {
+                    "end": 166,
+                    "start": 122,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 251,
+                    "start": 167,
+                    "word": "leo"
+                  },
+                  {
+                    "end": 349,
+                    "start": 262,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 349,
+                "utterances": "Tumechelewa sana leo alisema"
+              }
+            ],
+            "sentence": "\"Tumechelewa sana leo,\" alisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_na_mama_yake_walikuwa_wa_kwanza_kuingia.mp3",
+                "from": 46,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 46,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 123,
+                    "start": 108,
+                    "word": "na"
+                  },
+                  {
+                    "end": 160,
+                    "start": 124,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 209,
+                    "start": 161,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 277,
+                    "start": 210,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 295,
+                    "start": 278,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 344,
+                    "start": 296,
+                    "word": "kwanza"
+                  },
+                  {
+                    "end": 418,
+                    "start": 345,
+                    "word": "kuingia"
+                  }
+                ],
+                "until": 418,
+                "utterances": "Ebei na mama yake walikuwa wa kwanza kuingia"
+              }
+            ],
+            "sentence": "Ebei na mama yake walikuwa wa kwanza kuingia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mara_kila_mmoja_aliingia_ndani_ya_basi_ile_ndogo_nyekundu.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 1,
+                    "word": "Mara"
+                  },
+                  {
+                    "end": 112,
+                    "start": 66,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 182,
+                    "start": 113,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 279,
+                    "start": 183,
+                    "word": "aliingia"
+                  },
+                  {
+                    "end": 334,
+                    "start": 280,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 340,
+                    "start": 335,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 397,
+                    "start": 341,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 430,
+                    "start": 402,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 477,
+                    "start": 431,
+                    "word": "ndogo"
+                  },
+                  {
+                    "end": 550,
+                    "start": 478,
+                    "word": "nyekundu"
+                  }
+                ],
+                "until": 550,
+                "utterances": "Mara kila mmoja aliingia ndani ya basi ile ndogo nyekundu"
+              }
+            ],
+            "sentence": "Mara kila mmoja aliingia ndani ya basi ile ndogo nyekundu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_aliangalia_dirishani.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 10,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 159,
+                    "start": 80,
+                    "word": "aliangalia"
+                  },
+                  {
+                    "end": 278,
+                    "start": 160,
+                    "word": "dirishani"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Ebei aliangalia dirishani"
+              }
+            ],
+            "sentence": "Ebei aliangalia dirishani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliona_watu_wengi_zaidi_katika_kituo_cha_basi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 22,
+                    "word": "Aliona"
+                  },
+                  {
+                    "end": 147,
+                    "start": 103,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 213,
+                    "start": 148,
+                    "word": "wengi"
+                  },
+                  {
+                    "end": 282,
+                    "start": 214,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 366,
+                    "start": 313,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 421,
+                    "start": 367,
+                    "word": "kituo"
+                  },
+                  {
+                    "end": 437,
+                    "start": 422,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 495,
+                    "start": 438,
+                    "word": "basi"
+                  }
+                ],
+                "until": 495,
+                "utterances": "Aliona watu wengi zaidi katika kituo cha basi"
+              }
+            ],
+            "sentence": "Aliona watu wengi zaidi katika kituo cha basi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hata_wengine_zaidi_walikimbia_kuifikia_basi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 18,
+                    "word": "Hata"
+                  },
+                  {
+                    "end": 133,
+                    "start": 78,
+                    "word": "wengine"
+                  },
+                  {
+                    "end": 206,
+                    "start": 134,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 346,
+                    "start": 237,
+                    "word": "walikimbia"
+                  },
+                  {
+                    "end": 452,
+                    "start": 347,
+                    "word": "kuifikia"
+                  },
+                  {
+                    "end": 520,
+                    "start": 453,
+                    "word": "basi"
+                  }
+                ],
+                "until": 520,
+                "utterances": "Hata wengine zaidi walikimbia kuifikia basi"
+              }
+            ],
+            "sentence": "Hata wengine zaidi walikimbia kuifikia basi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_walikuwa_wamechelewa.mp3",
+                "from": 28,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 28,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 176,
+                    "start": 91,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 281,
+                    "start": 177,
+                    "word": "wamechelewa"
+                  }
+                ],
+                "until": 281,
+                "utterances": "Lakini walikuwa wamechelewa"
+              }
+            ],
+            "sentence": "Lakini walikuwa wamechelewa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi_iliondoka_kwenda_mjini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 181,
+                    "start": 80,
+                    "word": "iliondoka"
+                  },
+                  {
+                    "end": 233,
+                    "start": 182,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 322,
+                    "start": 234,
+                    "word": "mjini"
+                  }
+                ],
+                "until": 322,
+                "utterances": "Basi iliondoka kwenda mjini"
+              }
+            ],
+            "sentence": "Basi iliondoka kwenda mjini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wapi_basi_kubwa_ya_buluu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 22,
+                    "word": "Wapi"
+                  },
+                  {
+                    "end": 110,
+                    "start": 66,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 161,
+                    "start": 111,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 186,
+                    "start": 162,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 278,
+                    "start": 187,
+                    "word": "buluu"
+                  }
+                ],
+                "until": 278,
+                "utterances": "Wapi basi kubwa ya buluu"
+              }
+            ],
+            "sentence": "\"Wapi basi kubwa ya buluu?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama_yake_ebei_aliuliza.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 19,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 103,
+                    "start": 59,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 165,
+                    "start": 104,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 251,
+                    "start": 166,
+                    "word": "aliuliza"
+                  }
+                ],
+                "until": 251,
+                "utterances": "mama yake Ebei aliuliza"
+              }
+            ],
+            "sentence": "mama yake Ebei aliuliza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "iliharibika_dereva_alimjibu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 162,
+                    "start": 21,
+                    "word": "Iliharibika"
+                  },
+                  {
+                    "end": 239,
+                    "start": 182,
+                    "word": "dereva"
+                  },
+                  {
+                    "end": 345,
+                    "start": 240,
+                    "word": "alimjibu"
+                  }
+                ],
+                "until": 345,
+                "utterances": "Iliharibika dereva alimjibu"
+              }
+            ],
+            "sentence": "\"Iliharibika,\" dereva alimjibu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kesho_itakuja_aliongeza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 2,
+                    "word": "Kesho"
+                  },
+                  {
+                    "end": 184,
+                    "start": 88,
+                    "word": "itakuja"
+                  },
+                  {
+                    "end": 308,
+                    "start": 208,
+                    "word": "aliongeza"
+                  }
+                ],
+                "until": 308,
+                "utterances": "Kesho itakuja aliongeza"
+              }
+            ],
+            "sentence": "Kesho itakuja,\" aliongeza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_3_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ebei_hakujali_rangi_ya_basi.mp3",
+                "from": 9,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 9,
+                    "word": "Ebei"
+                  },
+                  {
+                    "end": 172,
+                    "start": 68,
+                    "word": "hakujali"
+                  },
+                  {
+                    "end": 217,
+                    "start": 173,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 229,
+                    "start": 218,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 309,
+                    "start": 230,
+                    "word": "basi"
+                  }
+                ],
+                "until": 309,
+                "utterances": "Ebei hakujali rangi ya basi"
+              }
+            ],
+            "sentence": "Ebei hakujali rangi ya basi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hakujali_ukubwa_wa_basi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 18,
+                    "word": "Hakujali"
+                  },
+                  {
+                    "end": 174,
+                    "start": 104,
+                    "word": "ukubwa"
+                  },
+                  {
+                    "end": 192,
+                    "start": 175,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 267,
+                    "start": 193,
+                    "word": "basi"
+                  }
+                ],
+                "until": 267,
+                "utterances": "Hakujali ukubwa wa basi"
+              }
+            ],
+            "sentence": "Hakujali ukubwa wa basi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alifurahi_kuwa_basi_hii_ilikuwa_inakwenda_mjini.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 197,
+                    "start": 21,
+                    "word": "Alifurahi"
+                  },
+                  {
+                    "end": 267,
+                    "start": 238,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 317,
+                    "start": 268,
+                    "word": "basi"
+                  },
+                  {
+                    "end": 383,
+                    "start": 318,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 469,
+                    "start": 407,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 540,
+                    "start": 470,
+                    "word": "inakwenda"
+                  },
+                  {
+                    "end": 624,
+                    "start": 541,
+                    "word": "mjini"
+                  }
+                ],
+                "until": 624,
+                "utterances": "Alifurahi kuwa basi hii ilikuwa inakwenda mjini"
+              }
+            ],
+            "sentence": "Alifurahi kuwa basi hii ilikuwa inakwenda mjini."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Mango Tree",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Basi kubwa ya buluu",
+  "titleimage": "level2_3_page_01_image_0001.jpg"
+}

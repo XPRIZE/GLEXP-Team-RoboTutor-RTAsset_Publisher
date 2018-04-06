@@ -1,0 +1,1385 @@
+{
+  "authors": "Nambi Sseppuuya Community Resource Centre",
+  "copyright": "Copyright (c) Text: Ugandan Community Libraries Association (UgCLA; Illusrations: African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_21_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo_awali_palikuwa_na_panya_wawili.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 19,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 161,
+                    "start": 74,
+                    "word": "awali"
+                  },
+                  {
+                    "end": 266,
+                    "start": 197,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 292,
+                    "start": 267,
+                    "word": "na"
+                  },
+                  {
+                    "end": 343,
+                    "start": 293,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 426,
+                    "start": 344,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 426,
+                "utterances": "Hapo awali palikuwa na panya wawili"
+              }
+            ],
+            "sentence": "Hapo awali palikuwa na panya wawili."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mmoja_wao_aliishi_kwenye_nyika.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 20,
+                    "word": "Mmoja"
+                  },
+                  {
+                    "end": 136,
+                    "start": 81,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 218,
+                    "start": 137,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 264,
+                    "start": 219,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 331,
+                    "start": 265,
+                    "word": "nyika"
+                  }
+                ],
+                "until": 331,
+                "utterances": "Mmoja wao aliishi kwenye nyika"
+              }
+            ],
+            "sentence": "Mmoja wao aliishi kwenye nyika."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya_mwingine_aliishi_katika_nyumba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 21,
+                    "word": "Panya"
+                  },
+                  {
+                    "end": 144,
+                    "start": 58,
+                    "word": "mwingine"
+                  },
+                  {
+                    "end": 222,
+                    "start": 145,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 284,
+                    "start": 223,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 351,
+                    "start": 285,
+                    "word": "nyumba"
+                  }
+                ],
+                "until": 351,
+                "utterances": "Panya mwingine aliishi katika nyumba"
+              }
+            ],
+            "sentence": "Panya mwingine aliishi katika nyumba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_panya_aliyeishi_katika_nyumba_alimwambia_panya_wa_nyika_wewe_chakula_chako_si_kizuri_using_53.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 18,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 134,
+                    "start": 65,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 231,
+                    "start": 188,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 336,
+                    "start": 242,
+                    "word": "aliyeishi"
+                  },
+                  {
+                    "end": 400,
+                    "start": 337,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 462,
+                    "start": 401,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 583,
+                    "start": 478,
+                    "word": "alimwambia"
+                  },
+                  {
+                    "end": 642,
+                    "start": 584,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 657,
+                    "start": 643,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 711,
+                    "start": 658,
+                    "word": "nyika"
+                  },
+                  {
+                    "end": 831,
+                    "start": 784,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 962,
+                    "start": 893,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 1013,
+                    "start": 963,
+                    "word": "chako"
+                  },
+                  {
+                    "end": 1046,
+                    "start": 1014,
+                    "word": "si"
+                  },
+                  {
+                    "end": 1141,
+                    "start": 1047,
+                    "word": "kizuri"
+                  },
+                  {
+                    "end": 1262,
+                    "start": 1181,
+                    "word": "usingizi"
+                  },
+                  {
+                    "end": 1327,
+                    "start": 1263,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 1416,
+                    "start": 1337,
+                    "word": "umejaa"
+                  },
+                  {
+                    "end": 1446,
+                    "start": 1417,
+                    "word": "mang"
+                  },
+                  {
+                    "end": 1497,
+                    "start": 1447,
+                    "word": "amung"
+                  },
+                  {
+                    "end": 1552,
+                    "start": 1498,
+                    "word": "amu"
+                  },
+                  {
+                    "end": 1634,
+                    "start": 1600,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 1695,
+                    "start": 1635,
+                    "word": "mvua"
+                  },
+                  {
+                    "end": 1836,
+                    "start": 1696,
+                    "word": "ikikulowesha"
+                  }
+                ],
+                "until": 1836,
+                "utterances": "Siku moja panya aliyeishi katika nyumba alimwambia panya wa nyika wewe chakula chako si kizuri usingizi wako umejaa mang amung amu huku mvua ikikulowesha"
+              }
+            ],
+            "sentence": "Siku moja, panya aliyeishi katika nyumba alimwambia panya wa nyika, \"wewe chakula chako si kizuri, usingizi wako umejaa mang' amung' amu huku mvua ikikulowesha.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_sisi_tunalala_fofofo_nyumba_za_watemi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 22,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 178,
+                    "start": 90,
+                    "word": "sisi"
+                  },
+                  {
+                    "end": 314,
+                    "start": 214,
+                    "word": "tunalala"
+                  },
+                  {
+                    "end": 462,
+                    "start": 315,
+                    "word": "fofofo"
+                  },
+                  {
+                    "end": 592,
+                    "start": 526,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 623,
+                    "start": 593,
+                    "word": "za"
+                  },
+                  {
+                    "end": 740,
+                    "start": 624,
+                    "word": "watemi"
+                  }
+                ],
+                "until": 740,
+                "utterances": "Lakini sisi tunalala fofofo nyumba za watemi"
+              }
+            ],
+            "sentence": "\"Lakini sisi, tunalala fofofo nyumba za watemi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tunakula_vyakula_vingi_mno.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 130,
+                    "start": 21,
+                    "word": "Tunakula"
+                  },
+                  {
+                    "end": 225,
+                    "start": 131,
+                    "word": "vyakula"
+                  },
+                  {
+                    "end": 336,
+                    "start": 226,
+                    "word": "vingi"
+                  },
+                  {
+                    "end": 389,
+                    "start": 337,
+                    "word": "mno"
+                  }
+                ],
+                "until": 389,
+                "utterances": "Tunakula vyakula vingi mno"
+              }
+            ],
+            "sentence": "Tunakula vyakula vingi mno."
+          },
+          {
+            "narration": [
+              {
+                "audio": "afadhali_unitembelee_siku_moja_ukaone_fahari_iliyopo_wewe_mwenyewe_alisema_panya_wa_nyumba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 132,
+                    "start": 21,
+                    "word": "Afadhali"
+                  },
+                  {
+                    "end": 246,
+                    "start": 144,
+                    "word": "unitembelee"
+                  },
+                  {
+                    "end": 329,
+                    "start": 277,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 386,
+                    "start": 330,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 506,
+                    "start": 441,
+                    "word": "ukaone"
+                  },
+                  {
+                    "end": 637,
+                    "start": 507,
+                    "word": "fahari"
+                  },
+                  {
+                    "end": 786,
+                    "start": 688,
+                    "word": "iliyopo"
+                  },
+                  {
+                    "end": 846,
+                    "start": 787,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 952,
+                    "start": 847,
+                    "word": "mwenyewe"
+                  },
+                  {
+                    "end": 1092,
+                    "start": 1007,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 1148,
+                    "start": 1093,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 1165,
+                    "start": 1149,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1228,
+                    "start": 1166,
+                    "word": "nyumba"
+                  }
+                ],
+                "until": 1228,
+                "utterances": "Afadhali unitembelee siku moja ukaone fahari iliyopo wewe mwenyewe alisema panya wa nyumba"
+              }
+            ],
+            "sentence": "Afadhali unitembelee siku moja ukaone fahari iliyopo wewe mwenyewe,\" alisema panya wa nyumba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "leo_hii_hii_usiku_akajibu_panya_wa_nyika.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "Leo"
+                  },
+                  {
+                    "end": 133,
+                    "start": 77,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 200,
+                    "start": 134,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 280,
+                    "start": 201,
+                    "word": "usiku"
+                  },
+                  {
+                    "end": 399,
+                    "start": 323,
+                    "word": "akajibu"
+                  },
+                  {
+                    "end": 451,
+                    "start": 400,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 467,
+                    "start": 452,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 527,
+                    "start": 468,
+                    "word": "nyika"
+                  }
+                ],
+                "until": 527,
+                "utterances": "Leo hii hii usiku akajibu panya wa nyika"
+              }
+            ],
+            "sentence": "\"Leo hii hii usiku,\" akajibu panya wa nyika."
+          },
+          {
+            "narration": [
+              {
+                "audio": "niko_tayari_kama_mrija_unaosubiri_kinwaji.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 18,
+                    "word": "Niko"
+                  },
+                  {
+                    "end": 147,
+                    "start": 73,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 198,
+                    "start": 148,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 280,
+                    "start": 199,
+                    "word": "mrija"
+                  },
+                  {
+                    "end": 402,
+                    "start": 281,
+                    "word": "unaosubiri"
+                  },
+                  {
+                    "end": 508,
+                    "start": 403,
+                    "word": "kinwaji"
+                  }
+                ],
+                "until": 508,
+                "utterances": "Niko tayari kama mrija unaosubiri kinwaji"
+              }
+            ],
+            "sentence": "\"Niko tayari kama mrija unaosubiri kinwaji.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_huo_huo_mwenye_nyumba_alikasirika_ajabu_akifoka_matusi_panya_hawa_wanaokula_chakula_changu_wa_20.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 21,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 178,
+                    "start": 123,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 223,
+                    "start": 179,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 309,
+                    "start": 267,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 361,
+                    "start": 310,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 501,
+                    "start": 373,
+                    "word": "alikasirika"
+                  },
+                  {
+                    "end": 631,
+                    "start": 570,
+                    "word": "ajabu"
+                  },
+                  {
+                    "end": 754,
+                    "start": 645,
+                    "word": "akifoka"
+                  },
+                  {
+                    "end": 836,
+                    "start": 755,
+                    "word": "matusi"
+                  },
+                  {
+                    "end": 972,
+                    "start": 932,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 1018,
+                    "start": 973,
+                    "word": "hawa"
+                  },
+                  {
+                    "end": 1101,
+                    "start": 1019,
+                    "word": "wanaokula"
+                  },
+                  {
+                    "end": 1152,
+                    "start": 1102,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 1200,
+                    "start": 1153,
+                    "word": "changu"
+                  },
+                  {
+                    "end": 1356,
+                    "start": 1239,
+                    "word": "wataona"
+                  },
+                  {
+                    "end": 1389,
+                    "start": 1357,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 1448,
+                    "start": 1390,
+                    "word": "mtema"
+                  },
+                  {
+                    "end": 1534,
+                    "start": 1449,
+                    "word": "kuni"
+                  }
+                ],
+                "until": 1534,
+                "utterances": "Wakati huo huo mwenye nyumba alikasirika ajabu akifoka matusi panya hawa wanaokula chakula changu wataona cha mtema kuni"
+              }
+            ],
+            "sentence": "Wakati huo huo mwenye nyumba alikasirika ajabu akifoka matusi, \"panya hawa wanaokula chakula changu, wataona cha mtema kuni!\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndipo_akawategea_mtego_uliyojaa_sukari.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 21,
+                    "word": "Ndipo"
+                  },
+                  {
+                    "end": 230,
+                    "start": 103,
+                    "word": "akawategea"
+                  },
+                  {
+                    "end": 294,
+                    "start": 231,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 403,
+                    "start": 308,
+                    "word": "uliyojaa"
+                  },
+                  {
+                    "end": 525,
+                    "start": 404,
+                    "word": "sukari"
+                  }
+                ],
+                "until": 525,
+                "utterances": "Ndipo akawategea mtego uliyojaa sukari"
+              }
+            ],
+            "sentence": "Ndipo akawategea mtego uliyojaa sukari."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya_waliingia_nyumbani_kula_vitamu_vilivyomo.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 21,
+                    "word": "Panya"
+                  },
+                  {
+                    "end": 167,
+                    "start": 73,
+                    "word": "waliingia"
+                  },
+                  {
+                    "end": 248,
+                    "start": 168,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 291,
+                    "start": 249,
+                    "word": "kula"
+                  },
+                  {
+                    "end": 370,
+                    "start": 292,
+                    "word": "vitamu"
+                  },
+                  {
+                    "end": 458,
+                    "start": 371,
+                    "word": "vilivyomo"
+                  }
+                ],
+                "until": 458,
+                "utterances": "Panya waliingia nyumbani kula vitamu vilivyomo"
+              }
+            ],
+            "sentence": "Panya waliingia nyumbani kula vitamu vilivyomo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "waliingia_wakicheka_chu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 21,
+                    "word": "Waliingia"
+                  },
+                  {
+                    "end": 218,
+                    "start": 114,
+                    "word": "wakicheka"
+                  },
+                  {
+                    "end": 302,
+                    "start": 253,
+                    "word": "chu"
+                  }
+                ],
+                "until": 302,
+                "utterances": "Waliingia wakicheka chu"
+              }
+            ],
+            "sentence": "Waliingia wakicheka, \"chu..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walipoufikia_mtego_panya_wa_nyumba_alisema_wacha_nionje_sukari.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 161,
+                    "start": 20,
+                    "word": "Walipoufikia"
+                  },
+                  {
+                    "end": 230,
+                    "start": 162,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 314,
+                    "start": 276,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 331,
+                    "start": 315,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 381,
+                    "start": 332,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 479,
+                    "start": 382,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 608,
+                    "start": 541,
+                    "word": "wacha"
+                  },
+                  {
+                    "end": 681,
+                    "start": 609,
+                    "word": "nionje"
+                  },
+                  {
+                    "end": 761,
+                    "start": 682,
+                    "word": "sukari"
+                  }
+                ],
+                "until": 761,
+                "utterances": "Walipoufikia mtego panya wa nyumba alisema wacha nionje sukari"
+              }
+            ],
+            "sentence": "Walipoufikia mtego, panya wa nyumba alisema, \"wacha nionje sukari ..."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tazama_vitamu_vitamu_tunavyokula_hapa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 21,
+                    "word": "Tazama"
+                  },
+                  {
+                    "end": 158,
+                    "start": 100,
+                    "word": "vitamu"
+                  },
+                  {
+                    "end": 223,
+                    "start": 159,
+                    "word": "vitamu"
+                  },
+                  {
+                    "end": 317,
+                    "start": 224,
+                    "word": "tunavyokula"
+                  },
+                  {
+                    "end": 363,
+                    "start": 318,
+                    "word": "hapa"
+                  }
+                ],
+                "until": 363,
+                "utterances": "Tazama vitamu vitamu tunavyokula hapa"
+              }
+            ],
+            "sentence": "Tazama vitamu vitamu tunavyokula hapa.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_kabla_panya_hajapata_kugusa_sukari_mtego_ukamnasa_kichwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 146,
+                    "start": 88,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 202,
+                    "start": 147,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 273,
+                    "start": 203,
+                    "word": "hajapata"
+                  },
+                  {
+                    "end": 336,
+                    "start": 274,
+                    "word": "kugusa"
+                  },
+                  {
+                    "end": 460,
+                    "start": 337,
+                    "word": "sukari"
+                  },
+                  {
+                    "end": 575,
+                    "start": 496,
+                    "word": "mtego"
+                  },
+                  {
+                    "end": 722,
+                    "start": 582,
+                    "word": "ukamnasa"
+                  },
+                  {
+                    "end": 782,
+                    "start": 723,
+                    "word": "kichwa"
+                  }
+                ],
+                "until": 782,
+                "utterances": "Lakini kabla panya hajapata kugusa sukari mtego ukamnasa kichwa"
+              }
+            ],
+            "sentence": "Lakini kabla panya hajapata kugusa sukari, mtego ukamnasa kichwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "macho_yake_yakabubujika_kama_mbilinganyi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 18,
+                    "word": "Macho"
+                  },
+                  {
+                    "end": 160,
+                    "start": 97,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 328,
+                    "start": 161,
+                    "word": "yakabubujika"
+                  },
+                  {
+                    "end": 380,
+                    "start": 329,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 494,
+                    "start": 381,
+                    "word": "mbilinganyi"
+                  }
+                ],
+                "until": 494,
+                "utterances": "Macho yake yakabubujika kama mbilinganyi"
+              }
+            ],
+            "sentence": "Macho yake yakabubujika kama mbilinganyi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya_wa_nyika_akamtazama_ameduwaa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Panya"
+                  },
+                  {
+                    "end": 84,
+                    "start": 67,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 138,
+                    "start": 85,
+                    "word": "nyika"
+                  },
+                  {
+                    "end": 280,
+                    "start": 155,
+                    "word": "akamtazama"
+                  },
+                  {
+                    "end": 443,
+                    "start": 304,
+                    "word": "ameduwaa"
+                  }
+                ],
+                "until": 443,
+                "utterances": "Panya wa nyika akamtazama ameduwaa"
+              }
+            ],
+            "sentence": "Panya wa nyika akamtazama ameduwaa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "akasema_e.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 13,
+                    "word": "Akasema"
+                  },
+                  {
+                    "end": 168,
+                    "start": 149,
+                    "word": "E"
+                  }
+                ],
+                "until": 168,
+                "utterances": "Akasema E"
+              }
+            ],
+            "sentence": "Akasema, \"E..."
+          },
+          {
+            "narration": [
+              {
+                "audio": "heee_rafiki_yangu_kitamu_kipi_ulichokula_kikayafanya_macho_yabubujike.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 2,
+                    "word": "heee"
+                  },
+                  {
+                    "end": 227,
+                    "start": 134,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 274,
+                    "start": 228,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 342,
+                    "start": 275,
+                    "word": "kitamu"
+                  },
+                  {
+                    "end": 375,
+                    "start": 343,
+                    "word": "kipi"
+                  },
+                  {
+                    "end": 500,
+                    "start": 380,
+                    "word": "ulichokula"
+                  },
+                  {
+                    "end": 670,
+                    "start": 557,
+                    "word": "kikayafanya"
+                  },
+                  {
+                    "end": 726,
+                    "start": 671,
+                    "word": "macho"
+                  },
+                  {
+                    "end": 824,
+                    "start": 727,
+                    "word": "yabubujike"
+                  }
+                ],
+                "until": 824,
+                "utterances": "heee rafiki yangu kitamu kipi ulichokula kikayafanya macho yabubujike"
+              }
+            ],
+            "sentence": "heee rafiki yangu kitamu kipi ulichokula kikayafanya macho yabubujike?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_panya_wa_nyumba_akashindwa_kujibu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 143,
+                    "start": 86,
+                    "word": "panya"
+                  },
+                  {
+                    "end": 160,
+                    "start": 144,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 214,
+                    "start": 161,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 315,
+                    "start": 215,
+                    "word": "akashindwa"
+                  },
+                  {
+                    "end": 387,
+                    "start": 316,
+                    "word": "kujibu"
+                  }
+                ],
+                "until": 387,
+                "utterances": "Lakini panya wa nyumba akashindwa kujibu"
+              }
+            ],
+            "sentence": "Lakini panya wa nyumba akashindwa kujibu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya_wa_nyika_akaondoka_akikejeli_du.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 21,
+                    "word": "Panya"
+                  },
+                  {
+                    "end": 75,
+                    "start": 62,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 125,
+                    "start": 76,
+                    "word": "nyika"
+                  },
+                  {
+                    "end": 245,
+                    "start": 126,
+                    "word": "akaondoka"
+                  },
+                  {
+                    "end": 344,
+                    "start": 256,
+                    "word": "akikejeli"
+                  },
+                  {
+                    "end": 462,
+                    "start": 401,
+                    "word": "Du"
+                  }
+                ],
+                "until": 462,
+                "utterances": "Panya wa nyika akaondoka akikejeli Du"
+              }
+            ],
+            "sentence": "Panya wa nyika akaondoka akikejeli, \"Du!"
+          },
+          {
+            "narration": [
+              {
+                "audio": "umekula_vizuri_kiasi_siviwezi_vitamu_hivyo_unavyohimidi.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 30,
+                    "word": "Umekula"
+                  },
+                  {
+                    "end": 168,
+                    "start": 100,
+                    "word": "vizuri"
+                  },
+                  {
+                    "end": 222,
+                    "start": 169,
+                    "word": "kiasi"
+                  },
+                  {
+                    "end": 340,
+                    "start": 223,
+                    "word": "siviwezi"
+                  },
+                  {
+                    "end": 412,
+                    "start": 341,
+                    "word": "vitamu"
+                  },
+                  {
+                    "end": 477,
+                    "start": 413,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 661,
+                    "start": 511,
+                    "word": "unavyohimidi"
+                  }
+                ],
+                "until": 661,
+                "utterances": "Umekula vizuri kiasi siviwezi vitamu hivyo unavyohimidi"
+              }
+            ],
+            "sentence": "Umekula vizuri kiasi siviwezi vitamu hivyo unavyohimidi.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_21_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuwepo_nyumbani_kunako_chakaa_mradi_kwako_ni_bora_kuliko_kuwepo_nyumbani_kuzuri_sana_angalau_ni_nyum_17.mp3",
+                "from": 117,
+                "segmentation": [
+                  {
+                    "end": 198,
+                    "start": 117,
+                    "word": "Kuwepo"
+                  },
+                  {
+                    "end": 271,
+                    "start": 199,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 338,
+                    "start": 272,
+                    "word": "kunako"
+                  },
+                  {
+                    "end": 420,
+                    "start": 339,
+                    "word": "chakaa"
+                  },
+                  {
+                    "end": 515,
+                    "start": 454,
+                    "word": "mradi"
+                  },
+                  {
+                    "end": 588,
+                    "start": 516,
+                    "word": "kwako"
+                  },
+                  {
+                    "end": 649,
+                    "start": 625,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 696,
+                    "start": 650,
+                    "word": "bora"
+                  },
+                  {
+                    "end": 767,
+                    "start": 697,
+                    "word": "kuliko"
+                  },
+                  {
+                    "end": 836,
+                    "start": 768,
+                    "word": "kuwepo"
+                  },
+                  {
+                    "end": 906,
+                    "start": 837,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 977,
+                    "start": 907,
+                    "word": "kuzuri"
+                  },
+                  {
+                    "end": 1047,
+                    "start": 978,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 1189,
+                    "start": 1103,
+                    "word": "angalau"
+                  },
+                  {
+                    "end": 1207,
+                    "start": 1190,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 1253,
+                    "start": 1208,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 1271,
+                    "start": 1254,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1350,
+                    "start": 1272,
+                    "word": "jirani"
+                  },
+                  {
+                    "end": 1399,
+                    "start": 1351,
+                    "word": "yako"
+                  }
+                ],
+                "until": 1399,
+                "utterances": "Kuwepo nyumbani kunako chakaa mradi kwako ni bora kuliko kuwepo nyumbani kuzuri sana angalau ni nyumba ya jirani yako"
+              }
+            ],
+            "sentence": "Kuwepo nyumbani kunako chakaa mradi kwako ni bora kuliko kuwepo nyumbani kuzuri sana angalau ni nyumba ya jirani yako."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Zablon Alex Nguku",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Pete Mhunzi",
+  "title": "Panya",
+  "titleimage": "level2_21_page_01_image_0001.jpg"
+}

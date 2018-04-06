@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "farasi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "farasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "farasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "farasi"
+              }
+            ],
+            "sentence": "farasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "faraja.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "faraja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "faraja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "faraja"
+              }
+            ],
+            "sentence": "faraja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fisi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fisi"
+              }
+            ],
+            "sentence": "fisi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fagio.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fagio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fagio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fagio"
+              }
+            ],
+            "sentence": "fagio"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fupi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fupi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fupi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fupi"
+              }
+            ],
+            "sentence": "fupi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "funzo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "funzo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "funzo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "funzo"
+              }
+            ],
+            "sentence": "funzo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "farasi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "farasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "farasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "farasi"
+              }
+            ],
+            "sentence": "farasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fisi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fisi"
+              }
+            ],
+            "sentence": "fisi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "familia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "familia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "familia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "familia"
+              }
+            ],
+            "sentence": "familia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fulana.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fulana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fulana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fulana"
+              }
+            ],
+            "sentence": "fulana"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-F.rand.45"
+}

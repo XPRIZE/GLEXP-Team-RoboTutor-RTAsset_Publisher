@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ka"
+              }
+            ],
+            "sentence": "ka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ke_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ke.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ke"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ke"
+              }
+            ],
+            "sentence": "ke"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ki_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ki"
+              }
+            ],
+            "sentence": "ki"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ko"
+              }
+            ],
+            "sentence": "ko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ku_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ku"
+              }
+            ],
+            "sentence": "ku"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ka..ku.asc.lc.9.json"
+}

@@ -1,0 +1,990 @@
+{
+  "authors": "Cornelius Wekunya",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level3_13_page_2_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo_kale_palikuwa_na_mtu_aliyeishi_na_mkewe_aliyempenda_sana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 110,
+                    "start": 63,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 191,
+                    "start": 111,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 216,
+                    "start": 192,
+                    "word": "na"
+                  },
+                  {
+                    "end": 277,
+                    "start": 217,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 408,
+                    "start": 322,
+                    "word": "aliyeishi"
+                  },
+                  {
+                    "end": 432,
+                    "start": 409,
+                    "word": "na"
+                  },
+                  {
+                    "end": 496,
+                    "start": 433,
+                    "word": "mkewe"
+                  },
+                  {
+                    "end": 638,
+                    "start": 497,
+                    "word": "aliyempenda"
+                  },
+                  {
+                    "end": 712,
+                    "start": 639,
+                    "word": "sana"
+                  }
+                ],
+                "until": 712,
+                "utterances": "Hapo kale palikuwa na mtu aliyeishi na mkewe aliyempenda sana"
+              }
+            ],
+            "sentence": "Hapo kale palikuwa na mtu aliyeishi na mkewe aliyempenda sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_alikwenda_msituni_kwa_matembezi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 149,
+                    "start": 90,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 282,
+                    "start": 197,
+                    "word": "alikwenda"
+                  },
+                  {
+                    "end": 371,
+                    "start": 283,
+                    "word": "msituni"
+                  },
+                  {
+                    "end": 391,
+                    "start": 372,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 497,
+                    "start": 392,
+                    "word": "matembezi"
+                  }
+                ],
+                "until": 497,
+                "utterances": "Siku moja alikwenda msituni kwa matembezi"
+              }
+            ],
+            "sentence": "Siku moja alikwenda msituni kwa matembezi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "njiani_alikutana_na_msichana_mmoja_mwembamba_na_mrembo_mno.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 22,
+                    "word": "Njiani"
+                  },
+                  {
+                    "end": 203,
+                    "start": 102,
+                    "word": "alikutana"
+                  },
+                  {
+                    "end": 221,
+                    "start": 204,
+                    "word": "na"
+                  },
+                  {
+                    "end": 289,
+                    "start": 222,
+                    "word": "msichana"
+                  },
+                  {
+                    "end": 348,
+                    "start": 290,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 475,
+                    "start": 349,
+                    "word": "mwembamba"
+                  },
+                  {
+                    "end": 547,
+                    "start": 528,
+                    "word": "na"
+                  },
+                  {
+                    "end": 653,
+                    "start": 548,
+                    "word": "mrembo"
+                  },
+                  {
+                    "end": 696,
+                    "start": 654,
+                    "word": "mno"
+                  }
+                ],
+                "until": 696,
+                "utterances": "Njiani alikutana na msichana mmoja mwembamba na mrembo mno"
+              }
+            ],
+            "sentence": "Njiani alikutana na msichana mmoja mwembamba na mrembo mno."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimpenda_papo_hapo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 170,
+                    "start": 20,
+                    "word": "Alimpenda"
+                  },
+                  {
+                    "end": 243,
+                    "start": 171,
+                    "word": "papo"
+                  },
+                  {
+                    "end": 289,
+                    "start": 244,
+                    "word": "hapo"
+                  }
+                ],
+                "until": 289,
+                "utterances": "Alimpenda papo hapo"
+              }
+            ],
+            "sentence": "Alimpenda papo hapo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "msichana_vile_vile_alimkubali_mara_moja.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 22,
+                    "word": "Msichana"
+                  },
+                  {
+                    "end": 137,
+                    "start": 91,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 181,
+                    "start": 138,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 314,
+                    "start": 220,
+                    "word": "alimkubali"
+                  },
+                  {
+                    "end": 407,
+                    "start": 315,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 482,
+                    "start": 408,
+                    "word": "moja"
+                  }
+                ],
+                "until": 482,
+                "utterances": "Msichana vile vile alimkubali mara moja"
+              }
+            ],
+            "sentence": "Msichana vile vile alimkubali mara moja."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_msichana_alimwambia_kuwa_alikuwa_na_titi_moja_tu.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 157,
+                    "start": 51,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 252,
+                    "start": 184,
+                    "word": "msichana"
+                  },
+                  {
+                    "end": 365,
+                    "start": 263,
+                    "word": "alimwambia"
+                  },
+                  {
+                    "end": 423,
+                    "start": 366,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 504,
+                    "start": 438,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 528,
+                    "start": 505,
+                    "word": "na"
+                  },
+                  {
+                    "end": 581,
+                    "start": 529,
+                    "word": "titi"
+                  },
+                  {
+                    "end": 631,
+                    "start": 582,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 640,
+                    "start": 632,
+                    "word": "tu"
+                  }
+                ],
+                "until": 640,
+                "utterances": "Lakini msichana alimwambia kuwa alikuwa na titi moja tu"
+              }
+            ],
+            "sentence": "Lakini, msichana alimwambia kuwa alikuwa na titi moja tu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_13_page_3_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_hivyo_alimwambia_aende_nyumbani_akate_titi_moja_la_mkewe_amletee.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 33,
+                    "start": 13,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 99,
+                    "start": 34,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 198,
+                    "start": 100,
+                    "word": "alimwambia"
+                  },
+                  {
+                    "end": 263,
+                    "start": 199,
+                    "word": "aende"
+                  },
+                  {
+                    "end": 366,
+                    "start": 264,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 465,
+                    "start": 398,
+                    "word": "akate"
+                  },
+                  {
+                    "end": 503,
+                    "start": 466,
+                    "word": "titi"
+                  },
+                  {
+                    "end": 552,
+                    "start": 504,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 575,
+                    "start": 553,
+                    "word": "la"
+                  },
+                  {
+                    "end": 635,
+                    "start": 576,
+                    "word": "mkewe"
+                  },
+                  {
+                    "end": 709,
+                    "start": 636,
+                    "word": "amletee"
+                  }
+                ],
+                "until": 709,
+                "utterances": "Kwa hivyo alimwambia aende nyumbani akate titi moja la mkewe amletee"
+              }
+            ],
+            "sentence": "Kwa hivyo alimwambia aende nyumbani, akate titi moja la mkewe amletee."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_njia_hii_angekuwa_na_matiti_mawili_hivyo_wangeoana.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 36,
+                    "start": 1,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 91,
+                    "start": 37,
+                    "word": "njia"
+                  },
+                  {
+                    "end": 166,
+                    "start": 92,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 238,
+                    "start": 167,
+                    "word": "angekuwa"
+                  },
+                  {
+                    "end": 260,
+                    "start": 239,
+                    "word": "na"
+                  },
+                  {
+                    "end": 327,
+                    "start": 261,
+                    "word": "matiti"
+                  },
+                  {
+                    "end": 411,
+                    "start": 328,
+                    "word": "mawili"
+                  },
+                  {
+                    "end": 475,
+                    "start": 426,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 581,
+                    "start": 476,
+                    "word": "wangeoana"
+                  }
+                ],
+                "until": 581,
+                "utterances": "Kwa njia hii angekuwa na matiti mawili hivyo wangeoana"
+              }
+            ],
+            "sentence": "Kwa njia hii angekuwa na matiti mawili hivyo wangeoana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanamme_alikimbia_kwa_kasi_akachukuwa_kisu_akamrukia_mkewe_mpendwa_na_kukata_titi_lake_mara_moja.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 20,
+                    "word": "Mwanamme"
+                  },
+                  {
+                    "end": 249,
+                    "start": 123,
+                    "word": "alikimbia"
+                  },
+                  {
+                    "end": 277,
+                    "start": 250,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 352,
+                    "start": 284,
+                    "word": "kasi"
+                  },
+                  {
+                    "end": 494,
+                    "start": 402,
+                    "word": "akachukuwa"
+                  },
+                  {
+                    "end": 560,
+                    "start": 495,
+                    "word": "kisu"
+                  },
+                  {
+                    "end": 709,
+                    "start": 608,
+                    "word": "akamrukia"
+                  },
+                  {
+                    "end": 772,
+                    "start": 710,
+                    "word": "mkewe"
+                  },
+                  {
+                    "end": 855,
+                    "start": 773,
+                    "word": "mpendwa"
+                  },
+                  {
+                    "end": 903,
+                    "start": 890,
+                    "word": "na"
+                  },
+                  {
+                    "end": 957,
+                    "start": 904,
+                    "word": "kukata"
+                  },
+                  {
+                    "end": 999,
+                    "start": 958,
+                    "word": "titi"
+                  },
+                  {
+                    "end": 1046,
+                    "start": 1000,
+                    "word": "lake"
+                  },
+                  {
+                    "end": 1119,
+                    "start": 1076,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 1167,
+                    "start": 1120,
+                    "word": "moja"
+                  }
+                ],
+                "until": 1167,
+                "utterances": "Mwanamme alikimbia kwa kasi akachukuwa kisu akamrukia mkewe mpendwa na kukata titi lake mara moja"
+              }
+            ],
+            "sentence": "Mwanamme alikimbia kwa kasi, akachukuwa kisu, akamrukia mkewe mpendwa na kukata titi lake mara moja."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_13_page_4_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliharakisha_kwenda_msituni_alikomwacha_mpenzi_wake_mpya.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 168,
+                    "start": 21,
+                    "word": "Aliharakisha"
+                  },
+                  {
+                    "end": 217,
+                    "start": 169,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 323,
+                    "start": 218,
+                    "word": "msituni"
+                  },
+                  {
+                    "end": 470,
+                    "start": 356,
+                    "word": "alikomwacha"
+                  },
+                  {
+                    "end": 537,
+                    "start": 471,
+                    "word": "mpenzi"
+                  },
+                  {
+                    "end": 582,
+                    "start": 538,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 633,
+                    "start": 583,
+                    "word": "mpya"
+                  }
+                ],
+                "until": 633,
+                "utterances": "Aliharakisha kwenda msituni alikomwacha mpenzi wake mpya"
+              }
+            ],
+            "sentence": "Aliharakisha kwenda msituni alikomwacha mpenzi wake mpya."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_hakuwapo.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 20,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 189,
+                    "start": 79,
+                    "word": "hakuwapo"
+                  }
+                ],
+                "until": 189,
+                "utterances": "Lakini hakuwapo"
+              }
+            ],
+            "sentence": "Lakini hakuwapo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "aliliita_jina_lake_kwa_sauti_lakini_ilikuwa_kimya_tu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 20,
+                    "word": "Aliliita"
+                  },
+                  {
+                    "end": 176,
+                    "start": 128,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 225,
+                    "start": 177,
+                    "word": "lake"
+                  },
+                  {
+                    "end": 251,
+                    "start": 226,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 332,
+                    "start": 252,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 441,
+                    "start": 373,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 550,
+                    "start": 483,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 629,
+                    "start": 551,
+                    "word": "kimya"
+                  },
+                  {
+                    "end": 645,
+                    "start": 630,
+                    "word": "tu"
+                  }
+                ],
+                "until": 645,
+                "utterances": "Aliliita jina lake kwa sauti lakini ilikuwa kimya tu"
+              }
+            ],
+            "sentence": "Aliliita jina lake kwa sauti, lakini ilikuwa kimya tu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisha_alisikia_sauti_ikisema_kwa_nini_unaita.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Kisha"
+                  },
+                  {
+                    "end": 153,
+                    "start": 77,
+                    "word": "alisikia"
+                  },
+                  {
+                    "end": 229,
+                    "start": 154,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 313,
+                    "start": 234,
+                    "word": "ikisema"
+                  },
+                  {
+                    "end": 386,
+                    "start": 372,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 443,
+                    "start": 387,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 522,
+                    "start": 468,
+                    "word": "unaita"
+                  }
+                ],
+                "until": 522,
+                "utterances": "Kisha alisikia sauti ikisema Kwa nini unaita"
+              }
+            ],
+            "sentence": "Kisha alisikia sauti ikisema, \"Kwa nini unaita?"
+          },
+          {
+            "narration": [
+              {
+                "audio": "kwani_hujui_kwamba_uko_katika_msitu_wa_musambwa_kwa_libeeletwela.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 1,
+                    "word": "Kwani"
+                  },
+                  {
+                    "end": 125,
+                    "start": 61,
+                    "word": "hujui"
+                  },
+                  {
+                    "end": 190,
+                    "start": 126,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 252,
+                    "start": 191,
+                    "word": "uko"
+                  },
+                  {
+                    "end": 342,
+                    "start": 253,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 407,
+                    "start": 343,
+                    "word": "msitu"
+                  },
+                  {
+                    "end": 433,
+                    "start": 408,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 524,
+                    "start": 434,
+                    "word": "Musambwa"
+                  },
+                  {
+                    "end": 592,
+                    "start": 559,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 747,
+                    "start": 622,
+                    "word": "Libeeletwela"
+                  }
+                ],
+                "until": 747,
+                "utterances": "Kwani hujui kwamba uko katika msitu wa Musambwa kwa Libeeletwela"
+              }
+            ],
+            "sentence": "Kwani hujui kwamba uko katika msitu wa Musambwa kwa Libeeletwela?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_13_page_5_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtu_yule_aliposikia_hivyo_alikimbia_nyumbani_kwa_kasi_kama_risasi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 21,
+                    "word": "Mtu"
+                  },
+                  {
+                    "end": 105,
+                    "start": 61,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 220,
+                    "start": 117,
+                    "word": "aliposikia"
+                  },
+                  {
+                    "end": 289,
+                    "start": 221,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 492,
+                    "start": 344,
+                    "word": "alikimbia"
+                  },
+                  {
+                    "end": 556,
+                    "start": 493,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 582,
+                    "start": 557,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 637,
+                    "start": 583,
+                    "word": "kasi"
+                  },
+                  {
+                    "end": 691,
+                    "start": 638,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 778,
+                    "start": 704,
+                    "word": "risasi"
+                  }
+                ],
+                "until": 778,
+                "utterances": "Mtu yule aliposikia hivyo alikimbia nyumbani kwa kasi kama risasi"
+              }
+            ],
+            "sentence": "Mtu yule aliposikia hivyo, alikimbia nyumbani kwa kasi kama risasi..."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimpata_mkewe_tayari_akiwa_amefariki.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 21,
+                    "word": "Alimpata"
+                  },
+                  {
+                    "end": 181,
+                    "start": 120,
+                    "word": "mkewe"
+                  },
+                  {
+                    "end": 256,
+                    "start": 182,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 330,
+                    "start": 257,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 477,
+                    "start": 331,
+                    "word": "amefariki"
+                  }
+                ],
+                "until": 477,
+                "utterances": "Alimpata mkewe tayari akiwa amefariki"
+              }
+            ],
+            "sentence": "Alimpata mkewe tayari akiwa amefariki."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alihuzunika_sana_kwa_ajili_ya_yale_alikuwa_amefanya.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 164,
+                    "start": 21,
+                    "word": "Alihuzunika"
+                  },
+                  {
+                    "end": 277,
+                    "start": 165,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 348,
+                    "start": 278,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 454,
+                    "start": 349,
+                    "word": "ajili"
+                  },
+                  {
+                    "end": 468,
+                    "start": 455,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 511,
+                    "start": 469,
+                    "word": "yale"
+                  },
+                  {
+                    "end": 585,
+                    "start": 512,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 700,
+                    "start": 586,
+                    "word": "amefanya"
+                  }
+                ],
+                "until": 700,
+                "utterances": "Alihuzunika sana kwa ajili ya yale alikuwa amefanya"
+              }
+            ],
+            "sentence": "Alihuzunika sana kwa ajili ya yale alikuwa amefanya."
+          },
+          {
+            "narration": [
+              {
+                "audio": "naye_alitaka_kufa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 20,
+                    "word": "Naye"
+                  },
+                  {
+                    "end": 189,
+                    "start": 89,
+                    "word": "alitaka"
+                  },
+                  {
+                    "end": 256,
+                    "start": 190,
+                    "word": "kufa"
+                  }
+                ],
+                "until": 256,
+                "utterances": "Naye alitaka kufa"
+              }
+            ],
+            "sentence": "Naye alitaka kufa."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Rachael Napagi",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Mutugi Kamundi",
+  "title": "Msichana mwenye titi moja",
+  "titleimage": "level3_13_page_1_image_0001.jpg"
+}

@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mka"
+              }
+            ],
+            "sentence": "mka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mke_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mke.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mke"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mke"
+              }
+            ],
+            "sentence": "mke"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mki_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mki"
+              }
+            ],
+            "sentence": "mki"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mko"
+              }
+            ],
+            "sentence": "mko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mku_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mku"
+              }
+            ],
+            "sentence": "mku"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.mka..mku.asc.lc.34.json"
+}

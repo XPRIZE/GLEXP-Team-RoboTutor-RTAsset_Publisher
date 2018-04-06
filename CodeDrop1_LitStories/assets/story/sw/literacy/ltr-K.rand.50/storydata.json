@@ -1,0 +1,1062 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kaka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaka"
+              }
+            ],
+            "sentence": "kaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "katikati.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "katikati.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "katikati"
+                  }
+                ],
+                "until": -1,
+                "utterances": "katikati"
+              }
+            ],
+            "sentence": "katikati"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kitabu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kitabu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitabu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitabu"
+              }
+            ],
+            "sentence": "kitabu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuchakuro.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuchakuro.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuchakuro"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuchakuro"
+              }
+            ],
+            "sentence": "kuchakuro"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kaa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kaa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaa"
+              }
+            ],
+            "sentence": "kaa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kwaheri.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwaheri.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwaheri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwaheri"
+              }
+            ],
+            "sentence": "kwaheri"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiki.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiki"
+              }
+            ],
+            "sentence": "kiki"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kundi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kundi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kundi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kundi"
+              }
+            ],
+            "sentence": "kundi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiboko.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiboko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiboko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiboko"
+              }
+            ],
+            "sentence": "kiboko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kijiko.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kijiko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kijiko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kijiko"
+              }
+            ],
+            "sentence": "kijiko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kondoo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kondoo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kondoo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kondoo"
+              }
+            ],
+            "sentence": "kondoo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kobe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kobe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kobe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kobe"
+              }
+            ],
+            "sentence": "kobe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kondoo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kondoo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kondoo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kondoo"
+              }
+            ],
+            "sentence": "kondoo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiatu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiatu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiatu"
+              }
+            ],
+            "sentence": "kiatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kusoma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kusoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kusoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kusoma"
+              }
+            ],
+            "sentence": "kusoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kichwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kichwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kichwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kichwa"
+              }
+            ],
+            "sentence": "kichwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kaka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaka"
+              }
+            ],
+            "sentence": "kaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kofia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kofia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kofia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kofia"
+              }
+            ],
+            "sentence": "kofia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuku.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuku"
+              }
+            ],
+            "sentence": "kuku"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kilimanjaro.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kilimanjaro.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kilimanjaro"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kilimanjaro"
+              }
+            ],
+            "sentence": "kilimanjaro"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kinyozi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kinyozi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kinyozi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kinyozi"
+              }
+            ],
+            "sentence": "kinyozi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kaka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaka"
+              }
+            ],
+            "sentence": "kaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kalamu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalamu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kalamu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kalamu"
+              }
+            ],
+            "sentence": "kalamu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiti"
+              }
+            ],
+            "sentence": "kiti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "karoti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "karoti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "karoti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "karoti"
+              }
+            ],
+            "sentence": "karoti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kikombe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kikombe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kikombe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kikombe"
+              }
+            ],
+            "sentence": "kikombe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kumi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kombe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kombe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kombe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kombe"
+              }
+            ],
+            "sentence": "kombe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "karoti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "karoti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "karoti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "karoti"
+              }
+            ],
+            "sentence": "karoti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "koko.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "koko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "koko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "koko"
+              }
+            ],
+            "sentence": "koko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kinyozi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kinyozi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kinyozi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kinyozi"
+              }
+            ],
+            "sentence": "kinyozi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuni.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuni"
+              }
+            ],
+            "sentence": "kuni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kinu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kinu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kinu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kinu"
+              }
+            ],
+            "sentence": "kinu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kutembea.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kutembea.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kutembea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kutembea"
+              }
+            ],
+            "sentence": "kutembea"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kitambaa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kitambaa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitambaa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitambaa"
+              }
+            ],
+            "sentence": "kitambaa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuku.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuku"
+              }
+            ],
+            "sentence": "kuku"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kitunguu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kitunguu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitunguu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitunguu"
+              }
+            ],
+            "sentence": "kitunguu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kipepeo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kipepeo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kipepeo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kipepeo"
+              }
+            ],
+            "sentence": "kipepeo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kula.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kula.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kula"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kula"
+              }
+            ],
+            "sentence": "kula"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuku.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuku"
+              }
+            ],
+            "sentence": "kuku"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kichwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kichwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kichwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kichwa"
+              }
+            ],
+            "sentence": "kichwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kitenge.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kitenge.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitenge"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitenge"
+              }
+            ],
+            "sentence": "kitenge"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-K.rand.50"
+}

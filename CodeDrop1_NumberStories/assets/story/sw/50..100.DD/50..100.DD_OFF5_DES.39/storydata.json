@@ -1,0 +1,292 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "100_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "100.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia moja"
+              }
+            ],
+            "sentence": "Mia Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "95_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "95.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini na tano"
+              }
+            ],
+            "sentence": "Tisini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "90_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "90.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini"
+              }
+            ],
+            "sentence": "Tisini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "85_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "85.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini na tano"
+              }
+            ],
+            "sentence": "Themanini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "80_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "80.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              }
+            ],
+            "sentence": "Themanini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "75_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "75.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini na tano"
+              }
+            ],
+            "sentence": "Sabini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "70_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "70.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sabini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sabini"
+              }
+            ],
+            "sentence": "Sabini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "65_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "65.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sitini na tano"
+              }
+            ],
+            "sentence": "Sitini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "60_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "60.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sitini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sitini"
+              }
+            ],
+            "sentence": "Sitini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "55_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "55.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini na tano"
+              }
+            ],
+            "sentence": "Hamsini na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "50_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "50.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hamsini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini"
+              }
+            ],
+            "sentence": "Hamsini"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.50..100.DD_OFF5_DES.level39"
+}

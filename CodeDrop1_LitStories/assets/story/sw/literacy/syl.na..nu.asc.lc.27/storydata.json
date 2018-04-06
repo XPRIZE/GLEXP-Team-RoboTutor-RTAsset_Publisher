@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "na_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              }
+            ],
+            "sentence": "na"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ne_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ne.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ne"
+              }
+            ],
+            "sentence": "ne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ni"
+              }
+            ],
+            "sentence": "ni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "no_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "no.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "no"
+                  }
+                ],
+                "until": -1,
+                "utterances": "no"
+              }
+            ],
+            "sentence": "no"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nu"
+              }
+            ],
+            "sentence": "nu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.na..nu.asc.lc.27.json"
+}

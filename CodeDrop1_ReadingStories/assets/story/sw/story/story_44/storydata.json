@@ -1,0 +1,1865 @@
+{
+  "authors": "Gaspah Juma",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level3_5_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo_kale_paliishi_msichana_kwa_jina_kalabushe.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 19,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 107,
+                    "start": 62,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 228,
+                    "start": 163,
+                    "word": "paliishi"
+                  },
+                  {
+                    "end": 290,
+                    "start": 229,
+                    "word": "msichana"
+                  },
+                  {
+                    "end": 314,
+                    "start": 291,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 356,
+                    "start": 315,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 435,
+                    "start": 357,
+                    "word": "Kalabushe"
+                  }
+                ],
+                "until": 435,
+                "utterances": "Hapo kale paliishi msichana kwa jina Kalabushe"
+              }
+            ],
+            "sentence": "Hapo kale, paliishi msichana kwa jina Kalabushe."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_alikuwa_chiriku.mp3",
+                "from": 35,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 35,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 182,
+                    "start": 98,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 230,
+                    "start": 183,
+                    "word": "chiriku"
+                  }
+                ],
+                "until": 230,
+                "utterances": "Kalabushe alikuwa chiriku"
+              }
+            ],
+            "sentence": "Kalabushe alikuwa chiriku."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alionywa_na_mamake_kutozungumza_sana_lakini_hakusikia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 21,
+                    "word": "Alionywa"
+                  },
+                  {
+                    "end": 112,
+                    "start": 100,
+                    "word": "na"
+                  },
+                  {
+                    "end": 166,
+                    "start": 113,
+                    "word": "mamake"
+                  },
+                  {
+                    "end": 280,
+                    "start": 167,
+                    "word": "kutozungumza"
+                  },
+                  {
+                    "end": 346,
+                    "start": 281,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 442,
+                    "start": 385,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 549,
+                    "start": 443,
+                    "word": "hakusikia"
+                  }
+                ],
+                "until": 549,
+                "utterances": "Alionywa na mamake kutozungumza sana lakini hakusikia"
+              }
+            ],
+            "sentence": "Alionywa na mamake kutozungumza sana, lakini hakusikia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_shangaziye_kalabushe_aliyeishi_ng_ambo_ile_ya_kijiji_cha_kalabushe_aliugua.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 125,
+                    "start": 66,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 236,
+                    "start": 152,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 314,
+                    "start": 237,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 446,
+                    "start": 365,
+                    "word": "aliyeishi"
+                  },
+                  {
+                    "end": 516,
+                    "start": 447,
+                    "word": "ng'ambo"
+                  },
+                  {
+                    "end": 552,
+                    "start": 525,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 583,
+                    "start": 553,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 655,
+                    "start": 584,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 680,
+                    "start": 656,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 756,
+                    "start": 681,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 908,
+                    "start": 819,
+                    "word": "aliugua"
+                  }
+                ],
+                "until": 908,
+                "utterances": "Siku moja shangaziye Kalabushe aliyeishi ng'ambo ile ya kijiji cha Kalabushe aliugua"
+              }
+            ],
+            "sentence": "Siku moja, shangaziye Kalabushe, aliyeishi ng'ambo ile ya kijiji cha Kalabushe, aliugua."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mamake_kalabushe_alikuwa_na_shughuli_nyingi_siku_hiyo.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Mamake"
+                  },
+                  {
+                    "end": 161,
+                    "start": 85,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 251,
+                    "start": 162,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 270,
+                    "start": 252,
+                    "word": "na"
+                  },
+                  {
+                    "end": 366,
+                    "start": 271,
+                    "word": "shughuli"
+                  },
+                  {
+                    "end": 452,
+                    "start": 367,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 509,
+                    "start": 453,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 555,
+                    "start": 510,
+                    "word": "hiyo"
+                  }
+                ],
+                "until": 555,
+                "utterances": "Mamake Kalabushe alikuwa na shughuli nyingi siku hiyo"
+              }
+            ],
+            "sentence": "Mamake Kalabushe alikuwa na shughuli nyingi siku hiyo."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_alipopewa_chakula_kumpelekea_shangaziye_tayari_ilikuwa_jioni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 213,
+                    "start": 122,
+                    "word": "alipopewa"
+                  },
+                  {
+                    "end": 283,
+                    "start": 214,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 393,
+                    "start": 284,
+                    "word": "kumpelekea"
+                  },
+                  {
+                    "end": 484,
+                    "start": 394,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 608,
+                    "start": 538,
+                    "word": "tayari"
+                  },
+                  {
+                    "end": 675,
+                    "start": 612,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 756,
+                    "start": 676,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 756,
+                "utterances": "Kalabushe alipopewa chakula kumpelekea shangaziye tayari ilikuwa jioni"
+              }
+            ],
+            "sentence": "Kalabushe alipopewa chakula kumpelekea shangaziye, tayari ilikuwa jioni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "njiani_kalabushe_alikutana_na_fisi_kwa_jina_sinsou.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 111,
+                    "start": 22,
+                    "word": "Njiani"
+                  },
+                  {
+                    "end": 209,
+                    "start": 142,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 329,
+                    "start": 210,
+                    "word": "alikutana"
+                  },
+                  {
+                    "end": 349,
+                    "start": 330,
+                    "word": "na"
+                  },
+                  {
+                    "end": 424,
+                    "start": 372,
+                    "word": "fisi"
+                  },
+                  {
+                    "end": 462,
+                    "start": 449,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 507,
+                    "start": 463,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 577,
+                    "start": 508,
+                    "word": "Sinsou"
+                  }
+                ],
+                "until": 577,
+                "utterances": "Njiani Kalabushe alikutana na fisi kwa jina Sinsou"
+              }
+            ],
+            "sentence": "Njiani, Kalabushe alikutana na fisi kwa jina Sinsou."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sinsou_alikuwa_amegeuka_kuwa_mtu.mp3",
+                "from": 31,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 31,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 184,
+                    "start": 105,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 282,
+                    "start": 185,
+                    "word": "amegeuka"
+                  },
+                  {
+                    "end": 324,
+                    "start": 283,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 368,
+                    "start": 325,
+                    "word": "mtu"
+                  }
+                ],
+                "until": 368,
+                "utterances": "Sinsou alikuwa amegeuka kuwa mtu"
+              }
+            ],
+            "sentence": "Sinsou alikuwa amegeuka kuwa mtu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sinsou_alimwuliza_alichobeba.mp3",
+                "from": 30,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 30,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 213,
+                    "start": 93,
+                    "word": "alimwuliza"
+                  },
+                  {
+                    "end": 333,
+                    "start": 217,
+                    "word": "alichobeba"
+                  }
+                ],
+                "until": 333,
+                "utterances": "Sinsou alimwuliza alichobeba"
+              }
+            ],
+            "sentence": "Sinsou alimwuliza alichobeba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_alijibu_nimebeba_nyama_mayai_na_maziwa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 248,
+                    "start": 113,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 323,
+                    "start": 249,
+                    "word": "Nimebeba"
+                  },
+                  {
+                    "end": 429,
+                    "start": 324,
+                    "word": "nyama"
+                  },
+                  {
+                    "end": 589,
+                    "start": 468,
+                    "word": "mayai"
+                  },
+                  {
+                    "end": 635,
+                    "start": 623,
+                    "word": "na"
+                  },
+                  {
+                    "end": 720,
+                    "start": 636,
+                    "word": "maziwa"
+                  }
+                ],
+                "until": 720,
+                "utterances": "Kalabushe alijibu Nimebeba nyama mayai na maziwa"
+              }
+            ],
+            "sentence": "Kalabushe alijibu, \"Nimebeba nyama, mayai na maziwa.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_alikuwa_ameonywa_kutosema_alichobeba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 200,
+                    "start": 91,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 290,
+                    "start": 201,
+                    "word": "ameonywa"
+                  },
+                  {
+                    "end": 405,
+                    "start": 328,
+                    "word": "kutosema"
+                  },
+                  {
+                    "end": 520,
+                    "start": 414,
+                    "word": "alichobeba"
+                  }
+                ],
+                "until": 520,
+                "utterances": "Kalabushe alikuwa ameonywa kutosema alichobeba"
+              }
+            ],
+            "sentence": "Kalabushe alikuwa ameonywa kutosema alichobeba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_vile_vile_alimwambia_sinsou_kuwa_shangaziye_alikuwa_mgonjwa_na_kwamba_alikuwa_anampelekea__7.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 151,
+                    "start": 94,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 193,
+                    "start": 152,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 334,
+                    "start": 237,
+                    "word": "alimwambia"
+                  },
+                  {
+                    "end": 414,
+                    "start": 335,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 512,
+                    "start": 469,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 619,
+                    "start": 513,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 689,
+                    "start": 625,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 767,
+                    "start": 690,
+                    "word": "mgonjwa"
+                  },
+                  {
+                    "end": 829,
+                    "start": 817,
+                    "word": "na"
+                  },
+                  {
+                    "end": 900,
+                    "start": 830,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 1019,
+                    "start": 933,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 1133,
+                    "start": 1020,
+                    "word": "anampelekea"
+                  },
+                  {
+                    "end": 1213,
+                    "start": 1134,
+                    "word": "chakula"
+                  }
+                ],
+                "until": 1213,
+                "utterances": "Kalabushe vile vile alimwambia Sinsou kuwa shangaziye alikuwa mgonjwa na kwamba alikuwa anampelekea chakula"
+              }
+            ],
+            "sentence": "Kalabushe vile vile alimwambia Sinsou kuwa shangaziye alikuwa mgonjwa na kwamba alikuwa anampelekea chakula."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sinsou_alidondokwa_mate_alipofikiria_juu_ya_nyama_aliyobeba_kalabushe.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 229,
+                    "start": 106,
+                    "word": "alidondokwa"
+                  },
+                  {
+                    "end": 294,
+                    "start": 230,
+                    "word": "mate"
+                  },
+                  {
+                    "end": 457,
+                    "start": 351,
+                    "word": "alipofikiria"
+                  },
+                  {
+                    "end": 488,
+                    "start": 458,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 502,
+                    "start": 489,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 557,
+                    "start": 503,
+                    "word": "nyama"
+                  },
+                  {
+                    "end": 661,
+                    "start": 572,
+                    "word": "aliyobeba"
+                  },
+                  {
+                    "end": 738,
+                    "start": 662,
+                    "word": "Kalabushe"
+                  }
+                ],
+                "until": 738,
+                "utterances": "Sinsou alidondokwa mate alipofikiria juu ya nyama aliyobeba Kalabushe"
+              }
+            ],
+            "sentence": "Sinsou alidondokwa mate alipofikiria juu ya nyama aliyobeba Kalabushe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haraka_haraka_sinsou_alikimbia_mbele.mp3",
+                "from": 51,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 51,
+                    "word": "Haraka"
+                  },
+                  {
+                    "end": 167,
+                    "start": 106,
+                    "word": "haraka"
+                  },
+                  {
+                    "end": 259,
+                    "start": 208,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 348,
+                    "start": 260,
+                    "word": "alikimbia"
+                  },
+                  {
+                    "end": 396,
+                    "start": 349,
+                    "word": "mbele"
+                  }
+                ],
+                "until": 396,
+                "utterances": "Haraka haraka Sinsou alikimbia mbele"
+              }
+            ],
+            "sentence": "Haraka haraka, Sinsou alikimbia mbele."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alienda_katika_nyumba_ya_shangaziye_kalabushe_na_kusubiri.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 21,
+                    "word": "Alienda"
+                  },
+                  {
+                    "end": 157,
+                    "start": 103,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 197,
+                    "start": 158,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 214,
+                    "start": 198,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 291,
+                    "start": 215,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 367,
+                    "start": 292,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 432,
+                    "start": 421,
+                    "word": "na"
+                  },
+                  {
+                    "end": 550,
+                    "start": 433,
+                    "word": "kusubiri"
+                  }
+                ],
+                "until": 550,
+                "utterances": "Alienda katika nyumba ya shangaziye Kalabushe na kusubiri"
+              }
+            ],
+            "sentence": "Alienda katika nyumba ya shangaziye Kalabushe na kusubiri."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimmeza_shangaziye_kalabushe_kisha_akajigubika_blanketi_lake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 138,
+                    "start": 21,
+                    "word": "Alimmeza"
+                  },
+                  {
+                    "end": 219,
+                    "start": 139,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 297,
+                    "start": 220,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 397,
+                    "start": 350,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 532,
+                    "start": 407,
+                    "word": "akajigubika"
+                  },
+                  {
+                    "end": 602,
+                    "start": 533,
+                    "word": "blanketi"
+                  },
+                  {
+                    "end": 640,
+                    "start": 603,
+                    "word": "lake"
+                  }
+                ],
+                "until": 640,
+                "utterances": "Alimmeza shangaziye Kalabushe kisha akajigubika blanketi lake"
+              }
+            ],
+            "sentence": "Alimmeza shangaziye Kalabushe kisha akajigubika blanketi lake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_alipowasili_nyumba_ilikuwa_kimya_kabisa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 269,
+                    "start": 123,
+                    "word": "alipowasili"
+                  },
+                  {
+                    "end": 368,
+                    "start": 311,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 477,
+                    "start": 384,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 592,
+                    "start": 478,
+                    "word": "kimya"
+                  },
+                  {
+                    "end": 683,
+                    "start": 593,
+                    "word": "kabisa"
+                  }
+                ],
+                "until": 683,
+                "utterances": "Kalabushe alipowasili nyumba ilikuwa kimya kabisa"
+              }
+            ],
+            "sentence": "Kalabushe alipowasili, nyumba ilikuwa kimya kabisa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliingia_ndani_na_kuita_shangazi_uko_wapi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 21,
+                    "word": "Aliingia"
+                  },
+                  {
+                    "end": 155,
+                    "start": 109,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 178,
+                    "start": 156,
+                    "word": "na"
+                  },
+                  {
+                    "end": 250,
+                    "start": 179,
+                    "word": "kuita"
+                  },
+                  {
+                    "end": 434,
+                    "start": 302,
+                    "word": "Shangazi"
+                  },
+                  {
+                    "end": 517,
+                    "start": 475,
+                    "word": "uko"
+                  },
+                  {
+                    "end": 641,
+                    "start": 518,
+                    "word": "wapi"
+                  }
+                ],
+                "until": 641,
+                "utterances": "Aliingia ndani na kuita Shangazi uko wapi"
+              }
+            ],
+            "sentence": "Aliingia ndani na kuita, \"Shangazi, uko wapi?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_hakusikia_sauti_ya_shangaziye.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 240,
+                    "start": 127,
+                    "word": "hakusikia"
+                  },
+                  {
+                    "end": 316,
+                    "start": 241,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 322,
+                    "start": 317,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 434,
+                    "start": 323,
+                    "word": "shangaziye"
+                  }
+                ],
+                "until": 434,
+                "utterances": "Kalabushe hakusikia sauti ya shangaziye"
+              }
+            ],
+            "sentence": "Kalabushe hakusikia sauti ya shangaziye."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliingia_ndani_ya_chumba_ambamo_kawaida_shangaziye_alilala.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 118,
+                    "start": 22,
+                    "word": "Aliingia"
+                  },
+                  {
+                    "end": 175,
+                    "start": 119,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 190,
+                    "start": 176,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 245,
+                    "start": 191,
+                    "word": "chumba"
+                  },
+                  {
+                    "end": 309,
+                    "start": 246,
+                    "word": "ambamo"
+                  },
+                  {
+                    "end": 392,
+                    "start": 310,
+                    "word": "kawaida"
+                  },
+                  {
+                    "end": 490,
+                    "start": 393,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 589,
+                    "start": 498,
+                    "word": "alilala"
+                  }
+                ],
+                "until": 589,
+                "utterances": "Aliingia ndani ya chumba ambamo kawaida shangaziye alilala"
+              }
+            ],
+            "sentence": "Aliingia ndani ya chumba ambamo kawaida shangaziye alilala."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alishangaa_alimpomwona_mtu_amejigubika_blanketi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 156,
+                    "start": 21,
+                    "word": "Alishangaa"
+                  },
+                  {
+                    "end": 271,
+                    "start": 168,
+                    "word": "alimpomwona"
+                  },
+                  {
+                    "end": 313,
+                    "start": 272,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 446,
+                    "start": 327,
+                    "word": "amejigubika"
+                  },
+                  {
+                    "end": 530,
+                    "start": 447,
+                    "word": "blanketi"
+                  }
+                ],
+                "until": 530,
+                "utterances": "Alishangaa alimpomwona mtu amejigubika blanketi"
+              }
+            ],
+            "sentence": "Alishangaa alimpomwona mtu amejigubika blanketi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shangazi_mbona_masikio_yako_ni_makubwa_sana_leo.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 116,
+                    "start": 21,
+                    "word": "Shangazi"
+                  },
+                  {
+                    "end": 216,
+                    "start": 169,
+                    "word": "mbona"
+                  },
+                  {
+                    "end": 282,
+                    "start": 217,
+                    "word": "masikio"
+                  },
+                  {
+                    "end": 330,
+                    "start": 283,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 348,
+                    "start": 331,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 464,
+                    "start": 349,
+                    "word": "makubwa"
+                  },
+                  {
+                    "end": 509,
+                    "start": 465,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 589,
+                    "start": 510,
+                    "word": "leo"
+                  }
+                ],
+                "until": 589,
+                "utterances": "Shangazi mbona masikio yako ni makubwa sana leo"
+              }
+            ],
+            "sentence": "\"Shangazi, mbona masikio yako ni makubwa sana leo?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_aliuliza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 210,
+                    "start": 112,
+                    "word": "aliuliza"
+                  }
+                ],
+                "until": 210,
+                "utterances": "Kalabushe aliuliza"
+              }
+            ],
+            "sentence": "Kalabushe aliuliza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sinsou_alijibu_kutoka_ndani_ya_lile_blanketi_kubwa_ili_niweze_kukusikia_vyema.mp3",
+                "from": 26,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 26,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 200,
+                    "start": 103,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 260,
+                    "start": 201,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 309,
+                    "start": 261,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 318,
+                    "start": 310,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 356,
+                    "start": 319,
+                    "word": "lile"
+                  },
+                  {
+                    "end": 424,
+                    "start": 357,
+                    "word": "blanketi"
+                  },
+                  {
+                    "end": 476,
+                    "start": 425,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 636,
+                    "start": 572,
+                    "word": "Ili"
+                  },
+                  {
+                    "end": 687,
+                    "start": 637,
+                    "word": "niweze"
+                  },
+                  {
+                    "end": 786,
+                    "start": 688,
+                    "word": "kukusikia"
+                  },
+                  {
+                    "end": 863,
+                    "start": 787,
+                    "word": "vyema"
+                  }
+                ],
+                "until": 863,
+                "utterances": "Sinsou alijibu kutoka ndani ya lile blanketi kubwa Ili niweze kukusikia vyema"
+              }
+            ],
+            "sentence": "Sinsou alijibu kutoka ndani ya lile blanketi kubwa, \"Ili niweze kukusikia vyema.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_aliuliza_tena_shangazi_mbona_macho_yako_ni_makubwa_sana_leo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 2,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 193,
+                    "start": 117,
+                    "word": "aliuliza"
+                  },
+                  {
+                    "end": 243,
+                    "start": 194,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 396,
+                    "start": 305,
+                    "word": "Shangazi"
+                  },
+                  {
+                    "end": 497,
+                    "start": 450,
+                    "word": "mbona"
+                  },
+                  {
+                    "end": 542,
+                    "start": 498,
+                    "word": "macho"
+                  },
+                  {
+                    "end": 590,
+                    "start": 543,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 605,
+                    "start": 591,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 674,
+                    "start": 606,
+                    "word": "makubwa"
+                  },
+                  {
+                    "end": 717,
+                    "start": 675,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 791,
+                    "start": 718,
+                    "word": "leo"
+                  }
+                ],
+                "until": 791,
+                "utterances": "Kalabushe aliuliza tena Shangazi mbona macho yako ni makubwa sana leo"
+              }
+            ],
+            "sentence": "Kalabushe aliuliza tena, \"Shangazi, mbona macho yako ni makubwa sana leo?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sinsou_alijibu_ili_niweze_kukuona_vyema.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 19,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 183,
+                    "start": 92,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 287,
+                    "start": 244,
+                    "word": "Ili"
+                  },
+                  {
+                    "end": 349,
+                    "start": 288,
+                    "word": "niweze"
+                  },
+                  {
+                    "end": 428,
+                    "start": 350,
+                    "word": "kukuona"
+                  },
+                  {
+                    "end": 502,
+                    "start": 429,
+                    "word": "vyema"
+                  }
+                ],
+                "until": 502,
+                "utterances": "Sinsou alijibu Ili niweze kukuona vyema"
+              }
+            ],
+            "sentence": "Sinsou alijibu, \"Ili niweze kukuona vyema.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwishowe_kalabushe_aliuliza_shangazi_mbona_mdomo_wako_ni_mkubwa_sana_leo.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 22,
+                    "word": "Mwishowe"
+                  },
+                  {
+                    "end": 163,
+                    "start": 88,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 282,
+                    "start": 191,
+                    "word": "aliuliza"
+                  },
+                  {
+                    "end": 448,
+                    "start": 351,
+                    "word": "Shangazi"
+                  },
+                  {
+                    "end": 536,
+                    "start": 489,
+                    "word": "mbona"
+                  },
+                  {
+                    "end": 592,
+                    "start": 537,
+                    "word": "mdomo"
+                  },
+                  {
+                    "end": 631,
+                    "start": 593,
+                    "word": "wako"
+                  },
+                  {
+                    "end": 646,
+                    "start": 632,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 704,
+                    "start": 647,
+                    "word": "mkubwa"
+                  },
+                  {
+                    "end": 750,
+                    "start": 705,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 825,
+                    "start": 751,
+                    "word": "leo"
+                  }
+                ],
+                "until": 825,
+                "utterances": "Mwishowe Kalabushe aliuliza Shangazi mbona mdomo wako ni mkubwa sana leo"
+              }
+            ],
+            "sentence": "Mwishowe Kalabushe aliuliza, \"Shangazi, mbona mdomo wako ni mkubwa sana leo?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sinsou_alijibu_ili_niweze_kukumeza.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 18,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 177,
+                    "start": 87,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 269,
+                    "start": 231,
+                    "word": "Ili"
+                  },
+                  {
+                    "end": 335,
+                    "start": 270,
+                    "word": "niweze"
+                  },
+                  {
+                    "end": 442,
+                    "start": 336,
+                    "word": "kukumeza"
+                  }
+                ],
+                "until": 442,
+                "utterances": "Sinsou alijibu Ili niweze kukumeza"
+              }
+            ],
+            "sentence": "Sinsou alijibu, \"Ili niweze kukumeza.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisha_sinsou_aliruka_na_kummeza_kalabushe.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Kisha"
+                  },
+                  {
+                    "end": 123,
+                    "start": 65,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 244,
+                    "start": 124,
+                    "word": "aliruka"
+                  },
+                  {
+                    "end": 290,
+                    "start": 277,
+                    "word": "na"
+                  },
+                  {
+                    "end": 392,
+                    "start": 291,
+                    "word": "kummeza"
+                  },
+                  {
+                    "end": 461,
+                    "start": 393,
+                    "word": "Kalabushe"
+                  }
+                ],
+                "until": 461,
+                "utterances": "Kisha Sinsou aliruka na kummeza Kalabushe"
+              }
+            ],
+            "sentence": "Kisha Sinsou aliruka na kummeza Kalabushe."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_vile_kalabushe_alipenda_kuongea_sana_alizidi_kuzungumza_na_kuuliza_maswali_mengi_hata_alipokuwa__26.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 21,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 80,
+                    "start": 35,
+                    "word": "vile"
+                  },
+                  {
+                    "end": 161,
+                    "start": 81,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 272,
+                    "start": 191,
+                    "word": "alipenda"
+                  },
+                  {
+                    "end": 352,
+                    "start": 273,
+                    "word": "kuongea"
+                  },
+                  {
+                    "end": 416,
+                    "start": 353,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 559,
+                    "start": 478,
+                    "word": "alizidi"
+                  },
+                  {
+                    "end": 653,
+                    "start": 560,
+                    "word": "kuzungumza"
+                  },
+                  {
+                    "end": 676,
+                    "start": 654,
+                    "word": "na"
+                  },
+                  {
+                    "end": 749,
+                    "start": 677,
+                    "word": "kuuliza"
+                  },
+                  {
+                    "end": 821,
+                    "start": 750,
+                    "word": "maswali"
+                  },
+                  {
+                    "end": 922,
+                    "start": 822,
+                    "word": "mengi"
+                  },
+                  {
+                    "end": 1007,
+                    "start": 951,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 1096,
+                    "start": 1008,
+                    "word": "alipokuwa"
+                  },
+                  {
+                    "end": 1148,
+                    "start": 1097,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 1154,
+                    "start": 1149,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1213,
+                    "start": 1155,
+                    "word": "tumbo"
+                  },
+                  {
+                    "end": 1254,
+                    "start": 1214,
+                    "word": "lake"
+                  },
+                  {
+                    "end": 1324,
+                    "start": 1255,
+                    "word": "Sinsou"
+                  }
+                ],
+                "until": 1324,
+                "utterances": "Kwa vile Kalabushe alipenda kuongea sana alizidi kuzungumza na kuuliza maswali mengi hata alipokuwa ndani ya tumbo lake Sinsou"
+              }
+            ],
+            "sentence": "Kwa vile Kalabushe alipenda kuongea sana, alizidi kuzungumza na kuuliza maswali mengi hata alipokuwa ndani ya tumbo lake Sinsou."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwishoni_sinsou_alichoshwa_na_maswali_mengi_ya_kalabushe_akaamua_kumtema_nje.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 121,
+                    "start": 19,
+                    "word": "Mwishoni"
+                  },
+                  {
+                    "end": 221,
+                    "start": 152,
+                    "word": "Sinsou"
+                  },
+                  {
+                    "end": 344,
+                    "start": 222,
+                    "word": "alichoshwa"
+                  },
+                  {
+                    "end": 358,
+                    "start": 345,
+                    "word": "na"
+                  },
+                  {
+                    "end": 420,
+                    "start": 359,
+                    "word": "maswali"
+                  },
+                  {
+                    "end": 472,
+                    "start": 421,
+                    "word": "mengi"
+                  },
+                  {
+                    "end": 478,
+                    "start": 473,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 550,
+                    "start": 479,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 682,
+                    "start": 603,
+                    "word": "akaamua"
+                  },
+                  {
+                    "end": 792,
+                    "start": 683,
+                    "word": "kumtema"
+                  },
+                  {
+                    "end": 830,
+                    "start": 793,
+                    "word": "nje"
+                  }
+                ],
+                "until": 830,
+                "utterances": "Mwishoni Sinsou alichoshwa na maswali mengi ya Kalabushe akaamua kumtema nje"
+              }
+            ],
+            "sentence": "Mwishoni, Sinsou alichoshwa na maswali mengi ya Kalabushe akaamua kumtema nje."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_5_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kalabushe_na_shangaziye_waliokolewa_na_wanakijiji.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 21,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 121,
+                    "start": 113,
+                    "word": "na"
+                  },
+                  {
+                    "end": 209,
+                    "start": 122,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 321,
+                    "start": 210,
+                    "word": "waliokolewa"
+                  },
+                  {
+                    "end": 340,
+                    "start": 322,
+                    "word": "na"
+                  },
+                  {
+                    "end": 447,
+                    "start": 341,
+                    "word": "wanakijiji"
+                  }
+                ],
+                "until": 447,
+                "utterances": "Kalabushe na shangaziye waliokolewa na wanakijiji"
+              }
+            ],
+            "sentence": "Kalabushe na shangaziye waliokolewa na wanakijiji."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tokea_siku_ile_kalabushe_alikoma_kuzungumza_sana_na_watu_waliokuwa_wageni_kwake.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 2,
+                    "word": "Tokea"
+                  },
+                  {
+                    "end": 114,
+                    "start": 65,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 166,
+                    "start": 115,
+                    "word": "ile"
+                  },
+                  {
+                    "end": 267,
+                    "start": 167,
+                    "word": "Kalabushe"
+                  },
+                  {
+                    "end": 328,
+                    "start": 268,
+                    "word": "alikoma"
+                  },
+                  {
+                    "end": 480,
+                    "start": 359,
+                    "word": "kuzungumza"
+                  },
+                  {
+                    "end": 532,
+                    "start": 481,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 600,
+                    "start": 587,
+                    "word": "na"
+                  },
+                  {
+                    "end": 657,
+                    "start": 601,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 755,
+                    "start": 658,
+                    "word": "waliokuwa"
+                  },
+                  {
+                    "end": 826,
+                    "start": 756,
+                    "word": "wageni"
+                  },
+                  {
+                    "end": 888,
+                    "start": 827,
+                    "word": "kwake"
+                  }
+                ],
+                "until": 888,
+                "utterances": "Tokea siku ile Kalabushe alikoma kuzungumza sana na watu waliokuwa wageni kwake"
+              }
+            ],
+            "sentence": "Tokea siku ile, Kalabushe alikoma kuzungumza sana na watu waliokuwa wageni kwake."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Jesse Breytenbach",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "title": "Kalabushe, chiriku",
+  "titleimage": "level3_5_page_01_image_0001.jpg"
+}

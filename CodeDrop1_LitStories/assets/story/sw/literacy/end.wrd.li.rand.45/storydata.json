@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mahali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mahali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mahali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mahali"
+              }
+            ],
+            "sentence": "mahali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "swali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "swali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "swali"
+              }
+            ],
+            "sentence": "swali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kali"
+              }
+            ],
+            "sentence": "kali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pahali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pahali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pahali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pahali"
+              }
+            ],
+            "sentence": "pahali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwili_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwili"
+              }
+            ],
+            "sentence": "mwili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "makali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "makali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "makali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "makali"
+              }
+            ],
+            "sentence": "makali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fahali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fahali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fahali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fahali"
+              }
+            ],
+            "sentence": "fahali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "taroli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taroli"
+              }
+            ],
+            "sentence": "taroli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "angekubali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "angekubali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "angekubali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "angekubali"
+              }
+            ],
+            "sentence": "angekubali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kamili_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kamili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kamili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kamili"
+              }
+            ],
+            "sentence": "kamili"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.li.rand.45"
+}

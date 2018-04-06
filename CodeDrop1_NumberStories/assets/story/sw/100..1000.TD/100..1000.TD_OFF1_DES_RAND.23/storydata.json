@@ -1,0 +1,572 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "419_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "19.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na tisa"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "418_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "18.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na nane"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "417_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "17.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na saba"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "416_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "16.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na sita"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "415_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "15.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na tano"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "414_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "14.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na nne"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "413_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "13.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na tatu"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "412_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "12.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na mbili"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "411_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "11.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na moja"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi na Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "410_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "10.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "Mia Nne na Kumi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.100..1000.TD_OFF1_DES_RAND.level23"
+}

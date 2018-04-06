@@ -1,0 +1,612 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "a_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "a.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "a"
+                  }
+                ],
+                "until": -1,
+                "utterances": "a"
+              }
+            ],
+            "sentence": "a"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "b_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "b.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "b"
+                  }
+                ],
+                "until": -1,
+                "utterances": "b"
+              }
+            ],
+            "sentence": "b"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ch_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ch.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ch"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ch"
+              }
+            ],
+            "sentence": "ch"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "d_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "d.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "d"
+                  }
+                ],
+                "until": -1,
+                "utterances": "d"
+              }
+            ],
+            "sentence": "d"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "e_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "e.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "e"
+                  }
+                ],
+                "until": -1,
+                "utterances": "e"
+              }
+            ],
+            "sentence": "e"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "f_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "f.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "f"
+                  }
+                ],
+                "until": -1,
+                "utterances": "f"
+              }
+            ],
+            "sentence": "f"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "g_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "g.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "g"
+                  }
+                ],
+                "until": -1,
+                "utterances": "g"
+              }
+            ],
+            "sentence": "g"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "h_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "h.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "h"
+                  }
+                ],
+                "until": -1,
+                "utterances": "h"
+              }
+            ],
+            "sentence": "h"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "i_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "i.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "i"
+                  }
+                ],
+                "until": -1,
+                "utterances": "i"
+              }
+            ],
+            "sentence": "i"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "j_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "j.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "j"
+                  }
+                ],
+                "until": -1,
+                "utterances": "j"
+              }
+            ],
+            "sentence": "j"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "k_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "k.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "k"
+                  }
+                ],
+                "until": -1,
+                "utterances": "k"
+              }
+            ],
+            "sentence": "k"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "l_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "l.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "l"
+                  }
+                ],
+                "until": -1,
+                "utterances": "l"
+              }
+            ],
+            "sentence": "l"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "m_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "m.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "m"
+                  }
+                ],
+                "until": -1,
+                "utterances": "m"
+              }
+            ],
+            "sentence": "m"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "n_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "n.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "n"
+                  }
+                ],
+                "until": -1,
+                "utterances": "n"
+              }
+            ],
+            "sentence": "n"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "o_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "o.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "o"
+                  }
+                ],
+                "until": -1,
+                "utterances": "o"
+              }
+            ],
+            "sentence": "o"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "p_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "p.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "p"
+                  }
+                ],
+                "until": -1,
+                "utterances": "p"
+              }
+            ],
+            "sentence": "p"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "r_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "r.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "r"
+                  }
+                ],
+                "until": -1,
+                "utterances": "r"
+              }
+            ],
+            "sentence": "r"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "s_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "s.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "s"
+                  }
+                ],
+                "until": -1,
+                "utterances": "s"
+              }
+            ],
+            "sentence": "s"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "t_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "t.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "t"
+                  }
+                ],
+                "until": -1,
+                "utterances": "t"
+              }
+            ],
+            "sentence": "t"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "u_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "u.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "u"
+                  }
+                ],
+                "until": -1,
+                "utterances": "u"
+              }
+            ],
+            "sentence": "u"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "v_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "v.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "v"
+                  }
+                ],
+                "until": -1,
+                "utterances": "v"
+              }
+            ],
+            "sentence": "v"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "w_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "w.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "w"
+                  }
+                ],
+                "until": -1,
+                "utterances": "w"
+              }
+            ],
+            "sentence": "w"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "y_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "y.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "y"
+                  }
+                ],
+                "until": -1,
+                "utterances": "y"
+              }
+            ],
+            "sentence": "y"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "z_lc_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "z.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "z"
+                  }
+                ],
+                "until": -1,
+                "utterances": "z"
+              }
+            ],
+            "sentence": "z"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "all.A..Z.asc.lc.8.json"
+}

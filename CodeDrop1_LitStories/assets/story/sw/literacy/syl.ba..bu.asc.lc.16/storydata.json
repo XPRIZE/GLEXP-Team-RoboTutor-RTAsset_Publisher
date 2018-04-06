@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ba_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ba"
+              }
+            ],
+            "sentence": "ba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "be_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "be.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "be"
+                  }
+                ],
+                "until": -1,
+                "utterances": "be"
+              }
+            ],
+            "sentence": "be"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bi"
+              }
+            ],
+            "sentence": "bi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bo"
+              }
+            ],
+            "sentence": "bo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bu"
+              }
+            ],
+            "sentence": "bu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ba..bu.asc.lc.16.json"
+}

@@ -1,0 +1,237 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "lori.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lori.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lori"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lori"
+              }
+            ],
+            "sentence": "LORI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lulu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lulu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lulu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lulu"
+              }
+            ],
+            "sentence": "LULU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "laini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "laini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "laini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "laini"
+              }
+            ],
+            "sentence": "LAINI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lima"
+              }
+            ],
+            "sentence": "LIMA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lala.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lala"
+              }
+            ],
+            "sentence": "LALA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lala.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lala"
+              }
+            ],
+            "sentence": "LALA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lele.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lele.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lele"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lele"
+              }
+            ],
+            "sentence": "LELE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "limau.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "limau.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "limau"
+                  }
+                ],
+                "until": -1,
+                "utterances": "limau"
+              }
+            ],
+            "sentence": "LIMAU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lamba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lamba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lamba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lamba"
+              }
+            ],
+            "sentence": "LAMBA"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-L.rand.27"
+}

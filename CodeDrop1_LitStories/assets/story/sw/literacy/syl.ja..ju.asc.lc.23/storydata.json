@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ja_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ja"
+              }
+            ],
+            "sentence": "ja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "je_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "je.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "je"
+                  }
+                ],
+                "until": -1,
+                "utterances": "je"
+              }
+            ],
+            "sentence": "je"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ji_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ji"
+              }
+            ],
+            "sentence": "ji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jo"
+              }
+            ],
+            "sentence": "jo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ju_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ju.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ju"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ju"
+              }
+            ],
+            "sentence": "ju"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ja..ju.asc.lc.23.json"
+}

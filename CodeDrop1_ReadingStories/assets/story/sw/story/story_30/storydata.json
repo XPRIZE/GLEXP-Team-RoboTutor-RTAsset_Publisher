@@ -1,0 +1,1971 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level3_10_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_alipokuwa_mdogo_mamake_alizoea_kumweka_akilalia_mkeka_maridadi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 21,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 182,
+                    "start": 67,
+                    "word": "alipokuwa"
+                  },
+                  {
+                    "end": 270,
+                    "start": 183,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 377,
+                    "start": 314,
+                    "word": "mamake"
+                  },
+                  {
+                    "end": 477,
+                    "start": 388,
+                    "word": "alizoea"
+                  },
+                  {
+                    "end": 562,
+                    "start": 478,
+                    "word": "kumweka"
+                  },
+                  {
+                    "end": 671,
+                    "start": 568,
+                    "word": "akilalia"
+                  },
+                  {
+                    "end": 736,
+                    "start": 672,
+                    "word": "mkeka"
+                  },
+                  {
+                    "end": 864,
+                    "start": 737,
+                    "word": "maridadi"
+                  }
+                ],
+                "until": 864,
+                "utterances": "Akai alipokuwa mdogo mamake alizoea kumweka akilalia mkeka maridadi"
+              }
+            ],
+            "sentence": "Akai alipokuwa mdogo, mamake alizoea kumweka akilalia mkeka maridadi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkeka_wa_kipekee_ulitengezwa_na_shangaziye_akai_kutoka_majani_ya_mtende.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 22,
+                    "word": "Mkeka"
+                  },
+                  {
+                    "end": 110,
+                    "start": 93,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 206,
+                    "start": 111,
+                    "word": "kipekee"
+                  },
+                  {
+                    "end": 342,
+                    "start": 207,
+                    "word": "ulitengezwa"
+                  },
+                  {
+                    "end": 356,
+                    "start": 343,
+                    "word": "na"
+                  },
+                  {
+                    "end": 470,
+                    "start": 357,
+                    "word": "shangaziye"
+                  },
+                  {
+                    "end": 534,
+                    "start": 471,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 642,
+                    "start": 577,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 720,
+                    "start": 643,
+                    "word": "majani"
+                  },
+                  {
+                    "end": 731,
+                    "start": 721,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 799,
+                    "start": 732,
+                    "word": "mtende"
+                  }
+                ],
+                "until": 799,
+                "utterances": "Mkeka wa kipekee ulitengezwa na shangaziye Akai kutoka majani ya mtende"
+              }
+            ],
+            "sentence": "Mkeka wa kipekee ulitengezwa na shangaziye Akai kutoka majani ya mtende."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkeka_ulikuwa_wa_rangi_ya_waridi_bluu_na_chanikiwiti.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 2,
+                    "word": "Mkeka"
+                  },
+                  {
+                    "end": 165,
+                    "start": 80,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 187,
+                    "start": 166,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 248,
+                    "start": 188,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 259,
+                    "start": 249,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 358,
+                    "start": 260,
+                    "word": "waridi"
+                  },
+                  {
+                    "end": 447,
+                    "start": 399,
+                    "word": "bluu"
+                  },
+                  {
+                    "end": 515,
+                    "start": 501,
+                    "word": "na"
+                  },
+                  {
+                    "end": 641,
+                    "start": 516,
+                    "word": "chanikiwiti"
+                  }
+                ],
+                "until": 641,
+                "utterances": "Mkeka ulikuwa wa rangi ya waridi bluu na chanikiwiti"
+              }
+            ],
+            "sentence": "Mkeka ulikuwa wa rangi ya waridi, bluu na chanikiwiti."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ulikuwa_tofauti_na_mikeka_mingine_ambayo_mamake_akai_alikuwa_nayo_nyumbani.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 22,
+                    "word": "Ulikuwa"
+                  },
+                  {
+                    "end": 204,
+                    "start": 102,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 223,
+                    "start": 205,
+                    "word": "na"
+                  },
+                  {
+                    "end": 293,
+                    "start": 224,
+                    "word": "mikeka"
+                  },
+                  {
+                    "end": 392,
+                    "start": 294,
+                    "word": "mingine"
+                  },
+                  {
+                    "end": 490,
+                    "start": 433,
+                    "word": "ambayo"
+                  },
+                  {
+                    "end": 563,
+                    "start": 491,
+                    "word": "mamake"
+                  },
+                  {
+                    "end": 621,
+                    "start": 564,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 705,
+                    "start": 638,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 755,
+                    "start": 706,
+                    "word": "nayo"
+                  },
+                  {
+                    "end": 838,
+                    "start": 756,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 838,
+                "utterances": "Ulikuwa tofauti na mikeka mingine ambayo mamake Akai alikuwa nayo nyumbani"
+              }
+            ],
+            "sentence": "Ulikuwa tofauti na mikeka mingine ambayo mamake Akai alikuwa nayo nyumbani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyumbani_kwao_akai_ilikuwa_katika_sehemu_kavu_yenye_joto_na_iliyojaa_mawe.mp3",
+                "from": 56,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 56,
+                    "word": "Nyumbani"
+                  },
+                  {
+                    "end": 193,
+                    "start": 127,
+                    "word": "kwao"
+                  },
+                  {
+                    "end": 272,
+                    "start": 224,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 385,
+                    "start": 273,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 449,
+                    "start": 386,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 513,
+                    "start": 450,
+                    "word": "sehemu"
+                  },
+                  {
+                    "end": 582,
+                    "start": 517,
+                    "word": "kavu"
+                  },
+                  {
+                    "end": 673,
+                    "start": 635,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 760,
+                    "start": 674,
+                    "word": "joto"
+                  },
+                  {
+                    "end": 783,
+                    "start": 761,
+                    "word": "na"
+                  },
+                  {
+                    "end": 911,
+                    "start": 796,
+                    "word": "iliyojaa"
+                  },
+                  {
+                    "end": 969,
+                    "start": 912,
+                    "word": "mawe"
+                  }
+                ],
+                "until": 969,
+                "utterances": "Nyumbani kwao Akai ilikuwa katika sehemu kavu yenye joto na iliyojaa mawe"
+              }
+            ],
+            "sentence": "Nyumbani kwao Akai ilikuwa katika sehemu kavu, yenye joto na iliyojaa mawe."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kulikuwa_na_nge_buibui_na_nyoka_pia.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 2,
+                    "word": "Kulikuwa"
+                  },
+                  {
+                    "end": 127,
+                    "start": 95,
+                    "word": "na"
+                  },
+                  {
+                    "end": 200,
+                    "start": 128,
+                    "word": "nge"
+                  },
+                  {
+                    "end": 364,
+                    "start": 252,
+                    "word": "buibui"
+                  },
+                  {
+                    "end": 411,
+                    "start": 399,
+                    "word": "na"
+                  },
+                  {
+                    "end": 461,
+                    "start": 412,
+                    "word": "nyoka"
+                  },
+                  {
+                    "end": 509,
+                    "start": 462,
+                    "word": "pia"
+                  }
+                ],
+                "until": 509,
+                "utterances": "Kulikuwa na nge buibui na nyoka pia"
+              }
+            ],
+            "sentence": "Kulikuwa na nge, buibui na nyoka pia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_akai_hakuwahi_umwa_na_viumbe_hao_hatari.mp3",
+                "from": 67,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 67,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 212,
+                    "start": 148,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 356,
+                    "start": 213,
+                    "word": "hakuwahi"
+                  },
+                  {
+                    "end": 416,
+                    "start": 382,
+                    "word": "umwa"
+                  },
+                  {
+                    "end": 473,
+                    "start": 459,
+                    "word": "na"
+                  },
+                  {
+                    "end": 540,
+                    "start": 474,
+                    "word": "viumbe"
+                  },
+                  {
+                    "end": 581,
+                    "start": 541,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 680,
+                    "start": 582,
+                    "word": "hatari"
+                  }
+                ],
+                "until": 680,
+                "utterances": "Lakini Akai hakuwahi umwa na viumbe hao hatari"
+              }
+            ],
+            "sentence": "Lakini Akai hakuwahi umwa na viumbe hao hatari."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mamake_alisema_mkeka_wake_wa_kipekee_unamkinga_na_hatari_yoyote.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 21,
+                    "word": "Mamake"
+                  },
+                  {
+                    "end": 186,
+                    "start": 89,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 285,
+                    "start": 232,
+                    "word": "Mkeka"
+                  },
+                  {
+                    "end": 336,
+                    "start": 286,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 353,
+                    "start": 337,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 475,
+                    "start": 354,
+                    "word": "kipekee"
+                  },
+                  {
+                    "end": 615,
+                    "start": 518,
+                    "word": "unamkinga"
+                  },
+                  {
+                    "end": 639,
+                    "start": 616,
+                    "word": "na"
+                  },
+                  {
+                    "end": 751,
+                    "start": 640,
+                    "word": "hatari"
+                  },
+                  {
+                    "end": 807,
+                    "start": 770,
+                    "word": "yoyote"
+                  }
+                ],
+                "until": 807,
+                "utterances": "Mamake alisema Mkeka wake wa kipekee unamkinga na hatari yoyote"
+              }
+            ],
+            "sentence": "Mamake alisema, \"Mkeka wake wa kipekee unamkinga na hatari yoyote.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_alikuwa_mtoto_mwerevu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 22,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 172,
+                    "start": 100,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 244,
+                    "start": 173,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 333,
+                    "start": 245,
+                    "word": "mwerevu"
+                  }
+                ],
+                "until": 333,
+                "utterances": "Akai alikuwa mtoto mwerevu"
+              }
+            ],
+            "sentence": "Akai alikuwa mtoto mwerevu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliweza_kujua_mahali_kisima_cha_karibu_kilikokuwa.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 22,
+                    "word": "Aliweza"
+                  },
+                  {
+                    "end": 184,
+                    "start": 110,
+                    "word": "kujua"
+                  },
+                  {
+                    "end": 252,
+                    "start": 185,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 323,
+                    "start": 253,
+                    "word": "kisima"
+                  },
+                  {
+                    "end": 347,
+                    "start": 324,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 419,
+                    "start": 348,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 557,
+                    "start": 463,
+                    "word": "kilikokuwa"
+                  }
+                ],
+                "until": 557,
+                "utterances": "Aliweza kujua mahali kisima cha karibu kilikokuwa"
+              }
+            ],
+            "sentence": "Aliweza kujua mahali kisima cha karibu kilikokuwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alijua_mahali_manyatta_ya_nyanyake_ilikuwa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 21,
+                    "word": "Alijua"
+                  },
+                  {
+                    "end": 177,
+                    "start": 100,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 253,
+                    "start": 178,
+                    "word": "manyatta"
+                  },
+                  {
+                    "end": 271,
+                    "start": 254,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 372,
+                    "start": 272,
+                    "word": "nyanyake"
+                  },
+                  {
+                    "end": 454,
+                    "start": 373,
+                    "word": "ilikuwa"
+                  }
+                ],
+                "until": 454,
+                "utterances": "Alijua mahali manyatta ya nyanyake ilikuwa"
+              }
+            ],
+            "sentence": "Alijua mahali manyatta ya nyanyake ilikuwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mara_kwa_mara_alienda_kufurahia_kunywa_maziwa_ya_ngamia_na_nyanyake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 20,
+                    "word": "Mara"
+                  },
+                  {
+                    "end": 90,
+                    "start": 67,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 156,
+                    "start": 91,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 263,
+                    "start": 191,
+                    "word": "alienda"
+                  },
+                  {
+                    "end": 364,
+                    "start": 264,
+                    "word": "kufurahia"
+                  },
+                  {
+                    "end": 416,
+                    "start": 365,
+                    "word": "kunywa"
+                  },
+                  {
+                    "end": 482,
+                    "start": 417,
+                    "word": "maziwa"
+                  },
+                  {
+                    "end": 500,
+                    "start": 483,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 568,
+                    "start": 501,
+                    "word": "ngamia"
+                  },
+                  {
+                    "end": 587,
+                    "start": 569,
+                    "word": "na"
+                  },
+                  {
+                    "end": 675,
+                    "start": 588,
+                    "word": "nyanyake"
+                  }
+                ],
+                "until": 675,
+                "utterances": "Mara kwa mara alienda kufurahia kunywa maziwa ya ngamia na nyanyake"
+              }
+            ],
+            "sentence": "Mara kwa mara alienda kufurahia kunywa maziwa ya ngamia na nyanyake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_akai_hakuwa_na_bahati_vile.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 129,
+                    "start": 70,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 214,
+                    "start": 166,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 293,
+                    "start": 215,
+                    "word": "hakuwa"
+                  },
+                  {
+                    "end": 314,
+                    "start": 294,
+                    "word": "na"
+                  },
+                  {
+                    "end": 377,
+                    "start": 315,
+                    "word": "bahati"
+                  },
+                  {
+                    "end": 420,
+                    "start": 378,
+                    "word": "vile"
+                  }
+                ],
+                "until": 420,
+                "utterances": "Siku moja Akai hakuwa na bahati vile"
+              }
+            ],
+            "sentence": "Siku moja, Akai hakuwa na bahati vile."
+          },
+          {
+            "narration": [
+              {
+                "audio": "aliondoka_nyumbani_kwenda_kwa_manyatta_ya_nyanyake_lakini_hakufika_huko.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 20,
+                    "word": "Aliondoka"
+                  },
+                  {
+                    "end": 200,
+                    "start": 120,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 250,
+                    "start": 201,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 275,
+                    "start": 251,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 346,
+                    "start": 276,
+                    "word": "manyatta"
+                  },
+                  {
+                    "end": 369,
+                    "start": 347,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 488,
+                    "start": 370,
+                    "word": "nyanyake"
+                  },
+                  {
+                    "end": 566,
+                    "start": 509,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 651,
+                    "start": 567,
+                    "word": "hakufika"
+                  },
+                  {
+                    "end": 700,
+                    "start": 652,
+                    "word": "huko"
+                  }
+                ],
+                "until": 700,
+                "utterances": "Aliondoka nyumbani kwenda kwa manyatta ya nyanyake lakini hakufika huko"
+              }
+            ],
+            "sentence": "Aliondoka nyumbani kwenda kwa manyatta ya nyanyake lakini hakufika huko."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipotelea_milimani.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 150,
+                    "start": 22,
+                    "word": "Alipotelea"
+                  },
+                  {
+                    "end": 267,
+                    "start": 151,
+                    "word": "milimani"
+                  }
+                ],
+                "until": 267,
+                "utterances": "Alipotelea milimani"
+              }
+            ],
+            "sentence": "Alipotelea milimani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_aliogopa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 21,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 230,
+                    "start": 101,
+                    "word": "aliogopa"
+                  }
+                ],
+                "until": 230,
+                "utterances": "Akai aliogopa"
+              }
+            ],
+            "sentence": "Akai aliogopa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliketi_chini_ya_mti_wa_edome_kusubiri_usaidizi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 22,
+                    "word": "Aliketi"
+                  },
+                  {
+                    "end": 157,
+                    "start": 102,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 169,
+                    "start": 158,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 212,
+                    "start": 170,
+                    "word": "mti"
+                  },
+                  {
+                    "end": 235,
+                    "start": 213,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 307,
+                    "start": 246,
+                    "word": "edome"
+                  },
+                  {
+                    "end": 438,
+                    "start": 354,
+                    "word": "kusubiri"
+                  },
+                  {
+                    "end": 553,
+                    "start": 439,
+                    "word": "usaidizi"
+                  }
+                ],
+                "until": 553,
+                "utterances": "Aliketi chini ya mti wa edome kusubiri usaidizi"
+              }
+            ],
+            "sentence": "Aliketi chini ya mti wa edome kusubiri usaidizi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "muda_mfupi_baadaye_alilala_na_kuota_ndoto.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 2,
+                    "word": "Muda"
+                  },
+                  {
+                    "end": 121,
+                    "start": 59,
+                    "word": "mfupi"
+                  },
+                  {
+                    "end": 223,
+                    "start": 122,
+                    "word": "baadaye"
+                  },
+                  {
+                    "end": 340,
+                    "start": 256,
+                    "word": "alilala"
+                  },
+                  {
+                    "end": 362,
+                    "start": 341,
+                    "word": "na"
+                  },
+                  {
+                    "end": 439,
+                    "start": 363,
+                    "word": "kuota"
+                  },
+                  {
+                    "end": 501,
+                    "start": 440,
+                    "word": "ndoto"
+                  }
+                ],
+                "until": 501,
+                "utterances": "Muda mfupi baadaye alilala na kuota ndoto"
+              }
+            ],
+            "sentence": "Muda mfupi baadaye, alilala na kuota ndoto."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hivi_ndivyo_ndoto_ilivyokuwa_alikuwa_amelala_kwenye_mkeka_wake_maalumu.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 1,
+                    "word": "Hivi"
+                  },
+                  {
+                    "end": 113,
+                    "start": 62,
+                    "word": "ndivyo"
+                  },
+                  {
+                    "end": 176,
+                    "start": 114,
+                    "word": "ndoto"
+                  },
+                  {
+                    "end": 285,
+                    "start": 177,
+                    "word": "ilivyokuwa"
+                  },
+                  {
+                    "end": 423,
+                    "start": 342,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 511,
+                    "start": 433,
+                    "word": "amelala"
+                  },
+                  {
+                    "end": 559,
+                    "start": 512,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 620,
+                    "start": 560,
+                    "word": "mkeka"
+                  },
+                  {
+                    "end": 664,
+                    "start": 621,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 747,
+                    "start": 665,
+                    "word": "maalumu"
+                  }
+                ],
+                "until": 747,
+                "utterances": "Hivi ndivyo ndoto ilivyokuwa Alikuwa amelala kwenye mkeka wake maalumu"
+              }
+            ],
+            "sentence": "Hivi ndivyo ndoto ilivyokuwa: Alikuwa amelala kwenye mkeka wake maalumu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanamke_aliyefanana_na_nyanyake_alikuwa_akimchunga.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 22,
+                    "word": "Mwanamke"
+                  },
+                  {
+                    "end": 245,
+                    "start": 122,
+                    "word": "aliyefanana"
+                  },
+                  {
+                    "end": 264,
+                    "start": 246,
+                    "word": "na"
+                  },
+                  {
+                    "end": 382,
+                    "start": 265,
+                    "word": "nyanyake"
+                  },
+                  {
+                    "end": 477,
+                    "start": 401,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 598,
+                    "start": 485,
+                    "word": "akimchunga"
+                  }
+                ],
+                "until": 598,
+                "utterances": "Mwanamke aliyefanana na nyanyake alikuwa akimchunga"
+              }
+            ],
+            "sentence": "Mwanamke aliyefanana na nyanyake alikuwa akimchunga."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanamke_huyo_alitabasamu_na_kumpa_kikombe_kikubwa_cha_maziwa_ya_ngamia.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 23,
+                    "word": "Mwanamke"
+                  },
+                  {
+                    "end": 169,
+                    "start": 104,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 336,
+                    "start": 180,
+                    "word": "alitabasamu"
+                  },
+                  {
+                    "end": 396,
+                    "start": 383,
+                    "word": "na"
+                  },
+                  {
+                    "end": 456,
+                    "start": 397,
+                    "word": "kumpa"
+                  },
+                  {
+                    "end": 526,
+                    "start": 457,
+                    "word": "kikombe"
+                  },
+                  {
+                    "end": 629,
+                    "start": 527,
+                    "word": "kikubwa"
+                  },
+                  {
+                    "end": 654,
+                    "start": 630,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 722,
+                    "start": 655,
+                    "word": "maziwa"
+                  },
+                  {
+                    "end": 740,
+                    "start": 723,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 809,
+                    "start": 741,
+                    "word": "ngamia"
+                  }
+                ],
+                "until": 809,
+                "utterances": "Mwanamke huyo alitabasamu na kumpa kikombe kikubwa cha maziwa ya ngamia"
+              }
+            ],
+            "sentence": "Mwanamke huyo alitabasamu na kumpa kikombe kikubwa cha maziwa ya ngamia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_alipounyoosha_mkono_wake_kuchukuwa_maziwa_hivi_aliamka.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 21,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 242,
+                    "start": 100,
+                    "word": "alipounyoosha"
+                  },
+                  {
+                    "end": 314,
+                    "start": 243,
+                    "word": "mkono"
+                  },
+                  {
+                    "end": 353,
+                    "start": 315,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 438,
+                    "start": 354,
+                    "word": "kuchukuwa"
+                  },
+                  {
+                    "end": 514,
+                    "start": 439,
+                    "word": "maziwa"
+                  },
+                  {
+                    "end": 580,
+                    "start": 524,
+                    "word": "hivi"
+                  },
+                  {
+                    "end": 715,
+                    "start": 633,
+                    "word": "aliamka"
+                  }
+                ],
+                "until": 715,
+                "utterances": "Akai alipounyoosha mkono wake kuchukuwa maziwa hivi aliamka"
+              }
+            ],
+            "sentence": "Akai alipounyoosha mkono wake kuchukuwa maziwa hivi, aliamka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_aliyafungua_macho_yake_pole_pole.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 20,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 210,
+                    "start": 112,
+                    "word": "aliyafungua"
+                  },
+                  {
+                    "end": 261,
+                    "start": 211,
+                    "word": "macho"
+                  },
+                  {
+                    "end": 314,
+                    "start": 262,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 373,
+                    "start": 334,
+                    "word": "pole"
+                  },
+                  {
+                    "end": 492,
+                    "start": 470,
+                    "word": "pole"
+                  }
+                ],
+                "until": 492,
+                "utterances": "Akai aliyafungua macho yake pole pole"
+              }
+            ],
+            "sentence": "Akai aliyafungua macho yake pole pole."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipoangalia_juu_alimwona_ndege_mdogo_wa_rangi_ya_bluu_akiwa_ametulia_kwenye_tawi.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 160,
+                    "start": 15,
+                    "word": "Alipoangalia"
+                  },
+                  {
+                    "end": 220,
+                    "start": 161,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 366,
+                    "start": 277,
+                    "word": "alimwona"
+                  },
+                  {
+                    "end": 412,
+                    "start": 367,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 461,
+                    "start": 413,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 501,
+                    "start": 462,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 558,
+                    "start": 502,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 566,
+                    "start": 559,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 619,
+                    "start": 567,
+                    "word": "bluu"
+                  },
+                  {
+                    "end": 763,
+                    "start": 671,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 858,
+                    "start": 764,
+                    "word": "ametulia"
+                  },
+                  {
+                    "end": 903,
+                    "start": 859,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 963,
+                    "start": 904,
+                    "word": "tawi"
+                  }
+                ],
+                "until": 963,
+                "utterances": "Alipoangalia juu alimwona ndege mdogo wa rangi ya bluu akiwa ametulia kwenye tawi"
+              }
+            ],
+            "sentence": "Alipoangalia juu, alimwona ndege mdogo wa rangi ya bluu akiwa ametulia kwenye tawi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_aliposimama_yule_ndege_alipapatika_mbawa_zake_kisha_akamwongozea_akai_njia.mp3",
+                "from": 25,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 25,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 227,
+                    "start": 94,
+                    "word": "aliposimama"
+                  },
+                  {
+                    "end": 314,
+                    "start": 276,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 369,
+                    "start": 315,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 506,
+                    "start": 375,
+                    "word": "alipapatika"
+                  },
+                  {
+                    "end": 566,
+                    "start": 507,
+                    "word": "mbawa"
+                  },
+                  {
+                    "end": 623,
+                    "start": 567,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 712,
+                    "start": 669,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 825,
+                    "start": 717,
+                    "word": "akamwongozea"
+                  },
+                  {
+                    "end": 904,
+                    "start": 826,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 965,
+                    "start": 905,
+                    "word": "njia"
+                  }
+                ],
+                "until": 965,
+                "utterances": "Akai aliposimama yule ndege alipapatika mbawa zake kisha akamwongozea Akai njia"
+              }
+            ],
+            "sentence": "Akai aliposimama, yule ndege alipapatika mbawa zake kisha akamwongozea Akai njia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_alimfuata.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 12,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 209,
+                    "start": 93,
+                    "word": "alimfuata"
+                  }
+                ],
+                "until": 209,
+                "utterances": "Akai alimfuata"
+              }
+            ],
+            "sentence": "Akai alimfuata."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_alifika_mahali_njia_zilienda_pande_mbili_tofauti.mp3",
+                "from": 11,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 11,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 164,
+                    "start": 85,
+                    "word": "alifika"
+                  },
+                  {
+                    "end": 236,
+                    "start": 165,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 280,
+                    "start": 237,
+                    "word": "njia"
+                  },
+                  {
+                    "end": 371,
+                    "start": 281,
+                    "word": "zilienda"
+                  },
+                  {
+                    "end": 421,
+                    "start": 372,
+                    "word": "pande"
+                  },
+                  {
+                    "end": 474,
+                    "start": 422,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 579,
+                    "start": 475,
+                    "word": "tofauti"
+                  }
+                ],
+                "until": 579,
+                "utterances": "Akai alifika mahali njia zilienda pande mbili tofauti"
+              }
+            ],
+            "sentence": "Akai alifika mahali njia zilienda pande mbili tofauti."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "yule_ndege_alikitupa_kipande_cha_mkeka_kilichofanana_na_mkeka_wa_akai.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 20,
+                    "word": "Yule"
+                  },
+                  {
+                    "end": 130,
+                    "start": 88,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 234,
+                    "start": 131,
+                    "word": "alikitupa"
+                  },
+                  {
+                    "end": 307,
+                    "start": 235,
+                    "word": "kipande"
+                  },
+                  {
+                    "end": 333,
+                    "start": 308,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 398,
+                    "start": 334,
+                    "word": "mkeka"
+                  },
+                  {
+                    "end": 527,
+                    "start": 399,
+                    "word": "kilichofanana"
+                  },
+                  {
+                    "end": 549,
+                    "start": 528,
+                    "word": "na"
+                  },
+                  {
+                    "end": 613,
+                    "start": 550,
+                    "word": "mkeka"
+                  },
+                  {
+                    "end": 653,
+                    "start": 614,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 700,
+                    "start": 654,
+                    "word": "Akai"
+                  }
+                ],
+                "until": 700,
+                "utterances": "Yule ndege alikitupa kipande cha mkeka kilichofanana na mkeka wa Akai"
+              }
+            ],
+            "sentence": "Yule ndege alikitupa kipande cha mkeka kilichofanana na mkeka wa Akai."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_14_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akai_alipokichukuwa_kipande_hicho_aliona_nyayo_alizofahamu_kuwa_za_mamake.mp3",
+                "from": 11,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 11,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 238,
+                    "start": 85,
+                    "word": "alipokichukuwa"
+                  },
+                  {
+                    "end": 312,
+                    "start": 239,
+                    "word": "kipande"
+                  },
+                  {
+                    "end": 379,
+                    "start": 313,
+                    "word": "hicho"
+                  },
+                  {
+                    "end": 533,
+                    "start": 444,
+                    "word": "aliona"
+                  },
+                  {
+                    "end": 620,
+                    "start": 534,
+                    "word": "nyayo"
+                  },
+                  {
+                    "end": 746,
+                    "start": 625,
+                    "word": "alizofahamu"
+                  },
+                  {
+                    "end": 841,
+                    "start": 788,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 869,
+                    "start": 842,
+                    "word": "za"
+                  },
+                  {
+                    "end": 951,
+                    "start": 870,
+                    "word": "mamake"
+                  }
+                ],
+                "until": 951,
+                "utterances": "Akai alipokichukuwa kipande hicho aliona nyayo alizofahamu kuwa za mamake"
+              }
+            ],
+            "sentence": "Akai alipokichukuwa kipande hicho, aliona nyayo alizofahamu kuwa za mamake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "baadaye_alikiona_kisima_walimochota_maji.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 114,
+                    "start": 2,
+                    "word": "Baadaye"
+                  },
+                  {
+                    "end": 262,
+                    "start": 157,
+                    "word": "alikiona"
+                  },
+                  {
+                    "end": 338,
+                    "start": 263,
+                    "word": "kisima"
+                  },
+                  {
+                    "end": 457,
+                    "start": 339,
+                    "word": "walimochota"
+                  },
+                  {
+                    "end": 527,
+                    "start": 458,
+                    "word": "maji"
+                  }
+                ],
+                "until": 527,
+                "utterances": "Baadaye alikiona kisima walimochota maji"
+              }
+            ],
+            "sentence": "Baadaye, alikiona kisima walimochota maji."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "watu_wote_wa_familia_ya_akai_waliimba_na_kucheza_kumkaribisha_nyumbani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 2,
+                    "word": "Watu"
+                  },
+                  {
+                    "end": 145,
+                    "start": 92,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 165,
+                    "start": 146,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 312,
+                    "start": 166,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 320,
+                    "start": 313,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 371,
+                    "start": 321,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 511,
+                    "start": 426,
+                    "word": "waliimba"
+                  },
+                  {
+                    "end": 544,
+                    "start": 512,
+                    "word": "na"
+                  },
+                  {
+                    "end": 662,
+                    "start": 545,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 788,
+                    "start": 663,
+                    "word": "kumkaribisha"
+                  },
+                  {
+                    "end": 874,
+                    "start": 789,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 874,
+                "utterances": "Watu wote wa familia ya Akai waliimba na kucheza kumkaribisha nyumbani"
+              }
+            ],
+            "sentence": "Watu wote wa familia ya Akai waliimba na kucheza kumkaribisha nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "walimchinja_mbuzi_wakachoma_nyama_na_kusherehekea_kurudi_salama_kwa_mtoto_wao.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 2,
+                    "word": "Walimchinja"
+                  },
+                  {
+                    "end": 247,
+                    "start": 148,
+                    "word": "mbuzi"
+                  },
+                  {
+                    "end": 373,
+                    "start": 281,
+                    "word": "wakachoma"
+                  },
+                  {
+                    "end": 460,
+                    "start": 374,
+                    "word": "nyama"
+                  },
+                  {
+                    "end": 515,
+                    "start": 502,
+                    "word": "na"
+                  },
+                  {
+                    "end": 656,
+                    "start": 516,
+                    "word": "kusherehekea"
+                  },
+                  {
+                    "end": 722,
+                    "start": 657,
+                    "word": "kurudi"
+                  },
+                  {
+                    "end": 822,
+                    "start": 723,
+                    "word": "salama"
+                  },
+                  {
+                    "end": 882,
+                    "start": 831,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 933,
+                    "start": 883,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 976,
+                    "start": 934,
+                    "word": "wao"
+                  }
+                ],
+                "until": 976,
+                "utterances": "Walimchinja mbuzi wakachoma nyama na kusherehekea kurudi salama kwa mtoto wao"
+              }
+            ],
+            "sentence": "Walimchinja mbuzi, wakachoma nyama na kusherehekea kurudi salama kwa mtoto wao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_10_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "naye_akai_aliukalia_mkeka_wake_maalumu_huku_akifurahi_kula_kipande_kikubwa_cha_nyama_iliyochomwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 20,
+                    "word": "Naye"
+                  },
+                  {
+                    "end": 137,
+                    "start": 89,
+                    "word": "Akai"
+                  },
+                  {
+                    "end": 301,
+                    "start": 175,
+                    "word": "aliukalia"
+                  },
+                  {
+                    "end": 366,
+                    "start": 302,
+                    "word": "mkeka"
+                  },
+                  {
+                    "end": 409,
+                    "start": 367,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 494,
+                    "start": 410,
+                    "word": "maalumu"
+                  },
+                  {
+                    "end": 591,
+                    "start": 557,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 732,
+                    "start": 603,
+                    "word": "akifurahi"
+                  },
+                  {
+                    "end": 778,
+                    "start": 733,
+                    "word": "kula"
+                  },
+                  {
+                    "end": 844,
+                    "start": 779,
+                    "word": "kipande"
+                  },
+                  {
+                    "end": 961,
+                    "start": 845,
+                    "word": "kikubwa"
+                  },
+                  {
+                    "end": 1015,
+                    "start": 997,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 1065,
+                    "start": 1016,
+                    "word": "nyama"
+                  },
+                  {
+                    "end": 1186,
+                    "start": 1074,
+                    "word": "iliyochomwa"
+                  }
+                ],
+                "until": 1186,
+                "utterances": "Naye Akai aliukalia mkeka wake maalumu huku akifurahi kula kipande kikubwa cha nyama iliyochomwa"
+              }
+            ],
+            "sentence": "Naye Akai aliukalia mkeka wake maalumu huku akifurahi kula kipande kikubwa cha nyama iliyochomwa."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Catherine Groenewald",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Mkeka wa Akai wa kipekee",
+  "titleimage": "level3_10_page_01_image_0001.jpg"
+}

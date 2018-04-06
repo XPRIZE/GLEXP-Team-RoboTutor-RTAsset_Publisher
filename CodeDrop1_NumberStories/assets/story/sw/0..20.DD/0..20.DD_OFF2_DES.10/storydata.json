@@ -1,0 +1,287 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "20_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "20.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ishirini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini"
+              }
+            ],
+            "sentence": "Ishirini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "18_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "18.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na nane"
+              }
+            ],
+            "sentence": "Kumi na Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "16_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "16.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na sita"
+              }
+            ],
+            "sentence": "Kumi na Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "14_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "14.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na nne"
+              }
+            ],
+            "sentence": "Kumi na Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "12_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "12.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na mbili"
+              }
+            ],
+            "sentence": "Kumi na Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "10_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "10.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "Kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "8_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "8.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "6_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "6.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
+              }
+            ],
+            "sentence": "Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "4.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "2.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "0_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "0.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sifuri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sifuri"
+              }
+            ],
+            "sentence": "Sifuri"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.0..20.DD_OFF2_DES.level10"
+}

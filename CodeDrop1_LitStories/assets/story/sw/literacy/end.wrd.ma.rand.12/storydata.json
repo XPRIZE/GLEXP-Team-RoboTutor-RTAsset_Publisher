@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mlima_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mlima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mlima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mlima"
+              }
+            ],
+            "sentence": "mlima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ukulima_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukulima"
+              }
+            ],
+            "sentence": "ukulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kusema_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kusema.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kusema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kusema"
+              }
+            ],
+            "sentence": "kusema"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "huchoma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "huchoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "huchoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "huchoma"
+              }
+            ],
+            "sentence": "huchoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "huzima_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "huzima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "huzima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "huzima"
+              }
+            ],
+            "sentence": "huzima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kumuuma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumuuma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumuuma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumuuma"
+              }
+            ],
+            "sentence": "kumuuma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyuma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyuma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyuma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyuma"
+              }
+            ],
+            "sentence": "nyuma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nilisema_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nilisema.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilisema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilisema"
+              }
+            ],
+            "sentence": "nilisema"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kusoma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kusoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kusoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kusoma"
+              }
+            ],
+            "sentence": "kusoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alama_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alama"
+              }
+            ],
+            "sentence": "alama"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.ma.rand.12"
+}

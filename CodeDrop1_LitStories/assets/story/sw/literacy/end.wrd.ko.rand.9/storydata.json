@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mshtuko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mshtuko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mshtuko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mshtuko"
+              }
+            ],
+            "sentence": "mshtuko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dadako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dadako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dadako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dadako"
+              }
+            ],
+            "sentence": "dadako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mfuko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mfuko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mfuko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mfuko"
+              }
+            ],
+            "sentence": "mfuko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yako"
+              }
+            ],
+            "sentence": "yako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ziko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ziko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ziko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ziko"
+              }
+            ],
+            "sentence": "ziko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "koko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "koko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "koko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "koko"
+              }
+            ],
+            "sentence": "koko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yuko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yuko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yuko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yuko"
+              }
+            ],
+            "sentence": "yuko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kicheko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kicheko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kicheko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kicheko"
+              }
+            ],
+            "sentence": "kicheko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jiko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jiko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jiko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jiko"
+              }
+            ],
+            "sentence": "jiko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiboko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiboko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiboko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiboko"
+              }
+            ],
+            "sentence": "kiboko"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.ko.rand.9"
+}

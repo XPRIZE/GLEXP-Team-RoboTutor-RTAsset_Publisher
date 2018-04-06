@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "sita_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sita"
+              }
+            ],
+            "sentence": "sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "siyo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siyo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "siyo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "siyo"
+              }
+            ],
+            "sentence": "siyo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sifa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sifa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sifa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sifa"
+              }
+            ],
+            "sentence": "sifa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sina"
+              }
+            ],
+            "sentence": "sina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "siku_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "siku"
+                  }
+                ],
+                "until": -1,
+                "utterances": "siku"
+              }
+            ],
+            "sentence": "siku"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sisa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sisa"
+              }
+            ],
+            "sentence": "sisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "simu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "simu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simu"
+              }
+            ],
+            "sentence": "simu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "simo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "simo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "simo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "simo"
+              }
+            ],
+            "sentence": "simo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "siri_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siri.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "siri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "siri"
+              }
+            ],
+            "sentence": "siri"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sisi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sisi"
+              }
+            ],
+            "sentence": "sisi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.si.rand.23"
+}

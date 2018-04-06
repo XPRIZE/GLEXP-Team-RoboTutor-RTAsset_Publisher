@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "fa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fa"
+              }
+            ],
+            "sentence": "fa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fe"
+              }
+            ],
+            "sentence": "fe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fi"
+              }
+            ],
+            "sentence": "fi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fo"
+              }
+            ],
+            "sentence": "fo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fu"
+              }
+            ],
+            "sentence": "fu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.fa..fu.asc.lc.15.json"
+}

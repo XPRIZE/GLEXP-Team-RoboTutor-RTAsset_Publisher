@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "naomba_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "naomba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "naomba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "naomba"
+              }
+            ],
+            "sentence": "naomba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mumewe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mumewe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mumewe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mumewe"
+              }
+            ],
+            "sentence": "mumewe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ramani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ramani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ramani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ramani"
+              }
+            ],
+            "sentence": "ramani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "afrika_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "afrika.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "afrika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "afrika"
+              }
+            ],
+            "sentence": "afrika"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyamae_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyamae.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyamae"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyamae"
+              }
+            ],
+            "sentence": "nyamae"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kusini_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kusini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kusini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kusini"
+              }
+            ],
+            "sentence": "kusini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ulijaa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ulijaa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ulijaa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ulijaa"
+              }
+            ],
+            "sentence": "ulijaa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kupita_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kupita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kupita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kupita"
+              }
+            ],
+            "sentence": "kupita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sehemu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sehemu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sehemu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sehemu"
+              }
+            ],
+            "sentence": "sehemu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alitoa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alitoa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alitoa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alitoa"
+              }
+            ],
+            "sentence": "alitoa"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-6.rand.10.json"
+}

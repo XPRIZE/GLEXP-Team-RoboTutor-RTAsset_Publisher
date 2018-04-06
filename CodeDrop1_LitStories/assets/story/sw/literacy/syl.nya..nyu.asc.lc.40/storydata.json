@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "nya_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nya"
+              }
+            ],
+            "sentence": "nya"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nye_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nye.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nye"
+              }
+            ],
+            "sentence": "nye"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyi"
+              }
+            ],
+            "sentence": "nyi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyo"
+              }
+            ],
+            "sentence": "nyo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyu"
+              }
+            ],
+            "sentence": "nyu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.nya..nyu.asc.lc.40.json"
+}

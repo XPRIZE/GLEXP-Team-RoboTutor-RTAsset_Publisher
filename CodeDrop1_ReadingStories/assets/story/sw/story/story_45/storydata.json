@@ -1,0 +1,2013 @@
+{
+  "authors": "Ursula Nafula",
+  "copyright": "Copyright (c) Ursula Nafula, 2014",
+  "data": [
+    {
+      "image": "level4_6_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_aliishi_na_wazazi_wake_kwa_furaha_hadi_siku_walipofariki_akiwa_na_umri_wa_miaka_kumi.mp3",
+                "from": 57,
+                "segmentation": [
+                  {
+                    "end": 139,
+                    "start": 57,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 221,
+                    "start": 145,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 247,
+                    "start": 222,
+                    "word": "na"
+                  },
+                  {
+                    "end": 311,
+                    "start": 248,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 365,
+                    "start": 312,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 393,
+                    "start": 366,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 467,
+                    "start": 394,
+                    "word": "furaha"
+                  },
+                  {
+                    "end": 550,
+                    "start": 510,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 606,
+                    "start": 551,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 730,
+                    "start": 607,
+                    "word": "walipofariki"
+                  },
+                  {
+                    "end": 801,
+                    "start": 745,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 824,
+                    "start": 802,
+                    "word": "na"
+                  },
+                  {
+                    "end": 881,
+                    "start": 825,
+                    "word": "umri"
+                  },
+                  {
+                    "end": 898,
+                    "start": 882,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 958,
+                    "start": 899,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 1025,
+                    "start": 959,
+                    "word": "kumi"
+                  }
+                ],
+                "until": 1025,
+                "utterances": "Khayanga aliishi na wazazi wake kwa furaha hadi siku walipofariki akiwa na umri wa miaka kumi"
+              }
+            ],
+            "sentence": "Khayanga aliishi na wazazi wake kwa furaha hadi siku walipofariki akiwa na umri wa miaka kumi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_alichukuliwa_ili_kutunzwa_na_mama_mmoja_wa_ukoo_wake_aliyeitwa_rosa.mp3",
+                "from": 56,
+                "segmentation": [
+                  {
+                    "end": 136,
+                    "start": 56,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 271,
+                    "start": 140,
+                    "word": "alichukuliwa"
+                  },
+                  {
+                    "end": 335,
+                    "start": 300,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 426,
+                    "start": 336,
+                    "word": "kutunzwa"
+                  },
+                  {
+                    "end": 473,
+                    "start": 457,
+                    "word": "na"
+                  },
+                  {
+                    "end": 515,
+                    "start": 474,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 573,
+                    "start": 516,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 599,
+                    "start": 574,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 666,
+                    "start": 600,
+                    "word": "ukoo"
+                  },
+                  {
+                    "end": 729,
+                    "start": 667,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 821,
+                    "start": 730,
+                    "word": "aliyeitwa"
+                  },
+                  {
+                    "end": 879,
+                    "start": 822,
+                    "word": "Rosa"
+                  }
+                ],
+                "until": 879,
+                "utterances": "Khayanga alichukuliwa ili kutunzwa na mama mmoja wa ukoo wake aliyeitwa Rosa"
+              }
+            ],
+            "sentence": "Khayanga alichukuliwa ili kutunzwa na mama mmoja wa ukoo wake aliyeitwa Rosa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "rosa_alikuwa_mkarimu_kwa_khayanga.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 21,
+                    "word": "Rosa"
+                  },
+                  {
+                    "end": 154,
+                    "start": 82,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 239,
+                    "start": 155,
+                    "word": "mkarimu"
+                  },
+                  {
+                    "end": 263,
+                    "start": 240,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 338,
+                    "start": 264,
+                    "word": "Khayanga"
+                  }
+                ],
+                "until": 338,
+                "utterances": "Rosa alikuwa mkarimu kwa Khayanga"
+              }
+            ],
+            "sentence": "Rosa alikuwa mkarimu kwa Khayanga."
+          },
+          {
+            "narration": [
+              {
+                "audio": "lakini_mama_huyu_alikuwa_mzee_maskini_na_alikuwa_amedhoofika_sana.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 93,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 164,
+                    "start": 121,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 209,
+                    "start": 165,
+                    "word": "huyu"
+                  },
+                  {
+                    "end": 288,
+                    "start": 222,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 346,
+                    "start": 289,
+                    "word": "mzee"
+                  },
+                  {
+                    "end": 479,
+                    "start": 391,
+                    "word": "maskini"
+                  },
+                  {
+                    "end": 533,
+                    "start": 511,
+                    "word": "na"
+                  },
+                  {
+                    "end": 595,
+                    "start": 534,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 730,
+                    "start": 607,
+                    "word": "amedhoofika"
+                  },
+                  {
+                    "end": 811,
+                    "start": 731,
+                    "word": "sana"
+                  }
+                ],
+                "until": 811,
+                "utterances": "Lakini mama huyu alikuwa mzee maskini na alikuwa amedhoofika sana"
+              }
+            ],
+            "sentence": "Lakini, mama huyu alikuwa mzee, maskini na alikuwa amedhoofika sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_alitembelea_makaburi_ya_wazazi_wake_mara_kwa_mara_ili_kuwaeleza_matatizo_yake.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 233,
+                    "start": 106,
+                    "word": "alitembelea"
+                  },
+                  {
+                    "end": 327,
+                    "start": 234,
+                    "word": "makaburi"
+                  },
+                  {
+                    "end": 335,
+                    "start": 328,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 397,
+                    "start": 336,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 451,
+                    "start": 398,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 537,
+                    "start": 496,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 563,
+                    "start": 538,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 616,
+                    "start": 564,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 690,
+                    "start": 659,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 820,
+                    "start": 691,
+                    "word": "kuwaeleza"
+                  },
+                  {
+                    "end": 913,
+                    "start": 821,
+                    "word": "matatizo"
+                  },
+                  {
+                    "end": 970,
+                    "start": 914,
+                    "word": "yake"
+                  }
+                ],
+                "until": 970,
+                "utterances": "Khayanga alitembelea makaburi ya wazazi wake mara kwa mara ili kuwaeleza matatizo yake"
+              }
+            ],
+            "sentence": "Khayanga alitembelea makaburi ya wazazi wake mara kwa mara ili kuwaeleza matatizo yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_wakati_alipotembea_makaburini_alipewa_zawadi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 20,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 143,
+                    "start": 80,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 241,
+                    "start": 171,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 372,
+                    "start": 247,
+                    "word": "alipotembea"
+                  },
+                  {
+                    "end": 496,
+                    "start": 373,
+                    "word": "makaburini"
+                  },
+                  {
+                    "end": 621,
+                    "start": 535,
+                    "word": "alipewa"
+                  },
+                  {
+                    "end": 707,
+                    "start": 622,
+                    "word": "zawadi"
+                  }
+                ],
+                "until": 707,
+                "utterances": "Siku moja wakati alipotembea makaburini alipewa zawadi"
+              }
+            ],
+            "sentence": "Siku moja wakati alipotembea makaburini, alipewa zawadi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_zawadi_yenyewe_ilikuwa_kibuyu_cha_kipekee_kilichotoka_kwenye_makaburi_ya_wazazi_wake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 46,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 130,
+                    "start": 47,
+                    "word": "zawadi"
+                  },
+                  {
+                    "end": 181,
+                    "start": 131,
+                    "word": "yenyewe"
+                  },
+                  {
+                    "end": 259,
+                    "start": 182,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 369,
+                    "start": 260,
+                    "word": "kibuyu"
+                  },
+                  {
+                    "end": 418,
+                    "start": 394,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 524,
+                    "start": 419,
+                    "word": "kipekee"
+                  },
+                  {
+                    "end": 676,
+                    "start": 578,
+                    "word": "kilichotoka"
+                  },
+                  {
+                    "end": 718,
+                    "start": 677,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 823,
+                    "start": 719,
+                    "word": "makaburi"
+                  },
+                  {
+                    "end": 877,
+                    "start": 865,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 954,
+                    "start": 878,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 1019,
+                    "start": 955,
+                    "word": "wake"
+                  }
+                ],
+                "until": 1019,
+                "utterances": "Na zawadi yenyewe ilikuwa kibuyu cha kipekee kilichotoka kwenye makaburi ya wazazi wake"
+              }
+            ],
+            "sentence": "Na zawadi yenyewe ilikuwa kibuyu cha kipekee kilichotoka kwenye makaburi ya wazazi wake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kibuyu_hicho_kiliimba_wimbo_mtamu_na_wa_kuburudisha.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 2,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 134,
+                    "start": 87,
+                    "word": "hicho"
+                  },
+                  {
+                    "end": 219,
+                    "start": 135,
+                    "word": "kiliimba"
+                  },
+                  {
+                    "end": 266,
+                    "start": 220,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 372,
+                    "start": 267,
+                    "word": "mtamu"
+                  },
+                  {
+                    "end": 422,
+                    "start": 409,
+                    "word": "na"
+                  },
+                  {
+                    "end": 437,
+                    "start": 423,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 552,
+                    "start": 438,
+                    "word": "kuburudisha"
+                  }
+                ],
+                "until": 552,
+                "utterances": "Kibuyu hicho kiliimba wimbo mtamu na wa kuburudisha"
+              }
+            ],
+            "sentence": "Kibuyu hicho kiliimba wimbo mtamu na wa kuburudisha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wimbo_wenyewe_uliimbwa_hivi_khayanga_ee_khayanga.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 21,
+                    "word": "Wimbo"
+                  },
+                  {
+                    "end": 133,
+                    "start": 70,
+                    "word": "wenyewe"
+                  },
+                  {
+                    "end": 249,
+                    "start": 134,
+                    "word": "uliimbwa"
+                  },
+                  {
+                    "end": 311,
+                    "start": 250,
+                    "word": "hivi"
+                  },
+                  {
+                    "end": 454,
+                    "start": 378,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 509,
+                    "start": 455,
+                    "word": "ee"
+                  },
+                  {
+                    "end": 618,
+                    "start": 510,
+                    "word": "Khayanga"
+                  }
+                ],
+                "until": 618,
+                "utterances": "Wimbo wenyewe uliimbwa hivi Khayanga ee Khayanga"
+              }
+            ],
+            "sentence": "Wimbo wenyewe uliimbwa hivi: Khayanga, ee, Khayanga!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wetu_mpendwa.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 15,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 128,
+                    "start": 80,
+                    "word": "wetu"
+                  },
+                  {
+                    "end": 231,
+                    "start": 129,
+                    "word": "mpendwa"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Mtoto wetu mpendwa"
+              }
+            ],
+            "sentence": "Mtoto wetu, mpendwa!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tuko_na_wewe_mpendwa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 21,
+                    "word": "Tuko"
+                  },
+                  {
+                    "end": 86,
+                    "start": 66,
+                    "word": "na"
+                  },
+                  {
+                    "end": 136,
+                    "start": 87,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 245,
+                    "start": 137,
+                    "word": "mpendwa"
+                  }
+                ],
+                "until": 245,
+                "utterances": "Tuko na wewe mpendwa"
+              }
+            ],
+            "sentence": "Tuko na wewe, mpendwa!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "shika_kibuyu_mpendwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 20,
+                    "word": "Shika"
+                  },
+                  {
+                    "end": 150,
+                    "start": 72,
+                    "word": "kibuyu"
+                  },
+                  {
+                    "end": 260,
+                    "start": 151,
+                    "word": "mpendwa"
+                  }
+                ],
+                "until": 260,
+                "utterances": "Shika kibuyu mpendwa"
+              }
+            ],
+            "sentence": "Shika kibuyu, mpendwa!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kibebe_kote_mpendwa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 2,
+                    "word": "Kibebe"
+                  },
+                  {
+                    "end": 142,
+                    "start": 92,
+                    "word": "kote"
+                  },
+                  {
+                    "end": 256,
+                    "start": 143,
+                    "word": "mpendwa"
+                  }
+                ],
+                "until": 256,
+                "utterances": "Kibebe kote mpendwa"
+              }
+            ],
+            "sentence": "Kibebe kote, mpendwa!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kikuliwaze_mpendwa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 2,
+                    "word": "Kikuliwaze"
+                  },
+                  {
+                    "end": 164,
+                    "start": 114,
+                    "word": "mpendwa"
+                  }
+                ],
+                "until": 164,
+                "utterances": "Kikuliwaze mpendwa"
+              }
+            ],
+            "sentence": "Kikuliwaze, mpendwa!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_aligundua_kuwa_hiyo_sauti_ilikuwa_ya_mamake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 21,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 218,
+                    "start": 114,
+                    "word": "aligundua"
+                  },
+                  {
+                    "end": 272,
+                    "start": 219,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 343,
+                    "start": 284,
+                    "word": "hiyo"
+                  },
+                  {
+                    "end": 416,
+                    "start": 344,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 489,
+                    "start": 420,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 510,
+                    "start": 490,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 587,
+                    "start": 511,
+                    "word": "mamake"
+                  }
+                ],
+                "until": 587,
+                "utterances": "Khayanga aligundua kuwa hiyo sauti ilikuwa ya mamake"
+              }
+            ],
+            "sentence": "Khayanga aligundua kuwa hiyo sauti ilikuwa ya mamake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikihifadhi_kibuyu_hicho_ili_kimfariji_kila_alipohisi_huzuni_na_upweke.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 190,
+                    "start": 21,
+                    "word": "Alikihifadhi"
+                  },
+                  {
+                    "end": 275,
+                    "start": 191,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 356,
+                    "start": 276,
+                    "word": "hicho"
+                  },
+                  {
+                    "end": 439,
+                    "start": 399,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 579,
+                    "start": 440,
+                    "word": "kimfariji"
+                  },
+                  {
+                    "end": 670,
+                    "start": 580,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 797,
+                    "start": 683,
+                    "word": "alipohisi"
+                  },
+                  {
+                    "end": 882,
+                    "start": 798,
+                    "word": "huzuni"
+                  },
+                  {
+                    "end": 909,
+                    "start": 883,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1012,
+                    "start": 910,
+                    "word": "upweke"
+                  }
+                ],
+                "until": 1012,
+                "utterances": "Alikihifadhi Kibuyu hicho ili kimfariji kila alipohisi huzuni na upweke"
+              }
+            ],
+            "sentence": "Alikihifadhi Kibuyu hicho ili kimfariji kila alipohisi huzuni na upweke."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_alikibeba_kibuyu_chake_cha_kipekee_kila_alipokwenda.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 20,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 229,
+                    "start": 115,
+                    "word": "alikibeba"
+                  },
+                  {
+                    "end": 306,
+                    "start": 230,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 367,
+                    "start": 307,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 394,
+                    "start": 368,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 479,
+                    "start": 395,
+                    "word": "kipekee"
+                  },
+                  {
+                    "end": 573,
+                    "start": 533,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 687,
+                    "start": 574,
+                    "word": "alipokwenda"
+                  }
+                ],
+                "until": 687,
+                "utterances": "Khayanga alikibeba Kibuyu chake cha kipekee kila alipokwenda"
+              }
+            ],
+            "sentence": "Khayanga alikibeba Kibuyu chake cha kipekee kila alipokwenda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kilimlinda_alipokwenda_mtoni_kuchota_maji.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 149,
+                    "start": 2,
+                    "word": "Kilimlinda"
+                  },
+                  {
+                    "end": 285,
+                    "start": 175,
+                    "word": "alipokwenda"
+                  },
+                  {
+                    "end": 369,
+                    "start": 286,
+                    "word": "mtoni"
+                  },
+                  {
+                    "end": 450,
+                    "start": 370,
+                    "word": "kuchota"
+                  },
+                  {
+                    "end": 525,
+                    "start": 451,
+                    "word": "maji"
+                  }
+                ],
+                "until": 525,
+                "utterances": "Kilimlinda alipokwenda mtoni kuchota maji"
+              }
+            ],
+            "sentence": "Kilimlinda alipokwenda mtoni kuchota maji."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_sababu_ya_kibuyu_chake_khayanga_alihisi_kwamba_wazazi_wake_walikuwa_naye_na_walimlinda.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 110,
+                    "start": 36,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 129,
+                    "start": 111,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 203,
+                    "start": 130,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 273,
+                    "start": 204,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 378,
+                    "start": 274,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 467,
+                    "start": 379,
+                    "word": "alihisi"
+                  },
+                  {
+                    "end": 531,
+                    "start": 468,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 631,
+                    "start": 566,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 681,
+                    "start": 632,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 756,
+                    "start": 682,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 822,
+                    "start": 757,
+                    "word": "naye"
+                  },
+                  {
+                    "end": 881,
+                    "start": 865,
+                    "word": "na"
+                  },
+                  {
+                    "end": 991,
+                    "start": 882,
+                    "word": "walimlinda"
+                  }
+                ],
+                "until": 991,
+                "utterances": "Kwa sababu ya Kibuyu chake Khayanga alihisi kwamba wazazi wake walikuwa naye na walimlinda"
+              }
+            ],
+            "sentence": "Kwa sababu ya Kibuyu chake, Khayanga alihisi kwamba wazazi wake walikuwa naye na walimlinda."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_jambo_baya_lilitendekea_kibuyu_chake.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 19,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 139,
+                    "start": 70,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 230,
+                    "start": 181,
+                    "word": "jambo"
+                  },
+                  {
+                    "end": 266,
+                    "start": 231,
+                    "word": "baya"
+                  },
+                  {
+                    "end": 435,
+                    "start": 267,
+                    "word": "lilitendekea"
+                  },
+                  {
+                    "end": 504,
+                    "start": 436,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 563,
+                    "start": 505,
+                    "word": "chake"
+                  }
+                ],
+                "until": 563,
+                "utterances": "Siku moja jambo baya lilitendekea Kibuyu chake"
+              }
+            ],
+            "sentence": "Siku moja, jambo baya lilitendekea Kibuyu chake."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kilivunjika_alipokuwa_akichota_maji_mtoni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 151,
+                    "start": 2,
+                    "word": "Kilivunjika"
+                  },
+                  {
+                    "end": 243,
+                    "start": 152,
+                    "word": "alipokuwa"
+                  },
+                  {
+                    "end": 349,
+                    "start": 244,
+                    "word": "akichota"
+                  },
+                  {
+                    "end": 416,
+                    "start": 350,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 500,
+                    "start": 417,
+                    "word": "mtoni"
+                  }
+                ],
+                "until": 500,
+                "utterances": "Kilivunjika alipokuwa akichota maji mtoni"
+              }
+            ],
+            "sentence": "Kilivunjika alipokuwa akichota maji mtoni."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_naye_pia_alivunjika_moyo_kwa_sababu_hiyo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 143,
+                    "start": 96,
+                    "word": "naye"
+                  },
+                  {
+                    "end": 197,
+                    "start": 161,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 335,
+                    "start": 208,
+                    "word": "alivunjika"
+                  },
+                  {
+                    "end": 396,
+                    "start": 336,
+                    "word": "moyo"
+                  },
+                  {
+                    "end": 446,
+                    "start": 433,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 501,
+                    "start": 447,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 550,
+                    "start": 502,
+                    "word": "hiyo"
+                  }
+                ],
+                "until": 550,
+                "utterances": "Khayanga naye pia alivunjika moyo kwa sababu hiyo"
+              }
+            ],
+            "sentence": "Khayanga naye pia alivunjika moyo kwa sababu hiyo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_alivishika_vigae_vya_kibuyu_kilichovunjika_mikononi_mwake_akaimba_baba_yangu_mama_yangu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 20,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 227,
+                    "start": 116,
+                    "word": "alivishika"
+                  },
+                  {
+                    "end": 308,
+                    "start": 228,
+                    "word": "vigae"
+                  },
+                  {
+                    "end": 333,
+                    "start": 309,
+                    "word": "vya"
+                  },
+                  {
+                    "end": 415,
+                    "start": 334,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 570,
+                    "start": 452,
+                    "word": "kilichovunjika"
+                  },
+                  {
+                    "end": 654,
+                    "start": 571,
+                    "word": "mikononi"
+                  },
+                  {
+                    "end": 713,
+                    "start": 655,
+                    "word": "mwake"
+                  },
+                  {
+                    "end": 846,
+                    "start": 751,
+                    "word": "akaimba"
+                  },
+                  {
+                    "end": 942,
+                    "start": 900,
+                    "word": "Baba"
+                  },
+                  {
+                    "end": 1028,
+                    "start": 943,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 1066,
+                    "start": 1029,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 1149,
+                    "start": 1067,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 1149,
+                "utterances": "Khayanga alivishika vigae vya Kibuyu kilichovunjika mikononi mwake akaimba Baba yangu mama yangu"
+              }
+            ],
+            "sentence": "Khayanga alivishika vigae vya Kibuyu kilichovunjika mikononi mwake akaimba: Baba yangu, mama yangu!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kibuyu_mlichonipa_jamani_kimevunjika.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 92,
+                    "start": 2,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 212,
+                    "start": 93,
+                    "word": "mlichonipa"
+                  },
+                  {
+                    "end": 326,
+                    "start": 254,
+                    "word": "Jamani"
+                  },
+                  {
+                    "end": 458,
+                    "start": 327,
+                    "word": "kimevunjika"
+                  }
+                ],
+                "until": 458,
+                "utterances": "Kibuyu mlichonipa Jamani kimevunjika"
+              }
+            ],
+            "sentence": "Kibuyu mlichonipa, Jamani kimevunjika."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "nieleze_nifanyeje.mp3",
+                "from": 34,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 34,
+                    "word": "Nieleze"
+                  },
+                  {
+                    "end": 275,
+                    "start": 118,
+                    "word": "nifanyeje"
+                  }
+                ],
+                "until": 275,
+                "utterances": "Nieleze nifanyeje"
+              }
+            ],
+            "sentence": "Nieleze nifanyeje?"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "baba_yangu_mama_yangu_nipe_ishara_nyingine_nijue_mko_na_mimi.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 56,
+                    "start": 2,
+                    "word": "Baba"
+                  },
+                  {
+                    "end": 118,
+                    "start": 57,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 164,
+                    "start": 119,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 217,
+                    "start": 165,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 323,
+                    "start": 269,
+                    "word": "Nipe"
+                  },
+                  {
+                    "end": 390,
+                    "start": 324,
+                    "word": "ishara"
+                  },
+                  {
+                    "end": 477,
+                    "start": 391,
+                    "word": "nyingine"
+                  },
+                  {
+                    "end": 586,
+                    "start": 513,
+                    "word": "Nijue"
+                  },
+                  {
+                    "end": 637,
+                    "start": 587,
+                    "word": "mko"
+                  },
+                  {
+                    "end": 661,
+                    "start": 638,
+                    "word": "na"
+                  },
+                  {
+                    "end": 725,
+                    "start": 662,
+                    "word": "mimi"
+                  }
+                ],
+                "until": 725,
+                "utterances": "Baba yangu mama yangu Nipe ishara nyingine Nijue mko na mimi"
+              }
+            ],
+            "sentence": "Baba yangu, mama yangu, Nipe ishara nyingine, Nijue mko na mimi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_akasikia_sauti_ya_mamake_ikimwambia_khayanga_mtoto_wetu_hivyo_vigae_okota_na_maji_uchote_na_57.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 2,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 205,
+                    "start": 101,
+                    "word": "akasikia"
+                  },
+                  {
+                    "end": 275,
+                    "start": 206,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 283,
+                    "start": 276,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 349,
+                    "start": 284,
+                    "word": "mamake"
+                  },
+                  {
+                    "end": 462,
+                    "start": 350,
+                    "word": "ikimwambia"
+                  },
+                  {
+                    "end": 611,
+                    "start": 531,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 679,
+                    "start": 612,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 742,
+                    "start": 680,
+                    "word": "wetu"
+                  },
+                  {
+                    "end": 828,
+                    "start": 780,
+                    "word": "Hivyo"
+                  },
+                  {
+                    "end": 892,
+                    "start": 829,
+                    "word": "vigae"
+                  },
+                  {
+                    "end": 986,
+                    "start": 917,
+                    "word": "okota"
+                  },
+                  {
+                    "end": 1053,
+                    "start": 1039,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 1150,
+                    "start": 1054,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 1190,
+                    "start": 1151,
+                    "word": "uchote"
+                  },
+                  {
+                    "end": 1255,
+                    "start": 1191,
+                    "word": "navyo"
+                  },
+                  {
+                    "end": 1349,
+                    "start": 1292,
+                    "word": "Ioshe"
+                  },
+                  {
+                    "end": 1438,
+                    "start": 1368,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 1502,
+                    "start": 1439,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 1660,
+                    "start": 1548,
+                    "word": "Ukimaliza"
+                  },
+                  {
+                    "end": 1747,
+                    "start": 1661,
+                    "word": "kuosha"
+                  },
+                  {
+                    "end": 1876,
+                    "start": 1817,
+                    "word": "Uyafunge"
+                  },
+                  {
+                    "end": 1940,
+                    "start": 1877,
+                    "word": "macho"
+                  },
+                  {
+                    "end": 2001,
+                    "start": 1941,
+                    "word": "yako"
+                  }
+                ],
+                "until": 2001,
+                "utterances": "Khayanga akasikia sauti ya mamake ikimwambia Khayanga mtoto wetu Hivyo vigae okota Na maji uchote navyo Ioshe miguu yako Ukimaliza kuosha Uyafunge macho yako"
+              }
+            ],
+            "sentence": "Khayanga akasikia sauti ya mamake ikimwambia: Khayanga mtoto wetu, Hivyo vigae okota, Na maji uchote navyo, Ioshe miguu yako, Ukimaliza kuosha, Uyafunge macho yako."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_alitii_alivyoambiwa_na_ghafla_kibuyu_kilichovunjika_kilishikana_tena.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 2,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 181,
+                    "start": 112,
+                    "word": "alitii"
+                  },
+                  {
+                    "end": 349,
+                    "start": 218,
+                    "word": "alivyoambiwa"
+                  },
+                  {
+                    "end": 368,
+                    "start": 350,
+                    "word": "na"
+                  },
+                  {
+                    "end": 438,
+                    "start": 369,
+                    "word": "ghafla"
+                  },
+                  {
+                    "end": 555,
+                    "start": 486,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 701,
+                    "start": 556,
+                    "word": "kilichovunjika"
+                  },
+                  {
+                    "end": 848,
+                    "start": 743,
+                    "word": "kilishikana"
+                  },
+                  {
+                    "end": 908,
+                    "start": 867,
+                    "word": "tena"
+                  }
+                ],
+                "until": 908,
+                "utterances": "Khayanga alitii alivyoambiwa na ghafla Kibuyu kilichovunjika kilishikana tena"
+              }
+            ],
+            "sentence": "Khayanga alitii alivyoambiwa na ghafla, Kibuyu kilichovunjika kilishikana tena."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikichukua_akakishika_kifuani_mwake_kwa_furaha_kubwa.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 138,
+                    "start": 22,
+                    "word": "Alikichukua"
+                  },
+                  {
+                    "end": 292,
+                    "start": 173,
+                    "word": "akakishika"
+                  },
+                  {
+                    "end": 373,
+                    "start": 293,
+                    "word": "kifuani"
+                  },
+                  {
+                    "end": 425,
+                    "start": 374,
+                    "word": "mwake"
+                  },
+                  {
+                    "end": 495,
+                    "start": 479,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 561,
+                    "start": 496,
+                    "word": "furaha"
+                  },
+                  {
+                    "end": 646,
+                    "start": 562,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 646,
+                "utterances": "Alikichukua akakishika kifuani mwake kwa furaha kubwa"
+              }
+            ],
+            "sentence": "Alikichukua akakishika kifuani mwake kwa furaha kubwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "khayanga_aliendelea_kukibeba_kibuyu_chake_kila_mahali_alipokwenda.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 2,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 228,
+                    "start": 106,
+                    "word": "aliendelea"
+                  },
+                  {
+                    "end": 319,
+                    "start": 229,
+                    "word": "kukibeba"
+                  },
+                  {
+                    "end": 380,
+                    "start": 320,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 447,
+                    "start": 381,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 534,
+                    "start": 497,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 606,
+                    "start": 535,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 712,
+                    "start": 611,
+                    "word": "alipokwenda"
+                  }
+                ],
+                "until": 712,
+                "utterances": "Khayanga aliendelea kukibeba Kibuyu chake kila mahali alipokwenda"
+              }
+            ],
+            "sentence": "Khayanga aliendelea kukibeba Kibuyu chake kila mahali alipokwenda."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "popote_alipopita_watu_waliulizana_hiki_ni_kibuyu_cha_aina_gani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 2,
+                    "word": "Popote"
+                  },
+                  {
+                    "end": 190,
+                    "start": 89,
+                    "word": "alipopita"
+                  },
+                  {
+                    "end": 294,
+                    "start": 246,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 432,
+                    "start": 295,
+                    "word": "waliulizana"
+                  },
+                  {
+                    "end": 540,
+                    "start": 487,
+                    "word": "Hiki"
+                  },
+                  {
+                    "end": 556,
+                    "start": 541,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 625,
+                    "start": 557,
+                    "word": "kibuyu"
+                  },
+                  {
+                    "end": 653,
+                    "start": 626,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 702,
+                    "start": 654,
+                    "word": "aina"
+                  },
+                  {
+                    "end": 799,
+                    "start": 703,
+                    "word": "gani"
+                  }
+                ],
+                "until": 799,
+                "utterances": "Popote alipopita watu waliulizana Hiki ni kibuyu cha aina gani"
+              }
+            ],
+            "sentence": "Popote alipopita, watu waliulizana, \"Hiki ni kibuyu cha aina gani?\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kibuyu_hicho_chake_kilimsaidia_kupata_chochote_alichohitaji.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 2,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 136,
+                    "start": 89,
+                    "word": "hicho"
+                  },
+                  {
+                    "end": 186,
+                    "start": 137,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 327,
+                    "start": 187,
+                    "word": "kilimsaidia"
+                  },
+                  {
+                    "end": 399,
+                    "start": 328,
+                    "word": "kupata"
+                  },
+                  {
+                    "end": 512,
+                    "start": 400,
+                    "word": "chochote"
+                  },
+                  {
+                    "end": 686,
+                    "start": 559,
+                    "word": "alichohitaji"
+                  }
+                ],
+                "until": 686,
+                "utterances": "Kibuyu hicho chake kilimsaidia kupata chochote alichohitaji"
+              }
+            ],
+            "sentence": "Kibuyu hicho chake kilimsaidia kupata chochote alichohitaji."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_6_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_sababu_ya_kibuyu_hicho_cha_kipekee_khayanga_alijua_kwamba_wazazi_wake_walimwangalia_kila_wakati.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 31,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 97,
+                    "start": 32,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 116,
+                    "start": 98,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 186,
+                    "start": 117,
+                    "word": "Kibuyu"
+                  },
+                  {
+                    "end": 229,
+                    "start": 187,
+                    "word": "hicho"
+                  },
+                  {
+                    "end": 251,
+                    "start": 230,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 347,
+                    "start": 252,
+                    "word": "kipekee"
+                  },
+                  {
+                    "end": 458,
+                    "start": 348,
+                    "word": "Khayanga"
+                  },
+                  {
+                    "end": 533,
+                    "start": 463,
+                    "word": "alijua"
+                  },
+                  {
+                    "end": 591,
+                    "start": 534,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 655,
+                    "start": 592,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 713,
+                    "start": 656,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 884,
+                    "start": 751,
+                    "word": "walimwangalia"
+                  },
+                  {
+                    "end": 956,
+                    "start": 885,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 1046,
+                    "start": 957,
+                    "word": "wakati"
+                  }
+                ],
+                "until": 1046,
+                "utterances": "Kwa sababu ya Kibuyu hicho cha kipekee Khayanga alijua kwamba wazazi wake walimwangalia kila wakati"
+              }
+            ],
+            "sentence": "Kwa sababu ya Kibuyu hicho cha kipekee, Khayanga alijua kwamba wazazi wake walimwangalia kila wakati."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alijua_kwamba_hakuna_kitu_kibaya_kingeweza_kumtendekea.mp3",
+                "from": 63,
+                "segmentation": [
+                  {
+                    "end": 142,
+                    "start": 63,
+                    "word": "Alijua"
+                  },
+                  {
+                    "end": 208,
+                    "start": 143,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 354,
+                    "start": 248,
+                    "word": "hakuna"
+                  },
+                  {
+                    "end": 394,
+                    "start": 355,
+                    "word": "kitu"
+                  },
+                  {
+                    "end": 458,
+                    "start": 395,
+                    "word": "kibaya"
+                  },
+                  {
+                    "end": 566,
+                    "start": 486,
+                    "word": "kingeweza"
+                  },
+                  {
+                    "end": 686,
+                    "start": 567,
+                    "word": "kumtendekea"
+                  }
+                ],
+                "until": 686,
+                "utterances": "Alijua kwamba hakuna kitu kibaya kingeweza kumtendekea"
+              }
+            ],
+            "sentence": "Alijua kwamba hakuna kitu kibaya kingeweza kumtendekea."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Catherine Groenewald",
+  "language": "Kiswahili",
+  "level": "4",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "title": "Khayanga na Kibuyu chake",
+  "titleimage": "level4_6_page_01_image_0001.jpg"
+}

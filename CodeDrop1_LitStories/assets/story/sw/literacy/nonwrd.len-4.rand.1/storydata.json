@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "zadi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zadi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zadi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zadi"
+              }
+            ],
+            "sentence": "zadi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dabi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dabi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dabi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dabi"
+              }
+            ],
+            "sentence": "dabi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nudo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nudo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nudo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nudo"
+              }
+            ],
+            "sentence": "nudo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pibu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pibu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pibu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pibu"
+              }
+            ],
+            "sentence": "pibu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jeji_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jeji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jeji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jeji"
+              }
+            ],
+            "sentence": "jeji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bepu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bepu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bepu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bepu"
+              }
+            ],
+            "sentence": "bepu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pogu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pogu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pogu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pogu"
+              }
+            ],
+            "sentence": "pogu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "biye_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "biye.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "biye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "biye"
+              }
+            ],
+            "sentence": "biye"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "suvi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "suvi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "suvi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "suvi"
+              }
+            ],
+            "sentence": "suvi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gubo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gubo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gubo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gubo"
+              }
+            ],
+            "sentence": "gubo"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "nonwrd.len-4.rand.1.json"
+}

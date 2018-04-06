@@ -1,0 +1,167 @@
+{
+  "level": "1", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "lini", 
+          "oka", 
+          "makofi"
+        ], 
+        "ungrammatical_english": [
+          "when", 
+          "bake", 
+          "clap"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Kwa nini mbingu ni za rangi ya samawati?", 
+      "stem": "Kwa nini mbingu ni za rangi ya", 
+      "target": "samawati"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "kwenda", 
+          "baada", 
+          "katika"
+        ], 
+        "ungrammatical_english": [
+          "to", 
+          "behind", 
+          "during"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Je, ni samawati kila wakati?", 
+      "stem": "Je, ni samawati kila", 
+      "target": "wakati"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Kwa nini majani ni ya kijani kibichi?", 
+      "stem": "Kwa nini majani ni ya kijani", 
+      "target": "kibichi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "mimi", 
+          "katika", 
+          "karibu"
+        ], 
+        "ungrammatical_english": [
+          "me", 
+          "during", 
+          "near"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Sio ya kijani kibichi kila wakati.", 
+      "stem": "Sio ya kijani kibichi kila", 
+      "target": "wakati"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Kwa nini ndizi ni za njano?", 
+      "stem": "Kwa nini ndizi ni za", 
+      "target": "njano"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Ndizi mbivu ni za njano.", 
+      "stem": "Ndizi mbivu ni za", 
+      "target": "njano"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Ndizi mbichi ni za kijani kibichi.", 
+      "stem": "Ndizi mbichi ni za kijani", 
+      "target": "kibichi"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Kwa nini miavuli ni mieusi?", 
+      "stem": "Kwa nini miavuli ni", 
+      "target": "mieusi"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Miavuli yote si mieusi.", 
+      "stem": "Miavuli yote si", 
+      "target": "mieusi"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Kwa nini damu ni nyekundu?", 
+      "stem": "Kwa nini damu ni", 
+      "target": "nyekundu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "samawati", 
+          "namna", 
+          "manjano"
+        ], 
+        "nonsensical_english": [
+          "sky", 
+          "paradigm", 
+          "turmeric"
+        ], 
+        "plausible": [
+          "namna", 
+          "samawati", 
+          "manjano"
+        ], 
+        "plausible_english": [
+          "pattern", 
+          "azure", 
+          "yellow"
+        ], 
+        "ungrammatical": [
+          "huwa", 
+          "hizi", 
+          "makofi"
+        ], 
+        "ungrammatical_english": [
+          "rule", 
+          "endanger", 
+          "applaud"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Kuna madini kwenye damu.", 
+      "stem": "Kuna madini kwenye", 
+      "target": "damu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Yanaifanya damu kuwa nyekundu.", 
+      "stem": "Yanaifanya damu kuwa", 
+      "target": "nyekundu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": "?", 
+      "sentence": "Kwa nini chumvi ni nyeupe?", 
+      "stem": "Kwa nini chumvi ni", 
+      "target": "nyeupe"
+    }
+  ], 
+  "title": "placeholder"
+}

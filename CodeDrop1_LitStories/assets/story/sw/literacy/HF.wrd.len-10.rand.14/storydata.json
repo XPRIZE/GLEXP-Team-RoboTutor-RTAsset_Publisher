@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "alinguruma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alinguruma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alinguruma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alinguruma"
+              }
+            ],
+            "sentence": "alinguruma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuwapeleka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuwapeleka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuwapeleka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuwapeleka"
+              }
+            ],
+            "sentence": "kuwapeleka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliniambia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliniambia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliniambia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliniambia"
+              }
+            ],
+            "sentence": "aliniambia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliyemtaka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliyemtaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliyemtaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliyemtaka"
+              }
+            ],
+            "sentence": "aliyemtaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kumrudisha_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumrudisha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumrudisha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumrudisha"
+              }
+            ],
+            "sentence": "kumrudisha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alichotaka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alichotaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alichotaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alichotaka"
+              }
+            ],
+            "sentence": "alichotaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nilimsikia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nilimsikia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilimsikia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilimsikia"
+              }
+            ],
+            "sentence": "nilimsikia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "parachichi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "parachichi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "parachichi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "parachichi"
+              }
+            ],
+            "sentence": "parachichi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alipomwona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipomwona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alipomwona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alipomwona"
+              }
+            ],
+            "sentence": "alipomwona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliufungua_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliufungua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliufungua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliufungua"
+              }
+            ],
+            "sentence": "aliufungua"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-10.rand.14.json"
+}

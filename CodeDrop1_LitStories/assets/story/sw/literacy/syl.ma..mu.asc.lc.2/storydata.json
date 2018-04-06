@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ma"
+              }
+            ],
+            "sentence": "ma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "me_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "me.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "me"
+                  }
+                ],
+                "until": -1,
+                "utterances": "me"
+              }
+            ],
+            "sentence": "me"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mi"
+              }
+            ],
+            "sentence": "mi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mo"
+              }
+            ],
+            "sentence": "mo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mu"
+              }
+            ],
+            "sentence": "mu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ma..mu.asc.lc.2.json"
+}

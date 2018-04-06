@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwa"
+              }
+            ],
+            "sentence": "kwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kwe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwe"
+              }
+            ],
+            "sentence": "kwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kwi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwi"
+              }
+            ],
+            "sentence": "kwi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kwo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwo"
+              }
+            ],
+            "sentence": "kwo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kwu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwu"
+              }
+            ],
+            "sentence": "kwu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.kwa..kwu.asc.lc.37.json"
+}

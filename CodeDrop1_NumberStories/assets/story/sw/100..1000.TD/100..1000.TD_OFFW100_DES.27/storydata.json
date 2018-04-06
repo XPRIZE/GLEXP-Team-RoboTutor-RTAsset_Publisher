@@ -1,0 +1,312 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "1000_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "1000.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "elfu"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "elfu moja"
+              }
+            ],
+            "sentence": "Elfu Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "900_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "900.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia tisa"
+              }
+            ],
+            "sentence": "Mia Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "800_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "800.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nane"
+              }
+            ],
+            "sentence": "Mia Nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "700_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "700.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia saba"
+              }
+            ],
+            "sentence": "Mia Saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "600_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "600.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia sita"
+              }
+            ],
+            "sentence": "Mia Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "500_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "500.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia tano"
+              }
+            ],
+            "sentence": "Mia Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "400_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "400.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia nne"
+              }
+            ],
+            "sentence": "Mia Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "300_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "300.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia tatu"
+              }
+            ],
+            "sentence": "Mia Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "200_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              }
+            ],
+            "sentence": "Mia Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "100_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "100.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia moja"
+              }
+            ],
+            "sentence": "Mia Moja"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.100..1000.TD_OFFW100_DES.level27"
+}

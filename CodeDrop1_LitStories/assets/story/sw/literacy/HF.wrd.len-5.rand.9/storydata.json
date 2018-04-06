@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "swali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "swali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "swali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "swali"
+              }
+            ],
+            "sentence": "swali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ofisi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ofisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ofisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ofisi"
+              }
+            ],
+            "sentence": "ofisi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yangu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yangu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yangu"
+              }
+            ],
+            "sentence": "yangu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "miale_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "miale.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "miale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "miale"
+              }
+            ],
+            "sentence": "miale"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wazee_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wazee.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wazee"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wazee"
+              }
+            ],
+            "sentence": "wazee"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mengi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mengi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mengi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mengi"
+              }
+            ],
+            "sentence": "mengi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jinsi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jinsi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jinsi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jinsi"
+              }
+            ],
+            "sentence": "jinsi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aende_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aende.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aende"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aende"
+              }
+            ],
+            "sentence": "aende"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiasi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiasi"
+              }
+            ],
+            "sentence": "kiasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwizi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwizi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwizi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwizi"
+              }
+            ],
+            "sentence": "mwizi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-5.rand.9.json"
+}

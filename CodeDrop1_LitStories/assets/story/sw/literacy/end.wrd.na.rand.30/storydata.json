@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "aliona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliona"
+              }
+            ],
+            "sentence": "aliona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kina"
+              }
+            ],
+            "sentence": "kina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuvuna_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuvuna.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuvuna"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuvuna"
+              }
+            ],
+            "sentence": "kuvuna"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wasichana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wasichana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wasichana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wasichana"
+              }
+            ],
+            "sentence": "wasichana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hakuna_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hakuna.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hakuna"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hakuna"
+              }
+            ],
+            "sentence": "hakuna"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wakaona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakaona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakaona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakaona"
+              }
+            ],
+            "sentence": "wakaona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwana"
+              }
+            ],
+            "sentence": "mwana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jina"
+              }
+            ],
+            "sentence": "jina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "namna_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "namna.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "namna"
+                  }
+                ],
+                "until": -1,
+                "utterances": "namna"
+              }
+            ],
+            "sentence": "namna"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "walikutana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walikutana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walikutana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walikutana"
+              }
+            ],
+            "sentence": "walikutana"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.na.rand.30"
+}

@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "nanu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nanu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nanu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nanu"
+              }
+            ],
+            "sentence": "nanu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nalo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nalo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nalo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nalo"
+              }
+            ],
+            "sentence": "nalo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nawe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nawe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nawe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nawe"
+              }
+            ],
+            "sentence": "nawe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nane_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nane.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "naro_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "naro.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "naro"
+                  }
+                ],
+                "until": -1,
+                "utterances": "naro"
+              }
+            ],
+            "sentence": "naro"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "naye_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "naye.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "naye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "naye"
+              }
+            ],
+            "sentence": "naye"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nasi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nasi"
+              }
+            ],
+            "sentence": "nasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nazo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nazo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nazo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nazo"
+              }
+            ],
+            "sentence": "nazo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nazi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nazi"
+              }
+            ],
+            "sentence": "nazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nami_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nami.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nami"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nami"
+              }
+            ],
+            "sentence": "nami"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.na.rand.39"
+}

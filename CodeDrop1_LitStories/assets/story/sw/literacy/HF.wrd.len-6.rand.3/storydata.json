@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mkunga_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkunga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkunga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkunga"
+              }
+            ],
+            "sentence": "mkunga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zamani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zamani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zamani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zamani"
+              }
+            ],
+            "sentence": "zamani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "andika_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "andika.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "andika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "andika"
+              }
+            ],
+            "sentence": "andika"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hasira_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hasira.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hasira"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hasira"
+              }
+            ],
+            "sentence": "hasira"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dadako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dadako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dadako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dadako"
+              }
+            ],
+            "sentence": "dadako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tomaso_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tomaso.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tomaso"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tomaso"
+              }
+            ],
+            "sentence": "tomaso"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mchovu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mchovu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mchovu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mchovu"
+              }
+            ],
+            "sentence": "mchovu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wadogo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wadogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wadogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wadogo"
+              }
+            ],
+            "sentence": "wadogo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mizizi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mizizi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mizizi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mizizi"
+              }
+            ],
+            "sentence": "mizizi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hawezi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hawezi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hawezi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hawezi"
+              }
+            ],
+            "sentence": "hawezi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-6.rand.3.json"
+}

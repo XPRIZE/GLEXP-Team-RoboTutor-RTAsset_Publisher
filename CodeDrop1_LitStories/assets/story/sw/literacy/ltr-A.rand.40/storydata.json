@@ -1,0 +1,312 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "andika.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "andika.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "andika"
+                  }
+                ],
+                "until": -1,
+                "utterances": "andika"
+              }
+            ],
+            "sentence": "andika"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anguka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anguka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anguka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anguka"
+              }
+            ],
+            "sentence": "anguka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "angani.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "angani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "angani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "angani"
+              }
+            ],
+            "sentence": "angani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anaoga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anaoga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anaoga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anaoga"
+              }
+            ],
+            "sentence": "anaoga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "asali.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "asali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "asali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "asali"
+              }
+            ],
+            "sentence": "asali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alicheza.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alicheza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alicheza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alicheza"
+              }
+            ],
+            "sentence": "alicheza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anakula.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anakula.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anakula"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anakula"
+              }
+            ],
+            "sentence": "anakula"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anacheza.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anacheza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anacheza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anacheza"
+              }
+            ],
+            "sentence": "anacheza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anasoma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anasoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anasoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anasoma"
+              }
+            ],
+            "sentence": "anasoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "arobaini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "arobaini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "arobaini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "arobaini"
+              }
+            ],
+            "sentence": "arobaini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akalala.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akalala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akalala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akalala"
+              }
+            ],
+            "sentence": "akalala"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "andazi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "andazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "andazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "andazi"
+              }
+            ],
+            "sentence": "andazi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-A.rand.40"
+}

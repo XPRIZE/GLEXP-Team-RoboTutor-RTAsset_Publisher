@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "hawakuweza_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hawakuweza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hawakuweza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hawakuweza"
+              }
+            ],
+            "sentence": "hawakuweza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wangeficha_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wangeficha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wangeficha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wangeficha"
+              }
+            ],
+            "sentence": "wangeficha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ilivyokuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ilivyokuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ilivyokuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ilivyokuwa"
+              }
+            ],
+            "sentence": "ilivyokuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "uzungumzao_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "uzungumzao.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "uzungumzao"
+                  }
+                ],
+                "until": -1,
+                "utterances": "uzungumzao"
+              }
+            ],
+            "sentence": "uzungumzao"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliyemtaka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliyemtaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliyemtaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliyemtaka"
+              }
+            ],
+            "sentence": "aliyemtaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alimwambia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimwambia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alimwambia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alimwambia"
+              }
+            ],
+            "sentence": "alimwambia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alifikiria_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alifikiria.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alifikiria"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alifikiria"
+              }
+            ],
+            "sentence": "alifikiria"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliwaambia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliwaambia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliwaambia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliwaambia"
+              }
+            ],
+            "sentence": "aliwaambia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "walikubali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walikubali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walikubali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walikubali"
+              }
+            ],
+            "sentence": "walikubali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kukimbilia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kukimbilia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kukimbilia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kukimbilia"
+              }
+            ],
+            "sentence": "kukimbilia"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-10.rand.7.json"
+}

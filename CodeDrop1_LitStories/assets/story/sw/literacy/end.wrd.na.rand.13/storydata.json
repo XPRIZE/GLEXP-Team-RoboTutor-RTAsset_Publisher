@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "alipoona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipoona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alipoona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alipoona"
+              }
+            ],
+            "sentence": "alipoona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wavulana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wavulana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wavulana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wavulana"
+              }
+            ],
+            "sentence": "wavulana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "baina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "baina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "baina"
+              }
+            ],
+            "sentence": "baina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lina"
+              }
+            ],
+            "sentence": "lina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kana"
+              }
+            ],
+            "sentence": "kana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nina"
+              }
+            ],
+            "sentence": "nina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "shina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shina"
+              }
+            ],
+            "sentence": "shina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliona"
+              }
+            ],
+            "sentence": "aliona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuonekana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuonekana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuonekana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuonekana"
+              }
+            ],
+            "sentence": "kuonekana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mvulana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mvulana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mvulana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mvulana"
+              }
+            ],
+            "sentence": "mvulana"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.na.rand.13"
+}

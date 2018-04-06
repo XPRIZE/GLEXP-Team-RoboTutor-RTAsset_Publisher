@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mnakimbia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mnakimbia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mnakimbia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mnakimbia"
+              }
+            ],
+            "sentence": "mnakimbia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jinyonyoe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jinyonyoe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jinyonyoe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jinyonyoe"
+              }
+            ],
+            "sentence": "jinyonyoe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kumtafuta_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumtafuta.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumtafuta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumtafuta"
+              }
+            ],
+            "sentence": "kumtafuta"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wapinzani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wapinzani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wapinzani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wapinzani"
+              }
+            ],
+            "sentence": "wapinzani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alimcheka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimcheka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alimcheka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alimcheka"
+              }
+            ],
+            "sentence": "alimcheka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mjombangu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mjombangu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mjombangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mjombangu"
+              }
+            ],
+            "sentence": "mjombangu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alichukua_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alichukua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alichukua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alichukua"
+              }
+            ],
+            "sentence": "alichukua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alijaribu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alijaribu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alijaribu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alijaribu"
+              }
+            ],
+            "sentence": "alijaribu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "waliingia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "waliingia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "waliingia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "waliingia"
+              }
+            ],
+            "sentence": "waliingia"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tafadhali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tafadhali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tafadhali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tafadhali"
+              }
+            ],
+            "sentence": "tafadhali"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-9.rand.13.json"
+}

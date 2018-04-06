@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "runinga_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "runinga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "runinga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "runinga"
+              }
+            ],
+            "sentence": "runinga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mfereji_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mfereji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mfereji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mfereji"
+              }
+            ],
+            "sentence": "mfereji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuongea_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuongea.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuongea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuongea"
+              }
+            ],
+            "sentence": "kuongea"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "umeiona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "umeiona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "umeiona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "umeiona"
+              }
+            ],
+            "sentence": "umeiona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliitwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliitwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliitwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliitwa"
+              }
+            ],
+            "sentence": "aliitwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "unanuka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "unanuka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "unanuka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "unanuka"
+              }
+            ],
+            "sentence": "unanuka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ninaona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ninaona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ninaona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ninaona"
+              }
+            ],
+            "sentence": "ninaona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "unataka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "unataka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "unataka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "unataka"
+              }
+            ],
+            "sentence": "unataka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kifalme_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kifalme.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kifalme"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kifalme"
+              }
+            ],
+            "sentence": "kifalme"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwalimu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwalimu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwalimu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwalimu"
+              }
+            ],
+            "sentence": "mwalimu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-7.rand.4.json"
+}

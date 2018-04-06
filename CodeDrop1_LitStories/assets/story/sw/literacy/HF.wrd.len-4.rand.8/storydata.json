@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "papa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "papa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "papa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "papa"
+              }
+            ],
+            "sentence": "papa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yake_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yake.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yake"
+              }
+            ],
+            "sentence": "yake"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "baba_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "baba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "baba"
+              }
+            ],
+            "sentence": "baba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "paka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "paka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "paka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "paka"
+              }
+            ],
+            "sentence": "paka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ziko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ziko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ziko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ziko"
+              }
+            ],
+            "sentence": "ziko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "siri_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siri.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "siri"
+                  }
+                ],
+                "until": -1,
+                "utterances": "siri"
+              }
+            ],
+            "sentence": "siri"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "isha_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "isha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "isha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "isha"
+              }
+            ],
+            "sentence": "isha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "haja_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haja"
+              }
+            ],
+            "sentence": "haja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kipi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kipi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kipi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kipi"
+              }
+            ],
+            "sentence": "kipi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hiyo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hiyo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hiyo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hiyo"
+              }
+            ],
+            "sentence": "hiyo"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-4.rand.8.json"
+}

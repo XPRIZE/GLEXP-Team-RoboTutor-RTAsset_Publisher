@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "sujuye_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sujuye.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sujuye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sujuye"
+              }
+            ],
+            "sentence": "sujuye"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "limame_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "limame.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "limame"
+                  }
+                ],
+                "until": -1,
+                "utterances": "limame"
+              }
+            ],
+            "sentence": "limame"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "veweho_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "veweho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "veweho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "veweho"
+              }
+            ],
+            "sentence": "veweho"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "voriza_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "voriza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "voriza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "voriza"
+              }
+            ],
+            "sentence": "voriza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pumise_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pumise.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pumise"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pumise"
+              }
+            ],
+            "sentence": "pumise"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "rinoke_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rinoke.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rinoke"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rinoke"
+              }
+            ],
+            "sentence": "rinoke"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jowoma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jowoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jowoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jowoma"
+              }
+            ],
+            "sentence": "jowoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jezipi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jezipi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jezipi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jezipi"
+              }
+            ],
+            "sentence": "jezipi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ravojo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ravojo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ravojo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ravojo"
+              }
+            ],
+            "sentence": "ravojo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yulefo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yulefo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yulefo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yulefo"
+              }
+            ],
+            "sentence": "yulefo"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "nonwrd.len-6.rand.4.json"
+}

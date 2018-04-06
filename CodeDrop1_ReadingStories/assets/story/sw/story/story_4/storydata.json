@@ -1,0 +1,623 @@
+{
+  "authors": "Zimbili Dlamini and Hlengiwe Zondi",
+  "copyright": "Copyright (c) African Storybook Initiative and Molteno Institute, 2014",
+  "data": [
+    {
+      "image": "level1_4_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jina_langu_ni_simo.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 17,
+                    "word": "Jina"
+                  },
+                  {
+                    "end": 108,
+                    "start": 63,
+                    "word": "langu"
+                  },
+                  {
+                    "end": 132,
+                    "start": 109,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 183,
+                    "start": 133,
+                    "word": "Simo"
+                  }
+                ],
+                "until": 183,
+                "utterances": "Jina langu ni Simo"
+              }
+            ],
+            "sentence": "Jina langu ni Simo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nina_marifiki_wanne.mp3",
+                "from": 53,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 53,
+                    "word": "Nina"
+                  },
+                  {
+                    "end": 198,
+                    "start": 100,
+                    "word": "marifiki"
+                  },
+                  {
+                    "end": 269,
+                    "start": 199,
+                    "word": "wanne"
+                  }
+                ],
+                "until": 269,
+                "utterances": "Nina marifiki wanne"
+              }
+            ],
+            "sentence": "Nina marifiki wanne."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "majina_yao_ni_zizo_lele_sisa_na_ayanda.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 21,
+                    "word": "Majina"
+                  },
+                  {
+                    "end": 125,
+                    "start": 81,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 143,
+                    "start": 126,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 224,
+                    "start": 144,
+                    "word": "Zizo"
+                  },
+                  {
+                    "end": 316,
+                    "start": 263,
+                    "word": "Lele"
+                  },
+                  {
+                    "end": 411,
+                    "start": 350,
+                    "word": "Sisa"
+                  },
+                  {
+                    "end": 458,
+                    "start": 435,
+                    "word": "na"
+                  },
+                  {
+                    "end": 525,
+                    "start": 459,
+                    "word": "Ayanda"
+                  }
+                ],
+                "until": 525,
+                "utterances": "Majina yao ni Zizo Lele Sisa na Ayanda"
+              }
+            ],
+            "sentence": "Majina yao ni Zizo, Lele, Sisa na Ayanda."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_zizo_anapenda_kucheza_mpira.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 21,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 135,
+                    "start": 98,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 215,
+                    "start": 136,
+                    "word": "Zizo"
+                  },
+                  {
+                    "end": 313,
+                    "start": 234,
+                    "word": "anapenda"
+                  },
+                  {
+                    "end": 382,
+                    "start": 314,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 457,
+                    "start": 383,
+                    "word": "mpira"
+                  }
+                ],
+                "until": 457,
+                "utterances": "Rafiki yangu Zizo anapenda kucheza mpira"
+              }
+            ],
+            "sentence": "Rafiki yangu Zizo, anapenda kucheza mpira."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_lele_anapenda_kuogelea.mp3",
+                "from": 24,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 24,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 139,
+                    "start": 79,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 194,
+                    "start": 140,
+                    "word": "Lele"
+                  },
+                  {
+                    "end": 302,
+                    "start": 221,
+                    "word": "anapenda"
+                  },
+                  {
+                    "end": 416,
+                    "start": 303,
+                    "word": "kuogelea"
+                  }
+                ],
+                "until": 416,
+                "utterances": "Rafiki yangu Lele anapenda kuogelea"
+              }
+            ],
+            "sentence": "Rafiki yangu Lele, anapenda kuogelea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_sisa_anapenda_kucheza_mchezo_wa_kujificha.mp3",
+                "from": 24,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 24,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 136,
+                    "start": 96,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 209,
+                    "start": 137,
+                    "word": "Sisa"
+                  },
+                  {
+                    "end": 328,
+                    "start": 245,
+                    "word": "anapenda"
+                  },
+                  {
+                    "end": 407,
+                    "start": 329,
+                    "word": "kucheza"
+                  },
+                  {
+                    "end": 505,
+                    "start": 430,
+                    "word": "mchezo"
+                  },
+                  {
+                    "end": 526,
+                    "start": 506,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 632,
+                    "start": 527,
+                    "word": "kujificha"
+                  }
+                ],
+                "until": 632,
+                "utterances": "Rafiki yangu Sisa anapenda kucheza mchezo wa kujificha"
+              }
+            ],
+            "sentence": "Rafiki yangu Sisa, anapenda kucheza \"mchezo wa kujificha\"."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki_yangu_ayanda_anapenda_kusoma.mp3",
+                "from": 59,
+                "segmentation": [
+                  {
+                    "end": 118,
+                    "start": 59,
+                    "word": "Rafiki"
+                  },
+                  {
+                    "end": 189,
+                    "start": 119,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 261,
+                    "start": 190,
+                    "word": "Ayanda"
+                  },
+                  {
+                    "end": 386,
+                    "start": 303,
+                    "word": "anapenda"
+                  },
+                  {
+                    "end": 466,
+                    "start": 387,
+                    "word": "kusoma"
+                  }
+                ],
+                "until": 466,
+                "utterances": "Rafiki yangu Ayanda anapenda kusoma"
+              }
+            ],
+            "sentence": "Rafiki yangu Ayanda, anapenda kusoma."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "napenda_kufanya_vitu_vyote_wanavyopenda_kufanya.mp3",
+                "from": 48,
+                "segmentation": [
+                  {
+                    "end": 126,
+                    "start": 48,
+                    "word": "Napenda"
+                  },
+                  {
+                    "end": 205,
+                    "start": 127,
+                    "word": "kufanya"
+                  },
+                  {
+                    "end": 241,
+                    "start": 206,
+                    "word": "vitu"
+                  },
+                  {
+                    "end": 348,
+                    "start": 273,
+                    "word": "vyote"
+                  },
+                  {
+                    "end": 475,
+                    "start": 380,
+                    "word": "wanavyopenda"
+                  },
+                  {
+                    "end": 556,
+                    "start": 476,
+                    "word": "kufanya"
+                  }
+                ],
+                "until": 556,
+                "utterances": "Napenda kufanya vitu vyote wanavyopenda kufanya"
+              }
+            ],
+            "sentence": "Napenda kufanya vitu vyote wanavyopenda kufanya."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nacheza_mpira_na_zizo.mp3",
+                "from": 50,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 50,
+                    "word": "Nacheza"
+                  },
+                  {
+                    "end": 183,
+                    "start": 120,
+                    "word": "mpira"
+                  },
+                  {
+                    "end": 214,
+                    "start": 184,
+                    "word": "na"
+                  },
+                  {
+                    "end": 271,
+                    "start": 215,
+                    "word": "Zizo"
+                  }
+                ],
+                "until": 271,
+                "utterances": "Nacheza mpira na Zizo"
+              }
+            ],
+            "sentence": "Nacheza mpira na Zizo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "naogelea_kwenye_bwawa_na_lele.mp3",
+                "from": 55,
+                "segmentation": [
+                  {
+                    "end": 155,
+                    "start": 55,
+                    "word": "Naogelea"
+                  },
+                  {
+                    "end": 207,
+                    "start": 156,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 266,
+                    "start": 208,
+                    "word": "bwawa"
+                  },
+                  {
+                    "end": 289,
+                    "start": 267,
+                    "word": "na"
+                  },
+                  {
+                    "end": 325,
+                    "start": 290,
+                    "word": "Lele"
+                  }
+                ],
+                "until": 325,
+                "utterances": "Naogelea kwenye bwawa na Lele"
+              }
+            ],
+            "sentence": "Naogelea kwenye bwawa na Lele."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nacheza_mchezo_wa_kujificha_na_sisa.mp3",
+                "from": 56,
+                "segmentation": [
+                  {
+                    "end": 117,
+                    "start": 56,
+                    "word": "Nacheza"
+                  },
+                  {
+                    "end": 187,
+                    "start": 118,
+                    "word": "mchezo"
+                  },
+                  {
+                    "end": 201,
+                    "start": 188,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 291,
+                    "start": 202,
+                    "word": "kujificha"
+                  },
+                  {
+                    "end": 318,
+                    "start": 292,
+                    "word": "na"
+                  },
+                  {
+                    "end": 378,
+                    "start": 319,
+                    "word": "Sisa"
+                  }
+                ],
+                "until": 378,
+                "utterances": "Nacheza mchezo wa kujificha na Sisa"
+              }
+            ],
+            "sentence": "Nacheza mchezo wa kujificha na Sisa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_4_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wewe_pia_njoo.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 23,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 117,
+                    "start": 70,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 185,
+                    "start": 118,
+                    "word": "njoo"
+                  }
+                ],
+                "until": 185,
+                "utterances": "Wewe pia njoo"
+              }
+            ],
+            "sentence": "Wewe pia njoo."
+          },
+          {
+            "narration": [
+              {
+                "audio": "wewe_pia_ni_rafiki.mp3",
+                "from": 35,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 35,
+                    "word": "Wewe"
+                  },
+                  {
+                    "end": 121,
+                    "start": 73,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 147,
+                    "start": 122,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 229,
+                    "start": 148,
+                    "word": "rafiki"
+                  }
+                ],
+                "until": 229,
+                "utterances": "Wewe pia ni rafiki"
+              }
+            ],
+            "sentence": "Wewe pia ni rafiki."
+          },
+          {
+            "narration": [
+              {
+                "audio": "unapenda_nini.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 22,
+                    "word": "Unapenda"
+                  },
+                  {
+                    "end": 196,
+                    "start": 102,
+                    "word": "nini"
+                  }
+                ],
+                "until": 196,
+                "utterances": "Unapenda nini"
+              }
+            ],
+            "sentence": "Unapenda nini?"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Catherine Groenewald Pete Mhunzi",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "title": "Marafiki",
+  "titleimage": "level1_4_page_01_image_0001.jpg"
+}

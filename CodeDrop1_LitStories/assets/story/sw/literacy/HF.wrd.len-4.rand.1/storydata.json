@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "hayo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hayo"
+              }
+            ],
+            "sentence": "hayo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maji_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maji"
+              }
+            ],
+            "sentence": "maji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mama_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mama"
+              }
+            ],
+            "sentence": "mama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "safi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "safi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "safi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "safi"
+              }
+            ],
+            "sentence": "safi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuyu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuyu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuyu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuyu"
+              }
+            ],
+            "sentence": "kuyu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zamu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zamu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zamu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zamu"
+              }
+            ],
+            "sentence": "zamu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mate_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mate.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mate"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mate"
+              }
+            ],
+            "sentence": "mate"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "neno_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "neno.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "neno"
+                  }
+                ],
+                "until": -1,
+                "utterances": "neno"
+              }
+            ],
+            "sentence": "neno"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hana"
+              }
+            ],
+            "sentence": "hana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "moja_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "moja"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-4.rand.1.json"
+}

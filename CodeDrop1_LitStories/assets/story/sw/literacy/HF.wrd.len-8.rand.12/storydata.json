@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "tabasamu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tabasamu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tabasamu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tabasamu"
+              }
+            ],
+            "sentence": "tabasamu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "halikuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "halikuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "halikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "halikuwa"
+              }
+            ],
+            "sentence": "halikuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliwaita_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliwaita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliwaita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliwaita"
+              }
+            ],
+            "sentence": "aliwaita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alipenda_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipenda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alipenda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alipenda"
+              }
+            ],
+            "sentence": "alipenda"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wakulima_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wakulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wakulima"
+              }
+            ],
+            "sentence": "wakulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lilikuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lilikuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lilikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lilikuwa"
+              }
+            ],
+            "sentence": "lilikuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "matatizo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "matatizo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "matatizo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "matatizo"
+              }
+            ],
+            "sentence": "matatizo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwenyewe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwenyewe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwenyewe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwenyewe"
+              }
+            ],
+            "sentence": "mwenyewe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akamwita_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akamwita.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akamwita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akamwita"
+              }
+            ],
+            "sentence": "akamwita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kumfuata_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kumfuata.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumfuata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumfuata"
+              }
+            ],
+            "sentence": "kumfuata"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-8.rand.12.json"
+}

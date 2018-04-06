@@ -1,0 +1,537 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "tano.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tano.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "TANO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tatu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tatu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "TATU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tungule.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tungule.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tungule"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tungule"
+              }
+            ],
+            "sentence": "TUNGULE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "treni.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "treni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "treni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "treni"
+              }
+            ],
+            "sentence": "TRENI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tumbo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tumbo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tumbo"
+              }
+            ],
+            "sentence": "TUMBO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tausi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tausi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tausi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tausi"
+              }
+            ],
+            "sentence": "TAUSI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tisa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "TISA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "titi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "titi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "titi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "titi"
+              }
+            ],
+            "sentence": "TITI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "taa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taa"
+              }
+            ],
+            "sentence": "TAA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tumbo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tumbo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tumbo"
+              }
+            ],
+            "sentence": "TUMBO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "twiga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "twiga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "twiga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "twiga"
+              }
+            ],
+            "sentence": "TWIGA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tabasamu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tabasamu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tabasamu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tabasamu"
+              }
+            ],
+            "sentence": "TABASAMU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "themanini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "themanini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "themanini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "themanini"
+              }
+            ],
+            "sentence": "THEMANINI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "twiga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "twiga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "twiga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "twiga"
+              }
+            ],
+            "sentence": "TWIGA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "thelathini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "thelathini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "thelathini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "thelathini"
+              }
+            ],
+            "sentence": "THELATHINI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tisini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tisini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisini"
+              }
+            ],
+            "sentence": "TISINI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "toroli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "toroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "toroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "toroli"
+              }
+            ],
+            "sentence": "TOROLI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tembo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tembo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tembo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tembo"
+              }
+            ],
+            "sentence": "TEMBO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tano.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tano.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "TANO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tembo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tembo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tembo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tembo"
+              }
+            ],
+            "sentence": "TEMBO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tikiti maji.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tikiti maji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tikiti maji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tikiti maji"
+              }
+            ],
+            "sentence": "TIKITI MAJI"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-T.rand.34"
+}

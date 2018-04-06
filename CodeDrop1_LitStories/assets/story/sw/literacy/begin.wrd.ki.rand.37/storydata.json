@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kisu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kisu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kisu"
+              }
+            ],
+            "sentence": "kisu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiki_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiki"
+              }
+            ],
+            "sentence": "kiki"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kitu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kitu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kitu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kitu"
+              }
+            ],
+            "sentence": "kitu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kina_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kina.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kina"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kina"
+              }
+            ],
+            "sentence": "kina"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kila_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kila.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kila"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kila"
+              }
+            ],
+            "sentence": "kila"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kile_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kile.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kile"
+              }
+            ],
+            "sentence": "kile"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kipi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kipi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kipi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kipi"
+              }
+            ],
+            "sentence": "kipi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kisa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kisa"
+              }
+            ],
+            "sentence": "kisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kiwe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kiwe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kiwe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kiwe"
+              }
+            ],
+            "sentence": "kiwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kifo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kifo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kifo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kifo"
+              }
+            ],
+            "sentence": "kifo"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.ki.rand.37"
+}

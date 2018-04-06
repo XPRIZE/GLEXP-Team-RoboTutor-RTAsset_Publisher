@@ -1,0 +1,2829 @@
+{
+  "authors": "Gaspah Emukuru Juma",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level4_7_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo_zamani_za_kale_palikuwa_na_mvulana_yatima_kwa_jina_palinyang.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 18,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 145,
+                    "start": 82,
+                    "word": "zamani"
+                  },
+                  {
+                    "end": 166,
+                    "start": 146,
+                    "word": "za"
+                  },
+                  {
+                    "end": 220,
+                    "start": 167,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 342,
+                    "start": 274,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 365,
+                    "start": 343,
+                    "word": "na"
+                  },
+                  {
+                    "end": 441,
+                    "start": 366,
+                    "word": "mvulana"
+                  },
+                  {
+                    "end": 517,
+                    "start": 442,
+                    "word": "yatima"
+                  },
+                  {
+                    "end": 544,
+                    "start": 518,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 591,
+                    "start": 545,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 686,
+                    "start": 592,
+                    "word": "Palinyang"
+                  }
+                ],
+                "until": 686,
+                "utterances": "Hapo zamani za kale palikuwa na mvulana yatima kwa jina Palinyang"
+              }
+            ],
+            "sentence": "Hapo zamani za kale palikuwa na mvulana yatima kwa jina Palinyang."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wazazi_wa_palinyang_waliuwawa_na_wakora_wakati_alikuwa_mtoto_mchanga_wa_miezi_sita.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 20,
+                    "word": "Wazazi"
+                  },
+                  {
+                    "end": 103,
+                    "start": 86,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 197,
+                    "start": 104,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 310,
+                    "start": 198,
+                    "word": "waliuwawa"
+                  },
+                  {
+                    "end": 331,
+                    "start": 311,
+                    "word": "na"
+                  },
+                  {
+                    "end": 409,
+                    "start": 332,
+                    "word": "wakora"
+                  },
+                  {
+                    "end": 518,
+                    "start": 446,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 586,
+                    "start": 519,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 651,
+                    "start": 587,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 733,
+                    "start": 652,
+                    "word": "mchanga"
+                  },
+                  {
+                    "end": 758,
+                    "start": 739,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 809,
+                    "start": 759,
+                    "word": "miezi"
+                  },
+                  {
+                    "end": 867,
+                    "start": 810,
+                    "word": "sita"
+                  }
+                ],
+                "until": 867,
+                "utterances": "Wazazi wa Palinyang waliuwawa na wakora wakati alikuwa mtoto mchanga wa miezi sita"
+              }
+            ],
+            "sentence": "Wazazi wa Palinyang' waliuwawa na wakora wakati alikuwa mtoto mchanga wa miezi sita."
+          },
+          {
+            "narration": [
+              {
+                "audio": "wanakijiji_waliwalia_wazazi_wa_palinyang_na_kushangaa_jinsi_mtoto_huyo_angekuwa.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 138,
+                    "start": 20,
+                    "word": "Wanakijiji"
+                  },
+                  {
+                    "end": 258,
+                    "start": 139,
+                    "word": "waliwalia"
+                  },
+                  {
+                    "end": 335,
+                    "start": 259,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 353,
+                    "start": 336,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 452,
+                    "start": 354,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 496,
+                    "start": 486,
+                    "word": "na"
+                  },
+                  {
+                    "end": 586,
+                    "start": 497,
+                    "word": "kushangaa"
+                  },
+                  {
+                    "end": 641,
+                    "start": 587,
+                    "word": "jinsi"
+                  },
+                  {
+                    "end": 704,
+                    "start": 642,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 759,
+                    "start": 705,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 839,
+                    "start": 760,
+                    "word": "angekuwa"
+                  }
+                ],
+                "until": 839,
+                "utterances": "Wanakijiji waliwalia wazazi wa Palinyang na kushangaa jinsi mtoto huyo angekuwa"
+              }
+            ],
+            "sentence": "Wanakijiji waliwalia wazazi wa Palinyang' na kushangaa jinsi mtoto huyo angekuwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baada_ya_mazishi_sausau_mkuu_wa_kijiji_aliita_mkutano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 99,
+                    "start": 68,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 194,
+                    "start": 100,
+                    "word": "mazishi"
+                  },
+                  {
+                    "end": 307,
+                    "start": 224,
+                    "word": "Sausau"
+                  },
+                  {
+                    "end": 407,
+                    "start": 337,
+                    "word": "mkuu"
+                  },
+                  {
+                    "end": 419,
+                    "start": 408,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 505,
+                    "start": 420,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 583,
+                    "start": 510,
+                    "word": "aliita"
+                  },
+                  {
+                    "end": 670,
+                    "start": 584,
+                    "word": "mkutano"
+                  }
+                ],
+                "until": 670,
+                "utterances": "Baada ya mazishi Sausau mkuu wa kijiji aliita mkutano"
+              }
+            ],
+            "sentence": "Baada ya mazishi, Sausau mkuu wa kijiji aliita mkutano ."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sausau_aliheshimiwa_na_kuogopwa_sana_kwa_sababu_jinsi_alivyo_valia_na_kuongea.mp3",
+                "from": 24,
+                "segmentation": [
+                  {
+                    "end": 113,
+                    "start": 24,
+                    "word": "Sausau"
+                  },
+                  {
+                    "end": 253,
+                    "start": 129,
+                    "word": "aliheshimiwa"
+                  },
+                  {
+                    "end": 260,
+                    "start": 254,
+                    "word": "na"
+                  },
+                  {
+                    "end": 468,
+                    "start": 278,
+                    "word": "kuogopwa"
+                  },
+                  {
+                    "end": 533,
+                    "start": 469,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 564,
+                    "start": 534,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 629,
+                    "start": 565,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 705,
+                    "start": 649,
+                    "word": "jinsi"
+                  },
+                  {
+                    "end": 775,
+                    "start": 711,
+                    "word": "alivyo"
+                  },
+                  {
+                    "end": 845,
+                    "start": 776,
+                    "word": "valia"
+                  },
+                  {
+                    "end": 886,
+                    "start": 877,
+                    "word": "na"
+                  },
+                  {
+                    "end": 967,
+                    "start": 887,
+                    "word": "kuongea"
+                  }
+                ],
+                "until": 967,
+                "utterances": "Sausau aliheshimiwa na kuogopwa sana kwa sababu jinsi alivyo valia na kuongea"
+              }
+            ],
+            "sentence": "Sausau aliheshimiwa na kuogopwa sana kwa sababu jinsi alivyo valia na kuongea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "nywele_zake_zilikuwa_ndefu_na_zilifika_mgongoni_mwake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 21,
+                    "word": "Nywele"
+                  },
+                  {
+                    "end": 138,
+                    "start": 84,
+                    "word": "zake"
+                  },
+                  {
+                    "end": 231,
+                    "start": 139,
+                    "word": "zilikuwa"
+                  },
+                  {
+                    "end": 309,
+                    "start": 232,
+                    "word": "ndefu"
+                  },
+                  {
+                    "end": 372,
+                    "start": 361,
+                    "word": "na"
+                  },
+                  {
+                    "end": 467,
+                    "start": 373,
+                    "word": "zilifika"
+                  },
+                  {
+                    "end": 545,
+                    "start": 468,
+                    "word": "mgongoni"
+                  },
+                  {
+                    "end": 603,
+                    "start": 546,
+                    "word": "mwake"
+                  }
+                ],
+                "until": 603,
+                "utterances": "Nywele zake zilikuwa ndefu na zilifika mgongoni mwake"
+              }
+            ],
+            "sentence": "Nywele zake zilikuwa ndefu na zilifika mgongoni mwake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "iliaminika_ya_kwamba_sausau_aliishi_msituni_kabla_ya_miti_kukatwa_na_nyumba_kujengwa.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 162,
+                    "start": 22,
+                    "word": "Iliaminika"
+                  },
+                  {
+                    "end": 182,
+                    "start": 163,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 235,
+                    "start": 183,
+                    "word": "kwamba"
+                  },
+                  {
+                    "end": 314,
+                    "start": 236,
+                    "word": "Sausau"
+                  },
+                  {
+                    "end": 413,
+                    "start": 334,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 516,
+                    "start": 414,
+                    "word": "msituni"
+                  },
+                  {
+                    "end": 594,
+                    "start": 551,
+                    "word": "kabla"
+                  },
+                  {
+                    "end": 615,
+                    "start": 595,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 664,
+                    "start": 616,
+                    "word": "miti"
+                  },
+                  {
+                    "end": 740,
+                    "start": 665,
+                    "word": "kukatwa"
+                  },
+                  {
+                    "end": 762,
+                    "start": 741,
+                    "word": "na"
+                  },
+                  {
+                    "end": 814,
+                    "start": 763,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 902,
+                    "start": 815,
+                    "word": "kujengwa"
+                  }
+                ],
+                "until": 902,
+                "utterances": "Iliaminika ya kwamba Sausau aliishi msituni kabla ya miti kukatwa na nyumba kujengwa"
+              }
+            ],
+            "sentence": "Iliaminika ya kwamba Sausau aliishi msituni kabla ya miti kukatwa na nyumba kujengwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_wa_mkutano_lokeyokoni_tajiri_mkubwa_kijijini_humo_alimchukuwa_palinyang_kama_mtoto_wake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 20,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 115,
+                    "start": 92,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 216,
+                    "start": 116,
+                    "word": "mkutano"
+                  },
+                  {
+                    "end": 373,
+                    "start": 254,
+                    "word": "Lokeyokoni"
+                  },
+                  {
+                    "end": 448,
+                    "start": 374,
+                    "word": "tajiri"
+                  },
+                  {
+                    "end": 516,
+                    "start": 449,
+                    "word": "mkubwa"
+                  },
+                  {
+                    "end": 609,
+                    "start": 517,
+                    "word": "kijijini"
+                  },
+                  {
+                    "end": 659,
+                    "start": 615,
+                    "word": "humo"
+                  },
+                  {
+                    "end": 839,
+                    "start": 716,
+                    "word": "alimchukuwa"
+                  },
+                  {
+                    "end": 925,
+                    "start": 840,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 994,
+                    "start": 959,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 1051,
+                    "start": 995,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 1101,
+                    "start": 1052,
+                    "word": "wake"
+                  }
+                ],
+                "until": 1101,
+                "utterances": "Wakati wa mkutano Lokeyokoni tajiri mkubwa kijijini humo alimchukuwa Palinyang kama mtoto wake"
+              }
+            ],
+            "sentence": "Wakati wa mkutano Lokeyokoni tajiri mkubwa kijijini humo alimchukuwa Palinyang' kama mtoto wake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lokeyokoni_alikuwa_na_watoto_wa_kike_na_wa_kiume_wengi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 138,
+                    "start": 20,
+                    "word": "Lokeyokoni"
+                  },
+                  {
+                    "end": 229,
+                    "start": 158,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 252,
+                    "start": 230,
+                    "word": "na"
+                  },
+                  {
+                    "end": 325,
+                    "start": 253,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 347,
+                    "start": 326,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 414,
+                    "start": 348,
+                    "word": "kike"
+                  },
+                  {
+                    "end": 464,
+                    "start": 451,
+                    "word": "na"
+                  },
+                  {
+                    "end": 480,
+                    "start": 465,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 551,
+                    "start": 481,
+                    "word": "kiume"
+                  },
+                  {
+                    "end": 638,
+                    "start": 552,
+                    "word": "wengi"
+                  }
+                ],
+                "until": 638,
+                "utterances": "Lokeyokoni alikuwa na watoto wa kike na wa kiume wengi"
+              }
+            ],
+            "sentence": "Lokeyokoni alikuwa na watoto wa kike na wa kiume wengi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "watoto_wa_kike_walisaidia_mama_yao_kwa_kazi_za_nyumbani_na_watoto_wa_kiume_walienda_kuchunga_mifugo__11.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 19,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 117,
+                    "start": 97,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 175,
+                    "start": 118,
+                    "word": "kike"
+                  },
+                  {
+                    "end": 299,
+                    "start": 176,
+                    "word": "walisaidia"
+                  },
+                  {
+                    "end": 354,
+                    "start": 300,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 399,
+                    "start": 355,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 491,
+                    "start": 476,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 567,
+                    "start": 492,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 592,
+                    "start": 568,
+                    "word": "za"
+                  },
+                  {
+                    "end": 699,
+                    "start": 593,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 738,
+                    "start": 727,
+                    "word": "na"
+                  },
+                  {
+                    "end": 809,
+                    "start": 739,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 826,
+                    "start": 810,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 903,
+                    "start": 827,
+                    "word": "kiume"
+                  },
+                  {
+                    "end": 1020,
+                    "start": 938,
+                    "word": "walienda"
+                  },
+                  {
+                    "end": 1099,
+                    "start": 1021,
+                    "word": "kuchunga"
+                  },
+                  {
+                    "end": 1177,
+                    "start": 1100,
+                    "word": "mifugo"
+                  },
+                  {
+                    "end": 1197,
+                    "start": 1178,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1239,
+                    "start": 1198,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 1287,
+                    "start": 1240,
+                    "word": "yao"
+                  }
+                ],
+                "until": 1287,
+                "utterances": "Watoto wa kike walisaidia mama yao kwa kazi za nyumbani na watoto wa kiume walienda kuchunga mifugo ya baba yao"
+              }
+            ],
+            "sentence": "Watoto wa kike walisaidia mama yao kwa kazi za nyumbani na watoto wa kiume walienda kuchunga mifugo ya baba yao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "plinyang_aliishi_kwa_familia_hii_na_kuwa_mkubw_na_alikuwa_mwenye_furaha.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 20,
+                    "word": "Plinyang"
+                  },
+                  {
+                    "end": 212,
+                    "start": 123,
+                    "word": "aliishi"
+                  },
+                  {
+                    "end": 254,
+                    "start": 213,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 346,
+                    "start": 255,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 411,
+                    "start": 347,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 454,
+                    "start": 445,
+                    "word": "na"
+                  },
+                  {
+                    "end": 503,
+                    "start": 455,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 583,
+                    "start": 504,
+                    "word": "mkubw"
+                  },
+                  {
+                    "end": 647,
+                    "start": 625,
+                    "word": "na"
+                  },
+                  {
+                    "end": 719,
+                    "start": 648,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 764,
+                    "start": 720,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 843,
+                    "start": 765,
+                    "word": "furaha"
+                  }
+                ],
+                "until": 843,
+                "utterances": "Plinyang aliishi kwa familia hii na kuwa mkubw na alikuwa mwenye furaha"
+              }
+            ],
+            "sentence": "Plinyang' aliishi kwa familia hii na kuwa mkubw na alikuwa mwenye furaha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipendwa_na_alipenda_kila_mtu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 158,
+                    "start": 21,
+                    "word": "Alipendwa"
+                  },
+                  {
+                    "end": 217,
+                    "start": 205,
+                    "word": "na"
+                  },
+                  {
+                    "end": 310,
+                    "start": 228,
+                    "word": "alipenda"
+                  },
+                  {
+                    "end": 384,
+                    "start": 339,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 432,
+                    "start": 385,
+                    "word": "mtu"
+                  }
+                ],
+                "until": 432,
+                "utterances": "Alipendwa na alipenda kila mtu"
+              }
+            ],
+            "sentence": "Alipendwa na alipenda kila mtu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alipenda_kupeleka_wanyama_malishoni_na_kuwachunga.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 13,
+                    "word": "Alipenda"
+                  },
+                  {
+                    "end": 221,
+                    "start": 121,
+                    "word": "kupeleka"
+                  },
+                  {
+                    "end": 298,
+                    "start": 222,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 409,
+                    "start": 299,
+                    "word": "malishoni"
+                  },
+                  {
+                    "end": 452,
+                    "start": 440,
+                    "word": "na"
+                  },
+                  {
+                    "end": 559,
+                    "start": 453,
+                    "word": "kuwachunga"
+                  }
+                ],
+                "until": 559,
+                "utterances": "Alipenda kupeleka wanyama malishoni na kuwachunga"
+              }
+            ],
+            "sentence": "Alipenda kupeleka wanyama malishoni na kuwachunga."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "palinyang_alimpenda_ng_ombe_mmoja_sana_hata_kumpa_jina_alinyang.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 104,
+                    "start": 21,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 230,
+                    "start": 122,
+                    "word": "alimpenda"
+                  },
+                  {
+                    "end": 287,
+                    "start": 231,
+                    "word": "ng'ombe"
+                  },
+                  {
+                    "end": 346,
+                    "start": 288,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 410,
+                    "start": 347,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 481,
+                    "start": 441,
+                    "word": "hata"
+                  },
+                  {
+                    "end": 541,
+                    "start": 482,
+                    "word": "kumpa"
+                  },
+                  {
+                    "end": 589,
+                    "start": 542,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 693,
+                    "start": 608,
+                    "word": "Alinyang"
+                  }
+                ],
+                "until": 693,
+                "utterances": "Palinyang alimpenda ng'ombe mmoja sana hata kumpa jina Alinyang"
+              }
+            ],
+            "sentence": "Palinyang' alimpenda ng'ombe mmoja sana hata kumpa jina Alinyang'."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alinyang_alikuwa_ngo_mbe_mzee_katika_mifugo_wote.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 97,
+                    "start": 21,
+                    "word": "Alinyang"
+                  },
+                  {
+                    "end": 177,
+                    "start": 110,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 178,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 302,
+                    "start": 235,
+                    "word": "mzee"
+                  },
+                  {
+                    "end": 368,
+                    "start": 303,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 429,
+                    "start": 369,
+                    "word": "mifugo"
+                  },
+                  {
+                    "end": 499,
+                    "start": 430,
+                    "word": "wote"
+                  }
+                ],
+                "until": 499,
+                "utterances": "Alinyang alikuwa ngo'mbe mzee katika mifugo wote"
+              }
+            ],
+            "sentence": "Alinyang' alikuwa ngo'mbe mzee katika mifugo wote."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kwa_sababu_hiyo_mwenye_mifugo_alimthamini_sana_ngo_mbe_huyo.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 32,
+                    "start": 1,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 95,
+                    "start": 33,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 161,
+                    "start": 96,
+                    "word": "hiyo"
+                  },
+                  {
+                    "end": 242,
+                    "start": 203,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 323,
+                    "start": 243,
+                    "word": "mifugo"
+                  },
+                  {
+                    "end": 454,
+                    "start": 327,
+                    "word": "alimthamini"
+                  },
+                  {
+                    "end": 511,
+                    "start": 455,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 555,
+                    "start": 512,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 609,
+                    "start": 556,
+                    "word": "huyo"
+                  }
+                ],
+                "until": 609,
+                "utterances": "Kwa sababu hiyo mwenye mifugo alimthamini sana ngo'mbe huyo"
+              }
+            ],
+            "sentence": "Kwa sababu hiyo mwenye mifugo alimthamini sana ngo'mbe huyo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_wakati_vijana_walikuwa_wakichunga_wanyama_kulianza_kunyesha_na_walitafuta_mahali_pa_kujizu_20.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 19,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 137,
+                    "start": 75,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 233,
+                    "start": 172,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 297,
+                    "start": 234,
+                    "word": "vijana"
+                  },
+                  {
+                    "end": 376,
+                    "start": 298,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 466,
+                    "start": 377,
+                    "word": "wakichunga"
+                  },
+                  {
+                    "end": 547,
+                    "start": 467,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 680,
+                    "start": 599,
+                    "word": "kulianza"
+                  },
+                  {
+                    "end": 785,
+                    "start": 681,
+                    "word": "kunyesha"
+                  },
+                  {
+                    "end": 843,
+                    "start": 829,
+                    "word": "na"
+                  },
+                  {
+                    "end": 955,
+                    "start": 844,
+                    "word": "walitafuta"
+                  },
+                  {
+                    "end": 1014,
+                    "start": 956,
+                    "word": "mahali"
+                  },
+                  {
+                    "end": 1037,
+                    "start": 1015,
+                    "word": "pa"
+                  },
+                  {
+                    "end": 1146,
+                    "start": 1038,
+                    "word": "kujizuia"
+                  },
+                  {
+                    "end": 1258,
+                    "start": 1200,
+                    "word": "mvua"
+                  },
+                  {
+                    "end": 1326,
+                    "start": 1259,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 1333,
+                    "start": 1327,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1393,
+                    "start": 1334,
+                    "word": "mti"
+                  }
+                ],
+                "until": 1393,
+                "utterances": "Siku moja wakati vijana walikuwa wakichunga wanyama kulianza kunyesha na walitafuta mahali pa kujizuia mvua chini ya mti"
+              }
+            ],
+            "sentence": "Siku moja wakati vijana walikuwa wakichunga wanyama, kulianza kunyesha na walitafuta mahali pa kujizuia mvua chini ya mti."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mvua_ilinyesha_kwa_saa_nyingi_hadi_kulikuwa_usiku.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 20,
+                    "word": "Mvua"
+                  },
+                  {
+                    "end": 198,
+                    "start": 91,
+                    "word": "ilinyesha"
+                  },
+                  {
+                    "end": 229,
+                    "start": 199,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 289,
+                    "start": 230,
+                    "word": "saa"
+                  },
+                  {
+                    "end": 397,
+                    "start": 290,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 481,
+                    "start": 437,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 558,
+                    "start": 482,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 638,
+                    "start": 559,
+                    "word": "usiku"
+                  }
+                ],
+                "until": 638,
+                "utterances": "Mvua ilinyesha kwa saa nyingi hadi kulikuwa usiku"
+              }
+            ],
+            "sentence": "Mvua ilinyesha kwa saa nyingi hadi kulikuwa usiku."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_mvua_iliacha_kunyesha_wavulana_walienda_kuwachukua_wanyama_ili_kuwapeleka_nyumbani_lakini_haw_20.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 21,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 141,
+                    "start": 88,
+                    "word": "mvua"
+                  },
+                  {
+                    "end": 223,
+                    "start": 155,
+                    "word": "iliacha"
+                  },
+                  {
+                    "end": 308,
+                    "start": 224,
+                    "word": "kunyesha"
+                  },
+                  {
+                    "end": 440,
+                    "start": 358,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 533,
+                    "start": 441,
+                    "word": "walienda"
+                  },
+                  {
+                    "end": 637,
+                    "start": 534,
+                    "word": "kuwachukua"
+                  },
+                  {
+                    "end": 710,
+                    "start": 638,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 798,
+                    "start": 764,
+                    "word": "ili"
+                  },
+                  {
+                    "end": 912,
+                    "start": 799,
+                    "word": "kuwapeleka"
+                  },
+                  {
+                    "end": 994,
+                    "start": 913,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 1079,
+                    "start": 995,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 1231,
+                    "start": 1109,
+                    "word": "hawakuwaona"
+                  },
+                  {
+                    "end": 1300,
+                    "start": 1232,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 1346,
+                    "start": 1301,
+                    "word": "hao"
+                  }
+                ],
+                "until": 1346,
+                "utterances": "Wakati mvua iliacha kunyesha wavulana walienda kuwachukua wanyama ili kuwapeleka nyumbani lakini hawakuwaona wanyama hao"
+              }
+            ],
+            "sentence": "Wakati mvua iliacha kunyesha, wavulana walienda kuwachukua wanyama ili kuwapeleka nyumbani lakini hawakuwaona wanyama hao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walihofia_kile_baba_yao_angewafanyia_kama_wangefika_nyumbani_bila_wanyama_wao.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 156,
+                    "start": 21,
+                    "word": "Walihofia"
+                  },
+                  {
+                    "end": 207,
+                    "start": 157,
+                    "word": "kile"
+                  },
+                  {
+                    "end": 242,
+                    "start": 208,
+                    "word": "baba"
+                  },
+                  {
+                    "end": 294,
+                    "start": 243,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 436,
+                    "start": 311,
+                    "word": "angewafanyia"
+                  },
+                  {
+                    "end": 526,
+                    "start": 467,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 607,
+                    "start": 527,
+                    "word": "wangefika"
+                  },
+                  {
+                    "end": 689,
+                    "start": 608,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 741,
+                    "start": 690,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 821,
+                    "start": 742,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 857,
+                    "start": 822,
+                    "word": "wao"
+                  }
+                ],
+                "until": 857,
+                "utterances": "Walihofia kile baba yao angewafanyia kama wangefika nyumbani bila wanyama wao"
+              }
+            ],
+            "sentence": "Walihofia kile baba yao angewafanyia kama wangefika nyumbani bila wanyama wao."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "walipokosa_kuwapata_wanyama_hao_wavulana_wawili_waliamua_kwenda_kwa_mjomba_wao_huku_wawili_wakienda__12.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 130,
+                    "start": 20,
+                    "word": "Walipokosa"
+                  },
+                  {
+                    "end": 236,
+                    "start": 131,
+                    "word": "kuwapata"
+                  },
+                  {
+                    "end": 302,
+                    "start": 237,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 349,
+                    "start": 303,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 474,
+                    "start": 400,
+                    "word": "wavulana"
+                  },
+                  {
+                    "end": 537,
+                    "start": 475,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 637,
+                    "start": 538,
+                    "word": "waliamua"
+                  },
+                  {
+                    "end": 727,
+                    "start": 638,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 758,
+                    "start": 728,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 822,
+                    "start": 759,
+                    "word": "mjomba"
+                  },
+                  {
+                    "end": 864,
+                    "start": 823,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 977,
+                    "start": 925,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 1038,
+                    "start": 978,
+                    "word": "wawili"
+                  },
+                  {
+                    "end": 1122,
+                    "start": 1039,
+                    "word": "wakienda"
+                  },
+                  {
+                    "end": 1146,
+                    "start": 1123,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 1227,
+                    "start": 1147,
+                    "word": "shangazi"
+                  }
+                ],
+                "until": 1227,
+                "utterances": "Walipokosa kuwapata wanyama hao wavulana wawili waliamua kwenda kwa mjomba wao huku wawili wakienda kwa shangazi"
+              }
+            ],
+            "sentence": "Walipokosa kuwapata wanyama hao, wavulana wawili waliamua kwenda kwa mjomba wao, huku wawili wakienda kwa shangazi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "palinyang_aliamua_kuwatafuta_wanyama_hao_mpaka_awapate.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 21,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 198,
+                    "start": 109,
+                    "word": "aliamua"
+                  },
+                  {
+                    "end": 310,
+                    "start": 199,
+                    "word": "kuwatafuta"
+                  },
+                  {
+                    "end": 372,
+                    "start": 311,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 414,
+                    "start": 373,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 477,
+                    "start": 415,
+                    "word": "mpaka"
+                  },
+                  {
+                    "end": 581,
+                    "start": 478,
+                    "word": "awapate"
+                  }
+                ],
+                "until": 581,
+                "utterances": "Palinyang aliamua kuwatafuta wanyama hao mpaka awapate"
+              }
+            ],
+            "sentence": "Palinyang' aliamua kuwatafuta wanyama hao mpaka awapate."
+          },
+          {
+            "narration": [
+              {
+                "audio": "hakuwa_na_mjomba_wala_shangazi_wa_kutorekea.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 19,
+                    "word": "Hakuwa"
+                  },
+                  {
+                    "end": 133,
+                    "start": 104,
+                    "word": "na"
+                  },
+                  {
+                    "end": 204,
+                    "start": 134,
+                    "word": "mjomba"
+                  },
+                  {
+                    "end": 244,
+                    "start": 205,
+                    "word": "wala"
+                  },
+                  {
+                    "end": 323,
+                    "start": 245,
+                    "word": "shangazi"
+                  },
+                  {
+                    "end": 344,
+                    "start": 324,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 457,
+                    "start": 345,
+                    "word": "kutorekea"
+                  }
+                ],
+                "until": 457,
+                "utterances": "Hakuwa na mjomba wala shangazi wa kutorekea"
+              }
+            ],
+            "sentence": "Hakuwa na mjomba wala shangazi wa kutorekea."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "palinyang_alifuata_vinjia_vyote_alivyovijua_huku_akiimba_wimbo_wa_jina_la_ngo_mbe_ampendaye.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 22,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 203,
+                    "start": 115,
+                    "word": "alifuata"
+                  },
+                  {
+                    "end": 281,
+                    "start": 204,
+                    "word": "vinjia"
+                  },
+                  {
+                    "end": 347,
+                    "start": 282,
+                    "word": "vyote"
+                  },
+                  {
+                    "end": 524,
+                    "start": 394,
+                    "word": "alivyovijua"
+                  },
+                  {
+                    "end": 600,
+                    "start": 560,
+                    "word": "huku"
+                  },
+                  {
+                    "end": 688,
+                    "start": 611,
+                    "word": "akiimba"
+                  },
+                  {
+                    "end": 742,
+                    "start": 689,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 757,
+                    "start": 743,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 808,
+                    "start": 758,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 827,
+                    "start": 809,
+                    "word": "la"
+                  },
+                  {
+                    "end": 876,
+                    "start": 828,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 1013,
+                    "start": 877,
+                    "word": "ampendaye"
+                  }
+                ],
+                "until": 1013,
+                "utterances": "Palinyang alifuata vinjia vyote alivyovijua huku akiimba wimbo wa jina la ngo'mbe ampendaye"
+              }
+            ],
+            "sentence": "Palinyang' alifuata vinjia vyote alivyovijua huku akiimba wimbo wa jina la ngo'mbe ampendaye."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hivi_ndivyo_wimbo_ulivyoenda_piii_pi_alinyang.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 53,
+                    "start": 19,
+                    "word": "Hivi"
+                  },
+                  {
+                    "end": 100,
+                    "start": 54,
+                    "word": "ndivyo"
+                  },
+                  {
+                    "end": 141,
+                    "start": 101,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 272,
+                    "start": 162,
+                    "word": "ulivyoenda"
+                  },
+                  {
+                    "end": 380,
+                    "start": 331,
+                    "word": "Piii"
+                  },
+                  {
+                    "end": 445,
+                    "start": 381,
+                    "word": "pi"
+                  },
+                  {
+                    "end": 531,
+                    "start": 449,
+                    "word": "Alinyang"
+                  }
+                ],
+                "until": 531,
+                "utterances": "Hivi ndivyo wimbo ulivyoenda Piii pi Alinyang"
+              }
+            ],
+            "sentence": "Hivi ndivyo wimbo ulivyoenda: Piii pi Alinyang'!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "piii_pi_alinyang.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 21,
+                    "word": "Piii"
+                  },
+                  {
+                    "end": 132,
+                    "start": 71,
+                    "word": "pi"
+                  },
+                  {
+                    "end": 218,
+                    "start": 136,
+                    "word": "Alinyang"
+                  }
+                ],
+                "until": 218,
+                "utterances": "Piii pi Alinyang"
+              }
+            ],
+            "sentence": "Piii pi Alinyang'!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "chaka_akula_chi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 20,
+                    "word": "Chaka"
+                  },
+                  {
+                    "end": 158,
+                    "start": 87,
+                    "word": "akula"
+                  },
+                  {
+                    "end": 231,
+                    "start": 159,
+                    "word": "chi"
+                  }
+                ],
+                "until": 231,
+                "utterances": "Chaka akula chi"
+              }
+            ],
+            "sentence": "Chaka akula chi!"
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "chaka_orete_chi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 22,
+                    "word": "Chaka"
+                  },
+                  {
+                    "end": 143,
+                    "start": 65,
+                    "word": "orete"
+                  },
+                  {
+                    "end": 219,
+                    "start": 160,
+                    "word": "chi"
+                  }
+                ],
+                "until": 219,
+                "utterances": "Chaka orete chi"
+              }
+            ],
+            "sentence": "Chaka orete chi!"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "palinyang_aliendelea_kuimba_wimbo_huo_usiku_wote.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 21,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 204,
+                    "start": 103,
+                    "word": "aliendelea"
+                  },
+                  {
+                    "end": 265,
+                    "start": 205,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 310,
+                    "start": 266,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 371,
+                    "start": 356,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 448,
+                    "start": 372,
+                    "word": "usiku"
+                  },
+                  {
+                    "end": 501,
+                    "start": 449,
+                    "word": "wote"
+                  }
+                ],
+                "until": 501,
+                "utterances": "Palinyang aliendelea kuimba wimbo huo usiku wote"
+              }
+            ],
+            "sentence": "Palinyang' aliendelea kuimba wimbo huo usiku wote."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikanyanga_kinyesi_cha_ngo_mbe_lakini_kilikuwa_baridi.mp3",
+                "from": 67,
+                "segmentation": [
+                  {
+                    "end": 205,
+                    "start": 67,
+                    "word": "Alikanyanga"
+                  },
+                  {
+                    "end": 299,
+                    "start": 220,
+                    "word": "kinyesi"
+                  },
+                  {
+                    "end": 323,
+                    "start": 300,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 373,
+                    "start": 324,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 491,
+                    "start": 419,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 575,
+                    "start": 492,
+                    "word": "kilikuwa"
+                  },
+                  {
+                    "end": 677,
+                    "start": 576,
+                    "word": "baridi"
+                  }
+                ],
+                "until": 677,
+                "utterances": "Alikanyanga kinyesi cha ngo'mbe lakini kilikuwa baridi"
+              }
+            ],
+            "sentence": "Alikanyanga kinyesi cha ngo'mbe lakini kilikuwa baridi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisha_alikanyaga_mkojo_wa_ngo_mbe_na_pia_ulikuwa_baridi_lakini_hivyo_hakukata_tamaa_au_kukosa_matuma_27.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 2,
+                    "word": "Kisha"
+                  },
+                  {
+                    "end": 215,
+                    "start": 87,
+                    "word": "alikanyaga"
+                  },
+                  {
+                    "end": 303,
+                    "start": 216,
+                    "word": "mkojo"
+                  },
+                  {
+                    "end": 327,
+                    "start": 304,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 376,
+                    "start": 328,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 440,
+                    "start": 426,
+                    "word": "na"
+                  },
+                  {
+                    "end": 483,
+                    "start": 441,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 574,
+                    "start": 484,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 649,
+                    "start": 575,
+                    "word": "baridi"
+                  },
+                  {
+                    "end": 751,
+                    "start": 686,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 827,
+                    "start": 752,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 967,
+                    "start": 871,
+                    "word": "hakukata"
+                  },
+                  {
+                    "end": 1041,
+                    "start": 968,
+                    "word": "tamaa"
+                  },
+                  {
+                    "end": 1126,
+                    "start": 1088,
+                    "word": "au"
+                  },
+                  {
+                    "end": 1197,
+                    "start": 1127,
+                    "word": "kukosa"
+                  },
+                  {
+                    "end": 1320,
+                    "start": 1198,
+                    "word": "matumaini"
+                  },
+                  {
+                    "end": 1369,
+                    "start": 1355,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1475,
+                    "start": 1370,
+                    "word": "kuwapata"
+                  },
+                  {
+                    "end": 1524,
+                    "start": 1476,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 1572,
+                    "start": 1525,
+                    "word": "hao"
+                  }
+                ],
+                "until": 1572,
+                "utterances": "Kisha alikanyaga mkojo wa ngo'mbe na pia ulikuwa baridi lakini hivyo hakukata tamaa au kukosa matumaini ya kuwapata ngo'mbe hao"
+              }
+            ],
+            "sentence": "Kisha alikanyaga mkojo wa ngo'mbe na pia ulikuwa baridi, lakini hivyo hakukata tamaa au kukosa matumaini ya kuwapata ngo'mbe hao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_kulipopambazuka_palinyang_alifika_katika_kijiji_kidogo_na_kuwapata_wanyama_chini_ya_ulinzi_wa_22.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 20,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 249,
+                    "start": 85,
+                    "word": "kulipopambazuka"
+                  },
+                  {
+                    "end": 381,
+                    "start": 300,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 479,
+                    "start": 396,
+                    "word": "alifika"
+                  },
+                  {
+                    "end": 563,
+                    "start": 480,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 644,
+                    "start": 564,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 728,
+                    "start": 645,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 772,
+                    "start": 759,
+                    "word": "na"
+                  },
+                  {
+                    "end": 867,
+                    "start": 773,
+                    "word": "kuwapata"
+                  },
+                  {
+                    "end": 933,
+                    "start": 868,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 997,
+                    "start": 934,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 1011,
+                    "start": 998,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1109,
+                    "start": 1031,
+                    "word": "ulinzi"
+                  },
+                  {
+                    "end": 1158,
+                    "start": 1144,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1241,
+                    "start": 1159,
+                    "word": "chifu"
+                  },
+                  {
+                    "end": 1253,
+                    "start": 1242,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 1329,
+                    "start": 1254,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 1381,
+                    "start": 1330,
+                    "word": "hicho"
+                  }
+                ],
+                "until": 1381,
+                "utterances": "Wakati kulipopambazuka Palinyang alifika katika kijiji kidogo na kuwapata wanyama chini ya ulinzi wa chifu wa kijiji hicho"
+              }
+            ],
+            "sentence": "Wakati kulipopambazuka Palinyang' alifika katika kijiji kidogo na kuwapata wanyama chini ya ulinzi wa chifu wa kijiji hicho."
+          },
+          {
+            "narration": [
+              {
+                "audio": "allimwomba_chifu_huyo_kuwaachilia_ngo_mbe_hao_kwenda_nymbani_naye_lakini_chifu_huyo_alikataa.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 22,
+                    "word": "Allimwomba"
+                  },
+                  {
+                    "end": 214,
+                    "start": 148,
+                    "word": "chifu"
+                  },
+                  {
+                    "end": 275,
+                    "start": 244,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 390,
+                    "start": 276,
+                    "word": "kuwaachilia"
+                  },
+                  {
+                    "end": 449,
+                    "start": 391,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 510,
+                    "start": 450,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 592,
+                    "start": 555,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 675,
+                    "start": 593,
+                    "word": "nymbani"
+                  },
+                  {
+                    "end": 785,
+                    "start": 730,
+                    "word": "naye"
+                  },
+                  {
+                    "end": 853,
+                    "start": 786,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 909,
+                    "start": 854,
+                    "word": "chifu"
+                  },
+                  {
+                    "end": 965,
+                    "start": 928,
+                    "word": "huyo"
+                  },
+                  {
+                    "end": 1090,
+                    "start": 975,
+                    "word": "alikataa"
+                  }
+                ],
+                "until": 1090,
+                "utterances": "Allimwomba chifu huyo kuwaachilia ngo'mbe hao kwenda nymbani naye lakini chifu huyo alikataa"
+              }
+            ],
+            "sentence": "Allimwomba chifu huyo kuwaachilia ngo'mbe hao kwenda nymbani naye lakini chifu huyo alikataa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_kukata_tamaa_palinyang_alianza_kuimba_wimbo_wake_akirudi_nyumbani.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 35,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 112,
+                    "start": 36,
+                    "word": "kukata"
+                  },
+                  {
+                    "end": 200,
+                    "start": 113,
+                    "word": "tamaa"
+                  },
+                  {
+                    "end": 313,
+                    "start": 236,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 404,
+                    "start": 324,
+                    "word": "alianza"
+                  },
+                  {
+                    "end": 475,
+                    "start": 405,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 521,
+                    "start": 476,
+                    "word": "wimbo"
+                  },
+                  {
+                    "end": 580,
+                    "start": 522,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 684,
+                    "start": 593,
+                    "word": "akirudi"
+                  },
+                  {
+                    "end": 763,
+                    "start": 685,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 763,
+                "utterances": "Kwa kukata tamaa Palinyang alianza kuimba wimbo wake akirudi nyumbani"
+              }
+            ],
+            "sentence": "Kwa kukata tamaa, Palinyang' alianza kuimba wimbo wake akirudi nyumbani."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_hapo_ndipo_alinyang_ngo_mbe_mzee_alimsikia_palinyang_akiimba.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 39,
+                    "start": 21,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 90,
+                    "start": 40,
+                    "word": "hapo"
+                  },
+                  {
+                    "end": 137,
+                    "start": 91,
+                    "word": "ndipo"
+                  },
+                  {
+                    "end": 231,
+                    "start": 159,
+                    "word": "Alinyang"
+                  },
+                  {
+                    "end": 289,
+                    "start": 232,
+                    "word": "ngo'mbe"
+                  },
+                  {
+                    "end": 349,
+                    "start": 290,
+                    "word": "mzee"
+                  },
+                  {
+                    "end": 472,
+                    "start": 350,
+                    "word": "alimsikia"
+                  },
+                  {
+                    "end": 572,
+                    "start": 473,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 669,
+                    "start": 573,
+                    "word": "akiimba"
+                  }
+                ],
+                "until": 669,
+                "utterances": "Na hapo ndipo Alinyang ngo'mbe mzee alimsikia Palinyang akiimba"
+              }
+            ],
+            "sentence": "Na hapo ndipo Alinyang' ngo'mbe mzee alimsikia Palinyang' akiimba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alinyang_aliweka_masikio_yake_juu_na_kuanza_kumfuata_palinyang.mp3",
+                "from": 60,
+                "segmentation": [
+                  {
+                    "end": 150,
+                    "start": 60,
+                    "word": "Alinyang"
+                  },
+                  {
+                    "end": 255,
+                    "start": 167,
+                    "word": "aliweka"
+                  },
+                  {
+                    "end": 344,
+                    "start": 256,
+                    "word": "masikio"
+                  },
+                  {
+                    "end": 400,
+                    "start": 345,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 460,
+                    "start": 401,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 524,
+                    "start": 509,
+                    "word": "na"
+                  },
+                  {
+                    "end": 606,
+                    "start": 525,
+                    "word": "kuanza"
+                  },
+                  {
+                    "end": 718,
+                    "start": 607,
+                    "word": "kumfuata"
+                  },
+                  {
+                    "end": 829,
+                    "start": 719,
+                    "word": "Palinyang"
+                  }
+                ],
+                "until": 829,
+                "utterances": "Alinyang aliweka masikio yake juu na kuanza kumfuata Palinyang"
+              }
+            ],
+            "sentence": "Alinyang' aliweka masikio yake juu na kuanza kumfuata Palinyang'."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wanyama_wote_walitoka_kule.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 21,
+                    "word": "Wanyama"
+                  },
+                  {
+                    "end": 124,
+                    "start": 78,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 209,
+                    "start": 125,
+                    "word": "walitoka"
+                  },
+                  {
+                    "end": 285,
+                    "start": 210,
+                    "word": "kule"
+                  }
+                ],
+                "until": 285,
+                "utterances": "Wanyama wote walitoka kule"
+              },
+              {
+                "audio": "walikokuwa_wamefungiwa_na_kumfuata_palinyang.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 130,
+                    "start": 21,
+                    "word": "walikokuwa"
+                  },
+                  {
+                    "end": 254,
+                    "start": 131,
+                    "word": "wamefungiwa"
+                  },
+                  {
+                    "end": 290,
+                    "start": 255,
+                    "word": "na"
+                  },
+                  {
+                    "end": 383,
+                    "start": 291,
+                    "word": "kumfuata"
+                  },
+                  {
+                    "end": 476,
+                    "start": 384,
+                    "word": "Palinyang"
+                  }
+                ],
+                "until": 476,
+                "utterances": "walikokuwa wamefungiwa na kumfuata Palinyang"
+              }
+            ],
+            "sentence": "Wanyama wote walitoka kule walikokuwa wamefungiwa na kumfuata Palinyang'."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliwaelekeza_wanyama_hao_nyumbani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 170,
+                    "start": 21,
+                    "word": "Aliwaelekeza"
+                  },
+                  {
+                    "end": 234,
+                    "start": 171,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 285,
+                    "start": 235,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 373,
+                    "start": 286,
+                    "word": "nyumbani"
+                  }
+                ],
+                "until": 373,
+                "utterances": "Aliwaelekeza wanyama hao nyumbani"
+              }
+            ],
+            "sentence": "Aliwaelekeza wanyama hao nyumbani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level4_7_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walipofika_nyumbani_wenye_kijiji_walikuwa_wakiwangonja_kwa_sababu_walikuwa_wamesikia_sauti_ya_paliny_20.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 20,
+                    "word": "Walipofika"
+                  },
+                  {
+                    "end": 220,
+                    "start": 121,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 289,
+                    "start": 252,
+                    "word": "wenye"
+                  },
+                  {
+                    "end": 357,
+                    "start": 290,
+                    "word": "kijiji"
+                  },
+                  {
+                    "end": 451,
+                    "start": 358,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 582,
+                    "start": 452,
+                    "word": "wakiwangonja"
+                  },
+                  {
+                    "end": 607,
+                    "start": 583,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 684,
+                    "start": 608,
+                    "word": "sababu"
+                  },
+                  {
+                    "end": 757,
+                    "start": 685,
+                    "word": "walikuwa"
+                  },
+                  {
+                    "end": 880,
+                    "start": 796,
+                    "word": "wamesikia"
+                  },
+                  {
+                    "end": 965,
+                    "start": 881,
+                    "word": "sauti"
+                  },
+                  {
+                    "end": 976,
+                    "start": 966,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 1079,
+                    "start": 977,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 1188,
+                    "start": 1112,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 1220,
+                    "start": 1189,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 1288,
+                    "start": 1221,
+                    "word": "mbali"
+                  }
+                ],
+                "until": 1288,
+                "utterances": "Walipofika nyumbani wenye kijiji walikuwa wakiwangonja kwa sababu walikuwa wamesikia sauti ya Palinyang kutoka kwa mbali"
+              }
+            ],
+            "sentence": "Walipofika nyumbani, wenye kijiji walikuwa wakiwangonja kwa sababu walikuwa wamesikia sauti ya Palinyang' kutoka kwa mbali."
+          },
+          {
+            "narration": [
+              {
+                "audio": "wote_waliimba_nyimbo_za_kumsifu_palinyang.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 19,
+                    "word": "Wote"
+                  },
+                  {
+                    "end": 171,
+                    "start": 79,
+                    "word": "Waliimba"
+                  },
+                  {
+                    "end": 230,
+                    "start": 172,
+                    "word": "nyimbo"
+                  },
+                  {
+                    "end": 251,
+                    "start": 231,
+                    "word": "za"
+                  },
+                  {
+                    "end": 343,
+                    "start": 252,
+                    "word": "kumsifu"
+                  },
+                  {
+                    "end": 444,
+                    "start": 344,
+                    "word": "Palinyang"
+                  }
+                ],
+                "until": 444,
+                "utterances": "Wote Waliimba nyimbo za kumsifu Palinyang"
+              }
+            ],
+            "sentence": "Wote Waliimba nyimbo za kumsifu Palinyang'."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lokeyokoni_alimshukuru_palinyang_na_kumnunulia_mkoba_mwekundu_wa_kubebea_vitabu_vya_shule.mp3",
+                "from": 27,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 27,
+                    "word": "Lokeyokoni"
+                  },
+                  {
+                    "end": 286,
+                    "start": 166,
+                    "word": "alimshukuru"
+                  },
+                  {
+                    "end": 384,
+                    "start": 287,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 442,
+                    "start": 428,
+                    "word": "na"
+                  },
+                  {
+                    "end": 553,
+                    "start": 443,
+                    "word": "kumnunulia"
+                  },
+                  {
+                    "end": 621,
+                    "start": 554,
+                    "word": "mkoba"
+                  },
+                  {
+                    "end": 710,
+                    "start": 622,
+                    "word": "mwekundu"
+                  },
+                  {
+                    "end": 776,
+                    "start": 762,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 868,
+                    "start": 777,
+                    "word": "kubebea"
+                  },
+                  {
+                    "end": 963,
+                    "start": 869,
+                    "word": "vitabu"
+                  },
+                  {
+                    "end": 976,
+                    "start": 964,
+                    "word": "vya"
+                  },
+                  {
+                    "end": 1033,
+                    "start": 977,
+                    "word": "shule"
+                  }
+                ],
+                "until": 1033,
+                "utterances": "Lokeyokoni alimshukuru Palinyang na kumnunulia mkoba mwekundu wa kubebea vitabu vya shule"
+              }
+            ],
+            "sentence": "Lokeyokoni alimshukuru Palinyang' na kumnunulia mkoba mwekundu wa kubebea vitabu vya shule."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_hivyo_ndivyo_palinyang_alianza_kwenda_shuleni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 102,
+                    "start": 42,
+                    "word": "hivyo"
+                  },
+                  {
+                    "end": 151,
+                    "start": 103,
+                    "word": "ndivyo"
+                  },
+                  {
+                    "end": 256,
+                    "start": 152,
+                    "word": "Palinyang"
+                  },
+                  {
+                    "end": 339,
+                    "start": 257,
+                    "word": "alianza"
+                  },
+                  {
+                    "end": 396,
+                    "start": 340,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 500,
+                    "start": 397,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": 500,
+                "utterances": "Na hivyo ndivyo Palinyang alianza kwenda shuleni"
+              }
+            ],
+            "sentence": "Na hivyo ndivyo Palinyang' alianza kwenda shuleni."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "4",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Carol Nangila",
+  "title": "Kijana Palinyang'",
+  "titleimage": "level4_7_page_01_image_0001.jpg"
+}

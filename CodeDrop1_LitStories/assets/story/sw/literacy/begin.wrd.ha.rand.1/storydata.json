@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "haya_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haya"
+              }
+            ],
+            "sentence": "haya"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hali"
+              }
+            ],
+            "sentence": "hali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hayo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hayo"
+              }
+            ],
+            "sentence": "hayo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hapa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hapa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hapa"
+              }
+            ],
+            "sentence": "hapa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "haha_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haha"
+              }
+            ],
+            "sentence": "haha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hasa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hasa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hasa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hasa"
+              }
+            ],
+            "sentence": "hasa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hapo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hapo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hapo"
+              }
+            ],
+            "sentence": "hapo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hadi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hadi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hadi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hadi"
+              }
+            ],
+            "sentence": "hadi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hata_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hata.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hata"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hata"
+              }
+            ],
+            "sentence": "hata"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "haki_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haki"
+              }
+            ],
+            "sentence": "haki"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.ha.rand.1"
+}

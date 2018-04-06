@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "lililokuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lililokuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lililokuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lililokuwa"
+              }
+            ],
+            "sentence": "lililokuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ziwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ziwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ziwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ziwa"
+              }
+            ],
+            "sentence": "ziwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hapakuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapakuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hapakuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hapakuwa"
+              }
+            ],
+            "sentence": "hapakuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "machungwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "machungwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "machungwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "machungwa"
+              }
+            ],
+            "sentence": "machungwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "umwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "umwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "umwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "umwa"
+              }
+            ],
+            "sentence": "umwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "imefungwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "imefungwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "imefungwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "imefungwa"
+              }
+            ],
+            "sentence": "imefungwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliitwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliitwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliitwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliitwa"
+              }
+            ],
+            "sentence": "aliitwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hewa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hewa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hewa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hewa"
+              }
+            ],
+            "sentence": "hewa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ukiwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukiwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukiwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukiwa"
+              }
+            ],
+            "sentence": "ukiwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mpendwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mpendwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mpendwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mpendwa"
+              }
+            ],
+            "sentence": "mpendwa"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.wa.rand.33"
+}

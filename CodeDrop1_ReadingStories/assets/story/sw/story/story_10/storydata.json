@@ -1,0 +1,2196 @@
+{
+  "authors": "Judith Baker and Lorato Trok",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level2_13_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kila_mtu_anafahamu_kuwa_tembo_ana_mkonga_mrefu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 105,
+                    "start": 58,
+                    "word": "mtu"
+                  },
+                  {
+                    "end": 218,
+                    "start": 120,
+                    "word": "anafahamu"
+                  },
+                  {
+                    "end": 255,
+                    "start": 219,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 320,
+                    "start": 256,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 359,
+                    "start": 324,
+                    "word": "ana"
+                  },
+                  {
+                    "end": 432,
+                    "start": 360,
+                    "word": "mkonga"
+                  },
+                  {
+                    "end": 509,
+                    "start": 433,
+                    "word": "mrefu"
+                  }
+                ],
+                "until": 509,
+                "utterances": "Kila mtu anafahamu kuwa tembo ana mkonga mrefu"
+              }
+            ],
+            "sentence": "Kila mtu anafahamu kuwa tembo ana mkonga mrefu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_hapo_kale_pua_la_tembo_lilikuwa_fupi_na_nono.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 131,
+                    "start": 83,
+                    "word": "hapo"
+                  },
+                  {
+                    "end": 158,
+                    "start": 132,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 204,
+                    "start": 159,
+                    "word": "pua"
+                  },
+                  {
+                    "end": 274,
+                    "start": 242,
+                    "word": "la"
+                  },
+                  {
+                    "end": 344,
+                    "start": 275,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 424,
+                    "start": 345,
+                    "word": "lilikuwa"
+                  },
+                  {
+                    "end": 493,
+                    "start": 425,
+                    "word": "fupi"
+                  },
+                  {
+                    "end": 519,
+                    "start": 501,
+                    "word": "na"
+                  },
+                  {
+                    "end": 581,
+                    "start": 520,
+                    "word": "nono"
+                  }
+                ],
+                "until": 581,
+                "utterances": "Lakini hapo kale pua la tembo lilikuwa fupi na nono"
+              }
+            ],
+            "sentence": "Lakini hapo kale, pua la tembo lilikuwa fupi na nono."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "lilikuwa_kama_kiatu_kilichowekwa_katikati_mwa_uso_wake.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 101,
+                    "start": 23,
+                    "word": "Lilikuwa"
+                  },
+                  {
+                    "end": 146,
+                    "start": 102,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 222,
+                    "start": 147,
+                    "word": "kiatu"
+                  },
+                  {
+                    "end": 348,
+                    "start": 223,
+                    "word": "kilichowekwa"
+                  },
+                  {
+                    "end": 452,
+                    "start": 349,
+                    "word": "katikati"
+                  },
+                  {
+                    "end": 476,
+                    "start": 453,
+                    "word": "mwa"
+                  },
+                  {
+                    "end": 518,
+                    "start": 477,
+                    "word": "uso"
+                  },
+                  {
+                    "end": 577,
+                    "start": 519,
+                    "word": "wake"
+                  }
+                ],
+                "until": 577,
+                "utterances": "Lilikuwa kama kiatu kilichowekwa katikati mwa uso wake"
+              }
+            ],
+            "sentence": "Lilikuwa kama kiatu kilichowekwa katikati mwa uso wake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_tembo_akazaa_mtoto_aliyekuwa_mdadisi.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 69,
+                    "start": 18,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 119,
+                    "start": 70,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 179,
+                    "start": 120,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 266,
+                    "start": 180,
+                    "word": "akazaa"
+                  },
+                  {
+                    "end": 348,
+                    "start": 267,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 441,
+                    "start": 354,
+                    "word": "aliyekuwa"
+                  },
+                  {
+                    "end": 533,
+                    "start": 442,
+                    "word": "mdadisi"
+                  }
+                ],
+                "until": 533,
+                "utterances": "Siku moja tembo akazaa mtoto aliyekuwa mdadisi"
+              }
+            ],
+            "sentence": "Siku moja tembo akazaa mtoto aliyekuwa mdadisi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikuwa_na_swali_kwa_kila_mnyama_aliyemuona.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 19,
+                    "word": "Alikuwa"
+                  },
+                  {
+                    "end": 105,
+                    "start": 75,
+                    "word": "na"
+                  },
+                  {
+                    "end": 333,
+                    "start": 275,
+                    "word": "swali"
+                  },
+                  {
+                    "end": 354,
+                    "start": 334,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 401,
+                    "start": 355,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 466,
+                    "start": 402,
+                    "word": "mnyama"
+                  },
+                  {
+                    "end": 591,
+                    "start": 467,
+                    "word": "aliyemuona"
+                  }
+                ],
+                "until": 591,
+                "utterances": "Alikuwa na swali kwa kila mnyama aliyemuona"
+              }
+            ],
+            "sentence": "Alikuwa na swali kwa kila mnyama aliyemuona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wa_tembo_alimdadisi_twiga.mp3",
+                "from": 12,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 12,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 90,
+                    "start": 73,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 143,
+                    "start": 91,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 280,
+                    "start": 144,
+                    "word": "alimdadisi"
+                  },
+                  {
+                    "end": 338,
+                    "start": 281,
+                    "word": "twiga"
+                  }
+                ],
+                "until": 338,
+                "utterances": "Mtoto wa tembo alimdadisi twiga"
+              }
+            ],
+            "sentence": "Mtoto wa tembo alimdadisi twiga."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwa_nini_shingo_lako_ni_refu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 34,
+                    "start": 2,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 79,
+                    "start": 35,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 129,
+                    "start": 80,
+                    "word": "shingo"
+                  },
+                  {
+                    "end": 174,
+                    "start": 130,
+                    "word": "lako"
+                  },
+                  {
+                    "end": 200,
+                    "start": 175,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 280,
+                    "start": 201,
+                    "word": "refu"
+                  }
+                ],
+                "until": 280,
+                "utterances": "Kwa nini shingo lako ni refu"
+              }
+            ],
+            "sentence": "\"Kwa nini shingo lako ni refu?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pia_alidadisi_kuhusu_kifaru.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 45,
+                    "start": 20,
+                    "word": "Pia"
+                  },
+                  {
+                    "end": 165,
+                    "start": 67,
+                    "word": "alidadisi"
+                  },
+                  {
+                    "end": 229,
+                    "start": 166,
+                    "word": "kuhusu"
+                  },
+                  {
+                    "end": 307,
+                    "start": 230,
+                    "word": "kifaru"
+                  }
+                ],
+                "until": 307,
+                "utterances": "Pia alidadisi kuhusu kifaru"
+              }
+            ],
+            "sentence": "Pia alidadisi kuhusu kifaru."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ni_kwa_nini_pembe_yako_ina_ncha_iliyochongoka_sana.mp3",
+                "from": 50,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 50,
+                    "word": "Ni"
+                  },
+                  {
+                    "end": 93,
+                    "start": 72,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 139,
+                    "start": 94,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 186,
+                    "start": 140,
+                    "word": "pembe"
+                  },
+                  {
+                    "end": 246,
+                    "start": 187,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 288,
+                    "start": 247,
+                    "word": "ina"
+                  },
+                  {
+                    "end": 334,
+                    "start": 289,
+                    "word": "ncha"
+                  },
+                  {
+                    "end": 478,
+                    "start": 347,
+                    "word": "iliyochongoka"
+                  },
+                  {
+                    "end": 555,
+                    "start": 479,
+                    "word": "sana"
+                  }
+                ],
+                "until": 555,
+                "utterances": "Ni kwa nini pembe yako ina ncha iliyochongoka sana"
+              }
+            ],
+            "sentence": "\"Ni kwa nini pembe yako ina ncha iliyochongoka sana?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wa_tembo_pia_alimdadisi_kiboko_kwa_nini_una_macho_mekundu.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 14,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 94,
+                    "start": 77,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 150,
+                    "start": 95,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 196,
+                    "start": 151,
+                    "word": "pia"
+                  },
+                  {
+                    "end": 319,
+                    "start": 197,
+                    "word": "alimdadisi"
+                  },
+                  {
+                    "end": 395,
+                    "start": 320,
+                    "word": "kiboko"
+                  },
+                  {
+                    "end": 465,
+                    "start": 404,
+                    "word": "Kwa"
+                  },
+                  {
+                    "end": 522,
+                    "start": 466,
+                    "word": "nini"
+                  },
+                  {
+                    "end": 558,
+                    "start": 527,
+                    "word": "una"
+                  },
+                  {
+                    "end": 605,
+                    "start": 559,
+                    "word": "macho"
+                  },
+                  {
+                    "end": 702,
+                    "start": 606,
+                    "word": "mekundu"
+                  }
+                ],
+                "until": 702,
+                "utterances": "Mtoto wa tembo pia alimdadisi kiboko Kwa nini una macho mekundu"
+              }
+            ],
+            "sentence": "Mtoto wa tembo pia alimdadisi kiboko, \"Kwa nini una macho mekundu?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hivi_wewe_huwa_unakula_nini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 2,
+                    "word": "Hivi"
+                  },
+                  {
+                    "end": 118,
+                    "start": 71,
+                    "word": "wewe"
+                  },
+                  {
+                    "end": 167,
+                    "start": 119,
+                    "word": "huwa"
+                  },
+                  {
+                    "end": 266,
+                    "start": 187,
+                    "word": "unakula"
+                  },
+                  {
+                    "end": 352,
+                    "start": 267,
+                    "word": "nini"
+                  }
+                ],
+                "until": 352,
+                "utterances": "Hivi wewe huwa unakula nini"
+              }
+            ],
+            "sentence": "\"Hivi wewe huwa unakula nini?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "alimdadisi_mamba.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 136,
+                    "start": 20,
+                    "word": "Alimdadisi"
+                  },
+                  {
+                    "end": 193,
+                    "start": 137,
+                    "word": "mamba"
+                  }
+                ],
+                "until": 193,
+                "utterances": "Alimdadisi mamba"
+              }
+            ],
+            "sentence": "Alimdadisi mamba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanangu_usiulize_wanyama_maswali_kama_hayo_mama_yake_alimwambia.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 23,
+                    "word": "Mwanangu"
+                  },
+                  {
+                    "end": 229,
+                    "start": 138,
+                    "word": "usiulize"
+                  },
+                  {
+                    "end": 291,
+                    "start": 230,
+                    "word": "wanyama"
+                  },
+                  {
+                    "end": 360,
+                    "start": 292,
+                    "word": "maswali"
+                  },
+                  {
+                    "end": 404,
+                    "start": 361,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 456,
+                    "start": 405,
+                    "word": "hayo"
+                  },
+                  {
+                    "end": 521,
+                    "start": 491,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 567,
+                    "start": 522,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 675,
+                    "start": 568,
+                    "word": "alimwambia"
+                  }
+                ],
+                "until": 675,
+                "utterances": "Mwanangu usiulize wanyama maswali kama hayo mama yake alimwambia"
+              }
+            ],
+            "sentence": "\"Mwanangu usiulize wanyama maswali kama hayo,\" mama yake alimwambia."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliondoka_akiwa_kanuna_na_kwenda_kucheza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 132,
+                    "start": 21,
+                    "word": "Aliondoka"
+                  },
+                  {
+                    "end": 199,
+                    "start": 133,
+                    "word": "akiwa"
+                  },
+                  {
+                    "end": 296,
+                    "start": 200,
+                    "word": "kanuna"
+                  },
+                  {
+                    "end": 340,
+                    "start": 325,
+                    "word": "na"
+                  },
+                  {
+                    "end": 387,
+                    "start": 341,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 466,
+                    "start": 388,
+                    "word": "kucheza"
+                  }
+                ],
+                "until": 466,
+                "utterances": "Aliondoka akiwa kanuna na kwenda kucheza"
+              }
+            ],
+            "sentence": "Aliondoka akiwa kanuna na kwenda kucheza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lakini_kunguru_mwerevu_alisema_upesi_nifuate_twende_mtoni.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 22,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 146,
+                    "start": 84,
+                    "word": "Kunguru"
+                  },
+                  {
+                    "end": 209,
+                    "start": 147,
+                    "word": "mwerevu"
+                  },
+                  {
+                    "end": 299,
+                    "start": 220,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 379,
+                    "start": 300,
+                    "word": "upesi"
+                  },
+                  {
+                    "end": 490,
+                    "start": 422,
+                    "word": "Nifuate"
+                  },
+                  {
+                    "end": 543,
+                    "start": 491,
+                    "word": "twende"
+                  },
+                  {
+                    "end": 616,
+                    "start": 544,
+                    "word": "mtoni"
+                  }
+                ],
+                "until": 616,
+                "utterances": "Lakini Kunguru mwerevu alisema upesi Nifuate twende mtoni"
+              }
+            ],
+            "sentence": "Lakini Kunguru mwerevu alisema upesi, \"Nifuate twende mtoni."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kule_utaona_ambacho_mamba_hula_jioni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 2,
+                    "word": "Kule"
+                  },
+                  {
+                    "end": 168,
+                    "start": 96,
+                    "word": "utaona"
+                  },
+                  {
+                    "end": 249,
+                    "start": 180,
+                    "word": "ambacho"
+                  },
+                  {
+                    "end": 310,
+                    "start": 250,
+                    "word": "mamba"
+                  },
+                  {
+                    "end": 365,
+                    "start": 311,
+                    "word": "hula"
+                  },
+                  {
+                    "end": 445,
+                    "start": 366,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 445,
+                "utterances": "Kule utaona ambacho mamba hula jioni"
+              }
+            ],
+            "sentence": "Kule utaona ambacho mamba hula jioni\"."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wa_tembo_alimfuata_kunguru_mpaka_mtoni.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 72,
+                    "start": 13,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 88,
+                    "start": 73,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 145,
+                    "start": 89,
+                    "word": "Tembo"
+                  },
+                  {
+                    "end": 253,
+                    "start": 146,
+                    "word": "alimfuata"
+                  },
+                  {
+                    "end": 338,
+                    "start": 254,
+                    "word": "Kunguru"
+                  },
+                  {
+                    "end": 389,
+                    "start": 339,
+                    "word": "mpaka"
+                  },
+                  {
+                    "end": 463,
+                    "start": 390,
+                    "word": "mtoni"
+                  }
+                ],
+                "until": 463,
+                "utterances": "Mtoto wa Tembo alimfuata Kunguru mpaka mtoni"
+              }
+            ],
+            "sentence": "Mtoto wa Tembo alimfuata Kunguru mpaka mtoni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alijipenyeza_kwenye_mianzi_na_kusimama_kwenye_kingo_ya_mto.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 177,
+                    "start": 22,
+                    "word": "Alijipenyeza"
+                  },
+                  {
+                    "end": 226,
+                    "start": 178,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 325,
+                    "start": 227,
+                    "word": "mianzi"
+                  },
+                  {
+                    "end": 374,
+                    "start": 362,
+                    "word": "na"
+                  },
+                  {
+                    "end": 464,
+                    "start": 375,
+                    "word": "kusimama"
+                  },
+                  {
+                    "end": 511,
+                    "start": 465,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 565,
+                    "start": 512,
+                    "word": "kingo"
+                  },
+                  {
+                    "end": 585,
+                    "start": 566,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 637,
+                    "start": 586,
+                    "word": "mto"
+                  }
+                ],
+                "until": 637,
+                "utterances": "Alijipenyeza kwenye mianzi na kusimama kwenye kingo ya mto"
+              }
+            ],
+            "sentence": "Alijipenyeza kwenye mianzi na kusimama kwenye kingo ya mto."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "alitazama_ndani_ya_maji_na_kuuliza_mamba_mwenyewe_yuko_wapi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 132,
+                    "start": 21,
+                    "word": "Alitazama"
+                  },
+                  {
+                    "end": 197,
+                    "start": 133,
+                    "word": "ndani"
+                  },
+                  {
+                    "end": 210,
+                    "start": 198,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 259,
+                    "start": 211,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 280,
+                    "start": 260,
+                    "word": "na"
+                  },
+                  {
+                    "end": 368,
+                    "start": 281,
+                    "word": "kuuliza"
+                  },
+                  {
+                    "end": 483,
+                    "start": 432,
+                    "word": "Mamba"
+                  },
+                  {
+                    "end": 569,
+                    "start": 484,
+                    "word": "mwenyewe"
+                  },
+                  {
+                    "end": 617,
+                    "start": 570,
+                    "word": "yuko"
+                  },
+                  {
+                    "end": 725,
+                    "start": 618,
+                    "word": "wapi"
+                  }
+                ],
+                "until": 725,
+                "utterances": "Alitazama ndani ya maji na kuuliza Mamba mwenyewe yuko wapi"
+              }
+            ],
+            "sentence": "Alitazama ndani ya maji na kuuliza, \"Mamba mwenyewe yuko wapi?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "habari_jiwe_lilisema_hapo_karibu_na_mto.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 116,
+                    "start": 18,
+                    "word": "Habari"
+                  },
+                  {
+                    "end": 188,
+                    "start": 145,
+                    "word": "jiwe"
+                  },
+                  {
+                    "end": 278,
+                    "start": 189,
+                    "word": "lilisema"
+                  },
+                  {
+                    "end": 321,
+                    "start": 279,
+                    "word": "hapo"
+                  },
+                  {
+                    "end": 382,
+                    "start": 322,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 404,
+                    "start": 383,
+                    "word": "na"
+                  },
+                  {
+                    "end": 449,
+                    "start": 405,
+                    "word": "mto"
+                  }
+                ],
+                "until": 449,
+                "utterances": "Habari jiwe lilisema hapo karibu na mto"
+              }
+            ],
+            "sentence": "\"Habari,\" jiwe lilisema hapo karibu na mto."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "habari_ni_nzuri_alijibu_mtoto_wa_tembo_kisha_akasema.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 19,
+                    "word": "Habari"
+                  },
+                  {
+                    "end": 104,
+                    "start": 83,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 172,
+                    "start": 105,
+                    "word": "nzuri"
+                  },
+                  {
+                    "end": 258,
+                    "start": 188,
+                    "word": "alijibu"
+                  },
+                  {
+                    "end": 313,
+                    "start": 259,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 336,
+                    "start": 314,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 406,
+                    "start": 337,
+                    "word": "Tembo"
+                  },
+                  {
+                    "end": 498,
+                    "start": 445,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 597,
+                    "start": 499,
+                    "word": "akasema"
+                  }
+                ],
+                "until": 597,
+                "utterances": "Habari ni nzuri alijibu Mtoto wa Tembo kisha akasema"
+              }
+            ],
+            "sentence": "\"Habari ni nzuri,\" alijibu Mtoto wa Tembo, kisha akasema."
+          },
+          {
+            "narration": [
+              {
+                "audio": "labda_unaweza_ukanieleza_mamba_hula_chakula_gani_jioni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 21,
+                    "word": "Labda"
+                  },
+                  {
+                    "end": 178,
+                    "start": 95,
+                    "word": "unaweza"
+                  },
+                  {
+                    "end": 322,
+                    "start": 190,
+                    "word": "ukanieleza"
+                  },
+                  {
+                    "end": 409,
+                    "start": 361,
+                    "word": "mamba"
+                  },
+                  {
+                    "end": 455,
+                    "start": 410,
+                    "word": "hula"
+                  },
+                  {
+                    "end": 517,
+                    "start": 456,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 562,
+                    "start": 518,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 656,
+                    "start": 563,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 656,
+                "utterances": "Labda unaweza ukanieleza mamba hula chakula gani jioni"
+              }
+            ],
+            "sentence": "\"Labda unaweza ukanieleza mamba hula chakula gani jioni?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": null,
+      "text": []
+    },
+    {
+      "image": "level2_13_page_15_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "inama_kidogo_na_nitakwambia_mamba_hula_chakula_gani_lilisema_jiwe_lile.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 22,
+                    "word": "Inama"
+                  },
+                  {
+                    "end": 155,
+                    "start": 84,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 215,
+                    "start": 205,
+                    "word": "na"
+                  },
+                  {
+                    "end": 325,
+                    "start": 216,
+                    "word": "nitakwambia"
+                  },
+                  {
+                    "end": 374,
+                    "start": 326,
+                    "word": "mamba"
+                  },
+                  {
+                    "end": 413,
+                    "start": 375,
+                    "word": "hula"
+                  },
+                  {
+                    "end": 473,
+                    "start": 414,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 529,
+                    "start": 474,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 642,
+                    "start": 569,
+                    "word": "lilisema"
+                  },
+                  {
+                    "end": 687,
+                    "start": 643,
+                    "word": "jiwe"
+                  },
+                  {
+                    "end": 727,
+                    "start": 688,
+                    "word": "lile"
+                  }
+                ],
+                "until": 727,
+                "utterances": "Inama kidogo na nitakwambia mamba hula chakula gani lilisema jiwe lile"
+              }
+            ],
+            "sentence": "\"Inama kidogo na nitakwambia mamba hula chakula gani,\" lilisema jiwe lile."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wa_tembo_aliinama_chini_karibu_kabisa_na_jiwe_lile_kisha.mp3",
+                "from": 11,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 11,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 88,
+                    "start": 76,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 139,
+                    "start": 89,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 249,
+                    "start": 140,
+                    "word": "aliinama"
+                  },
+                  {
+                    "end": 310,
+                    "start": 250,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 376,
+                    "start": 311,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 462,
+                    "start": 377,
+                    "word": "kabisa"
+                  },
+                  {
+                    "end": 520,
+                    "start": 508,
+                    "word": "na"
+                  },
+                  {
+                    "end": 563,
+                    "start": 521,
+                    "word": "jiwe"
+                  },
+                  {
+                    "end": 605,
+                    "start": 564,
+                    "word": "lile"
+                  },
+                  {
+                    "end": 678,
+                    "start": 606,
+                    "word": "kisha"
+                  }
+                ],
+                "until": 678,
+                "utterances": "Mtoto wa tembo aliinama chini karibu kabisa na jiwe lile kisha"
+              }
+            ],
+            "sentence": "Mtoto wa tembo aliinama chini karibu kabisa na jiwe lile kisha..."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_16_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pua_ya_mtoto_wa_mamba_ilikuwa_kunywani_mwa_mamba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Pua"
+                  },
+                  {
+                    "end": 86,
+                    "start": 63,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 155,
+                    "start": 87,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 180,
+                    "start": 156,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 234,
+                    "start": 181,
+                    "word": "mamba"
+                  },
+                  {
+                    "end": 326,
+                    "start": 249,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 440,
+                    "start": 347,
+                    "word": "kunywani"
+                  },
+                  {
+                    "end": 469,
+                    "start": 441,
+                    "word": "mwa"
+                  },
+                  {
+                    "end": 526,
+                    "start": 470,
+                    "word": "mamba"
+                  }
+                ],
+                "until": 526,
+                "utterances": "Pua ya mtoto wa mamba ilikuwa kunywani mwa mamba"
+              }
+            ],
+            "sentence": "Pua ya mtoto wa mamba ilikuwa kunywani mwa mamba."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mamba_atakula_nyama_yako_leo_alisema_kunguru_mjanja_aliyemshawishi_mtoto_wa_tembo_kwenda_mtoni.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 18,
+                    "word": "Mamba"
+                  },
+                  {
+                    "end": 175,
+                    "start": 84,
+                    "word": "atakula"
+                  },
+                  {
+                    "end": 230,
+                    "start": 176,
+                    "word": "nyama"
+                  },
+                  {
+                    "end": 280,
+                    "start": 231,
+                    "word": "yako"
+                  },
+                  {
+                    "end": 330,
+                    "start": 322,
+                    "word": "leo"
+                  },
+                  {
+                    "end": 416,
+                    "start": 349,
+                    "word": "alisema"
+                  },
+                  {
+                    "end": 481,
+                    "start": 417,
+                    "word": "kunguru"
+                  },
+                  {
+                    "end": 549,
+                    "start": 482,
+                    "word": "mjanja"
+                  },
+                  {
+                    "end": 716,
+                    "start": 603,
+                    "word": "aliyemshawishi"
+                  },
+                  {
+                    "end": 769,
+                    "start": 717,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 787,
+                    "start": 770,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 836,
+                    "start": 788,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 884,
+                    "start": 837,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 961,
+                    "start": 885,
+                    "word": "mtoni"
+                  }
+                ],
+                "until": 961,
+                "utterances": "Mamba atakula nyama yako leo alisema kunguru mjanja aliyemshawishi mtoto wa tembo kwenda mtoni"
+              }
+            ],
+            "sentence": "\"Mamba atakula nyama yako leo,\" alisema kunguru mjanja aliyemshawishi mtoto wa tembo kwenda mtoni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_17_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wa_tembo_akakita_miguu_yake_yenye_nguvu_chini_akasimama_imara_na_akaanza_kujivuta_na_kujivuta.mp3",
+                "from": 13,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 13,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 94,
+                    "start": 79,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 166,
+                    "start": 95,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 254,
+                    "start": 170,
+                    "word": "akakita"
+                  },
+                  {
+                    "end": 343,
+                    "start": 255,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 381,
+                    "start": 344,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 433,
+                    "start": 382,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 487,
+                    "start": 434,
+                    "word": "nguvu"
+                  },
+                  {
+                    "end": 549,
+                    "start": 488,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 703,
+                    "start": 590,
+                    "word": "akasimama"
+                  },
+                  {
+                    "end": 771,
+                    "start": 716,
+                    "word": "imara"
+                  },
+                  {
+                    "end": 839,
+                    "start": 827,
+                    "word": "na"
+                  },
+                  {
+                    "end": 917,
+                    "start": 840,
+                    "word": "akaanza"
+                  },
+                  {
+                    "end": 1039,
+                    "start": 918,
+                    "word": "kujivuta"
+                  },
+                  {
+                    "end": 1088,
+                    "start": 1072,
+                    "word": "na"
+                  },
+                  {
+                    "end": 1198,
+                    "start": 1089,
+                    "word": "kujivuta"
+                  }
+                ],
+                "until": 1198,
+                "utterances": "Mtoto wa tembo akakita miguu yake yenye nguvu chini akasimama imara na akaanza kujivuta na kujivuta"
+              }
+            ],
+            "sentence": "Mtoto wa tembo akakita miguu yake yenye nguvu chini, akasimama imara na akaanza kujivuta, na kujivuta."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mamba_nae_akaikamata_vema_pua_ya_mtoto_wa_tembo_hakuiachia.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 21,
+                    "word": "Mamba"
+                  },
+                  {
+                    "end": 129,
+                    "start": 67,
+                    "word": "nae"
+                  },
+                  {
+                    "end": 279,
+                    "start": 140,
+                    "word": "akaikamata"
+                  },
+                  {
+                    "end": 346,
+                    "start": 280,
+                    "word": "vema"
+                  },
+                  {
+                    "end": 397,
+                    "start": 347,
+                    "word": "pua"
+                  },
+                  {
+                    "end": 418,
+                    "start": 398,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 486,
+                    "start": 419,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 506,
+                    "start": 487,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 569,
+                    "start": 507,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 763,
+                    "start": 612,
+                    "word": "hakuiachia"
+                  }
+                ],
+                "until": 763,
+                "utterances": "Mamba nae akaikamata vema pua ya mtoto wa tembo hakuiachia"
+              }
+            ],
+            "sentence": "Mamba nae akaikamata vema pua ya mtoto wa tembo, hakuiachia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_18_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pua_ya_mtoto_wa_tembo_ikavutika_ndefu_ikarefuka_zaidi_mpaka.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 59,
+                    "start": 20,
+                    "word": "Pua"
+                  },
+                  {
+                    "end": 82,
+                    "start": 60,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 143,
+                    "start": 83,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 161,
+                    "start": 144,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 228,
+                    "start": 162,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 407,
+                    "start": 274,
+                    "word": "ikavutika"
+                  },
+                  {
+                    "end": 487,
+                    "start": 408,
+                    "word": "ndefu"
+                  },
+                  {
+                    "end": 675,
+                    "start": 544,
+                    "word": "ikarefuka"
+                  },
+                  {
+                    "end": 789,
+                    "start": 676,
+                    "word": "zaidi"
+                  },
+                  {
+                    "end": 931,
+                    "start": 830,
+                    "word": "mpaka"
+                  }
+                ],
+                "until": 931,
+                "utterances": "Pua ya mtoto wa tembo ikavutika ndefu ikarefuka zaidi mpaka"
+              }
+            ],
+            "sentence": "Pua ya mtoto wa tembo, ikavutika ndefu, ikarefuka zaidi, mpaka...."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "puu_akaanguka_na_kufika_chini_kwa_mgongo.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 21,
+                    "word": "Puu"
+                  },
+                  {
+                    "end": 286,
+                    "start": 144,
+                    "word": "akaanguka"
+                  },
+                  {
+                    "end": 343,
+                    "start": 330,
+                    "word": "na"
+                  },
+                  {
+                    "end": 408,
+                    "start": 344,
+                    "word": "kufika"
+                  },
+                  {
+                    "end": 477,
+                    "start": 429,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 501,
+                    "start": 478,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 566,
+                    "start": 502,
+                    "word": "mgongo"
+                  }
+                ],
+                "until": 566,
+                "utterances": "Puu akaanguka na kufika chini kwa mgongo"
+              }
+            ],
+            "sentence": "\"Puu,\" akaanguka na kufika chini kwa mgongo."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_19_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baada_ya_kukosa_chakula_chake_mamba_alizama_na_kutokomea_kwenye_maji.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 17,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 95,
+                    "start": 63,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 171,
+                    "start": 96,
+                    "word": "kukosa"
+                  },
+                  {
+                    "end": 239,
+                    "start": 172,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 316,
+                    "start": 240,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 414,
+                    "start": 366,
+                    "word": "mamba"
+                  },
+                  {
+                    "end": 522,
+                    "start": 426,
+                    "word": "alizama"
+                  },
+                  {
+                    "end": 571,
+                    "start": 559,
+                    "word": "na"
+                  },
+                  {
+                    "end": 687,
+                    "start": 572,
+                    "word": "kutokomea"
+                  },
+                  {
+                    "end": 734,
+                    "start": 688,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 794,
+                    "start": 735,
+                    "word": "maji"
+                  }
+                ],
+                "until": 794,
+                "utterances": "Baada ya kukosa chakula chake mamba alizama na kutokomea kwenye maji"
+              }
+            ],
+            "sentence": "Baada ya kukosa chakula chake, mamba alizama na kutokomea kwenye maji."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_20_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_wa_tembo_aliangalia_pua_yake.mp3",
+                "from": 14,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 14,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 92,
+                    "start": 74,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 155,
+                    "start": 93,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 283,
+                    "start": 168,
+                    "word": "aliangalia"
+                  },
+                  {
+                    "end": 324,
+                    "start": 284,
+                    "word": "pua"
+                  },
+                  {
+                    "end": 379,
+                    "start": 325,
+                    "word": "yake"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Mtoto wa tembo aliangalia pua yake"
+              }
+            ],
+            "sentence": "Mtoto wa tembo aliangalia pua yake."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hakuweza_kuona_ni_wapi_iliishia_kwa_jinsi_ilivyokuwa_ndefu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 119,
+                    "start": 20,
+                    "word": "Hakuweza"
+                  },
+                  {
+                    "end": 189,
+                    "start": 120,
+                    "word": "kuona"
+                  },
+                  {
+                    "end": 219,
+                    "start": 190,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 278,
+                    "start": 220,
+                    "word": "wapi"
+                  },
+                  {
+                    "end": 379,
+                    "start": 284,
+                    "word": "iliishia"
+                  },
+                  {
+                    "end": 440,
+                    "start": 415,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 503,
+                    "start": 441,
+                    "word": "jinsi"
+                  },
+                  {
+                    "end": 598,
+                    "start": 504,
+                    "word": "ilivyokuwa"
+                  },
+                  {
+                    "end": 665,
+                    "start": 599,
+                    "word": "ndefu"
+                  }
+                ],
+                "until": 665,
+                "utterances": "Hakuweza kuona ni wapi iliishia kwa jinsi ilivyokuwa ndefu"
+              }
+            ],
+            "sentence": "Hakuweza kuona ni wapi iliishia kwa jinsi ilivyokuwa ndefu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_21_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ilirefuka_sana_na_kumuwezesha_kuchuma_matunda_yaliyokuwa_kwenye_matawi_ya_juu_ya_mti.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 156,
+                    "start": 21,
+                    "word": "Ilirefuka"
+                  },
+                  {
+                    "end": 234,
+                    "start": 160,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 288,
+                    "start": 278,
+                    "word": "na"
+                  },
+                  {
+                    "end": 402,
+                    "start": 289,
+                    "word": "kumuwezesha"
+                  },
+                  {
+                    "end": 479,
+                    "start": 403,
+                    "word": "kuchuma"
+                  },
+                  {
+                    "end": 551,
+                    "start": 480,
+                    "word": "matunda"
+                  },
+                  {
+                    "end": 661,
+                    "start": 552,
+                    "word": "yaliyokuwa"
+                  },
+                  {
+                    "end": 740,
+                    "start": 696,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 828,
+                    "start": 741,
+                    "word": "matawi"
+                  },
+                  {
+                    "end": 838,
+                    "start": 829,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 880,
+                    "start": 856,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 936,
+                    "start": 926,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 990,
+                    "start": 937,
+                    "word": "mti"
+                  }
+                ],
+                "until": 990,
+                "utterances": "Ilirefuka sana na kumuwezesha kuchuma matunda yaliyokuwa kwenye matawi ya juu ya mti"
+              }
+            ],
+            "sentence": "Ilirefuka sana na kumuwezesha kuchuma matunda yaliyokuwa kwenye matawi ya juu ya mti."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_22_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pia_aliweza_kuoga_kutumia_pua_yake_wakati_wa_joto.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "Pia"
+                  },
+                  {
+                    "end": 221,
+                    "start": 123,
+                    "word": "aliweza"
+                  },
+                  {
+                    "end": 312,
+                    "start": 222,
+                    "word": "kuoga"
+                  },
+                  {
+                    "end": 405,
+                    "start": 313,
+                    "word": "kutumia"
+                  },
+                  {
+                    "end": 453,
+                    "start": 406,
+                    "word": "pua"
+                  },
+                  {
+                    "end": 523,
+                    "start": 454,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 632,
+                    "start": 563,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 653,
+                    "start": 633,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 718,
+                    "start": 654,
+                    "word": "joto"
+                  }
+                ],
+                "until": 718,
+                "utterances": "Pia aliweza kuoga kutumia pua yake wakati wa joto"
+              }
+            ],
+            "sentence": "Pia, aliweza kuoga kutumia pua yake wakati wa joto."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_13_page_23_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mpaka_leo_tembo_wote_wana_mikonga_mirefu_na_yenye_faida_kwao.mp3",
+                "from": 10,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 10,
+                    "word": "Mpaka"
+                  },
+                  {
+                    "end": 136,
+                    "start": 68,
+                    "word": "leo"
+                  },
+                  {
+                    "end": 220,
+                    "start": 183,
+                    "word": "tembo"
+                  },
+                  {
+                    "end": 301,
+                    "start": 255,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 339,
+                    "start": 302,
+                    "word": "wana"
+                  },
+                  {
+                    "end": 410,
+                    "start": 340,
+                    "word": "mikonga"
+                  },
+                  {
+                    "end": 487,
+                    "start": 411,
+                    "word": "mirefu"
+                  },
+                  {
+                    "end": 500,
+                    "start": 488,
+                    "word": "na"
+                  },
+                  {
+                    "end": 601,
+                    "start": 539,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 665,
+                    "start": 602,
+                    "word": "faida"
+                  },
+                  {
+                    "end": 724,
+                    "start": 666,
+                    "word": "kwao"
+                  }
+                ],
+                "until": 724,
+                "utterances": "Mpaka leo tembo wote wana mikonga mirefu na yenye faida kwao"
+              }
+            ],
+            "sentence": "Mpaka leo, tembo wote wana mikonga mirefu na yenye faida kwao."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Prisca Mdee",
+  "title": "Mtoto Wa Tembo Mdadisi",
+  "titleimage": "level2_13_page_01_image_0001.jpg"
+}

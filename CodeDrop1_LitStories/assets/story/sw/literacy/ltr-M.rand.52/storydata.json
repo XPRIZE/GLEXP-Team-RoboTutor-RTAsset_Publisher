@@ -1,0 +1,1412 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "maharage.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maharage.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maharage"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maharage"
+              }
+            ],
+            "sentence": "maharage"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mende.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mende.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mende"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mende"
+              }
+            ],
+            "sentence": "mende"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mandazi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mandazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mandazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mandazi"
+              }
+            ],
+            "sentence": "mandazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mguu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mguu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mguu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mguu"
+              }
+            ],
+            "sentence": "mguu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mchicha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mchicha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mchicha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mchicha"
+              }
+            ],
+            "sentence": "mchicha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maji.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maji"
+              }
+            ],
+            "sentence": "maji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mpapai.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mpapai.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mpapai"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mpapai"
+              }
+            ],
+            "sentence": "mpapai"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "meno.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meno.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meno"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meno"
+              }
+            ],
+            "sentence": "meno"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwalimu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwalimu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwalimu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwalimu"
+              }
+            ],
+            "sentence": "mwalimu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbu"
+              }
+            ],
+            "sentence": "mbu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mjomba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mjomba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mjomba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mjomba"
+              }
+            ],
+            "sentence": "mjomba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwanafunzi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanafunzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwanafunzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwanafunzi"
+              }
+            ],
+            "sentence": "mwanafunzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maziwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maziwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maziwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maziwa"
+              }
+            ],
+            "sentence": "maziwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mama.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mama"
+              }
+            ],
+            "sentence": "mama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maua"
+              }
+            ],
+            "sentence": "maua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbuni.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbuni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbuni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbuni"
+              }
+            ],
+            "sentence": "mbuni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwalimu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwalimu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwalimu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwalimu"
+              }
+            ],
+            "sentence": "mwalimu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbuni.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbuni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbuni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbuni"
+              }
+            ],
+            "sentence": "mbuni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maziwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maziwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maziwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maziwa"
+              }
+            ],
+            "sentence": "maziwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mboga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mboga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mboga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mboga"
+              }
+            ],
+            "sentence": "mboga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "moja.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "moja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "meno.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meno.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meno"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meno"
+              }
+            ],
+            "sentence": "meno"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mdomo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mdomo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mdomo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mdomo"
+              }
+            ],
+            "sentence": "mdomo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mlango.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mlango.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mlango"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mlango"
+              }
+            ],
+            "sentence": "mlango"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbuzi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbuzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbuzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbuzi"
+              }
+            ],
+            "sentence": "mbuzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mdomo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mdomo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mdomo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mdomo"
+              }
+            ],
+            "sentence": "mdomo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maji.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maji"
+              }
+            ],
+            "sentence": "maji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbili.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mlima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mlima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mlima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mlima"
+              }
+            ],
+            "sentence": "mlima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mahindi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mahindi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mahindi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mahindi"
+              }
+            ],
+            "sentence": "mahindi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "muhogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "muhogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "muhogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "muhogo"
+              }
+            ],
+            "sentence": "muhogo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mguu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mguu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mguu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mguu"
+              }
+            ],
+            "sentence": "mguu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mikono.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mikono.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mikono"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mikono"
+              }
+            ],
+            "sentence": "mikono"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwembe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwembe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwembe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwembe"
+              }
+            ],
+            "sentence": "mwembe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maharage.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maharage.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maharage"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maharage"
+              }
+            ],
+            "sentence": "maharage"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mama.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mama"
+              }
+            ],
+            "sentence": "mama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbwa"
+              }
+            ],
+            "sentence": "mbwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mti"
+              }
+            ],
+            "sentence": "mti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mamba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mamba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mamba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mamba"
+              }
+            ],
+            "sentence": "mamba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mswaki.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mswaki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mswaki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mswaki"
+              }
+            ],
+            "sentence": "mswaki"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwanafunzi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanafunzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwanafunzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwanafunzi"
+              }
+            ],
+            "sentence": "mwanafunzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mjoma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mjoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mjoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mjoma"
+              }
+            ],
+            "sentence": "mjoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mashua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mashua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mashua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mashua"
+              }
+            ],
+            "sentence": "mashua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mandazi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mandazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mandazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mandazi"
+              }
+            ],
+            "sentence": "mandazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkono.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkono.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkono"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkono"
+              }
+            ],
+            "sentence": "mkono"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mama.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mama"
+              }
+            ],
+            "sentence": "mama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkono.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkono.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkono"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkono"
+              }
+            ],
+            "sentence": "mkono"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "meza.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meza"
+              }
+            ],
+            "sentence": "meza"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mimi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mimi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mimi"
+              }
+            ],
+            "sentence": "mimi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mpira.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mpira.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mpira"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mpira"
+              }
+            ],
+            "sentence": "mpira"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbwa"
+              }
+            ],
+            "sentence": "mbwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkulima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkulima"
+              }
+            ],
+            "sentence": "mkulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mboga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mboga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mboga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mboga"
+              }
+            ],
+            "sentence": "mboga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbuzi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbuzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbuzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbuzi"
+              }
+            ],
+            "sentence": "mbuzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkulima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkulima"
+              }
+            ],
+            "sentence": "mkulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mvua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mvua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mvua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mvua"
+              }
+            ],
+            "sentence": "mvua"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-M.rand.52"
+}

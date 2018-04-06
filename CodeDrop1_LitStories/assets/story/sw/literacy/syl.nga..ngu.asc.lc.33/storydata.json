@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "nga_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nga"
+              }
+            ],
+            "sentence": "nga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nge_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nge.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nge"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nge"
+              }
+            ],
+            "sentence": "nge"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ngi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ngi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ngi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ngi"
+              }
+            ],
+            "sentence": "ngi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ngo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ngo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ngo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ngo"
+              }
+            ],
+            "sentence": "ngo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ngu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ngu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ngu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ngu"
+              }
+            ],
+            "sentence": "ngu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.nga..ngu.asc.lc.33.json"
+}

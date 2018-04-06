@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "jiko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jiko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jiko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jiko"
+              }
+            ],
+            "sentence": "jiko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mfuko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mfuko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mfuko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mfuko"
+              }
+            ],
+            "sentence": "mfuko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ambako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ambako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ambako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ambako"
+              }
+            ],
+            "sentence": "ambako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dadako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dadako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dadako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dadako"
+              }
+            ],
+            "sentence": "dadako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "msisimko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "msisimko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "msisimko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "msisimko"
+              }
+            ],
+            "sentence": "msisimko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "msisimuko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "msisimuko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "msisimuko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "msisimuko"
+              }
+            ],
+            "sentence": "msisimuko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kwako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kwako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kwako"
+              }
+            ],
+            "sentence": "kwako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "soko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "soko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "soko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "soko"
+              }
+            ],
+            "sentence": "soko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "huko_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "huko.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "huko"
+                  }
+                ],
+                "until": -1,
+                "utterances": "huko"
+              }
+            ],
+            "sentence": "huko"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lako_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lako"
+              }
+            ],
+            "sentence": "lako"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.ko.rand.26"
+}

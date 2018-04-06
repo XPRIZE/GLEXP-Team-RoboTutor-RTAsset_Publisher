@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "sa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sa"
+              }
+            ],
+            "sentence": "sa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "se_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "se.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "se"
+                  }
+                ],
+                "until": -1,
+                "utterances": "se"
+              }
+            ],
+            "sentence": "se"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "si_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "si.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "si"
+                  }
+                ],
+                "until": -1,
+                "utterances": "si"
+              }
+            ],
+            "sentence": "si"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "so_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "so.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "so"
+                  }
+                ],
+                "until": -1,
+                "utterances": "so"
+              }
+            ],
+            "sentence": "so"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "su_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "su.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "su"
+                  }
+                ],
+                "until": -1,
+                "utterances": "su"
+              }
+            ],
+            "sentence": "su"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.sa..su.asc.lc.18.json"
+}

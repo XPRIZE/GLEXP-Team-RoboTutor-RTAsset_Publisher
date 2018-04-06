@@ -1,0 +1,312 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ganda.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ganda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ganda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ganda"
+              }
+            ],
+            "sentence": "GANDA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gunia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gunia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gunia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gunia"
+              }
+            ],
+            "sentence": "GUNIA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "goti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "goti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "goti"
+              }
+            ],
+            "sentence": "GOTI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gogo"
+              }
+            ],
+            "sentence": "GOGO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "giza.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "giza.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "giza"
+                  }
+                ],
+                "until": -1,
+                "utterances": "giza"
+              }
+            ],
+            "sentence": "GIZA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gogo"
+              }
+            ],
+            "sentence": "GOGO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gogo"
+              }
+            ],
+            "sentence": "GOGO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gari.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gari.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gari"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gari"
+              }
+            ],
+            "sentence": "GARI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "godoro.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "godoro.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "godoro"
+                  }
+                ],
+                "until": -1,
+                "utterances": "godoro"
+              }
+            ],
+            "sentence": "GODORO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gauni.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gauni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gauni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gauni"
+              }
+            ],
+            "sentence": "GAUNI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "goti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "goti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "goti"
+              }
+            ],
+            "sentence": "GOTI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "goli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "goli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "goli"
+              }
+            ],
+            "sentence": "GOLI"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-G.rand.22"
+}

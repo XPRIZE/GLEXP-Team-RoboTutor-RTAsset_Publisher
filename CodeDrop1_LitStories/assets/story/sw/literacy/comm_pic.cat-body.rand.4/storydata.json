@@ -1,0 +1,337 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kichwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kichwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kichwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kichwa"
+              }
+            ],
+            "sentence": "kichwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkono.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkono.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkono"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkono"
+              }
+            ],
+            "sentence": "mkono"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tumbo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tumbo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tumbo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tumbo"
+              }
+            ],
+            "sentence": "tumbo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyayo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyayo"
+              }
+            ],
+            "sentence": "nyayo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mdomo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mdomo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mdomo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mdomo"
+              }
+            ],
+            "sentence": "mdomo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidole.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidole"
+              }
+            ],
+            "sentence": "vidole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pua"
+              }
+            ],
+            "sentence": "pua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jicho.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jicho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jicho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jicho"
+              }
+            ],
+            "sentence": "jicho"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "meno.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "meno.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "meno"
+                  }
+                ],
+                "until": -1,
+                "utterances": "meno"
+              }
+            ],
+            "sentence": "meno"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sikio.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sikio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sikio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sikio"
+              }
+            ],
+            "sentence": "sikio"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "goti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "goti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "goti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "goti"
+              }
+            ],
+            "sentence": "goti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bega.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bega.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bega"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bega"
+              }
+            ],
+            "sentence": "bega"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mguu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mguu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mguu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mguu"
+              }
+            ],
+            "sentence": "mguu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "comm_pic.cat-body.rand.4"
+}

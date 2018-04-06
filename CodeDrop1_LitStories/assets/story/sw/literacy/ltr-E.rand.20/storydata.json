@@ -1,0 +1,187 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "endesha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "endesha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "endesha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "endesha"
+              }
+            ],
+            "sentence": "ENDESHA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "eupe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "eupe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "eupe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "eupe"
+              }
+            ],
+            "sentence": "EUPE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "erupe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "erupe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "erupe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "erupe"
+              }
+            ],
+            "sentence": "ERUPE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "elfu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "elfu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "elfu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "elfu"
+              }
+            ],
+            "sentence": "ELFU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "embe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "embe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "embe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "embe"
+              }
+            ],
+            "sentence": "EMBE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "elimu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "elimu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "elimu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "elimu"
+              }
+            ],
+            "sentence": "ELIMU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "embe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "embe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "embe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "embe"
+              }
+            ],
+            "sentence": "EMBE"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-E.rand.20"
+}

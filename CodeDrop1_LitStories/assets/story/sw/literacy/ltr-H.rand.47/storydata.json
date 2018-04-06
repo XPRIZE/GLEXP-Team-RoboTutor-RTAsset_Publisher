@@ -1,0 +1,312 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "haha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haha"
+              }
+            ],
+            "sentence": "haha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hasira.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hasira.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hasira"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hasira"
+              }
+            ],
+            "sentence": "hasira"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "haraka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "haraka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "haraka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "haraka"
+              }
+            ],
+            "sentence": "haraka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hamsini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hamsini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hamsini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hamsini"
+              }
+            ],
+            "sentence": "hamsini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hospitali.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hospitali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hospitali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hospitali"
+              }
+            ],
+            "sentence": "hospitali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hoho.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hoho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hoho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hoho"
+              }
+            ],
+            "sentence": "hoho"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "helikopta.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "helikopta.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "helikopta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "helikopta"
+              }
+            ],
+            "sentence": "helikopta"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hema.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hema.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hema"
+              }
+            ],
+            "sentence": "hema"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "harufu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "harufu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "harufu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "harufu"
+              }
+            ],
+            "sentence": "harufu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hujambo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hujambo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hujambo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hujambo"
+              }
+            ],
+            "sentence": "hujambo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hunywa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hunywa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hunywa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hunywa"
+              }
+            ],
+            "sentence": "hunywa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "harusi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "harusi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "harusi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "harusi"
+              }
+            ],
+            "sentence": "harusi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-H.rand.47"
+}

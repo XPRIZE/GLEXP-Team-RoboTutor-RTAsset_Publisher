@@ -1,0 +1,162 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "yaya.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yaya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yaya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yaya"
+              }
+            ],
+            "sentence": "yaya"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yeye.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yeye.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yeye"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yeye"
+              }
+            ],
+            "sentence": "yeye"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yako.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yako"
+              }
+            ],
+            "sentence": "yako"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yadi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yadi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yadi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yadi"
+              }
+            ],
+            "sentence": "yadi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yai.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yai.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yai"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yai"
+              }
+            ],
+            "sentence": "yai"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yangu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yangu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yangu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yangu"
+              }
+            ],
+            "sentence": "yangu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-Y.rand.62"
+}

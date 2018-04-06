@@ -1,0 +1,237 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "redio.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "redio.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "redio"
+                  }
+                ],
+                "until": -1,
+                "utterances": "redio"
+              }
+            ],
+            "sentence": "redio"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "radhi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "radhi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "radhi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "radhi"
+              }
+            ],
+            "sentence": "radhi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ramani.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ramani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ramani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ramani"
+              }
+            ],
+            "sentence": "ramani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "rangi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rangi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rangi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rangi"
+              }
+            ],
+            "sentence": "rangi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "runinga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "runinga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "runinga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "runinga"
+              }
+            ],
+            "sentence": "runinga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "rafiki.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rafiki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rafiki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rafiki"
+              }
+            ],
+            "sentence": "rafiki"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "raha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "raha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "raha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "raha"
+              }
+            ],
+            "sentence": "raha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ruka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ruka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ruka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ruka"
+              }
+            ],
+            "sentence": "ruka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "rinda.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rinda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "rinda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "rinda"
+              }
+            ],
+            "sentence": "rinda"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-R.rand.56"
+}

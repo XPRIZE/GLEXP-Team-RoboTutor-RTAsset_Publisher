@@ -1,0 +1,312 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mjoma_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mjoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mjoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mjoma"
+              }
+            ],
+            "sentence": "mjoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwalimu_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwalimu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwalimu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwalimu"
+              }
+            ],
+            "sentence": "mwalimu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "baba_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "baba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "baba"
+              }
+            ],
+            "sentence": "baba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kinyozi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kinyozi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kinyozi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kinyozi"
+              }
+            ],
+            "sentence": "kinyozi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kaka_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaka"
+              }
+            ],
+            "sentence": "kaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwanafunzi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanafunzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwanafunzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwanafunzi"
+              }
+            ],
+            "sentence": "mwanafunzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "babu_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "babu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "babu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "babu"
+              }
+            ],
+            "sentence": "babu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mama_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mama"
+              }
+            ],
+            "sentence": "mama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "shangazi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "shangazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "shangazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "shangazi"
+              }
+            ],
+            "sentence": "shangazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bibi_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bibi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bibi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bibi"
+              }
+            ],
+            "sentence": "bibi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dada_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dada.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dada"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dada"
+              }
+            ],
+            "sentence": "dada"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkulima_txt.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkulima"
+              }
+            ],
+            "sentence": "mkulima"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "comm_wrd.cat-people.rand.13"
+}

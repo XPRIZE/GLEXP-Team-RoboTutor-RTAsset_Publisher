@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ta_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ta.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ta"
+              }
+            ],
+            "sentence": "ta"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "te_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "te.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "te"
+                  }
+                ],
+                "until": -1,
+                "utterances": "te"
+              }
+            ],
+            "sentence": "te"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ti_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ti"
+              }
+            ],
+            "sentence": "ti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "to_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "to.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "to"
+                  }
+                ],
+                "until": -1,
+                "utterances": "to"
+              }
+            ],
+            "sentence": "to"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tu"
+              }
+            ],
+            "sentence": "tu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ta..tu.asc.lc.4.json"
+}

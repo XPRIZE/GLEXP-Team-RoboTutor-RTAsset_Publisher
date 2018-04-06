@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "cha_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "cha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "cha"
+              }
+            ],
+            "sentence": "cha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "che_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "che.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "che"
+                  }
+                ],
+                "until": -1,
+                "utterances": "che"
+              }
+            ],
+            "sentence": "che"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chi"
+              }
+            ],
+            "sentence": "chi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "cho_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "cho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "cho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "cho"
+              }
+            ],
+            "sentence": "cho"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "chu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "chu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "chu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "chu"
+              }
+            ],
+            "sentence": "chu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.cha..chu.asc.lc.39.json"
+}

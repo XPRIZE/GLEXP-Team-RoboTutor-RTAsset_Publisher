@@ -1,0 +1,237 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "oka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "oka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "oka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "oka"
+              }
+            ],
+            "sentence": "OKA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ogelea.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ogelea.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ogelea"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ogelea"
+              }
+            ],
+            "sentence": "OGELEA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "omba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "omba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "omba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "omba"
+              }
+            ],
+            "sentence": "OMBA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "oa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "oa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "oa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "oa"
+              }
+            ],
+            "sentence": "OA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ona.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ona"
+              }
+            ],
+            "sentence": "ONA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ofisi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ofisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ofisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ofisi"
+              }
+            ],
+            "sentence": "OFISI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "osha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "osha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "osha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "osha"
+              }
+            ],
+            "sentence": "OSHA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ombe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ombe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ombe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ombe"
+              }
+            ],
+            "sentence": "OMBE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ovaroli.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ovaroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ovaroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ovaroli"
+              }
+            ],
+            "sentence": "OVAROLI"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-O.rand.30"
+}

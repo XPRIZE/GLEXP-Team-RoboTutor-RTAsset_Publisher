@@ -1,0 +1,2189 @@
+{
+  "authors": "Melissa Fagan",
+  "copyright": "Copyright (c) Melissa Fagan, Karlien de Villiers, Marike le Roux and bookdash.org, 2014",
+  "data": [
+    {
+      "image": "level3_19_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "graca_alizaliwa_mozambique.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 70,
+                    "start": 2,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 184,
+                    "start": 82,
+                    "word": "alizaliwa"
+                  },
+                  {
+                    "end": 286,
+                    "start": 185,
+                    "word": "Mozambique"
+                  }
+                ],
+                "until": 286,
+                "utterances": "Graca alizaliwa Mozambique"
+              }
+            ],
+            "sentence": "Graca alizaliwa Mozambique."
+          },
+          {
+            "narration": [
+              {
+                "audio": "nchi_yao_ilikuwa_maskini_sana_na_hawakuwa_wamepata_uhuru.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 20,
+                    "word": "Nchi"
+                  },
+                  {
+                    "end": 109,
+                    "start": 68,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 186,
+                    "start": 110,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 259,
+                    "start": 187,
+                    "word": "maskini"
+                  },
+                  {
+                    "end": 336,
+                    "start": 260,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 403,
+                    "start": 389,
+                    "word": "na"
+                  },
+                  {
+                    "end": 494,
+                    "start": 404,
+                    "word": "hawakuwa"
+                  },
+                  {
+                    "end": 579,
+                    "start": 495,
+                    "word": "wamepata"
+                  },
+                  {
+                    "end": 645,
+                    "start": 580,
+                    "word": "uhuru"
+                  }
+                ],
+                "until": 645,
+                "utterances": "Nchi yao ilikuwa maskini sana na hawakuwa wamepata uhuru"
+              }
+            ],
+            "sentence": "Nchi yao ilikuwa maskini sana na hawakuwa wamepata uhuru."
+          },
+          {
+            "narration": [
+              {
+                "audio": "watoto_hawakua_na_shule_nzuri_za_kwenda.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 91,
+                    "start": 21,
+                    "word": "Watoto"
+                  },
+                  {
+                    "end": 194,
+                    "start": 92,
+                    "word": "hawakua"
+                  },
+                  {
+                    "end": 216,
+                    "start": 195,
+                    "word": "na"
+                  },
+                  {
+                    "end": 271,
+                    "start": 217,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 331,
+                    "start": 272,
+                    "word": "nzuri"
+                  },
+                  {
+                    "end": 352,
+                    "start": 332,
+                    "word": "za"
+                  },
+                  {
+                    "end": 419,
+                    "start": 353,
+                    "word": "kwenda"
+                  }
+                ],
+                "until": 419,
+                "utterances": "Watoto hawakua na shule nzuri za kwenda"
+              }
+            ],
+            "sentence": "Watoto hawakua na shule nzuri za kwenda."
+          },
+          {
+            "narration": [
+              {
+                "audio": "mamake_alikuwa_na_ndoto_ya_kuwapa_wanawe_maisha_mazuri_lakini_bila_masomo_haingewezekana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 86,
+                    "start": 20,
+                    "word": "Mamake"
+                  },
+                  {
+                    "end": 165,
+                    "start": 98,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 187,
+                    "start": 166,
+                    "word": "na"
+                  },
+                  {
+                    "end": 246,
+                    "start": 188,
+                    "word": "ndoto"
+                  },
+                  {
+                    "end": 265,
+                    "start": 247,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 336,
+                    "start": 266,
+                    "word": "kuwapa"
+                  },
+                  {
+                    "end": 400,
+                    "start": 337,
+                    "word": "wanawe"
+                  },
+                  {
+                    "end": 523,
+                    "start": 449,
+                    "word": "maisha"
+                  },
+                  {
+                    "end": 632,
+                    "start": 524,
+                    "word": "mazuri"
+                  },
+                  {
+                    "end": 716,
+                    "start": 668,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 753,
+                    "start": 717,
+                    "word": "bila"
+                  },
+                  {
+                    "end": 853,
+                    "start": 754,
+                    "word": "masomo"
+                  },
+                  {
+                    "end": 1034,
+                    "start": 882,
+                    "word": "haingewezekana"
+                  }
+                ],
+                "until": 1034,
+                "utterances": "Mamake alikuwa na ndoto ya kuwapa wanawe maisha mazuri lakini bila masomo haingewezekana"
+              }
+            ],
+            "sentence": "Mamake alikuwa na ndoto ya kuwapa wanawe maisha mazuri lakini bila masomo haingewezekana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_graca_angekuwa_mzaliwa_wa_sita.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 22,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 142,
+                    "start": 83,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 234,
+                    "start": 143,
+                    "word": "angekuwa"
+                  },
+                  {
+                    "end": 329,
+                    "start": 235,
+                    "word": "mzaliwa"
+                  },
+                  {
+                    "end": 346,
+                    "start": 330,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 402,
+                    "start": 347,
+                    "word": "sita"
+                  }
+                ],
+                "until": 402,
+                "utterances": "Mtoto Graca angekuwa mzaliwa wa sita"
+              }
+            ],
+            "sentence": "Mtoto Graca angekuwa mzaliwa wa sita."
+          },
+          {
+            "narration": [
+              {
+                "audio": "licha_ya_furaha_hii_yote_kulikuwa_na_huzuni_kwani_babake_graca_alikuwa_anakufa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 21,
+                    "word": "Licha"
+                  },
+                  {
+                    "end": 86,
+                    "start": 66,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 154,
+                    "start": 87,
+                    "word": "furaha"
+                  },
+                  {
+                    "end": 220,
+                    "start": 155,
+                    "word": "hii"
+                  },
+                  {
+                    "end": 272,
+                    "start": 221,
+                    "word": "yote"
+                  },
+                  {
+                    "end": 385,
+                    "start": 308,
+                    "word": "kulikuwa"
+                  },
+                  {
+                    "end": 413,
+                    "start": 386,
+                    "word": "na"
+                  },
+                  {
+                    "end": 498,
+                    "start": 414,
+                    "word": "huzuni"
+                  },
+                  {
+                    "end": 573,
+                    "start": 526,
+                    "word": "kwani"
+                  },
+                  {
+                    "end": 641,
+                    "start": 574,
+                    "word": "babake"
+                  },
+                  {
+                    "end": 705,
+                    "start": 642,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 810,
+                    "start": 739,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 909,
+                    "start": 811,
+                    "word": "anakufa"
+                  }
+                ],
+                "until": 909,
+                "utterances": "Licha ya furaha hii yote kulikuwa na huzuni kwani babake Graca alikuwa anakufa"
+              }
+            ],
+            "sentence": "Licha ya furaha hii yote kulikuwa na huzuni kwani babake Graca alikuwa anakufa."
+          },
+          {
+            "narration": [
+              {
+                "audio": "aliota_kuwa_mtoto_wake_mdogo_angeenda_shule_nzuri.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 106,
+                    "start": 21,
+                    "word": "Aliota"
+                  },
+                  {
+                    "end": 155,
+                    "start": 107,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 218,
+                    "start": 156,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 262,
+                    "start": 219,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 348,
+                    "start": 263,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 412,
+                    "start": 349,
+                    "word": "angeenda"
+                  },
+                  {
+                    "end": 455,
+                    "start": 413,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 555,
+                    "start": 456,
+                    "word": "nzuri"
+                  }
+                ],
+                "until": 555,
+                "utterances": "Aliota kuwa mtoto wake mdogo angeenda shule nzuri"
+              }
+            ],
+            "sentence": "Aliota kuwa mtoto wake mdogo angeenda shule nzuri."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alijua_elimu_ndiyo_ingemsaidia_mwanawe.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 22,
+                    "word": "Alijua"
+                  },
+                  {
+                    "end": 172,
+                    "start": 100,
+                    "word": "elimu"
+                  },
+                  {
+                    "end": 224,
+                    "start": 173,
+                    "word": "ndiyo"
+                  },
+                  {
+                    "end": 358,
+                    "start": 230,
+                    "word": "ingemsaidia"
+                  },
+                  {
+                    "end": 441,
+                    "start": 359,
+                    "word": "mwanawe"
+                  }
+                ],
+                "until": 441,
+                "utterances": "Alijua elimu ndiyo ingemsaidia mwanawe"
+              }
+            ],
+            "sentence": "Alijua elimu ndiyo ingemsaidia mwanawe."
+          },
+          {
+            "narration": [
+              {
+                "audio": "jamii_yake_iliapa_kutimiza_ndoto_yake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 94,
+                    "start": 20,
+                    "word": "jamii"
+                  },
+                  {
+                    "end": 143,
+                    "start": 95,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 240,
+                    "start": 154,
+                    "word": "iliapa"
+                  },
+                  {
+                    "end": 340,
+                    "start": 241,
+                    "word": "kutimiza"
+                  },
+                  {
+                    "end": 397,
+                    "start": 341,
+                    "word": "ndoto"
+                  },
+                  {
+                    "end": 455,
+                    "start": 398,
+                    "word": "yake"
+                  }
+                ],
+                "until": 455,
+                "utterances": "jamii yake iliapa kutimiza ndoto yake"
+              }
+            ],
+            "sentence": "jamii yake iliapa kutimiza ndoto yake."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wiki_chache_baada_ya_kifo_cha_babake_mtoto_alipewa_jina_kuambata_na_urembo_wake.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 21,
+                    "word": "Wiki"
+                  },
+                  {
+                    "end": 114,
+                    "start": 63,
+                    "word": "chache"
+                  },
+                  {
+                    "end": 171,
+                    "start": 115,
+                    "word": "baada"
+                  },
+                  {
+                    "end": 195,
+                    "start": 172,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 245,
+                    "start": 196,
+                    "word": "kifo"
+                  },
+                  {
+                    "end": 268,
+                    "start": 246,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 351,
+                    "start": 269,
+                    "word": "babake"
+                  },
+                  {
+                    "end": 453,
+                    "start": 394,
+                    "word": "mtoto"
+                  },
+                  {
+                    "end": 538,
+                    "start": 454,
+                    "word": "alipewa"
+                  },
+                  {
+                    "end": 591,
+                    "start": 539,
+                    "word": "jina"
+                  },
+                  {
+                    "end": 685,
+                    "start": 592,
+                    "word": "kuambata"
+                  },
+                  {
+                    "end": 718,
+                    "start": 686,
+                    "word": "na"
+                  },
+                  {
+                    "end": 772,
+                    "start": 719,
+                    "word": "urembo"
+                  },
+                  {
+                    "end": 835,
+                    "start": 773,
+                    "word": "wake"
+                  }
+                ],
+                "until": 835,
+                "utterances": "Wiki chache baada ya kifo cha babake mtoto alipewa jina kuambata na urembo wake"
+              }
+            ],
+            "sentence": "Wiki chache baada ya kifo cha babake, mtoto alipewa jina kuambata na urembo wake."
+          },
+          {
+            "narration": [
+              {
+                "audio": "aliitwa_graca.mp3",
+                "from": 17,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 17,
+                    "word": "Aliitwa"
+                  },
+                  {
+                    "end": 176,
+                    "start": 110,
+                    "word": "Graca"
+                  }
+                ],
+                "until": 176,
+                "utterances": "Aliitwa Graca"
+              }
+            ],
+            "sentence": "Aliitwa Graca."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kadri_miaka_ilipozidi_kuyoyoma_ndivyo_graca_alizidi_kuleta_furaha_kwao.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "kadri"
+                  },
+                  {
+                    "end": 134,
+                    "start": 74,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 240,
+                    "start": 146,
+                    "word": "ilipozidi"
+                  },
+                  {
+                    "end": 337,
+                    "start": 241,
+                    "word": "kuyoyoma"
+                  },
+                  {
+                    "end": 438,
+                    "start": 392,
+                    "word": "ndivyo"
+                  },
+                  {
+                    "end": 498,
+                    "start": 439,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 581,
+                    "start": 499,
+                    "word": "alizidi"
+                  },
+                  {
+                    "end": 642,
+                    "start": 582,
+                    "word": "kuleta"
+                  },
+                  {
+                    "end": 733,
+                    "start": 643,
+                    "word": "furaha"
+                  },
+                  {
+                    "end": 789,
+                    "start": 734,
+                    "word": "kwao"
+                  }
+                ],
+                "until": 789,
+                "utterances": "kadri miaka ilipozidi kuyoyoma ndivyo Graca alizidi kuleta furaha kwao"
+              }
+            ],
+            "sentence": "kadri miaka ilipozidi kuyoyoma ndivyo Graca alizidi kuleta furaha kwao."
+          },
+          {
+            "narration": [
+              {
+                "audio": "familia_iliamua_kumpa_graca_masomo_mazuri.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 102,
+                    "start": 2,
+                    "word": "Familia"
+                  },
+                  {
+                    "end": 217,
+                    "start": 113,
+                    "word": "iliamua"
+                  },
+                  {
+                    "end": 295,
+                    "start": 218,
+                    "word": "kumpa"
+                  },
+                  {
+                    "end": 354,
+                    "start": 296,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 433,
+                    "start": 355,
+                    "word": "masomo"
+                  },
+                  {
+                    "end": 552,
+                    "start": 434,
+                    "word": "mazuri"
+                  }
+                ],
+                "until": 552,
+                "utterances": "Familia iliamua kumpa Graca masomo mazuri"
+              }
+            ],
+            "sentence": "Familia iliamua kumpa Graca masomo mazuri."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "graca_alitia_bidii_sana_shuleni.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 18,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 175,
+                    "start": 90,
+                    "word": "alitia"
+                  },
+                  {
+                    "end": 226,
+                    "start": 176,
+                    "word": "bidii"
+                  },
+                  {
+                    "end": 279,
+                    "start": 227,
+                    "word": "sana"
+                  },
+                  {
+                    "end": 355,
+                    "start": 280,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": 355,
+                "utterances": "Graca alitia bidii sana shuleni"
+              }
+            ],
+            "sentence": "Graca alitia bidii sana shuleni."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alipata_tuzo_ambalo_lingebadilisha_maisha_yake.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 20,
+                    "word": "Alipata"
+                  },
+                  {
+                    "end": 170,
+                    "start": 97,
+                    "word": "tuzo"
+                  },
+                  {
+                    "end": 246,
+                    "start": 171,
+                    "word": "ambalo"
+                  },
+                  {
+                    "end": 367,
+                    "start": 247,
+                    "word": "lingebadilisha"
+                  },
+                  {
+                    "end": 469,
+                    "start": 418,
+                    "word": "maisha"
+                  },
+                  {
+                    "end": 528,
+                    "start": 470,
+                    "word": "yake"
+                  }
+                ],
+                "until": 528,
+                "utterances": "Alipata tuzo ambalo lingebadilisha maisha yake"
+              }
+            ],
+            "sentence": "Alipata tuzo ambalo lingebadilisha maisha yake."
+          },
+          {
+            "narration": [
+              {
+                "audio": "ilikuwa_uhisani_wakusomea_shule_nzuri_kijijni.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 120,
+                    "start": 21,
+                    "word": "Ilikuwa"
+                  },
+                  {
+                    "end": 225,
+                    "start": 121,
+                    "word": "uhisani"
+                  },
+                  {
+                    "end": 317,
+                    "start": 226,
+                    "word": "wakusomea"
+                  },
+                  {
+                    "end": 363,
+                    "start": 318,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 460,
+                    "start": 364,
+                    "word": "nzuri"
+                  },
+                  {
+                    "end": 548,
+                    "start": 461,
+                    "word": "kijijni"
+                  }
+                ],
+                "until": 548,
+                "utterances": "Ilikuwa uhisani wakusomea shule nzuri kijijni"
+              }
+            ],
+            "sentence": "Ilikuwa uhisani wakusomea shule nzuri kijijni."
+          },
+          {
+            "narration": [
+              {
+                "audio": "ndoto_yake_ilikuwa_ya_kuwa_mwalimu.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 19,
+                    "word": "Ndoto"
+                  },
+                  {
+                    "end": 122,
+                    "start": 72,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 223,
+                    "start": 139,
+                    "word": "ilikuwa"
+                  },
+                  {
+                    "end": 271,
+                    "start": 257,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 318,
+                    "start": 272,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 401,
+                    "start": 319,
+                    "word": "mwalimu"
+                  }
+                ],
+                "until": 401,
+                "utterances": "Ndoto yake ilikuwa ya kuwa mwalimu"
+              }
+            ],
+            "sentence": "Ndoto yake ilikuwa ya kuwa mwalimu."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alitamani_watoto_wa_mozambique_wajue_kusoma_na_kuandika.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 147,
+                    "start": 21,
+                    "word": "Alitamani"
+                  },
+                  {
+                    "end": 219,
+                    "start": 148,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 239,
+                    "start": 220,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 340,
+                    "start": 240,
+                    "word": "Mozambique"
+                  },
+                  {
+                    "end": 420,
+                    "start": 359,
+                    "word": "wajue"
+                  },
+                  {
+                    "end": 492,
+                    "start": 421,
+                    "word": "kusoma"
+                  },
+                  {
+                    "end": 515,
+                    "start": 493,
+                    "word": "na"
+                  },
+                  {
+                    "end": 607,
+                    "start": 516,
+                    "word": "kuandika"
+                  }
+                ],
+                "until": 607,
+                "utterances": "Alitamani watoto wa Mozambique wajue kusoma na kuandika"
+              }
+            ],
+            "sentence": "Alitamani watoto wa Mozambique wajue kusoma na kuandika."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alitamani_wakati_ambapo_watoto_wote_wangeenda_shuleni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 20,
+                    "word": "Alitamani"
+                  },
+                  {
+                    "end": 204,
+                    "start": 128,
+                    "word": "wakati"
+                  },
+                  {
+                    "end": 269,
+                    "start": 209,
+                    "word": "ambapo"
+                  },
+                  {
+                    "end": 345,
+                    "start": 270,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 397,
+                    "start": 346,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 477,
+                    "start": 398,
+                    "word": "wangeenda"
+                  },
+                  {
+                    "end": 568,
+                    "start": 478,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": 568,
+                "utterances": "Alitamani wakati ambapo watoto wote wangeenda shuleni"
+              }
+            ],
+            "sentence": "Alitamani wakati ambapo watoto wote wangeenda shuleni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "graca_alitia_bidii_yake_yote_shuleni.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 22,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 155,
+                    "start": 68,
+                    "word": "alitia"
+                  },
+                  {
+                    "end": 235,
+                    "start": 156,
+                    "word": "bidii"
+                  },
+                  {
+                    "end": 269,
+                    "start": 236,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 340,
+                    "start": 300,
+                    "word": "yote"
+                  },
+                  {
+                    "end": 464,
+                    "start": 385,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": 464,
+                "utterances": "Graca alitia bidii yake yote shuleni"
+              }
+            ],
+            "sentence": "Graca alitia bidii yake yote shuleni."
+          },
+          {
+            "narration": [
+              {
+                "audio": "baadaye_kidogo_alipata_tuzo_nyingine_ya_kuhudhuria_chuo_kikuu_huko_portugal.mp3",
+                "from": 15,
+                "segmentation": [
+                  {
+                    "end": 85,
+                    "start": 15,
+                    "word": "Baadaye"
+                  },
+                  {
+                    "end": 172,
+                    "start": 86,
+                    "word": "kidogo"
+                  },
+                  {
+                    "end": 283,
+                    "start": 212,
+                    "word": "alipata"
+                  },
+                  {
+                    "end": 333,
+                    "start": 284,
+                    "word": "tuzo"
+                  },
+                  {
+                    "end": 400,
+                    "start": 334,
+                    "word": "nyingine"
+                  },
+                  {
+                    "end": 411,
+                    "start": 401,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 507,
+                    "start": 412,
+                    "word": "kuhudhuria"
+                  },
+                  {
+                    "end": 556,
+                    "start": 508,
+                    "word": "chuo"
+                  },
+                  {
+                    "end": 633,
+                    "start": 557,
+                    "word": "kikuu"
+                  },
+                  {
+                    "end": 717,
+                    "start": 677,
+                    "word": "huko"
+                  },
+                  {
+                    "end": 798,
+                    "start": 718,
+                    "word": "Portugal"
+                  }
+                ],
+                "until": 798,
+                "utterances": "Baadaye kidogo alipata tuzo nyingine ya kuhudhuria chuo kikuu huko Portugal"
+              }
+            ],
+            "sentence": "Baadaye kidogo alipata tuzo nyingine ya kuhudhuria chuo kikuu huko Portugal."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alipata_marafiki_wengi_akajifunza_lugha_nyingi_geni_na_akasoma_vitabu_vingi_vipya.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 20,
+                    "word": "Alipata"
+                  },
+                  {
+                    "end": 193,
+                    "start": 104,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 289,
+                    "start": 194,
+                    "word": "wengi"
+                  },
+                  {
+                    "end": 453,
+                    "start": 328,
+                    "word": "akajifunza"
+                  },
+                  {
+                    "end": 500,
+                    "start": 454,
+                    "word": "lugha"
+                  },
+                  {
+                    "end": 576,
+                    "start": 501,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 650,
+                    "start": 577,
+                    "word": "geni"
+                  },
+                  {
+                    "end": 691,
+                    "start": 682,
+                    "word": "na"
+                  },
+                  {
+                    "end": 783,
+                    "start": 692,
+                    "word": "akasoma"
+                  },
+                  {
+                    "end": 880,
+                    "start": 784,
+                    "word": "vitabu"
+                  },
+                  {
+                    "end": 942,
+                    "start": 881,
+                    "word": "vingi"
+                  },
+                  {
+                    "end": 1014,
+                    "start": 943,
+                    "word": "vipya"
+                  }
+                ],
+                "until": 1014,
+                "utterances": "Alipata marafiki wengi akajifunza lugha nyingi geni na akasoma vitabu vingi vipya"
+              }
+            ],
+            "sentence": "Alipata marafiki wengi, akajifunza lugha nyingi geni na akasoma vitabu vingi vipya ."
+          },
+          {
+            "narration": [
+              {
+                "audio": "akaona_ndoto_yake_ya_kuwa_mwalimu_ikitimia.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 2,
+                    "word": "Akaona"
+                  },
+                  {
+                    "end": 149,
+                    "start": 97,
+                    "word": "ndoto"
+                  },
+                  {
+                    "end": 210,
+                    "start": 150,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 267,
+                    "start": 253,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 312,
+                    "start": 268,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 388,
+                    "start": 313,
+                    "word": "mwalimu"
+                  },
+                  {
+                    "end": 515,
+                    "start": 389,
+                    "word": "ikitimia"
+                  }
+                ],
+                "until": 515,
+                "utterances": "Akaona ndoto yake ya kuwa mwalimu ikitimia"
+              }
+            ],
+            "sentence": "Akaona ndoto yake ya kuwa mwalimu ikitimia."
+          },
+          {
+            "narration": [
+              {
+                "audio": "hii_ilimpa_furaha_kubwa_lakini_bado_alikuwa_na_huzuni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 2,
+                    "word": "Hii"
+                  },
+                  {
+                    "end": 156,
+                    "start": 77,
+                    "word": "ilimpa"
+                  },
+                  {
+                    "end": 250,
+                    "start": 157,
+                    "word": "furaha"
+                  },
+                  {
+                    "end": 340,
+                    "start": 251,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 441,
+                    "start": 392,
+                    "word": "lakini"
+                  },
+                  {
+                    "end": 488,
+                    "start": 442,
+                    "word": "bado"
+                  },
+                  {
+                    "end": 563,
+                    "start": 489,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 589,
+                    "start": 564,
+                    "word": "na"
+                  },
+                  {
+                    "end": 676,
+                    "start": 590,
+                    "word": "huzuni"
+                  }
+                ],
+                "until": 676,
+                "utterances": "Hii ilimpa furaha kubwa lakini bado alikuwa na huzuni"
+              }
+            ],
+            "sentence": "Hii ilimpa furaha kubwa lakini bado alikuwa na huzuni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kule_kwao_nyumbani_bado_watu_hawakuwa_na_uhuru.mp3",
+                "from": 1,
+                "segmentation": [
+                  {
+                    "end": 55,
+                    "start": 1,
+                    "word": "Kule"
+                  },
+                  {
+                    "end": 109,
+                    "start": 56,
+                    "word": "kwao"
+                  },
+                  {
+                    "end": 187,
+                    "start": 110,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 287,
+                    "start": 188,
+                    "word": "bado"
+                  },
+                  {
+                    "end": 337,
+                    "start": 288,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 425,
+                    "start": 338,
+                    "word": "hawakuwa"
+                  },
+                  {
+                    "end": 447,
+                    "start": 426,
+                    "word": "na"
+                  },
+                  {
+                    "end": 508,
+                    "start": 448,
+                    "word": "uhuru"
+                  }
+                ],
+                "until": 508,
+                "utterances": "Kule kwao nyumbani bado watu hawakuwa na uhuru"
+              }
+            ],
+            "sentence": "Kule kwao nyumbani, bado watu hawakuwa na uhuru."
+          },
+          {
+            "narration": [
+              {
+                "audio": "lakini_sasa_graca_alikuwa_na_elimu_ujuzi_na_matumaini.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 21,
+                    "word": "Lakini"
+                  },
+                  {
+                    "end": 134,
+                    "start": 81,
+                    "word": "sasa"
+                  },
+                  {
+                    "end": 190,
+                    "start": 135,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 268,
+                    "start": 191,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 289,
+                    "start": 269,
+                    "word": "na"
+                  },
+                  {
+                    "end": 389,
+                    "start": 290,
+                    "word": "elimu,ujuzi"
+                  },
+                  {
+                    "end": 453,
+                    "start": 434,
+                    "word": "na"
+                  },
+                  {
+                    "end": 699,
+                    "start": 567,
+                    "word": "matumaini"
+                  }
+                ],
+                "until": 699,
+                "utterances": "Lakini sasa Graca alikuwa na elimu,ujuzi na matumaini"
+              }
+            ],
+            "sentence": "Lakini sasa Graca alikuwa na elimu,ujuzi na matumaini."
+          },
+          {
+            "narration": [
+              {
+                "audio": "pia_alikuwa_na_marafiki_ambao_walihisi_kama_yeye_juu_ya_haki_ya_watoto_ya_kusoma.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "Pia"
+                  },
+                  {
+                    "end": 150,
+                    "start": 62,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 173,
+                    "start": 151,
+                    "word": "na"
+                  },
+                  {
+                    "end": 279,
+                    "start": 174,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 351,
+                    "start": 280,
+                    "word": "ambao"
+                  },
+                  {
+                    "end": 444,
+                    "start": 352,
+                    "word": "walihisi"
+                  },
+                  {
+                    "end": 487,
+                    "start": 445,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 562,
+                    "start": 488,
+                    "word": "yeye"
+                  },
+                  {
+                    "end": 638,
+                    "start": 597,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 663,
+                    "start": 639,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 726,
+                    "start": 664,
+                    "word": "haki"
+                  },
+                  {
+                    "end": 733,
+                    "start": 727,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 809,
+                    "start": 734,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 826,
+                    "start": 810,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 907,
+                    "start": 827,
+                    "word": "kusoma"
+                  }
+                ],
+                "until": 907,
+                "utterances": "Pia alikuwa na marafiki ambao walihisi kama yeye juu ya haki ya watoto ya kusoma"
+              }
+            ],
+            "sentence": "Pia alikuwa na marafiki ambao walihisi kama yeye juu ya haki ya watoto ya kusoma."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alitaka_kutumia_ujuzi_wake_na_marafiki_wake_kuleta_mabadiliko_kwao_mozambique.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 21,
+                    "word": "Alitaka"
+                  },
+                  {
+                    "end": 201,
+                    "start": 108,
+                    "word": "kutumia"
+                  },
+                  {
+                    "end": 268,
+                    "start": 202,
+                    "word": "ujuzi"
+                  },
+                  {
+                    "end": 329,
+                    "start": 269,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 399,
+                    "start": 384,
+                    "word": "na"
+                  },
+                  {
+                    "end": 487,
+                    "start": 400,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 537,
+                    "start": 488,
+                    "word": "wake"
+                  },
+                  {
+                    "end": 606,
+                    "start": 538,
+                    "word": "kuleta"
+                  },
+                  {
+                    "end": 708,
+                    "start": 607,
+                    "word": "mabadiliko"
+                  },
+                  {
+                    "end": 762,
+                    "start": 709,
+                    "word": "kwao"
+                  },
+                  {
+                    "end": 868,
+                    "start": 763,
+                    "word": "Mozambique"
+                  }
+                ],
+                "until": 868,
+                "utterances": "Alitaka kutumia ujuzi wake na marafiki wake kuleta mabadiliko kwao Mozambique"
+              }
+            ],
+            "sentence": "Alitaka kutumia ujuzi wake na marafiki wake kuleta mabadiliko kwao Mozambique."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "rais_aliyechaguliwa_kuiongoza_nchi_ya_mozambique_alikuwa_rafiki_yake_samora_macgel.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 19,
+                    "word": "Rais"
+                  },
+                  {
+                    "end": 230,
+                    "start": 83,
+                    "word": "aliyechaguliwa"
+                  },
+                  {
+                    "end": 347,
+                    "start": 231,
+                    "word": "kuiongoza"
+                  },
+                  {
+                    "end": 420,
+                    "start": 373,
+                    "word": "nchi"
+                  },
+                  {
+                    "end": 435,
+                    "start": 421,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 534,
+                    "start": 436,
+                    "word": "Mozambique"
+                  },
+                  {
+                    "end": 641,
+                    "start": 567,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 708,
+                    "start": 642,
+                    "word": "rafiki"
+                  },
+                  {
+                    "end": 752,
+                    "start": 709,
+                    "word": "yake"
+                  },
+                  {
+                    "end": 848,
+                    "start": 784,
+                    "word": "Samora"
+                  },
+                  {
+                    "end": 921,
+                    "start": 849,
+                    "word": "Macgel"
+                  }
+                ],
+                "until": 921,
+                "utterances": "Rais aliyechaguliwa kuiongoza nchi ya Mozambique alikuwa rafiki yake Samora Macgel"
+              }
+            ],
+            "sentence": "Rais aliyechaguliwa kuiongoza nchi ya Mozambique alikuwa rafiki yake Samora Macgel."
+          },
+          {
+            "narration": [
+              {
+                "audio": "walipendana_na_wakaona.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 164,
+                    "start": 19,
+                    "word": "Walipendana"
+                  },
+                  {
+                    "end": 187,
+                    "start": 165,
+                    "word": "na"
+                  },
+                  {
+                    "end": 274,
+                    "start": 188,
+                    "word": "wakaona"
+                  }
+                ],
+                "until": 274,
+                "utterances": "Walipendana na wakaona"
+              }
+            ],
+            "sentence": "Walipendana na wakaona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "graca_alipewa_kazi_yakuhakikisha_watoto_wote_walipata_elimu_nzuri.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 73,
+                    "start": 18,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 163,
+                    "start": 88,
+                    "word": "alipewa"
+                  },
+                  {
+                    "end": 229,
+                    "start": 164,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 384,
+                    "start": 230,
+                    "word": "yakuhakikisha"
+                  },
+                  {
+                    "end": 483,
+                    "start": 427,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 530,
+                    "start": 484,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 613,
+                    "start": 531,
+                    "word": "walipata"
+                  },
+                  {
+                    "end": 678,
+                    "start": 614,
+                    "word": "elimu"
+                  },
+                  {
+                    "end": 773,
+                    "start": 679,
+                    "word": "nzuri"
+                  }
+                ],
+                "until": 773,
+                "utterances": "Graca alipewa kazi yakuhakikisha watoto wote walipata elimu nzuri"
+              }
+            ],
+            "sentence": "Graca alipewa kazi yakuhakikisha watoto wote walipata elimu nzuri."
+          },
+          {
+            "narration": [
+              {
+                "audio": "ilikuwa_kazi_ngumu_kwani_watoto_wengi_wa_mozambique_hawakujua_kusoma_na_kuandika.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 99,
+                    "start": 22,
+                    "word": "Ilikuwa"
+                  },
+                  {
+                    "end": 150,
+                    "start": 100,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 212,
+                    "start": 151,
+                    "word": "ngumu"
+                  },
+                  {
+                    "end": 265,
+                    "start": 213,
+                    "word": "kwani"
+                  },
+                  {
+                    "end": 329,
+                    "start": 266,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 376,
+                    "start": 330,
+                    "word": "wengi"
+                  },
+                  {
+                    "end": 392,
+                    "start": 377,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 474,
+                    "start": 393,
+                    "word": "Mozambique"
+                  },
+                  {
+                    "end": 625,
+                    "start": 518,
+                    "word": "hawakujua"
+                  },
+                  {
+                    "end": 696,
+                    "start": 626,
+                    "word": "kusoma"
+                  },
+                  {
+                    "end": 717,
+                    "start": 697,
+                    "word": "na"
+                  },
+                  {
+                    "end": 807,
+                    "start": 718,
+                    "word": "kuandika"
+                  }
+                ],
+                "until": 807,
+                "utterances": "Ilikuwa kazi ngumu kwani watoto wengi wa Mozambique hawakujua kusoma na kuandika"
+              }
+            ],
+            "sentence": "Ilikuwa kazi ngumu kwani watoto wengi wa Mozambique hawakujua kusoma na kuandika."
+          },
+          {
+            "narration": [
+              {
+                "audio": "alianza_kwa_kuwapeleka_watoto_wote_shuleni.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 112,
+                    "start": 22,
+                    "word": "Alianza"
+                  },
+                  {
+                    "end": 138,
+                    "start": 113,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 245,
+                    "start": 139,
+                    "word": "kuwapeleka"
+                  },
+                  {
+                    "end": 306,
+                    "start": 246,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 374,
+                    "start": 307,
+                    "word": "wote"
+                  },
+                  {
+                    "end": 495,
+                    "start": 407,
+                    "word": "shuleni"
+                  }
+                ],
+                "until": 495,
+                "utterances": "Alianza kwa kuwapeleka watoto wote shuleni"
+              }
+            ],
+            "sentence": "Alianza kwa kuwapeleka watoto wote shuleni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "graca_na_samora_walijaliwa_watoto_wawili.mp3",
+                "from": 18,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 18,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 115,
+                    "start": 83,
+                    "word": "na"
+                  },
+                  {
+                    "end": 190,
+                    "start": 116,
+                    "word": "Samora"
+                  },
+                  {
+                    "end": 291,
+                    "start": 191,
+                    "word": "walijaliwa"
+                  },
+                  {
+                    "end": 356,
+                    "start": 292,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 433,
+                    "start": 357,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 433,
+                "utterances": "Graca na Samora walijaliwa watoto wawili"
+              }
+            ],
+            "sentence": "Graca na Samora walijaliwa watoto wawili."
+          },
+          {
+            "narration": [
+              {
+                "audio": "walikuwa_na_ndoto_ya_kuwapa_watoto_wao_na_watu_wa_mozambique_maisha_mazuri.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 95,
+                    "start": 20,
+                    "word": "Walikuwa"
+                  },
+                  {
+                    "end": 123,
+                    "start": 96,
+                    "word": "na"
+                  },
+                  {
+                    "end": 181,
+                    "start": 124,
+                    "word": "ndoto"
+                  },
+                  {
+                    "end": 200,
+                    "start": 182,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 272,
+                    "start": 201,
+                    "word": "kuwapa"
+                  },
+                  {
+                    "end": 334,
+                    "start": 273,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 395,
+                    "start": 335,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 460,
+                    "start": 435,
+                    "word": "na"
+                  },
+                  {
+                    "end": 510,
+                    "start": 461,
+                    "word": "watu"
+                  },
+                  {
+                    "end": 545,
+                    "start": 511,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 648,
+                    "start": 546,
+                    "word": "Mozambique"
+                  },
+                  {
+                    "end": 733,
+                    "start": 672,
+                    "word": "maisha"
+                  },
+                  {
+                    "end": 852,
+                    "start": 734,
+                    "word": "mazuri"
+                  }
+                ],
+                "until": 852,
+                "utterances": "Walikuwa na ndoto ya kuwapa watoto wao na watu wa Mozambique maisha mazuri"
+              }
+            ],
+            "sentence": "Walikuwa na ndoto ya kuwapa watoto wao na watu wa Mozambique maisha mazuri."
+          },
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_samora_akafa_kwa_ajali_ya_ndege.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 19,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 115,
+                    "start": 68,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 183,
+                    "start": 116,
+                    "word": "Samora"
+                  },
+                  {
+                    "end": 285,
+                    "start": 184,
+                    "word": "akafa"
+                  },
+                  {
+                    "end": 348,
+                    "start": 317,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 428,
+                    "start": 349,
+                    "word": "ajali"
+                  },
+                  {
+                    "end": 435,
+                    "start": 429,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 495,
+                    "start": 436,
+                    "word": "ndege"
+                  }
+                ],
+                "until": 495,
+                "utterances": "Siku moja Samora akafa kwa ajali ya ndege"
+              }
+            ],
+            "sentence": "Siku moja Samora akafa kwa ajali ya ndege."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "graca_aliomboleza_kifo_cha_samora_kwa_miaka_mingi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 20,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 265,
+                    "start": 98,
+                    "word": "aliomboleza"
+                  },
+                  {
+                    "end": 323,
+                    "start": 266,
+                    "word": "kifo"
+                  },
+                  {
+                    "end": 355,
+                    "start": 324,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 436,
+                    "start": 356,
+                    "word": "Samora"
+                  },
+                  {
+                    "end": 505,
+                    "start": 475,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 578,
+                    "start": 506,
+                    "word": "miaka"
+                  },
+                  {
+                    "end": 698,
+                    "start": 579,
+                    "word": "mingi"
+                  }
+                ],
+                "until": 698,
+                "utterances": "Graca aliomboleza kifo cha Samora kwa miaka mingi"
+              }
+            ],
+            "sentence": "Graca aliomboleza kifo cha Samora kwa miaka mingi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "baadaye_graca_walipendana_na_nelson_mandela_na_wakaona.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 124,
+                    "start": 2,
+                    "word": "Baadaye"
+                  },
+                  {
+                    "end": 239,
+                    "start": 182,
+                    "word": "Graca"
+                  },
+                  {
+                    "end": 346,
+                    "start": 240,
+                    "word": "walipendana"
+                  },
+                  {
+                    "end": 362,
+                    "start": 347,
+                    "word": "na"
+                  },
+                  {
+                    "end": 426,
+                    "start": 363,
+                    "word": "Nelson"
+                  },
+                  {
+                    "end": 515,
+                    "start": 427,
+                    "word": "Mandela"
+                  },
+                  {
+                    "end": 582,
+                    "start": 565,
+                    "word": "na"
+                  },
+                  {
+                    "end": 698,
+                    "start": 583,
+                    "word": "wakaona"
+                  }
+                ],
+                "until": 698,
+                "utterances": "Baadaye Graca walipendana na Nelson Mandela na wakaona"
+              }
+            ],
+            "sentence": "Baadaye Graca walipendana na Nelson Mandela na wakaona."
+          },
+          {
+            "narration": [
+              {
+                "audio": "walifanya_kazi_kwa_pamoja_kuwasaidia_watoto_wa_afrika.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 20,
+                    "word": "Walifanya"
+                  },
+                  {
+                    "end": 162,
+                    "start": 109,
+                    "word": "kazi"
+                  },
+                  {
+                    "end": 184,
+                    "start": 163,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 253,
+                    "start": 185,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 364,
+                    "start": 254,
+                    "word": "kuwasaidia"
+                  },
+                  {
+                    "end": 433,
+                    "start": 365,
+                    "word": "watoto"
+                  },
+                  {
+                    "end": 457,
+                    "start": 434,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 538,
+                    "start": 465,
+                    "word": "Afrika"
+                  }
+                ],
+                "until": 538,
+                "utterances": "Walifanya kazi kwa pamoja kuwasaidia watoto wa Afrika"
+              }
+            ],
+            "sentence": "Walifanya kazi kwa pamoja kuwasaidia watoto wa Afrika."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level3_19_page_13_image_0001.jpg",
+      "text": []
+    }
+  ],
+  "illustrators": "Karlien de Villiers and Marike le Roux",
+  "language": "Kiswahili",
+  "level": "3",
+  "license": "CC-BY Version 4.0 Unported Licence",
+  "status": "Translated by: Rebbeccah Karoki",
+  "title": "Ndoto ya Graca",
+  "titleimage": "level3_19_page_01_image_0001.jpg"
+}

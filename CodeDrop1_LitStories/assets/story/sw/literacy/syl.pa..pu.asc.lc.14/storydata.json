@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "pa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pa"
+              }
+            ],
+            "sentence": "pa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pe"
+              }
+            ],
+            "sentence": "pe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pi"
+              }
+            ],
+            "sentence": "pi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "po_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "po.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "po"
+                  }
+                ],
+                "until": -1,
+                "utterances": "po"
+              }
+            ],
+            "sentence": "po"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pu"
+              }
+            ],
+            "sentence": "pu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.pa..pu.asc.lc.14.json"
+}

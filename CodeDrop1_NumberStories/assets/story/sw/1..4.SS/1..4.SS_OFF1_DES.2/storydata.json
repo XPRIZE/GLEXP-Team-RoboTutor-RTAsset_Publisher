@@ -1,0 +1,212 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "4_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "4.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "3.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "2.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "1_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "1.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "4_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "4.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "3_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "3.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "2_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "2.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbili"
+              }
+            ],
+            "sentence": "Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "1_tenframe.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "1.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "moja"
+              }
+            ],
+            "sentence": "Moja"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.1..4.SS_OFF1_DES.level2"
+}

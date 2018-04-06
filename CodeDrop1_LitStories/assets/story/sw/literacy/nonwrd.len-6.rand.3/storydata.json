@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "vitezu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vitezu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vitezu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vitezu"
+              }
+            ],
+            "sentence": "vitezu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mozagu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mozagu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mozagu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mozagu"
+              }
+            ],
+            "sentence": "mozagu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dopufa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dopufa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dopufa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dopufa"
+              }
+            ],
+            "sentence": "dopufa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sovipa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sovipa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sovipa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sovipa"
+              }
+            ],
+            "sentence": "sovipa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vomuzo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vomuzo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vomuzo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vomuzo"
+              }
+            ],
+            "sentence": "vomuzo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tafemi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tafemi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tafemi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tafemi"
+              }
+            ],
+            "sentence": "tafemi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "fihulu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "fihulu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "fihulu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "fihulu"
+              }
+            ],
+            "sentence": "fihulu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tuvari_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tuvari.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tuvari"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tuvari"
+              }
+            ],
+            "sentence": "tuvari"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jezipi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jezipi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jezipi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jezipi"
+              }
+            ],
+            "sentence": "jezipi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hufuvo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hufuvo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hufuvo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hufuvo"
+              }
+            ],
+            "sentence": "hufuvo"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "nonwrd.len-6.rand.3.json"
+}

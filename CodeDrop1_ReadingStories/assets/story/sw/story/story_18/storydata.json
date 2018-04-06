@@ -1,0 +1,968 @@
+{
+  "authors": "Noni",
+  "copyright": "Copyright (c) Pratham Books, 2007",
+  "data": [
+    {
+      "image": "level1_8_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sote_tulienda_katika_sherehe_ya_dasara.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 21,
+                    "word": "Sote"
+                  },
+                  {
+                    "end": 163,
+                    "start": 75,
+                    "word": "tulienda"
+                  },
+                  {
+                    "end": 228,
+                    "start": 164,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 289,
+                    "start": 229,
+                    "word": "sherehe"
+                  },
+                  {
+                    "end": 310,
+                    "start": 290,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 384,
+                    "start": 311,
+                    "word": "Dasara"
+                  }
+                ],
+                "until": 384,
+                "utterances": "Sote tulienda katika sherehe ya Dasara"
+              }
+            ],
+            "sentence": "Sote tulienda katika sherehe ya Dasara."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "papa_alimnunulia_chintu_miwani_ya_kupendeza.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 2,
+                    "word": "Papa"
+                  },
+                  {
+                    "end": 193,
+                    "start": 76,
+                    "word": "alimnunulia"
+                  },
+                  {
+                    "end": 252,
+                    "start": 194,
+                    "word": "Chintu"
+                  },
+                  {
+                    "end": 327,
+                    "start": 253,
+                    "word": "miwani"
+                  },
+                  {
+                    "end": 334,
+                    "start": 328,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 433,
+                    "start": 335,
+                    "word": "kupendeza"
+                  }
+                ],
+                "until": 433,
+                "utterances": "Papa alimnunulia Chintu miwani ya kupendeza"
+              }
+            ],
+            "sentence": "Papa alimnunulia Chintu miwani ya kupendeza."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mama_alininunulia_kofia_ya_rangi_ya_samawati_iliyong_aa_mno.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 19,
+                    "word": "Mama"
+                  },
+                  {
+                    "end": 241,
+                    "start": 82,
+                    "word": "alininunulia"
+                  },
+                  {
+                    "end": 313,
+                    "start": 242,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 337,
+                    "start": 314,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 386,
+                    "start": 338,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 394,
+                    "start": 387,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 504,
+                    "start": 395,
+                    "word": "samawati"
+                  },
+                  {
+                    "end": 657,
+                    "start": 541,
+                    "word": "iliyong'aa"
+                  },
+                  {
+                    "end": 708,
+                    "start": 658,
+                    "word": "mno"
+                  }
+                ],
+                "until": 708,
+                "utterances": "Mama alininunulia kofia ya rangi ya samawati iliyong'aa mno"
+              }
+            ],
+            "sentence": "Mama alininunulia kofia ya rangi ya samawati iliyong'aa mno."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mtoto_alipata_peremende.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 103,
+                    "start": 22,
+                    "word": "Mtoto"
+                  },
+                  {
+                    "end": 209,
+                    "start": 133,
+                    "word": "alipata"
+                  },
+                  {
+                    "end": 299,
+                    "start": 210,
+                    "word": "peremende"
+                  }
+                ],
+                "until": 299,
+                "utterances": "Mtoto alipata peremende"
+              }
+            ],
+            "sentence": "Mtoto alipata peremende."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tukiwa_njiani_kwenda_nyumbani_upepo_mkali_ulivuma.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Tukiwa"
+                  },
+                  {
+                    "end": 135,
+                    "start": 67,
+                    "word": "njiani"
+                  },
+                  {
+                    "end": 194,
+                    "start": 136,
+                    "word": "kwenda"
+                  },
+                  {
+                    "end": 290,
+                    "start": 195,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 389,
+                    "start": 336,
+                    "word": "upepo"
+                  },
+                  {
+                    "end": 460,
+                    "start": 390,
+                    "word": "mkali"
+                  },
+                  {
+                    "end": 548,
+                    "start": 466,
+                    "word": "ulivuma"
+                  }
+                ],
+                "until": 548,
+                "utterances": "Tukiwa njiani kwenda nyumbani upepo mkali ulivuma"
+              }
+            ],
+            "sentence": "Tukiwa njiani kwenda nyumbani, upepo mkali ulivuma."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "uliipeperusha_kofia_yangu_mbali.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 170,
+                    "start": 21,
+                    "word": "Uliipeperusha"
+                  },
+                  {
+                    "end": 235,
+                    "start": 171,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 288,
+                    "start": 236,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 348,
+                    "start": 289,
+                    "word": "mbali"
+                  }
+                ],
+                "until": 348,
+                "utterances": "Uliipeperusha kofia yangu mbali"
+              }
+            ],
+            "sentence": "Uliipeperusha kofia yangu mbali."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kofia_yangu_ilizuiliwa_katika_matawi_ya_mti_wa_miiba.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 80,
+                    "start": 2,
+                    "word": "Kofia"
+                  },
+                  {
+                    "end": 164,
+                    "start": 81,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 283,
+                    "start": 165,
+                    "word": "ilizuiliwa"
+                  },
+                  {
+                    "end": 373,
+                    "start": 295,
+                    "word": "katika"
+                  },
+                  {
+                    "end": 455,
+                    "start": 374,
+                    "word": "matawi"
+                  },
+                  {
+                    "end": 467,
+                    "start": 456,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 514,
+                    "start": 468,
+                    "word": "mti"
+                  },
+                  {
+                    "end": 535,
+                    "start": 515,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 599,
+                    "start": 536,
+                    "word": "miiba"
+                  }
+                ],
+                "until": 599,
+                "utterances": "Kofia yangu ilizuiliwa katika matawi ya mti wa miiba"
+              }
+            ],
+            "sentence": "Kofia yangu ilizuiliwa katika matawi ya mti wa miiba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nililia_sana.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 19,
+                    "word": "Nililia"
+                  },
+                  {
+                    "end": 187,
+                    "start": 134,
+                    "word": "sana"
+                  }
+                ],
+                "until": 187,
+                "utterances": "Nililia sana"
+              }
+            ],
+            "sentence": "Nililia sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_sikula_chakula_changu_cha_jioni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 38,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 121,
+                    "start": 39,
+                    "word": "sikula"
+                  },
+                  {
+                    "end": 190,
+                    "start": 122,
+                    "word": "chakula"
+                  },
+                  {
+                    "end": 249,
+                    "start": 191,
+                    "word": "changu"
+                  },
+                  {
+                    "end": 276,
+                    "start": 250,
+                    "word": "cha"
+                  },
+                  {
+                    "end": 361,
+                    "start": 277,
+                    "word": "jioni"
+                  }
+                ],
+                "until": 361,
+                "utterances": "Na sikula chakula changu cha jioni"
+              }
+            ],
+            "sentence": "Na sikula chakula changu cha jioni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baadaye_usiku_ule_mwezi_ulitokezea.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 2,
+                    "word": "Baadaye"
+                  },
+                  {
+                    "end": 196,
+                    "start": 79,
+                    "word": "usiku"
+                  },
+                  {
+                    "end": 227,
+                    "start": 197,
+                    "word": "ule"
+                  },
+                  {
+                    "end": 320,
+                    "start": 272,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 448,
+                    "start": 321,
+                    "word": "ulitokezea"
+                  }
+                ],
+                "until": 448,
+                "utterances": "Baadaye usiku ule mwezi ulitokezea"
+              }
+            ],
+            "sentence": "Baadaye usiku ule, mwezi ulitokezea."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "uliiangalia_kofia_yangu_pale_kwenye_mti_wa_miiba.mp3",
+                "from": 42,
+                "segmentation": [
+                  {
+                    "end": 171,
+                    "start": 42,
+                    "word": "Uliiangalia"
+                  },
+                  {
+                    "end": 234,
+                    "start": 172,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 281,
+                    "start": 235,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 328,
+                    "start": 282,
+                    "word": "pale"
+                  },
+                  {
+                    "end": 377,
+                    "start": 329,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 420,
+                    "start": 378,
+                    "word": "mti"
+                  },
+                  {
+                    "end": 441,
+                    "start": 421,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 502,
+                    "start": 442,
+                    "word": "miiba"
+                  }
+                ],
+                "until": 502,
+                "utterances": "Uliiangalia kofia yangu pale kwenye mti wa miiba"
+              }
+            ],
+            "sentence": "Uliiangalia kofia yangu pale kwenye mti wa miiba."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwezi_ulijaribu_kuivaa_kofia_yangu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Mwezi"
+                  },
+                  {
+                    "end": 181,
+                    "start": 104,
+                    "word": "ulijaribu"
+                  },
+                  {
+                    "end": 269,
+                    "start": 195,
+                    "word": "kuivaa"
+                  },
+                  {
+                    "end": 332,
+                    "start": 270,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 391,
+                    "start": 333,
+                    "word": "yangu"
+                  }
+                ],
+                "until": 391,
+                "utterances": "Mwezi ulijaribu kuivaa kofia yangu"
+              }
+            ],
+            "sentence": "Mwezi ulijaribu kuivaa kofia yangu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "ulitabasamu_kwa_furaha.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 178,
+                    "start": 20,
+                    "word": "Ulitabasamu"
+                  },
+                  {
+                    "end": 213,
+                    "start": 179,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 331,
+                    "start": 214,
+                    "word": "furaha"
+                  }
+                ],
+                "until": 331,
+                "utterances": "Ulitabasamu kwa furaha"
+              }
+            ],
+            "sentence": "Ulitabasamu kwa furaha."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "sikuwa_na_budi_ila_kutabasamu_pia.mp3",
+                "from": 24,
+                "segmentation": [
+                  {
+                    "end": 100,
+                    "start": 24,
+                    "word": "Sikuwa"
+                  },
+                  {
+                    "end": 123,
+                    "start": 101,
+                    "word": "na"
+                  },
+                  {
+                    "end": 187,
+                    "start": 124,
+                    "word": "budi"
+                  },
+                  {
+                    "end": 230,
+                    "start": 193,
+                    "word": "ila"
+                  },
+                  {
+                    "end": 374,
+                    "start": 231,
+                    "word": "kutabasamu"
+                  },
+                  {
+                    "end": 448,
+                    "start": 375,
+                    "word": "pia"
+                  }
+                ],
+                "until": 448,
+                "utterances": "Sikuwa na budi ila kutabasamu pia"
+              }
+            ],
+            "sentence": "Sikuwa na budi ila kutabasamu pia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "baada_ya_kutoka_shule_siku_iliyofuata_mamangu_alinipa_kofia_nyingine_nyekundi_iliyong_ara_mano.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 2,
+                    "word": "Baada"
+                  },
+                  {
+                    "end": 100,
+                    "start": 83,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 164,
+                    "start": 101,
+                    "word": "kutoka"
+                  },
+                  {
+                    "end": 224,
+                    "start": 165,
+                    "word": "shule"
+                  },
+                  {
+                    "end": 282,
+                    "start": 225,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 415,
+                    "start": 283,
+                    "word": "iliyofuata"
+                  },
+                  {
+                    "end": 533,
+                    "start": 459,
+                    "word": "mamangu"
+                  },
+                  {
+                    "end": 620,
+                    "start": 540,
+                    "word": "alinipa"
+                  },
+                  {
+                    "end": 689,
+                    "start": 621,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 767,
+                    "start": 690,
+                    "word": "nyingine"
+                  },
+                  {
+                    "end": 908,
+                    "start": 768,
+                    "word": "nyekundi"
+                  },
+                  {
+                    "end": 1008,
+                    "start": 909,
+                    "word": "iliyong'ara"
+                  },
+                  {
+                    "end": 1081,
+                    "start": 1033,
+                    "word": "mano"
+                  }
+                ],
+                "until": 1081,
+                "utterances": "Baada ya kutoka shule siku iliyofuata mamangu alinipa kofia nyingine nyekundi iliyong'ara mano"
+              }
+            ],
+            "sentence": "Baada ya kutoka shule siku iliyofuata, mamangu alinipa kofia nyingine nyekundi iliyong'ara mano."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwezi_uliituma_mama_alisema.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Mwezi"
+                  },
+                  {
+                    "end": 200,
+                    "start": 114,
+                    "word": "uliituma"
+                  },
+                  {
+                    "end": 311,
+                    "start": 268,
+                    "word": "mama"
+                  },
+                  {
+                    "end": 383,
+                    "start": 312,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 383,
+                "utterances": "Mwezi uliituma mama alisema"
+              }
+            ],
+            "sentence": "\"Mwezi uliituma,\" mama alisema."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "usiku_huo_sote_mimi_na_mwezi_tulivaa_kofia_zetu_kisha_tukatabasamu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 21,
+                    "word": "Usiku"
+                  },
+                  {
+                    "end": 143,
+                    "start": 85,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 232,
+                    "start": 161,
+                    "word": "sote"
+                  },
+                  {
+                    "end": 325,
+                    "start": 287,
+                    "word": "mimi"
+                  },
+                  {
+                    "end": 345,
+                    "start": 326,
+                    "word": "na"
+                  },
+                  {
+                    "end": 424,
+                    "start": 346,
+                    "word": "mwezi"
+                  },
+                  {
+                    "end": 532,
+                    "start": 458,
+                    "word": "tulivaa"
+                  },
+                  {
+                    "end": 589,
+                    "start": 533,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 656,
+                    "start": 590,
+                    "word": "zetu"
+                  },
+                  {
+                    "end": 746,
+                    "start": 701,
+                    "word": "kisha"
+                  },
+                  {
+                    "end": 927,
+                    "start": 747,
+                    "word": "tukatabasamu"
+                  }
+                ],
+                "until": 927,
+                "utterances": "Usiku huo sote mimi na mwezi tulivaa kofia zetu kisha tukatabasamu"
+              }
+            ],
+            "sentence": "Usiku huo, sote, mimi na mwezi, tulivaa kofia zetu kisha tukatabasamu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tulifurahi_sana.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 163,
+                    "start": 20,
+                    "word": "Tulifurahi"
+                  },
+                  {
+                    "end": 233,
+                    "start": 164,
+                    "word": "sana"
+                  }
+                ],
+                "until": 233,
+                "utterances": "Tulifurahi sana"
+              }
+            ],
+            "sentence": "Tulifurahi sana."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "unadhani_jua_linahitaji_kofia.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 22,
+                    "word": "Unadhani"
+                  },
+                  {
+                    "end": 161,
+                    "start": 111,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 286,
+                    "start": 162,
+                    "word": "linahitaji"
+                  },
+                  {
+                    "end": 364,
+                    "start": 287,
+                    "word": "kofia"
+                  }
+                ],
+                "until": 364,
+                "utterances": "Unadhani jua linahitaji kofia"
+              }
+            ],
+            "sentence": "Unadhani jua linahitaji kofia?"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_8_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kisia_ni_kofia_gani_ambayo_nimevaa_leo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 84,
+                    "start": 2,
+                    "word": "Kisia"
+                  },
+                  {
+                    "end": 105,
+                    "start": 85,
+                    "word": "ni"
+                  },
+                  {
+                    "end": 163,
+                    "start": 106,
+                    "word": "kofia"
+                  },
+                  {
+                    "end": 234,
+                    "start": 164,
+                    "word": "gani"
+                  },
+                  {
+                    "end": 324,
+                    "start": 264,
+                    "word": "ambayo"
+                  },
+                  {
+                    "end": 409,
+                    "start": 325,
+                    "word": "nimevaa"
+                  },
+                  {
+                    "end": 459,
+                    "start": 410,
+                    "word": "leo"
+                  }
+                ],
+                "until": 459,
+                "utterances": "Kisia ni kofia gani ambayo nimevaa leo"
+              }
+            ],
+            "sentence": "Kisia ni kofia gani ambayo nimevaa leo?"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Angie & Upesh",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Mwezi na Kofia",
+  "titleimage": "level1_8_page_01_image_0001.jpg"
+}

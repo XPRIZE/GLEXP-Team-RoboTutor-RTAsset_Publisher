@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ga_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ga"
+              }
+            ],
+            "sentence": "ga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ge_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ge.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ge"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ge"
+              }
+            ],
+            "sentence": "ge"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gi"
+              }
+            ],
+            "sentence": "gi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "go_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "go.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "go"
+                  }
+                ],
+                "until": -1,
+                "utterances": "go"
+              }
+            ],
+            "sentence": "go"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gu"
+              }
+            ],
+            "sentence": "gu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ga..gu.asc.lc.21.json"
+}

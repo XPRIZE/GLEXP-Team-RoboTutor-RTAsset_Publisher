@@ -1,0 +1,252 @@
+{
+  "level": "1", 
+  "questions": [
+    {
+      "distractor": {
+        "nonsensical": [
+          "lake", 
+          "hao", 
+          "mimi"
+        ], 
+        "nonsensical_english": [
+          "her", 
+          "mentioned", 
+          "I"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "kama", 
+          "mtu", 
+          "mti"
+        ], 
+        "ungrammatical_english": [
+          "fluid", 
+          "human being", 
+          "post"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ninampenda mwalimu wangu.", 
+      "stem": "Ninampenda mwalimu", 
+      "target": "wangu"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "majani", 
+          "mwingine", 
+          "mwalimu"
+        ], 
+        "ungrammatical_english": [
+          "game", 
+          "someone", 
+          "Master"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Yeye ni mrembo mno.", 
+      "stem": "Yeye ni mrembo", 
+      "target": "mno"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Yeye ni mwalimu mzuri.", 
+      "stem": "Yeye ni mwalimu", 
+      "target": "mzuri"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "zama", 
+          "mchezo", 
+          "toa"
+        ], 
+        "nonsensical_english": [
+          "sink", 
+          "mockery", 
+          "spend"
+        ], 
+        "plausible": [
+          "toa", 
+          "mchezo", 
+          "povu"
+        ], 
+        "plausible_english": [
+          "produce", 
+          "joke", 
+          "froth"
+        ], 
+        "ungrammatical": [
+          "aa", 
+          "dhaifu", 
+          "naam"
+        ], 
+        "ungrammatical_english": [
+          "ah", 
+          "sickly", 
+          "course"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Ni mtu mwema na mwenye subira.", 
+      "stem": "Ni mtu mwema na mwenye", 
+      "target": "subira"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": null, 
+        "plausible": null, 
+        "ungrammatical": [
+          "wakati", 
+          "mama", 
+          "lakini"
+        ], 
+        "ungrammatical_english": [
+          "season", 
+          "maam", 
+          "nevertheless"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Alivyosuka nywele zake zinapendeza sana.", 
+      "stem": "Alivyosuka nywele zake zinapendeza", 
+      "target": "sana"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "duni", 
+          "madirisha", 
+          "rununu"
+        ], 
+        "nonsensical_english": [
+          "low", 
+          "square", 
+          "mobile"
+        ], 
+        "plausible": [
+          "madirisha", 
+          "duni", 
+          "rununu"
+        ], 
+        "plausible_english": [
+          "square", 
+          "useless", 
+          "mobile"
+        ], 
+        "ungrammatical": [
+          "toa", 
+          "changarawe", 
+          "ngome"
+        ], 
+        "ungrammatical_english": [
+          "take", 
+          "gravel", 
+          "fortification"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Amezipamba na shanga za rangirangi.", 
+      "stem": "Amezipamba na shanga za", 
+      "target": "rangirangi"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mungu", 
+          "damu", 
+          "samawati"
+        ], 
+        "nonsensical_english": [
+          "fate", 
+          "menstruation", 
+          "sky"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "hizi", 
+          "huwa", 
+          "ana"
+        ], 
+        "ungrammatical_english": [
+          "endanger", 
+          "possibly", 
+          "have"
+        ]
+      }, 
+      "punctuation": ".", 
+      "sentence": "Shanga zake ni za rangi za kijani, nyeupe, nyekundu, na manjano.", 
+      "stem": "Shanga zake ni za rangi za kijani, nyeupe, nyekundu, na", 
+      "target": "manjano"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "lake", 
+          "chake", 
+          "yangu"
+        ], 
+        "nonsensical_english": [
+          "his", 
+          "her", 
+          "my"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "ili", 
+          "tena", 
+          "sasa"
+        ], 
+        "ungrammatical_english": [
+          "order", 
+          "afterwards", 
+          "up-to-date"
+        ]
+      }, 
+      "punctuation": "?", 
+      "sentence": "Mama, tafadhali nisukie nywele zangu ziwe kama za mwalimu wangu?", 
+      "stem": "Mama, tafadhali nisukie nywele zangu ziwe kama za mwalimu", 
+      "target": "wangu"
+    }, 
+    {
+      "distractor": null, 
+      "punctuation": ".", 
+      "sentence": "Ningekuwa na umri zaidi, ningezipamba nywele zangu kwa shanga.", 
+      "stem": "Ningekuwa na umri zaidi, ningezipamba nywele zangu kwa", 
+      "target": "shanga"
+    }, 
+    {
+      "distractor": {
+        "nonsensical": [
+          "mimi", 
+          "hao", 
+          "lake"
+        ], 
+        "nonsensical_english": [
+          "I", 
+          "those", 
+          "his"
+        ], 
+        "plausible": null, 
+        "ungrammatical": [
+          "maji", 
+          "mamba", 
+          "chini"
+        ], 
+        "ungrammatical_english": [
+          "brine", 
+          "leech", 
+          "low"
+        ]
+      }, 
+      "punctuation": "!", 
+      "sentence": "Nitakua sawa kabisa na mwalimu wangu!", 
+      "stem": "Nitakua sawa kabisa na mwalimu", 
+      "target": "wangu"
+    }
+  ], 
+  "title": "placeholder"
+}

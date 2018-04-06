@@ -1,0 +1,237 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ugali.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ugali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ugali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ugali"
+              }
+            ],
+            "sentence": "ugali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ukulima.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukulima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukulima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukulima"
+              }
+            ],
+            "sentence": "ukulima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "udongo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "udongo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "udongo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "udongo"
+              }
+            ],
+            "sentence": "udongo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "uzi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "uzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "uzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "uzi"
+              }
+            ],
+            "sentence": "uzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ugali.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ugali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ugali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ugali"
+              }
+            ],
+            "sentence": "ugali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ukuta.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukuta.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukuta"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukuta"
+              }
+            ],
+            "sentence": "ukuta"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ua"
+              }
+            ],
+            "sentence": "ua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "uyoga.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "uyoga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "uyoga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "uyoga"
+              }
+            ],
+            "sentence": "uyoga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ubao.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ubao.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ubao"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ubao"
+              }
+            ],
+            "sentence": "ubao"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-U.rand.59"
+}

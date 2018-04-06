@@ -1,0 +1,547 @@
+{
+  "authors": "James Elim and Joseph Opilo",
+  "copyright": "Copyright (c) African Storybook Project, 2014",
+  "data": [
+    {
+      "image": "level2_16_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kijiji_kimoja_kilikuwa_karibu_na_msitu_mkubwa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 2,
+                    "word": "Kijiji"
+                  },
+                  {
+                    "end": 164,
+                    "start": 90,
+                    "word": "kimoja"
+                  },
+                  {
+                    "end": 248,
+                    "start": 165,
+                    "word": "kilikuwa"
+                  },
+                  {
+                    "end": 317,
+                    "start": 249,
+                    "word": "karibu"
+                  },
+                  {
+                    "end": 338,
+                    "start": 318,
+                    "word": "na"
+                  },
+                  {
+                    "end": 404,
+                    "start": 339,
+                    "word": "msitu"
+                  },
+                  {
+                    "end": 479,
+                    "start": 405,
+                    "word": "mkubwa"
+                  }
+                ],
+                "until": 479,
+                "utterances": "Kijiji kimoja kilikuwa karibu na msitu mkubwa"
+              }
+            ],
+            "sentence": "Kijiji kimoja kilikuwa karibu na msitu mkubwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "msitu_huo_ulikuwa_na_majitu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 78,
+                    "start": 21,
+                    "word": "Msitu"
+                  },
+                  {
+                    "end": 132,
+                    "start": 79,
+                    "word": "huo"
+                  },
+                  {
+                    "end": 208,
+                    "start": 159,
+                    "word": "ulikuwa"
+                  },
+                  {
+                    "end": 232,
+                    "start": 209,
+                    "word": "na"
+                  },
+                  {
+                    "end": 305,
+                    "start": 233,
+                    "word": "majitu"
+                  }
+                ],
+                "until": 305,
+                "utterances": "Msitu huo ulikuwa na majitu"
+              }
+            ],
+            "sentence": "Msitu huo ulikuwa na majitu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "watu_wengi_waliliwa_na_majitu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 58,
+                    "start": 21,
+                    "word": "Watu"
+                  },
+                  {
+                    "end": 140,
+                    "start": 59,
+                    "word": "wengi"
+                  },
+                  {
+                    "end": 220,
+                    "start": 141,
+                    "word": "waliliwa"
+                  },
+                  {
+                    "end": 237,
+                    "start": 221,
+                    "word": "na"
+                  },
+                  {
+                    "end": 312,
+                    "start": 238,
+                    "word": "majitu"
+                  }
+                ],
+                "until": 312,
+                "utterances": "Watu wengi waliliwa na majitu"
+              }
+            ],
+            "sentence": "Watu wengi waliliwa na majitu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ekeno_alionywa_na_wazazi_asiingie_msituni.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 20,
+                    "word": "Ekeno"
+                  },
+                  {
+                    "end": 191,
+                    "start": 133,
+                    "word": "alionywa"
+                  },
+                  {
+                    "end": 209,
+                    "start": 192,
+                    "word": "na"
+                  },
+                  {
+                    "end": 301,
+                    "start": 210,
+                    "word": "wazazi"
+                  },
+                  {
+                    "end": 404,
+                    "start": 307,
+                    "word": "asiingie"
+                  },
+                  {
+                    "end": 501,
+                    "start": 405,
+                    "word": "msituni"
+                  }
+                ],
+                "until": 501,
+                "utterances": "Ekeno alionywa na wazazi asiingie msituni"
+              }
+            ],
+            "sentence": "Ekeno alionywa na wazazi asiingie msituni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ekeno_alipuuza_ushauri_wa_wazazi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 81,
+                    "start": 21,
+                    "word": "Ekeno"
+                  },
+                  {
+                    "end": 212,
+                    "start": 92,
+                    "word": "alipuuza"
+                  },
+                  {
+                    "end": 284,
+                    "start": 213,
+                    "word": "ushauri"
+                  },
+                  {
+                    "end": 304,
+                    "start": 285,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 372,
+                    "start": 305,
+                    "word": "wazazi"
+                  }
+                ],
+                "until": 372,
+                "utterances": "Ekeno alipuuza ushauri wa wazazi"
+              }
+            ],
+            "sentence": "Ekeno alipuuza ushauri wa wazazi."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "siku_moja_akaenda_msituni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 74,
+                    "start": 2,
+                    "word": "Siku"
+                  },
+                  {
+                    "end": 124,
+                    "start": 75,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 208,
+                    "start": 125,
+                    "word": "akaenda"
+                  },
+                  {
+                    "end": 306,
+                    "start": 209,
+                    "word": "msituni"
+                  }
+                ],
+                "until": 306,
+                "utterances": "Siku moja akaenda msituni"
+              }
+            ],
+            "sentence": "Siku moja akaenda msituni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo_alikutana_na_jitu.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 2,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 186,
+                    "start": 78,
+                    "word": "alikutana"
+                  },
+                  {
+                    "end": 207,
+                    "start": 187,
+                    "word": "na"
+                  },
+                  {
+                    "end": 263,
+                    "start": 208,
+                    "word": "jitu"
+                  }
+                ],
+                "until": 263,
+                "utterances": "Hapo alikutana na jitu"
+              }
+            ],
+            "sentence": "Hapo alikutana na jitu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alimpeleka_katikati_ya_msitu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 139,
+                    "start": 21,
+                    "word": "Alimpeleka"
+                  },
+                  {
+                    "end": 240,
+                    "start": 140,
+                    "word": "katikati"
+                  },
+                  {
+                    "end": 250,
+                    "start": 241,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 304,
+                    "start": 251,
+                    "word": "msitu"
+                  }
+                ],
+                "until": 304,
+                "utterances": "Alimpeleka katikati ya msitu"
+              }
+            ],
+            "sentence": "Alimpeleka katikati ya msitu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alivamiwa_na_majitu_wakamla.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 127,
+                    "start": 20,
+                    "word": "Alivamiwa"
+                  },
+                  {
+                    "end": 143,
+                    "start": 128,
+                    "word": "na"
+                  },
+                  {
+                    "end": 217,
+                    "start": 144,
+                    "word": "majitu"
+                  },
+                  {
+                    "end": 317,
+                    "start": 243,
+                    "word": "wakamla"
+                  }
+                ],
+                "until": 317,
+                "utterances": "Alivamiwa na majitu wakamla"
+              }
+            ],
+            "sentence": "Alivamiwa na majitu wakamla."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wenzake_walienda_kumtafuta.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 90,
+                    "start": 21,
+                    "word": "Wenzake"
+                  },
+                  {
+                    "end": 168,
+                    "start": 91,
+                    "word": "walienda"
+                  },
+                  {
+                    "end": 282,
+                    "start": 169,
+                    "word": "kumtafuta"
+                  }
+                ],
+                "until": 282,
+                "utterances": "Wenzake walienda kumtafuta"
+              }
+            ],
+            "sentence": "Wenzake walienda kumtafuta."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_12_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jirani_mmoja_aliwaelekeza_kuwa_ekeno_aliingia_msituni.mp3",
+                "from": 23,
+                "segmentation": [
+                  {
+                    "end": 82,
+                    "start": 23,
+                    "word": "Jirani"
+                  },
+                  {
+                    "end": 147,
+                    "start": 83,
+                    "word": "mmoja"
+                  },
+                  {
+                    "end": 290,
+                    "start": 159,
+                    "word": "aliwaelekeza"
+                  },
+                  {
+                    "end": 340,
+                    "start": 291,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 445,
+                    "start": 377,
+                    "word": "Ekeno"
+                  },
+                  {
+                    "end": 530,
+                    "start": 449,
+                    "word": "aliingia"
+                  },
+                  {
+                    "end": 625,
+                    "start": 531,
+                    "word": "msituni"
+                  }
+                ],
+                "until": 625,
+                "utterances": "Jirani mmoja aliwaelekeza kuwa Ekeno aliingia msituni"
+              }
+            ],
+            "sentence": "Jirani mmoja aliwaelekeza kuwa Ekeno aliingia msituni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_16_page_13_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "waliamini_kuwa_ameliwa_na_fisi.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 138,
+                    "start": 20,
+                    "word": "Waliamini"
+                  },
+                  {
+                    "end": 199,
+                    "start": 139,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 268,
+                    "start": 200,
+                    "word": "ameliwa"
+                  },
+                  {
+                    "end": 287,
+                    "start": 269,
+                    "word": "na"
+                  },
+                  {
+                    "end": 346,
+                    "start": 288,
+                    "word": "fisi"
+                  }
+                ],
+                "until": 346,
+                "utterances": "Waliamini kuwa ameliwa na fisi"
+              }
+            ],
+            "sentence": "Waliamini kuwa ameliwa na fisi."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager, Benjamin Mitchley, Catherine Groenewald and Padmanabha",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "title": "Mvulana na Majitu",
+  "titleimage": "level2_16_page_01_image_0001.jpg"
+}

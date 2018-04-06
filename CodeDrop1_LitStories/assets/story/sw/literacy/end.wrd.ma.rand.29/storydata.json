@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "yatima_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yatima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yatima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yatima"
+              }
+            ],
+            "sentence": "yatima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kuzama_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kuzama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kuzama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kuzama"
+              }
+            ],
+            "sentence": "kuzama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wanyama_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wanyama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wanyama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wanyama"
+              }
+            ],
+            "sentence": "wanyama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "selma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "selma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "selma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "selma"
+              }
+            ],
+            "sentence": "selma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vyema_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vyema.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vyema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vyema"
+              }
+            ],
+            "sentence": "vyema"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wazima_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wazima.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wazima"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wazima"
+              }
+            ],
+            "sentence": "wazima"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "juma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "juma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "juma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "juma"
+              }
+            ],
+            "sentence": "juma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "inauma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "inauma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "inauma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "inauma"
+              }
+            ],
+            "sentence": "inauma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "salama_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "salama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "salama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "salama"
+              }
+            ],
+            "sentence": "salama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lilisema_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lilisema.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lilisema"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lilisema"
+              }
+            ],
+            "sentence": "lilisema"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.ma.rand.29"
+}

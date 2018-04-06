@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ukweli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ukweli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ukweli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ukweli"
+              }
+            ],
+            "sentence": "ukweli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "maswali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "maswali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "maswali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "maswali"
+              }
+            ],
+            "sentence": "maswali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tafadhali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tafadhali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tafadhali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tafadhali"
+              }
+            ],
+            "sentence": "tafadhali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kivuli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kivuli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kivuli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kivuli"
+              }
+            ],
+            "sentence": "kivuli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "taroli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taroli"
+              }
+            ],
+            "sentence": "taroli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "miwili_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "miwili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "miwili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "miwili"
+              }
+            ],
+            "sentence": "miwili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akadeli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akadeli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akadeli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akadeli"
+              }
+            ],
+            "sentence": "akadeli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pili_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pili"
+              }
+            ],
+            "sentence": "pili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "umbali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "umbali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "umbali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "umbali"
+              }
+            ],
+            "sentence": "umbali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ovaroli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ovaroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ovaroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ovaroli"
+              }
+            ],
+            "sentence": "ovaroli"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.li.rand.28"
+}

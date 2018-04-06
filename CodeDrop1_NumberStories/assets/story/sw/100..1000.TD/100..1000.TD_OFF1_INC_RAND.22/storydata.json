@@ -1,0 +1,572 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "209_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "9.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tisa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tisa"
+              }
+            ],
+            "sentence": "Mia Mbili na Tisa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "210_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "10.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "211_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "11.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "moja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na moja"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Moja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "212_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "12.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na mbili"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Mbili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "213_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "13.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na tatu"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "214_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "14.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na nne"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "215_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "15.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na tano"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "216_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "16.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sita"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na sita"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Sita"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "217_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "17.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "saba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na saba"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Saba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "218_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "200.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mia"
+                  },
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mia mbili"
+              },
+              {
+                "audio": "na.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "na"
+                  }
+                ],
+                "until": -1,
+                "utterances": "na"
+              },
+              {
+                "audio": "18.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kumi na nane"
+              }
+            ],
+            "sentence": "Mia Mbili na Kumi na Nane"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "numstory.100..1000.TD_OFF1_INC_RAND.level22"
+}

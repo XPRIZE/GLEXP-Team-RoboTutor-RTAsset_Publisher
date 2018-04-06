@@ -1,0 +1,287 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "dereva.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dereva.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dereva"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dereva"
+              }
+            ],
+            "sentence": "DEREVA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dada.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dada.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dada"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dada"
+              }
+            ],
+            "sentence": "DADA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dudu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dudu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dudu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dudu"
+              }
+            ],
+            "sentence": "DUDU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dada.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dada.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dada"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dada"
+              }
+            ],
+            "sentence": "DADA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dada.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dada.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dada"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dada"
+              }
+            ],
+            "sentence": "DADA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "duma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "duma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "duma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "duma"
+              }
+            ],
+            "sentence": "DUMA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "debe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "debe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "debe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "debe"
+              }
+            ],
+            "sentence": "DEBE"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dadako.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dadako.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dadako"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dadako"
+              }
+            ],
+            "sentence": "DADAKO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dau.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dau.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dau"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dau"
+              }
+            ],
+            "sentence": "DAU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dogo"
+              }
+            ],
+            "sentence": "DOGO"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "dobi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "dobi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "dobi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "dobi"
+              }
+            ],
+            "sentence": "DOBI"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-D.rand.19"
+}

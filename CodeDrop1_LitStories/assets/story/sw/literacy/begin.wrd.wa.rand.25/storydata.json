@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "wawe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wawe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wawe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wawe"
+              }
+            ],
+            "sentence": "wawe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wazo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wazo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wazo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wazo"
+              }
+            ],
+            "sentence": "wazo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wana_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wana.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wana"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wana"
+              }
+            ],
+            "sentence": "wana"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wali"
+              }
+            ],
+            "sentence": "wali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wake_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wake.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wake"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wake"
+              }
+            ],
+            "sentence": "wake"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wale_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wale.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wale"
+              }
+            ],
+            "sentence": "wale"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "waje_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "waje.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "waje"
+                  }
+                ],
+                "until": -1,
+                "utterances": "waje"
+              }
+            ],
+            "sentence": "waje"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wapi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wapi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wapi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wapi"
+              }
+            ],
+            "sentence": "wapi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "watu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "watu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "watu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "watu"
+              }
+            ],
+            "sentence": "watu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "waua_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "waua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "waua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "waua"
+              }
+            ],
+            "sentence": "waua"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.wa.rand.25"
+}

@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "wawe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wawe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wawe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wawe"
+              }
+            ],
+            "sentence": "wawe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mkewe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mkewe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mkewe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mkewe"
+              }
+            ],
+            "sentence": "mkewe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nawe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nawe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nawe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nawe"
+              }
+            ],
+            "sentence": "nawe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ziwe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ziwe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ziwe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ziwe"
+              }
+            ],
+            "sentence": "ziwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mawe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mawe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mawe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mawe"
+              }
+            ],
+            "sentence": "mawe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "yowe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "yowe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "yowe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "yowe"
+              }
+            ],
+            "sentence": "yowe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nguruwe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nguruwe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nguruwe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nguruwe"
+              }
+            ],
+            "sentence": "nguruwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kamwe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kamwe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kamwe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kamwe"
+              }
+            ],
+            "sentence": "kamwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwishowe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwishowe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwishowe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwishowe"
+              }
+            ],
+            "sentence": "mwishowe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "wanawe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "wanawe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "wanawe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "wanawe"
+              }
+            ],
+            "sentence": "wanawe"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.we.rand.51"
+}

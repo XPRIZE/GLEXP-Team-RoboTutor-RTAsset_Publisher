@@ -1,0 +1,312 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "viazi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "viazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "viazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "viazi"
+              }
+            ],
+            "sentence": "viazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidogo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidogo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidogo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidogo"
+              }
+            ],
+            "sentence": "vidogo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidole.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidole"
+              }
+            ],
+            "sentence": "vidole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vitumbua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vitumbua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vitumbua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vitumbua"
+              }
+            ],
+            "sentence": "vitumbua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vipepeo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vipepeo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vipepeo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vipepeo"
+              }
+            ],
+            "sentence": "vipepeo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vikapu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vikapu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vikapu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vikapu"
+              }
+            ],
+            "sentence": "vikapu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "visu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "visu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "visu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "visu"
+              }
+            ],
+            "sentence": "visu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidole.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidole"
+              }
+            ],
+            "sentence": "vidole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vitumbua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vitumbua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vitumbua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vitumbua"
+              }
+            ],
+            "sentence": "vitumbua"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "viatu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "viatu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "viatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "viatu"
+              }
+            ],
+            "sentence": "viatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vijiti.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vijiti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vijiti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vijiti"
+              }
+            ],
+            "sentence": "vijiti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "viazi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "viazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "viazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "viazi"
+              }
+            ],
+            "sentence": "viazi"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-V.rand.60"
+}

@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "pibu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pibu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pibu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pibu"
+              }
+            ],
+            "sentence": "pibu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bepi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bepi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bepi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bepi"
+              }
+            ],
+            "sentence": "bepi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hejo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hejo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hejo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hejo"
+              }
+            ],
+            "sentence": "hejo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "topo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "topo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "topo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "topo"
+              }
+            ],
+            "sentence": "topo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bipi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bipi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bipi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bipi"
+              }
+            ],
+            "sentence": "bipi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zeti_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zeti.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zeti"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zeti"
+              }
+            ],
+            "sentence": "zeti"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vifa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vifa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vifa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vifa"
+              }
+            ],
+            "sentence": "vifa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tade_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tade.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tade"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tade"
+              }
+            ],
+            "sentence": "tade"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "muma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "muma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "muma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "muma"
+              }
+            ],
+            "sentence": "muma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "reho_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "reho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "reho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "reho"
+              }
+            ],
+            "sentence": "reho"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "nonwrd.len-4.rand.2.json"
+}

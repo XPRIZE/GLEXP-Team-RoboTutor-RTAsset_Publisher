@@ -14,3 +14,9 @@ master_error*.csv.DS_Store
 **/.DS_Store
 **/CodeDrop1_Stories.1.1.0
 **/CodeDrop1_Stories.1.1.0*
+
+**/CodeDrop1_*.zip
+**/CodeDrop1_ReadingStories.1.7.0
+
+# this is a temporary folder
+**/CodeDrop1_StoriesPy

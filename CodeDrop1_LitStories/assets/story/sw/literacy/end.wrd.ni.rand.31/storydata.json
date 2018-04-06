@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mfukoni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mfukoni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mfukoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mfukoni"
+              }
+            ],
+            "sentence": "mfukoni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lini_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lini"
+              }
+            ],
+            "sentence": "lini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwanzoni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwanzoni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwanzoni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwanzoni"
+              }
+            ],
+            "sentence": "mwanzoni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndani"
+              }
+            ],
+            "sentence": "ndani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "geni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "geni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "geni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "geni"
+              }
+            ],
+            "sentence": "geni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "jani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "jani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "jani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "jani"
+              }
+            ],
+            "sentence": "jani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pini_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pini"
+              }
+            ],
+            "sentence": "pini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "huzuni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "huzuni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "huzuni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "huzuni"
+              }
+            ],
+            "sentence": "huzuni"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gizani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gizani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gizani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gizani"
+              }
+            ],
+            "sentence": "gizani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tokeni_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tokeni.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tokeni"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tokeni"
+              }
+            ],
+            "sentence": "tokeni"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.ni.rand.31"
+}

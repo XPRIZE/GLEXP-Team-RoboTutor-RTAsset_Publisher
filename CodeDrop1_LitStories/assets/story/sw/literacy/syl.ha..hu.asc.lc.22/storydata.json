@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ha_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ha"
+              }
+            ],
+            "sentence": "ha"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "he_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "he.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "he"
+                  }
+                ],
+                "until": -1,
+                "utterances": "he"
+              }
+            ],
+            "sentence": "he"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hi"
+              }
+            ],
+            "sentence": "hi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ho_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ho.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ho"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ho"
+              }
+            ],
+            "sentence": "ho"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hu"
+              }
+            ],
+            "sentence": "hu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.ha..hu.asc.lc.22.json"
+}

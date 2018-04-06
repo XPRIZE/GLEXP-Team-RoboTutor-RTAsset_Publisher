@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kale_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kale.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kale"
+              }
+            ],
+            "sentence": "kale"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "gingile_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "gingile.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "gingile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "gingile"
+              }
+            ],
+            "sentence": "gingile"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vidole_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vidole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vidole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vidole"
+              }
+            ],
+            "sentence": "vidole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mishale_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mishale.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mishale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mishale"
+              }
+            ],
+            "sentence": "mishale"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lele_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lele.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lele"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lele"
+              }
+            ],
+            "sentence": "lele"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nywele_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nywele.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nywele"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nywele"
+              }
+            ],
+            "sentence": "nywele"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zile_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zile.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zile"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zile"
+              }
+            ],
+            "sentence": "zile"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kobole_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kobole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kobole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kobole"
+              }
+            ],
+            "sentence": "kobole"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbele_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbele.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbele"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbele"
+              }
+            ],
+            "sentence": "mbele"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "polepole_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "polepole.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "polepole"
+                  }
+                ],
+                "until": -1,
+                "utterances": "polepole"
+              }
+            ],
+            "sentence": "polepole"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.le.rand.10"
+}

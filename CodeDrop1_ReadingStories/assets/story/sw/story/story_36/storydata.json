@@ -1,0 +1,1876 @@
+{
+  "authors": "Southern African Folktale",
+  "copyright": "Copyright (c) African Storybook Initiative, 2014",
+  "data": [
+    {
+      "image": "level1_7_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hapo_zamani_za_kale_dunia_ilipokuwa_mpya_milima_mikubwa_ilifunika_ulimwengu_kama_blanketi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 67,
+                    "start": 21,
+                    "word": "Hapo"
+                  },
+                  {
+                    "end": 127,
+                    "start": 68,
+                    "word": "zamani"
+                  },
+                  {
+                    "end": 149,
+                    "start": 128,
+                    "word": "za"
+                  },
+                  {
+                    "end": 208,
+                    "start": 150,
+                    "word": "kale"
+                  },
+                  {
+                    "end": 284,
+                    "start": 209,
+                    "word": "dunia"
+                  },
+                  {
+                    "end": 382,
+                    "start": 293,
+                    "word": "ilipokuwa"
+                  },
+                  {
+                    "end": 445,
+                    "start": 383,
+                    "word": "mpya"
+                  },
+                  {
+                    "end": 562,
+                    "start": 504,
+                    "word": "milima"
+                  },
+                  {
+                    "end": 635,
+                    "start": 563,
+                    "word": "mikubwa"
+                  },
+                  {
+                    "end": 758,
+                    "start": 648,
+                    "word": "ilifunika"
+                  },
+                  {
+                    "end": 838,
+                    "start": 759,
+                    "word": "ulimwengu"
+                  },
+                  {
+                    "end": 885,
+                    "start": 839,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 976,
+                    "start": 886,
+                    "word": "blanketi"
+                  }
+                ],
+                "until": 976,
+                "utterances": "Hapo zamani za kale dunia ilipokuwa mpya milima mikubwa ilifunika ulimwengu kama blanketi"
+              }
+            ],
+            "sentence": "Hapo zamani za kale dunia ilipokuwa mpya, milima mikubwa ilifunika ulimwengu kama blanketi."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "nayo_miti_mirefu_ilichongoka_mawinguni.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 71,
+                    "start": 2,
+                    "word": "Nayo"
+                  },
+                  {
+                    "end": 119,
+                    "start": 72,
+                    "word": "miti"
+                  },
+                  {
+                    "end": 192,
+                    "start": 120,
+                    "word": "mirefu"
+                  },
+                  {
+                    "end": 313,
+                    "start": 204,
+                    "word": "ilichongoka"
+                  },
+                  {
+                    "end": 423,
+                    "start": 314,
+                    "word": "mawinguni"
+                  }
+                ],
+                "until": 423,
+                "utterances": "Nayo miti mirefu ilichongoka mawinguni"
+              }
+            ],
+            "sentence": "Nayo miti mirefu ilichongoka mawinguni."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "duniani_palikuwa_na_dimbwi_kubwa_la_maji_baridi_shadidi_na_lililotulia_tuli.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 108,
+                    "start": 2,
+                    "word": "Duniani"
+                  },
+                  {
+                    "end": 192,
+                    "start": 109,
+                    "word": "palikuwa"
+                  },
+                  {
+                    "end": 217,
+                    "start": 193,
+                    "word": "na"
+                  },
+                  {
+                    "end": 273,
+                    "start": 218,
+                    "word": "dimbwi"
+                  },
+                  {
+                    "end": 326,
+                    "start": 274,
+                    "word": "kubwa"
+                  },
+                  {
+                    "end": 347,
+                    "start": 327,
+                    "word": "la"
+                  },
+                  {
+                    "end": 403,
+                    "start": 348,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 484,
+                    "start": 404,
+                    "word": "baridi"
+                  },
+                  {
+                    "end": 576,
+                    "start": 485,
+                    "word": "shadidi"
+                  },
+                  {
+                    "end": 598,
+                    "start": 577,
+                    "word": "na"
+                  },
+                  {
+                    "end": 731,
+                    "start": 678,
+                    "word": "lililotulia"
+                  },
+                  {
+                    "end": 827,
+                    "start": 732,
+                    "word": "tuli"
+                  }
+                ],
+                "until": 827,
+                "utterances": "Duniani palikuwa na dimbwi kubwa la maji baridi shadidi na lililotulia tuli"
+              }
+            ],
+            "sentence": "Duniani palikuwa na dimbwi kubwa la maji baridi shadidi na lililotulia tuli."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "kina_chake_kilikuwa_kirefu_na_liligubikwa_na_giza_totoro.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Kina"
+                  },
+                  {
+                    "end": 127,
+                    "start": 63,
+                    "word": "chake"
+                  },
+                  {
+                    "end": 207,
+                    "start": 128,
+                    "word": "kilikuwa"
+                  },
+                  {
+                    "end": 312,
+                    "start": 208,
+                    "word": "kirefu"
+                  },
+                  {
+                    "end": 383,
+                    "start": 370,
+                    "word": "na"
+                  },
+                  {
+                    "end": 504,
+                    "start": 384,
+                    "word": "liligubikwa"
+                  },
+                  {
+                    "end": 524,
+                    "start": 505,
+                    "word": "na"
+                  },
+                  {
+                    "end": 575,
+                    "start": 525,
+                    "word": "giza"
+                  },
+                  {
+                    "end": 674,
+                    "start": 576,
+                    "word": "totoro"
+                  }
+                ],
+                "until": 674,
+                "utterances": "Kina chake kilikuwa kirefu na liligubikwa na giza totoro"
+              }
+            ],
+            "sentence": "Kina chake kilikuwa kirefu na liligubikwa na giza totoro."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kwenye_sakafu_ya_dimbwi_hilo_paliishi_nyoka_wawili.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 2,
+                    "word": "Kwenye"
+                  },
+                  {
+                    "end": 163,
+                    "start": 69,
+                    "word": "sakafu"
+                  },
+                  {
+                    "end": 190,
+                    "start": 164,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 264,
+                    "start": 191,
+                    "word": "dimbwi"
+                  },
+                  {
+                    "end": 327,
+                    "start": 265,
+                    "word": "hilo"
+                  },
+                  {
+                    "end": 422,
+                    "start": 328,
+                    "word": "paliishi"
+                  },
+                  {
+                    "end": 506,
+                    "start": 459,
+                    "word": "nyoka"
+                  },
+                  {
+                    "end": 561,
+                    "start": 507,
+                    "word": "wawili"
+                  }
+                ],
+                "until": 561,
+                "utterances": "Kwenye sakafu ya dimbwi hilo paliishi nyoka wawili"
+              }
+            ],
+            "sentence": "Kwenye sakafu ya dimbwi hilo paliishi nyoka wawili."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mmoja_alikuwa_mnene_na_mwenye_nguvu.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 87,
+                    "start": 21,
+                    "word": "Mmoja"
+                  },
+                  {
+                    "end": 177,
+                    "start": 101,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 271,
+                    "start": 178,
+                    "word": "mnene"
+                  },
+                  {
+                    "end": 337,
+                    "start": 320,
+                    "word": "na"
+                  },
+                  {
+                    "end": 388,
+                    "start": 338,
+                    "word": "mwenye"
+                  },
+                  {
+                    "end": 445,
+                    "start": 389,
+                    "word": "nguvu"
+                  }
+                ],
+                "until": 445,
+                "utterances": "Mmoja alikuwa mnene na mwenye nguvu"
+              }
+            ],
+            "sentence": "Mmoja alikuwa mnene na mwenye nguvu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_mwengine_alikuwa_na_umbo_dogo_la_kuvutia_na_dhaifu.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 42,
+                    "start": 22,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 128,
+                    "start": 43,
+                    "word": "mwengine"
+                  },
+                  {
+                    "end": 227,
+                    "start": 145,
+                    "word": "alikuwa"
+                  },
+                  {
+                    "end": 252,
+                    "start": 228,
+                    "word": "na"
+                  },
+                  {
+                    "end": 303,
+                    "start": 269,
+                    "word": "umbo"
+                  },
+                  {
+                    "end": 378,
+                    "start": 319,
+                    "word": "dogo"
+                  },
+                  {
+                    "end": 392,
+                    "start": 379,
+                    "word": "la"
+                  },
+                  {
+                    "end": 498,
+                    "start": 393,
+                    "word": "kuvutia"
+                  },
+                  {
+                    "end": 552,
+                    "start": 534,
+                    "word": "na"
+                  },
+                  {
+                    "end": 622,
+                    "start": 553,
+                    "word": "dhaifu"
+                  }
+                ],
+                "until": 622,
+                "utterances": "Na mwengine alikuwa na umbo dogo la kuvutia na dhaifu"
+              }
+            ],
+            "sentence": "Na mwengine alikuwa na umbo dogo la kuvutia na dhaifu."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "basi_siku_moja_pakatokea_dhoruba_kubwa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 89,
+                    "start": 2,
+                    "word": "Basi"
+                  },
+                  {
+                    "end": 161,
+                    "start": 104,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 211,
+                    "start": 162,
+                    "word": "moja"
+                  },
+                  {
+                    "end": 320,
+                    "start": 212,
+                    "word": "pakatokea"
+                  },
+                  {
+                    "end": 411,
+                    "start": 321,
+                    "word": "dhoruba"
+                  },
+                  {
+                    "end": 470,
+                    "start": 412,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 470,
+                "utterances": "Basi siku moja pakatokea dhoruba kubwa"
+              }
+            ],
+            "sentence": "Basi siku moja pakatokea dhoruba kubwa."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "radi_ilipiga_na_kupenya_hadi_chini_ya_dimbwi.mp3",
+                "from": 45,
+                "segmentation": [
+                  {
+                    "end": 98,
+                    "start": 45,
+                    "word": "Radi"
+                  },
+                  {
+                    "end": 181,
+                    "start": 103,
+                    "word": "ilipiga"
+                  },
+                  {
+                    "end": 202,
+                    "start": 182,
+                    "word": "na"
+                  },
+                  {
+                    "end": 276,
+                    "start": 203,
+                    "word": "kupenya"
+                  },
+                  {
+                    "end": 330,
+                    "start": 277,
+                    "word": "hadi"
+                  },
+                  {
+                    "end": 389,
+                    "start": 331,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 408,
+                    "start": 390,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 469,
+                    "start": 409,
+                    "word": "dimbwi"
+                  }
+                ],
+                "until": 469,
+                "utterances": "Radi ilipiga na kupenya hadi chini ya dimbwi"
+              }
+            ],
+            "sentence": "Radi ilipiga na kupenya hadi chini ya dimbwi."
+          },
+          {
+            "narration": [
+              {
+                "audio": "maji_yakagawika_kwa_muda_mfupi_wale_nyoka_wakaweza_kuona_ardhi_kule_juu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 88,
+                    "start": 20,
+                    "word": "Maji"
+                  },
+                  {
+                    "end": 205,
+                    "start": 89,
+                    "word": "yakagawika"
+                  },
+                  {
+                    "end": 234,
+                    "start": 206,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 280,
+                    "start": 235,
+                    "word": "muda"
+                  },
+                  {
+                    "end": 351,
+                    "start": 281,
+                    "word": "mfupi"
+                  },
+                  {
+                    "end": 432,
+                    "start": 396,
+                    "word": "wale"
+                  },
+                  {
+                    "end": 489,
+                    "start": 433,
+                    "word": "nyoka"
+                  },
+                  {
+                    "end": 567,
+                    "start": 490,
+                    "word": "wakaweza"
+                  },
+                  {
+                    "end": 627,
+                    "start": 568,
+                    "word": "kuona"
+                  },
+                  {
+                    "end": 689,
+                    "start": 643,
+                    "word": "ardhi"
+                  },
+                  {
+                    "end": 752,
+                    "start": 690,
+                    "word": "kule"
+                  },
+                  {
+                    "end": 815,
+                    "start": 753,
+                    "word": "juu"
+                  }
+                ],
+                "until": 815,
+                "utterances": "Maji yakagawika kwa muda mfupi wale nyoka wakaweza kuona ardhi kule juu"
+              }
+            ],
+            "sentence": "Maji yakagawika kwa muda mfupi, wale nyoka wakaweza kuona ardhi kule juu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "waliona_vitu_vya_rangi_nyingi_na_vyenye_maumbo_tofauti_tofauti.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 116,
+                    "start": 19,
+                    "word": "Waliona"
+                  },
+                  {
+                    "end": 169,
+                    "start": 117,
+                    "word": "vitu"
+                  },
+                  {
+                    "end": 199,
+                    "start": 170,
+                    "word": "vya"
+                  },
+                  {
+                    "end": 261,
+                    "start": 200,
+                    "word": "rangi"
+                  },
+                  {
+                    "end": 324,
+                    "start": 262,
+                    "word": "nyingi"
+                  },
+                  {
+                    "end": 348,
+                    "start": 325,
+                    "word": "na"
+                  },
+                  {
+                    "end": 403,
+                    "start": 349,
+                    "word": "vyenye"
+                  },
+                  {
+                    "end": 473,
+                    "start": 404,
+                    "word": "maumbo"
+                  },
+                  {
+                    "end": 569,
+                    "start": 474,
+                    "word": "tofauti"
+                  },
+                  {
+                    "end": 673,
+                    "start": 570,
+                    "word": "tofauti"
+                  }
+                ],
+                "until": 673,
+                "utterances": "Waliona vitu vya rangi nyingi na vyenye maumbo tofauti tofauti"
+              }
+            ],
+            "sentence": "Waliona vitu vya rangi nyingi na vyenye maumbo tofauti tofauti."
+          },
+          {
+            "narration": [
+              {
+                "audio": "waliona_viumbe_wenye_mbawa_angani.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 105,
+                    "start": 19,
+                    "word": "Waliona"
+                  },
+                  {
+                    "end": 194,
+                    "start": 106,
+                    "word": "viumbe"
+                  },
+                  {
+                    "end": 250,
+                    "start": 195,
+                    "word": "wenye"
+                  },
+                  {
+                    "end": 309,
+                    "start": 251,
+                    "word": "mbawa"
+                  },
+                  {
+                    "end": 395,
+                    "start": 310,
+                    "word": "angani"
+                  }
+                ],
+                "until": 395,
+                "utterances": "Waliona viumbe wenye mbawa angani"
+              }
+            ],
+            "sentence": "Waliona viumbe wenye mbawa angani."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kila_kitu_walichoona_ardhini_kilivutia_sana.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 115,
+                    "start": 63,
+                    "word": "kitu"
+                  },
+                  {
+                    "end": 241,
+                    "start": 116,
+                    "word": "walichoona"
+                  },
+                  {
+                    "end": 324,
+                    "start": 250,
+                    "word": "ardhini"
+                  },
+                  {
+                    "end": 440,
+                    "start": 325,
+                    "word": "kilivutia"
+                  },
+                  {
+                    "end": 497,
+                    "start": 441,
+                    "word": "sana"
+                  }
+                ],
+                "until": 497,
+                "utterances": "Kila kitu walichoona ardhini kilivutia sana"
+              }
+            ],
+            "sentence": "Kila kitu walichoona ardhini kilivutia sana."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakati_maji_yaliporudiana_tena_wale_nyoka_waliendelea_kukumbuka_uzuri_waliokuwa_wameona.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 79,
+                    "start": 21,
+                    "word": "Wakati"
+                  },
+                  {
+                    "end": 123,
+                    "start": 80,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 265,
+                    "start": 124,
+                    "word": "yaliporudiana"
+                  },
+                  {
+                    "end": 322,
+                    "start": 266,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 407,
+                    "start": 373,
+                    "word": "wale"
+                  },
+                  {
+                    "end": 462,
+                    "start": 408,
+                    "word": "nyoka"
+                  },
+                  {
+                    "end": 585,
+                    "start": 463,
+                    "word": "waliendelea"
+                  },
+                  {
+                    "end": 693,
+                    "start": 586,
+                    "word": "kukumbuka"
+                  },
+                  {
+                    "end": 768,
+                    "start": 702,
+                    "word": "uzuri"
+                  },
+                  {
+                    "end": 872,
+                    "start": 769,
+                    "word": "waliokuwa"
+                  },
+                  {
+                    "end": 961,
+                    "start": 873,
+                    "word": "wameona"
+                  }
+                ],
+                "until": 961,
+                "utterances": "Wakati maji yaliporudiana tena wale nyoka waliendelea kukumbuka uzuri waliokuwa wameona"
+              }
+            ],
+            "sentence": "Wakati maji yaliporudiana tena wale nyoka waliendelea kukumbuka uzuri waliokuwa wameona."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hatuwezi_kuendelea_kuishi_kwenye_dimbwi_hili_lenye_giza_na_baridi_waliambiana.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 115,
+                    "start": 19,
+                    "word": "Hatuwezi"
+                  },
+                  {
+                    "end": 209,
+                    "start": 116,
+                    "word": "kuendelea"
+                  },
+                  {
+                    "end": 277,
+                    "start": 210,
+                    "word": "kuishi"
+                  },
+                  {
+                    "end": 319,
+                    "start": 278,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 372,
+                    "start": 320,
+                    "word": "dimbwi"
+                  },
+                  {
+                    "end": 413,
+                    "start": 373,
+                    "word": "hili"
+                  },
+                  {
+                    "end": 455,
+                    "start": 414,
+                    "word": "lenye"
+                  },
+                  {
+                    "end": 524,
+                    "start": 456,
+                    "word": "giza"
+                  },
+                  {
+                    "end": 551,
+                    "start": 525,
+                    "word": "na"
+                  },
+                  {
+                    "end": 661,
+                    "start": 552,
+                    "word": "baridi"
+                  },
+                  {
+                    "end": 816,
+                    "start": 706,
+                    "word": "waliambiana"
+                  }
+                ],
+                "until": 816,
+                "utterances": "Hatuwezi kuendelea kuishi kwenye dimbwi hili lenye giza na baridi waliambiana"
+              }
+            ],
+            "sentence": "\"Hatuwezi kuendelea kuishi kwenye dimbwi hili lenye giza na baridi,\" waliambiana."
+          },
+          {
+            "narration": [
+              {
+                "audio": "twende_kule_juu_tukaione_ardhi.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 21,
+                    "word": "Twende"
+                  },
+                  {
+                    "end": 98,
+                    "start": 58,
+                    "word": "kule"
+                  },
+                  {
+                    "end": 141,
+                    "start": 99,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 242,
+                    "start": 142,
+                    "word": "tukaione"
+                  },
+                  {
+                    "end": 319,
+                    "start": 263,
+                    "word": "ardhi"
+                  }
+                ],
+                "until": 319,
+                "utterances": "Twende kule juu tukaione ardhi"
+              }
+            ],
+            "sentence": "\"Twende kule juu tukaione ardhi.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "tutawezaje_kuishi_kwenye_ardhi.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 131,
+                    "start": 22,
+                    "word": "Tutawezaje"
+                  },
+                  {
+                    "end": 192,
+                    "start": 132,
+                    "word": "kuishi"
+                  },
+                  {
+                    "end": 245,
+                    "start": 193,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 330,
+                    "start": 246,
+                    "word": "ardhi"
+                  }
+                ],
+                "until": 330,
+                "utterances": "Tutawezaje kuishi kwenye ardhi"
+              }
+            ],
+            "sentence": "\"Tutawezaje kuishi kwenye ardhi?\""
+          },
+          {
+            "narration": [
+              {
+                "audio": "yule_nyoka_mdogo_aliuliza.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 50,
+                    "start": 22,
+                    "word": "yule"
+                  },
+                  {
+                    "end": 91,
+                    "start": 51,
+                    "word": "nyoka"
+                  },
+                  {
+                    "end": 154,
+                    "start": 92,
+                    "word": "mdogo"
+                  },
+                  {
+                    "end": 262,
+                    "start": 155,
+                    "word": "aliuliza"
+                  }
+                ],
+                "until": 262,
+                "utterances": "yule nyoka mdogo aliuliza"
+              }
+            ],
+            "sentence": "yule nyoka mdogo aliuliza."
+          },
+          {
+            "narration": [
+              {
+                "audio": "je_tutatambaa_kwa_matumbo.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 57,
+                    "start": 2,
+                    "word": "Je"
+                  },
+                  {
+                    "end": 234,
+                    "start": 112,
+                    "word": "tutatambaa"
+                  },
+                  {
+                    "end": 261,
+                    "start": 235,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 363,
+                    "start": 262,
+                    "word": "matumbo"
+                  }
+                ],
+                "until": 363,
+                "utterances": "Je tutatambaa kwa matumbo"
+              }
+            ],
+            "sentence": "\"Je, tutatambaa kwa matumbo?\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndege_wa_angani_hawatatucheka_na_kutuona_duni_mwenzake_alimjibu.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 65,
+                    "start": 20,
+                    "word": "Ndege"
+                  },
+                  {
+                    "end": 81,
+                    "start": 66,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 165,
+                    "start": 82,
+                    "word": "angani"
+                  },
+                  {
+                    "end": 307,
+                    "start": 189,
+                    "word": "hawatatucheka"
+                  },
+                  {
+                    "end": 326,
+                    "start": 308,
+                    "word": "na"
+                  },
+                  {
+                    "end": 414,
+                    "start": 327,
+                    "word": "kutuona"
+                  },
+                  {
+                    "end": 475,
+                    "start": 415,
+                    "word": "duni"
+                  },
+                  {
+                    "end": 590,
+                    "start": 509,
+                    "word": "mwenzake"
+                  },
+                  {
+                    "end": 679,
+                    "start": 591,
+                    "word": "alimjibu"
+                  }
+                ],
+                "until": 679,
+                "utterances": "Ndege wa angani hawatatucheka na kutuona duni mwenzake alimjibu"
+              }
+            ],
+            "sentence": "\"Ndege wa angani hawatatucheka na kutuona duni,\" mwenzake alimjibu."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "hatutatambaa_tutatembea.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 185,
+                    "start": 19,
+                    "word": "Hatutatambaa"
+                  },
+                  {
+                    "end": 379,
+                    "start": 244,
+                    "word": "tutatembea"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Hatutatambaa tutatembea"
+              }
+            ],
+            "sentence": "\"Hatutatambaa, tutatembea!\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyoka_hao_walijikunjua_polepole.mp3",
+                "from": 22,
+                "segmentation": [
+                  {
+                    "end": 61,
+                    "start": 22,
+                    "word": "Nyoka"
+                  },
+                  {
+                    "end": 114,
+                    "start": 62,
+                    "word": "hao"
+                  },
+                  {
+                    "end": 256,
+                    "start": 115,
+                    "word": "walijikunjua"
+                  },
+                  {
+                    "end": 409,
+                    "start": 257,
+                    "word": "polepole"
+                  }
+                ],
+                "until": 409,
+                "utterances": "Nyoka hao walijikunjua polepole"
+              }
+            ],
+            "sentence": "Nyoka hao walijikunjua polepole."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "wakaanza_kuogelea_na_kuogelea_wakielekea_juu_kwenye_mwangaza.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 122,
+                    "start": 20,
+                    "word": "Wakaanza"
+                  },
+                  {
+                    "end": 241,
+                    "start": 123,
+                    "word": "kuogelea"
+                  },
+                  {
+                    "end": 267,
+                    "start": 242,
+                    "word": "na"
+                  },
+                  {
+                    "end": 393,
+                    "start": 268,
+                    "word": "kuogelea"
+                  },
+                  {
+                    "end": 529,
+                    "start": 394,
+                    "word": "wakielekea"
+                  },
+                  {
+                    "end": 580,
+                    "start": 530,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 681,
+                    "start": 607,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 771,
+                    "start": 682,
+                    "word": "mwangaza"
+                  }
+                ],
+                "until": 771,
+                "utterances": "Wakaanza kuogelea na kuogelea wakielekea juu kwenye mwangaza"
+              }
+            ],
+            "sentence": "Wakaanza kuogelea na kuogelea wakielekea juu kwenye mwangaza."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walipokaribia_juu_ya_maji_maajabu_yalitendeka.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 173,
+                    "start": 20,
+                    "word": "Walipokaribia"
+                  },
+                  {
+                    "end": 217,
+                    "start": 174,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 238,
+                    "start": 218,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 314,
+                    "start": 239,
+                    "word": "maji"
+                  },
+                  {
+                    "end": 451,
+                    "start": 358,
+                    "word": "maajabu"
+                  },
+                  {
+                    "end": 569,
+                    "start": 452,
+                    "word": "yalitendeka"
+                  }
+                ],
+                "until": 569,
+                "utterances": "Walipokaribia juu ya maji maajabu yalitendeka"
+              }
+            ],
+            "sentence": "Walipokaribia juu ya maji, maajabu yalitendeka."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "mikia_yao_iligawika_mara_mbili_wakawa_na_miguu_yenye_vidole.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 83,
+                    "start": 2,
+                    "word": "Mikia"
+                  },
+                  {
+                    "end": 117,
+                    "start": 84,
+                    "word": "yao"
+                  },
+                  {
+                    "end": 267,
+                    "start": 145,
+                    "word": "iligawika"
+                  },
+                  {
+                    "end": 347,
+                    "start": 304,
+                    "word": "mara"
+                  },
+                  {
+                    "end": 405,
+                    "start": 348,
+                    "word": "mbili"
+                  },
+                  {
+                    "end": 507,
+                    "start": 448,
+                    "word": "wakawa"
+                  },
+                  {
+                    "end": 532,
+                    "start": 508,
+                    "word": "na"
+                  },
+                  {
+                    "end": 596,
+                    "start": 533,
+                    "word": "miguu"
+                  },
+                  {
+                    "end": 642,
+                    "start": 597,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 700,
+                    "start": 643,
+                    "word": "vidole"
+                  }
+                ],
+                "until": 700,
+                "utterances": "Mikia yao iligawika mara mbili wakawa na miguu yenye vidole"
+              }
+            ],
+            "sentence": "Mikia yao iligawika mara mbili wakawa na miguu yenye vidole."
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_mikono_miwili_yenye_vidole_ilitokea_chini_ya_vichwa_vyao.mp3",
+                "from": 50,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 50,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 135,
+                    "start": 67,
+                    "word": "mikono"
+                  },
+                  {
+                    "end": 210,
+                    "start": 136,
+                    "word": "miwili"
+                  },
+                  {
+                    "end": 239,
+                    "start": 211,
+                    "word": "yenye"
+                  },
+                  {
+                    "end": 313,
+                    "start": 240,
+                    "word": "vidole"
+                  },
+                  {
+                    "end": 427,
+                    "start": 337,
+                    "word": "ilitokea"
+                  },
+                  {
+                    "end": 487,
+                    "start": 428,
+                    "word": "chini"
+                  },
+                  {
+                    "end": 494,
+                    "start": 488,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 545,
+                    "start": 495,
+                    "word": "vichwa"
+                  },
+                  {
+                    "end": 602,
+                    "start": 546,
+                    "word": "vyao"
+                  }
+                ],
+                "until": 602,
+                "utterances": "Na mikono miwili yenye vidole ilitokea chini ya vichwa vyao"
+              }
+            ],
+            "sentence": "Na mikono miwili yenye vidole ilitokea chini ya vichwa vyao."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hawakuwa_nyoka_tena_kwani_sasa_waligeuka_na_kuwa_mume_na_mke.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 107,
+                    "start": 2,
+                    "word": "Hawakuwa"
+                  },
+                  {
+                    "end": 156,
+                    "start": 108,
+                    "word": "nyoka"
+                  },
+                  {
+                    "end": 214,
+                    "start": 157,
+                    "word": "tena"
+                  },
+                  {
+                    "end": 287,
+                    "start": 228,
+                    "word": "kwani"
+                  },
+                  {
+                    "end": 356,
+                    "start": 288,
+                    "word": "sasa"
+                  },
+                  {
+                    "end": 478,
+                    "start": 386,
+                    "word": "waligeuka"
+                  },
+                  {
+                    "end": 497,
+                    "start": 479,
+                    "word": "na"
+                  },
+                  {
+                    "end": 540,
+                    "start": 498,
+                    "word": "kuwa"
+                  },
+                  {
+                    "end": 589,
+                    "start": 541,
+                    "word": "mume"
+                  },
+                  {
+                    "end": 609,
+                    "start": 590,
+                    "word": "na"
+                  },
+                  {
+                    "end": 663,
+                    "start": 610,
+                    "word": "mke"
+                  }
+                ],
+                "until": 663,
+                "utterances": "Hawakuwa nyoka tena kwani sasa waligeuka na kuwa mume na mke"
+              }
+            ],
+            "sentence": "Hawakuwa nyoka tena, kwani sasa waligeuka na kuwa mume na mke."
+          },
+          {
+            "narration": [
+              {
+                "audio": "walitazamana_na_kupendana_kama_mume_na_mke.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 165,
+                    "start": 21,
+                    "word": "Walitazamana"
+                  },
+                  {
+                    "end": 231,
+                    "start": 212,
+                    "word": "na"
+                  },
+                  {
+                    "end": 338,
+                    "start": 232,
+                    "word": "kupendana"
+                  },
+                  {
+                    "end": 388,
+                    "start": 339,
+                    "word": "kama"
+                  },
+                  {
+                    "end": 434,
+                    "start": 389,
+                    "word": "mume"
+                  },
+                  {
+                    "end": 457,
+                    "start": 435,
+                    "word": "na"
+                  },
+                  {
+                    "end": 505,
+                    "start": 458,
+                    "word": "mke"
+                  }
+                ],
+                "until": 505,
+                "utterances": "Walitazamana na kupendana kama mume na mke"
+              }
+            ],
+            "sentence": "Walitazamana na kupendana kama mume na mke."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tutajenga_nyumba_juu_milimani_mke_alisema.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 110,
+                    "start": 2,
+                    "word": "Tutajenga"
+                  },
+                  {
+                    "end": 165,
+                    "start": 111,
+                    "word": "nyumba"
+                  },
+                  {
+                    "end": 216,
+                    "start": 166,
+                    "word": "juu"
+                  },
+                  {
+                    "end": 320,
+                    "start": 217,
+                    "word": "milimani"
+                  },
+                  {
+                    "end": 394,
+                    "start": 341,
+                    "word": "Mke"
+                  },
+                  {
+                    "end": 469,
+                    "start": 395,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 469,
+                "utterances": "Tutajenga nyumba juu milimani Mke alisema"
+              }
+            ],
+            "sentence": "\"Tutajenga nyumba juu milimani,\" Mke alisema."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kila_siku_tutaliona_jua_likitoka_na_kufurahia_joto_lake.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 60,
+                    "start": 2,
+                    "word": "Kila"
+                  },
+                  {
+                    "end": 117,
+                    "start": 61,
+                    "word": "siku"
+                  },
+                  {
+                    "end": 234,
+                    "start": 118,
+                    "word": "tutaliona"
+                  },
+                  {
+                    "end": 278,
+                    "start": 235,
+                    "word": "jua"
+                  },
+                  {
+                    "end": 384,
+                    "start": 279,
+                    "word": "likitoka"
+                  },
+                  {
+                    "end": 440,
+                    "start": 428,
+                    "word": "na"
+                  },
+                  {
+                    "end": 542,
+                    "start": 441,
+                    "word": "kufurahia"
+                  },
+                  {
+                    "end": 592,
+                    "start": 543,
+                    "word": "joto"
+                  },
+                  {
+                    "end": 643,
+                    "start": 593,
+                    "word": "lake"
+                  }
+                ],
+                "until": 643,
+                "utterances": "Kila siku tutaliona jua likitoka na kufurahia joto lake"
+              }
+            ],
+            "sentence": "\"Kila siku tutaliona jua likitoka na kufurahia joto lake.\""
+          }
+        ],
+        [
+          {
+            "narration": [
+              {
+                "audio": "na_tutalinda_nyasi_na_miti_mume_alisema.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 41,
+                    "start": 20,
+                    "word": "Na"
+                  },
+                  {
+                    "end": 144,
+                    "start": 42,
+                    "word": "tutalinda"
+                  },
+                  {
+                    "end": 202,
+                    "start": 145,
+                    "word": "nyasi"
+                  },
+                  {
+                    "end": 224,
+                    "start": 203,
+                    "word": "na"
+                  },
+                  {
+                    "end": 285,
+                    "start": 225,
+                    "word": "miti"
+                  },
+                  {
+                    "end": 359,
+                    "start": 310,
+                    "word": "Mume"
+                  },
+                  {
+                    "end": 444,
+                    "start": 360,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 444,
+                "utterances": "Na tutalinda nyasi na miti Mume alisema"
+              }
+            ],
+            "sentence": "\"Na tutalinda nyasi na miti,\" Mume alisema."
+          },
+          {
+            "narration": [
+              {
+                "audio": "tutakuwa_marafiki_wa_ndege_na_wanyama.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 109,
+                    "start": 2,
+                    "word": "Tutakuwa"
+                  },
+                  {
+                    "end": 203,
+                    "start": 110,
+                    "word": "marafiki"
+                  },
+                  {
+                    "end": 223,
+                    "start": 204,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 274,
+                    "start": 224,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 298,
+                    "start": 275,
+                    "word": "na"
+                  },
+                  {
+                    "end": 370,
+                    "start": 299,
+                    "word": "wanyama"
+                  }
+                ],
+                "until": 370,
+                "utterances": "Tutakuwa marafiki wa ndege na wanyama"
+              }
+            ],
+            "sentence": "\"Tutakuwa marafiki wa ndege na wanyama.\""
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level1_7_page_11_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hebu_njoo_mume_wa_kwanza_alisema.mp3",
+                "from": 19,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 19,
+                    "word": "Hebu"
+                  },
+                  {
+                    "end": 123,
+                    "start": 65,
+                    "word": "njoo"
+                  },
+                  {
+                    "end": 204,
+                    "start": 153,
+                    "word": "Mume"
+                  },
+                  {
+                    "end": 225,
+                    "start": 205,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 284,
+                    "start": 226,
+                    "word": "Kwanza"
+                  },
+                  {
+                    "end": 379,
+                    "start": 285,
+                    "word": "alisema"
+                  }
+                ],
+                "until": 379,
+                "utterances": "Hebu njoo Mume wa Kwanza alisema"
+              }
+            ],
+            "sentence": "\"Hebu njoo,\" Mume wa Kwanza alisema."
+          },
+          {
+            "narration": [
+              {
+                "audio": "naam_akajibu_mke_wa_kwanza.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 96,
+                    "start": 21,
+                    "word": "Naam"
+                  },
+                  {
+                    "end": 209,
+                    "start": 115,
+                    "word": "akajibu"
+                  },
+                  {
+                    "end": 235,
+                    "start": 210,
+                    "word": "Mke"
+                  },
+                  {
+                    "end": 253,
+                    "start": 236,
+                    "word": "wa"
+                  },
+                  {
+                    "end": 315,
+                    "start": 254,
+                    "word": "Kwanza"
+                  }
+                ],
+                "until": 315,
+                "utterances": "Naam akajibu Mke wa Kwanza"
+              }
+            ],
+            "sentence": "\"Naam,\" akajibu Mke wa Kwanza."
+          },
+          {
+            "narration": [
+              {
+                "audio": "kisha_wakatembea_pamoja_kwenye_ulimwengu_wao_mpya.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 66,
+                    "start": 2,
+                    "word": "Kisha"
+                  },
+                  {
+                    "end": 172,
+                    "start": 67,
+                    "word": "wakatembea"
+                  },
+                  {
+                    "end": 255,
+                    "start": 173,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 304,
+                    "start": 256,
+                    "word": "kwenye"
+                  },
+                  {
+                    "end": 406,
+                    "start": 319,
+                    "word": "ulimwengu"
+                  },
+                  {
+                    "end": 451,
+                    "start": 407,
+                    "word": "wao"
+                  },
+                  {
+                    "end": 508,
+                    "start": 452,
+                    "word": "mpya"
+                  }
+                ],
+                "until": 508,
+                "utterances": "Kisha wakatembea pamoja kwenye ulimwengu wao mpya"
+              }
+            ],
+            "sentence": "Kisha wakatembea pamoja kwenye ulimwengu wao mpya."
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Jemma Kahn",
+  "language": "Kiswahili",
+  "level": "1",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Mutugi Kamundi",
+  "title": "Mwanamme na Mwanamke wa Kwanza",
+  "titleimage": "level1_7_page_01_image_0001.jpg"
+}

@@ -1,0 +1,787 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "nyama.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyama"
+              }
+            ],
+            "sentence": "nyama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ngumi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ngumi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ngumi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ngumi"
+              }
+            ],
+            "sentence": "ngumi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nguruwe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nguruwe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nguruwe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nguruwe"
+              }
+            ],
+            "sentence": "nguruwe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyayo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyayo"
+              }
+            ],
+            "sentence": "nyayo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndizi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndizi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndizi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndizi"
+              }
+            ],
+            "sentence": "ndizi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyanya.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyanya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyanya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyanya"
+              }
+            ],
+            "sentence": "nyanya"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndevu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndevu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndevu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndevu"
+              }
+            ],
+            "sentence": "ndevu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyoka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyoka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyoka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyoka"
+              }
+            ],
+            "sentence": "nyoka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nywele.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nywele.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nywele"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nywele"
+              }
+            ],
+            "sentence": "nywele"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndege.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndege.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndege"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndege"
+              }
+            ],
+            "sentence": "ndege"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ng_ombe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ng_ombe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ng'ombe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ng'ombe"
+              }
+            ],
+            "sentence": "ng'ombe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nanasi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nanasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nanasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nanasi"
+              }
+            ],
+            "sentence": "nanasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nzi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nzi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nzi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nzi"
+              }
+            ],
+            "sentence": "nzi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nazi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nazi"
+              }
+            ],
+            "sentence": "nazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nguo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nguo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nguo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nguo"
+              }
+            ],
+            "sentence": "nguo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nono.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nono.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nono"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nono"
+              }
+            ],
+            "sentence": "nono"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyani.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyani"
+              }
+            ],
+            "sentence": "nyani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyati.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyati.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyati"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyati"
+              }
+            ],
+            "sentence": "nyati"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyoka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyoka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyoka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyoka"
+              }
+            ],
+            "sentence": "nyoka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyumba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyumba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyumba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyumba"
+              }
+            ],
+            "sentence": "nyumba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "njiwa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "njiwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "njiwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "njiwa"
+              }
+            ],
+            "sentence": "njiwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ngoma.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ngoma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ngoma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ngoma"
+              }
+            ],
+            "sentence": "ngoma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyayo.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyayo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyayo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyayo"
+              }
+            ],
+            "sentence": "nyayo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nane.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nane.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nane"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nane"
+              }
+            ],
+            "sentence": "nane"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndizi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndizi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndizi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndizi"
+              }
+            ],
+            "sentence": "ndizi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nini"
+              }
+            ],
+            "sentence": "nini"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ng_ombe.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ng_ombe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ng'ombe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ng'ombe"
+              }
+            ],
+            "sentence": "ng'ombe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "njaa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "njaa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "njaa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "njaa"
+              }
+            ],
+            "sentence": "njaa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nne.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nne.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nne"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nne"
+              }
+            ],
+            "sentence": "nne"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyanya.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyanya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyanya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyanya"
+              }
+            ],
+            "sentence": "nyanya"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nyama.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nyama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nyama"
+              }
+            ],
+            "sentence": "nyama"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-N.rand.53"
+}

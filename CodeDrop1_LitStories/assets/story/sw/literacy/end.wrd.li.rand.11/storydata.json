@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "awali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "awali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "awali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "awali"
+              }
+            ],
+            "sentence": "awali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mwavuli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mwavuli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mwavuli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mwavuli"
+              }
+            ],
+            "sentence": "mwavuli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akadeli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akadeli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akadeli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akadeli"
+              }
+            ],
+            "sentence": "akadeli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pili pili_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pili pili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pili pili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pili pili"
+              }
+            ],
+            "sentence": "pili pili"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "toroli_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "toroli.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "toroli"
+                  }
+                ],
+                "until": -1,
+                "utterances": "toroli"
+              }
+            ],
+            "sentence": "toroli"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbali"
+              }
+            ],
+            "sentence": "mbali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "angekubali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "angekubali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "angekubali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "angekubali"
+              }
+            ],
+            "sentence": "angekubali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hospitali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hospitali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hospitali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hospitali"
+              }
+            ],
+            "sentence": "hospitali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mahali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mahali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mahali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mahali"
+              }
+            ],
+            "sentence": "mahali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "bali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "bali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "bali"
+              }
+            ],
+            "sentence": "bali"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.li.rand.11"
+}

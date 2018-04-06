@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "walikuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "walikuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "walikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "walikuwa"
+              }
+            ],
+            "sentence": "walikuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "anaitwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "anaitwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "anaitwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "anaitwa"
+              }
+            ],
+            "sentence": "anaitwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akaagwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akaagwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akaagwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akaagwa"
+              }
+            ],
+            "sentence": "akaagwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nilipokuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nilipokuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nilipokuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nilipokuwa"
+              }
+            ],
+            "sentence": "nilipokuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "lilikuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "lilikuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "lilikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "lilikuwa"
+              }
+            ],
+            "sentence": "lilikuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "akiwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "akiwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "akiwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "akiwa"
+              }
+            ],
+            "sentence": "akiwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hawa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hawa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hawa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hawa"
+              }
+            ],
+            "sentence": "hawa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "machungwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "machungwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "machungwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "machungwa"
+              }
+            ],
+            "sentence": "machungwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "aliyekuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "aliyekuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "aliyekuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "aliyekuwa"
+              }
+            ],
+            "sentence": "aliyekuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "namukhaywa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "namukhaywa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "namukhaywa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "namukhaywa"
+              }
+            ],
+            "sentence": "namukhaywa"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "end.wrd.wa.rand.50"
+}

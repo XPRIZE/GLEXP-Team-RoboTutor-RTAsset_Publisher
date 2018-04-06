@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "nda_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nda"
+              }
+            ],
+            "sentence": "nda"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "nde_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nde.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "nde"
+                  }
+                ],
+                "until": -1,
+                "utterances": "nde"
+              }
+            ],
+            "sentence": "nde"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndi"
+              }
+            ],
+            "sentence": "ndi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndo"
+              }
+            ],
+            "sentence": "ndo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ndu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ndu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ndu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ndu"
+              }
+            ],
+            "sentence": "ndu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.nda..ndu.asc.lc.43.json"
+}

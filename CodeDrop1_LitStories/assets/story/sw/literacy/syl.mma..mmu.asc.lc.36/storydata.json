@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mma_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mma.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mma"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mma"
+              }
+            ],
+            "sentence": "mma"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mme_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mme.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mme"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mme"
+              }
+            ],
+            "sentence": "mme"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mmi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mmi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mmi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mmi"
+              }
+            ],
+            "sentence": "mmi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mmo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mmo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mmo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mmo"
+              }
+            ],
+            "sentence": "mmo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mmu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mmu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mmu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mmu"
+              }
+            ],
+            "sentence": "mmu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.mma..mmu.asc.lc.36.json"
+}

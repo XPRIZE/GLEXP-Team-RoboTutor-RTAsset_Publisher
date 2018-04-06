@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "va_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "va.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "va"
+                  }
+                ],
+                "until": -1,
+                "utterances": "va"
+              }
+            ],
+            "sentence": "va"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ve_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ve.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ve"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ve"
+              }
+            ],
+            "sentence": "ve"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vi"
+              }
+            ],
+            "sentence": "vi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vo"
+              }
+            ],
+            "sentence": "vo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "vu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "vu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "vu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "vu"
+              }
+            ],
+            "sentence": "vu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.va..vu.asc.lc.20.json"
+}

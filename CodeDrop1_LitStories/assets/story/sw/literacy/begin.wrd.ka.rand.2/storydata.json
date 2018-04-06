@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "kali_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kali.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kali"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kali"
+              }
+            ],
+            "sentence": "kali"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kaka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kaka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kaka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kaka"
+              }
+            ],
+            "sentence": "kaka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kazi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kazi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kazi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kazi"
+              }
+            ],
+            "sentence": "kazi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kale_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kale.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kale"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kale"
+              }
+            ],
+            "sentence": "kale"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kapu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kapu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kapu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kapu"
+              }
+            ],
+            "sentence": "kapu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kavu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kavu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kavu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kavu"
+              }
+            ],
+            "sentence": "kavu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kama_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kama.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kama"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kama"
+              }
+            ],
+            "sentence": "kama"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kasi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kasi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kasi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kasi"
+              }
+            ],
+            "sentence": "kasi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "karo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "karo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "karo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "karo"
+              }
+            ],
+            "sentence": "karo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kasa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kasa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kasa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kasa"
+              }
+            ],
+            "sentence": "kasa"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.ka.rand.2"
+}

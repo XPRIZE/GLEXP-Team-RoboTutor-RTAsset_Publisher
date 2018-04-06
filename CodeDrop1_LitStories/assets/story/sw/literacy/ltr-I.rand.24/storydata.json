@@ -1,0 +1,212 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "ikulu.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ikulu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ikulu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ikulu"
+              }
+            ],
+            "sentence": "IKULU"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "imba.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "imba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "imba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "imba"
+              }
+            ],
+            "sentence": "IMBA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "iliki.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "iliki.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "iliki"
+                  }
+                ],
+                "until": -1,
+                "utterances": "iliki"
+              }
+            ],
+            "sentence": "ILIKI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ishara.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ishara.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ishara"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishara"
+              }
+            ],
+            "sentence": "ISHARA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "imejaa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "imejaa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "imejaa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "imejaa"
+              }
+            ],
+            "sentence": "IMEJAA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "imara.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "imara.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "imara"
+                  }
+                ],
+                "until": -1,
+                "utterances": "imara"
+              }
+            ],
+            "sentence": "IMARA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ingia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ingia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ingia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ingia"
+              }
+            ],
+            "sentence": "INGIA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ishirini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ishirini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ishirini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ishirini"
+              }
+            ],
+            "sentence": "ISHIRINI"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-I.rand.24"
+}

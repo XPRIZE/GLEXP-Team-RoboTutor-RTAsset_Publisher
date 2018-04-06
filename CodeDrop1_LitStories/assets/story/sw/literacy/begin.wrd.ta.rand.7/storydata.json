@@ -1,0 +1,237 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "taja_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taja"
+              }
+            ],
+            "sentence": "taja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tamu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tamu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tamu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tamu"
+              }
+            ],
+            "sentence": "tamu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tawi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tawi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tawi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tawi"
+              }
+            ],
+            "sentence": "tawi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tatu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tatu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tatu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tatu"
+              }
+            ],
+            "sentence": "tatu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tani_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tani.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tani"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tani"
+              }
+            ],
+            "sentence": "tani"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "taji_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taji.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taji"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taji"
+              }
+            ],
+            "sentence": "taji"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "taka_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taka"
+              }
+            ],
+            "sentence": "taka"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "tano_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "tano.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "tano"
+                  }
+                ],
+                "until": -1,
+                "utterances": "tano"
+              }
+            ],
+            "sentence": "tano"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "taya_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "taya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "taya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "taya"
+              }
+            ],
+            "sentence": "taya"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "begin.wrd.ta.rand.7"
+}

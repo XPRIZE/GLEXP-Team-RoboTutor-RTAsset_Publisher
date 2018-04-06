@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "mba_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mba.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mba"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mba"
+              }
+            ],
+            "sentence": "mba"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbe"
+              }
+            ],
+            "sentence": "mbe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbi"
+              }
+            ],
+            "sentence": "mbi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbo"
+              }
+            ],
+            "sentence": "mbo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "mbu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mbu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "mbu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "mbu"
+              }
+            ],
+            "sentence": "mbu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.mba..mbu.asc.lc.46.json"
+}

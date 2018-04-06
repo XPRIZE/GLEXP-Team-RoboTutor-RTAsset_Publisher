@@ -1,0 +1,137 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "za_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "za.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "za"
+                  }
+                ],
+                "until": -1,
+                "utterances": "za"
+              }
+            ],
+            "sentence": "za"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ze_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ze.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ze"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ze"
+              }
+            ],
+            "sentence": "ze"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zi_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zi"
+              }
+            ],
+            "sentence": "zi"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zo_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zo.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zo"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zo"
+              }
+            ],
+            "sentence": "zo"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "zu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "zu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "zu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "zu"
+              }
+            ],
+            "sentence": "zu"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "syl.za..zu.asc.lc.28.json"
+}

@@ -1,0 +1,262 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "amelala_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "amelala.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "amelala"
+                  }
+                ],
+                "until": -1,
+                "utterances": "amelala"
+              }
+            ],
+            "sentence": "amelala"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "sherehe_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "sherehe.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "sherehe"
+                  }
+                ],
+                "until": -1,
+                "utterances": "sherehe"
+              }
+            ],
+            "sentence": "sherehe"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "kungoja_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "kungoja.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "kungoja"
+                  }
+                ],
+                "until": -1,
+                "utterances": "kungoja"
+              }
+            ],
+            "sentence": "kungoja"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "makubwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "makubwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "makubwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "makubwa"
+              }
+            ],
+            "sentence": "makubwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "umeiona_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "umeiona.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "umeiona"
+                  }
+                ],
+                "until": -1,
+                "utterances": "umeiona"
+              }
+            ],
+            "sentence": "umeiona"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "alikuwa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "alikuwa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "alikuwa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "alikuwa"
+              }
+            ],
+            "sentence": "alikuwa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "uchungu_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "uchungu.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "uchungu"
+                  }
+                ],
+                "until": -1,
+                "utterances": "uchungu"
+              }
+            ],
+            "sentence": "uchungu"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "hutoboa_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "hutoboa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "hutoboa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "hutoboa"
+              }
+            ],
+            "sentence": "hutoboa"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "ikipiga_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "ikipiga.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "ikipiga"
+                  }
+                ],
+                "until": -1,
+                "utterances": "ikipiga"
+              }
+            ],
+            "sentence": "ikipiga"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "magunia_txt.png",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "magunia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "magunia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "magunia"
+              }
+            ],
+            "sentence": "magunia"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "HF.wrd.len-7.rand.11.json"
+}

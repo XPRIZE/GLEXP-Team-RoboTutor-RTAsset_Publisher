@@ -1,0 +1,462 @@
+{
+  "authors": "RoboTutor",
+  "copyright": "",
+  "data": [
+    {
+      "image": "punda.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "punda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "punda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "punda"
+              }
+            ],
+            "sentence": "PUNDA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "punda.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "punda.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "punda"
+                  }
+                ],
+                "until": -1,
+                "utterances": "punda"
+              }
+            ],
+            "sentence": "PUNDA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pundamilia.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pundamilia.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pundamilia"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pundamilia"
+              }
+            ],
+            "sentence": "PUNDAMILIA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pua"
+              }
+            ],
+            "sentence": "PUA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "papa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "papa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "papa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "papa"
+              }
+            ],
+            "sentence": "PAPA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pini.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pini.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pini"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pini"
+              }
+            ],
+            "sentence": "PINI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "panya.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "panya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "panya"
+              }
+            ],
+            "sentence": "PANYA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "polisi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "polisi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "polisi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "polisi"
+              }
+            ],
+            "sentence": "POLISI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "paa.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "paa.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "paa"
+                  }
+                ],
+                "until": -1,
+                "utterances": "paa"
+              }
+            ],
+            "sentence": "PAA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "papai.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "papai.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "papai"
+                  }
+                ],
+                "until": -1,
+                "utterances": "papai"
+              }
+            ],
+            "sentence": "PAPAI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "panya.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "panya.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "panya"
+                  }
+                ],
+                "until": -1,
+                "utterances": "panya"
+              }
+            ],
+            "sentence": "PANYA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pilipili.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pilipili.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pilipili"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pilipili"
+              }
+            ],
+            "sentence": "PILIPILI"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pua.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pua.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pua"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pua"
+              }
+            ],
+            "sentence": "PUA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pera.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pera.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pera"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pera"
+              }
+            ],
+            "sentence": "PERA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "pacha.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "pacha.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "pacha"
+                  }
+                ],
+                "until": -1,
+                "utterances": "pacha"
+              }
+            ],
+            "sentence": "PACHA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "paka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "paka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "paka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "paka"
+              }
+            ],
+            "sentence": "PAKA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "paka.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "paka.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "paka"
+                  }
+                ],
+                "until": -1,
+                "utterances": "paka"
+              }
+            ],
+            "sentence": "PAKA"
+          }
+        ]
+      ]
+    },
+    {
+      "image": "parachichi.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "parachichi.mp3",
+                "from": -1,
+                "segmentation": [
+                  {
+                    "end": -1,
+                    "start": -1,
+                    "word": "parachichi"
+                  }
+                ],
+                "until": -1,
+                "utterances": "parachichi"
+              }
+            ],
+            "sentence": "PARACHICHI"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "",
+  "language": "Kiswahili",
+  "level": "",
+  "license": "",
+  "status": "",
+  "title": "ltr-P.rand.31"
+}

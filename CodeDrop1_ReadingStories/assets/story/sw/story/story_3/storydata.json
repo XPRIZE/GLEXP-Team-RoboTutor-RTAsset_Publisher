@@ -1,0 +1,603 @@
+{
+  "authors": "Waako Joshua and Cornelius Gulere",
+  "copyright": "Copyright (c) Ugandan Community Libraries Association, 2014",
+  "data": [
+    {
+      "image": "level2_12_page_02_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_na_dinasou_wangu_tunawaangalia_ndege_angani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 64,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 88,
+                    "start": 65,
+                    "word": "na"
+                  },
+                  {
+                    "end": 188,
+                    "start": 89,
+                    "word": "Dinasou"
+                  },
+                  {
+                    "end": 244,
+                    "start": 189,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 459,
+                    "start": 306,
+                    "word": "tunawaangalia"
+                  },
+                  {
+                    "end": 521,
+                    "start": 460,
+                    "word": "ndege"
+                  },
+                  {
+                    "end": 597,
+                    "start": 522,
+                    "word": "angani"
+                  }
+                ],
+                "until": 597,
+                "utterances": "Mimi na Dinasou wangu tunawaangalia ndege angani"
+              }
+            ],
+            "sentence": "Mimi na Dinasou wangu tunawaangalia ndege angani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_03_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_na_ndege_wangu_tunamkuta_sokwe_mtini.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 2,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 99,
+                    "start": 77,
+                    "word": "na"
+                  },
+                  {
+                    "end": 160,
+                    "start": 100,
+                    "word": "Ndege"
+                  },
+                  {
+                    "end": 217,
+                    "start": 161,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 362,
+                    "start": 255,
+                    "word": "tunamkuta"
+                  },
+                  {
+                    "end": 418,
+                    "start": 363,
+                    "word": "Sokwe"
+                  },
+                  {
+                    "end": 498,
+                    "start": 419,
+                    "word": "mtini"
+                  }
+                ],
+                "until": 498,
+                "utterances": "Mimi na Ndege wangu tunamkuta Sokwe mtini"
+              }
+            ],
+            "sentence": "Mimi na Ndege wangu tunamkuta Sokwe mtini."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_04_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_ninacheza_na_sokwe_na_twiga_wangu_milimani.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 68,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 168,
+                    "start": 69,
+                    "word": "ninacheza"
+                  },
+                  {
+                    "end": 187,
+                    "start": 169,
+                    "word": "na"
+                  },
+                  {
+                    "end": 251,
+                    "start": 188,
+                    "word": "Sokwe"
+                  },
+                  {
+                    "end": 299,
+                    "start": 289,
+                    "word": "na"
+                  },
+                  {
+                    "end": 351,
+                    "start": 300,
+                    "word": "twiga"
+                  },
+                  {
+                    "end": 417,
+                    "start": 352,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 496,
+                    "start": 418,
+                    "word": "milimani"
+                  }
+                ],
+                "until": 496,
+                "utterances": "Mimi ninacheza na Sokwe na twiga wangu milimani"
+              }
+            ],
+            "sentence": "Mimi ninacheza na Sokwe na twiga wangu milimani."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_05_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyani_wangu_na_kima_wanaogopa_bwana_kobe_kwa_kila_njia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 20,
+                    "word": "Nyani"
+                  },
+                  {
+                    "end": 128,
+                    "start": 76,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 196,
+                    "start": 182,
+                    "word": "na"
+                  },
+                  {
+                    "end": 257,
+                    "start": 197,
+                    "word": "Kima"
+                  },
+                  {
+                    "end": 375,
+                    "start": 258,
+                    "word": "wanaogopa"
+                  },
+                  {
+                    "end": 428,
+                    "start": 376,
+                    "word": "Bwana"
+                  },
+                  {
+                    "end": 492,
+                    "start": 429,
+                    "word": "Kobe"
+                  },
+                  {
+                    "end": 525,
+                    "start": 493,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 576,
+                    "start": 526,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 629,
+                    "start": 577,
+                    "word": "njia"
+                  }
+                ],
+                "until": 629,
+                "utterances": "Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia"
+              }
+            ],
+            "sentence": "Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_06_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_na_kima_wangu_tunakula_ndizi_na_nyani_kila_siku.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 76,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 98,
+                    "start": 77,
+                    "word": "na"
+                  },
+                  {
+                    "end": 155,
+                    "start": 99,
+                    "word": "Kima"
+                  },
+                  {
+                    "end": 206,
+                    "start": 156,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 348,
+                    "start": 255,
+                    "word": "tunakula"
+                  },
+                  {
+                    "end": 423,
+                    "start": 349,
+                    "word": "ndizi"
+                  },
+                  {
+                    "end": 461,
+                    "start": 449,
+                    "word": "na"
+                  },
+                  {
+                    "end": 519,
+                    "start": 462,
+                    "word": "Nyani"
+                  },
+                  {
+                    "end": 564,
+                    "start": 520,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 628,
+                    "start": 565,
+                    "word": "siku"
+                  }
+                ],
+                "until": 628,
+                "utterances": "Mimi na Kima wangu tunakula ndizi na Nyani kila siku"
+              }
+            ],
+            "sentence": "Mimi na Kima wangu tunakula ndizi na Nyani kila siku."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_07_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "nyani_wangu_na_kima_wanaogopa_bwana_kobe_kwa_kila_njia.mp3",
+                "from": 20,
+                "segmentation": [
+                  {
+                    "end": 75,
+                    "start": 20,
+                    "word": "Nyani"
+                  },
+                  {
+                    "end": 128,
+                    "start": 76,
+                    "word": "wangu"
+                  },
+                  {
+                    "end": 196,
+                    "start": 182,
+                    "word": "na"
+                  },
+                  {
+                    "end": 257,
+                    "start": 197,
+                    "word": "Kima"
+                  },
+                  {
+                    "end": 375,
+                    "start": 258,
+                    "word": "wanaogopa"
+                  },
+                  {
+                    "end": 428,
+                    "start": 376,
+                    "word": "Bwana"
+                  },
+                  {
+                    "end": 492,
+                    "start": 429,
+                    "word": "Kobe"
+                  },
+                  {
+                    "end": 525,
+                    "start": 493,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 576,
+                    "start": 526,
+                    "word": "kila"
+                  },
+                  {
+                    "end": 629,
+                    "start": 577,
+                    "word": "njia"
+                  }
+                ],
+                "until": 629,
+                "utterances": "Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia"
+              }
+            ],
+            "sentence": "Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_08_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bwana_kobe_nami_tunaenda_nyumbani_polepole_na_bi_nyoka.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 62,
+                    "start": 2,
+                    "word": "Bwana"
+                  },
+                  {
+                    "end": 118,
+                    "start": 63,
+                    "word": "Kobe"
+                  },
+                  {
+                    "end": 191,
+                    "start": 119,
+                    "word": "nami"
+                  },
+                  {
+                    "end": 304,
+                    "start": 226,
+                    "word": "tunaenda"
+                  },
+                  {
+                    "end": 381,
+                    "start": 305,
+                    "word": "nyumbani"
+                  },
+                  {
+                    "end": 502,
+                    "start": 382,
+                    "word": "polepole"
+                  },
+                  {
+                    "end": 558,
+                    "start": 541,
+                    "word": "na"
+                  },
+                  {
+                    "end": 587,
+                    "start": 559,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 644,
+                    "start": 588,
+                    "word": "Nyoka"
+                  }
+                ],
+                "until": 644,
+                "utterances": "Bwana Kobe nami tunaenda nyumbani polepole na Bi Nyoka"
+              }
+            ],
+            "sentence": "Bwana Kobe nami tunaenda nyumbani polepole na Bi Nyoka."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_09_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "bi_nyoka_nami_twapenda_kusonya_na_kuimba_nyimbo_kando_ya_ziwa.mp3",
+                "from": 2,
+                "segmentation": [
+                  {
+                    "end": 40,
+                    "start": 2,
+                    "word": "Bi"
+                  },
+                  {
+                    "end": 90,
+                    "start": 41,
+                    "word": "Nyoka"
+                  },
+                  {
+                    "end": 154,
+                    "start": 91,
+                    "word": "nami"
+                  },
+                  {
+                    "end": 240,
+                    "start": 155,
+                    "word": "twapenda"
+                  },
+                  {
+                    "end": 331,
+                    "start": 241,
+                    "word": "kusonya"
+                  },
+                  {
+                    "end": 385,
+                    "start": 372,
+                    "word": "na"
+                  },
+                  {
+                    "end": 460,
+                    "start": 386,
+                    "word": "kuimba"
+                  },
+                  {
+                    "end": 526,
+                    "start": 461,
+                    "word": "nyimbo"
+                  },
+                  {
+                    "end": 590,
+                    "start": 527,
+                    "word": "kando"
+                  },
+                  {
+                    "end": 613,
+                    "start": 591,
+                    "word": "ya"
+                  },
+                  {
+                    "end": 667,
+                    "start": 614,
+                    "word": "ziwa"
+                  }
+                ],
+                "until": 667,
+                "utterances": "Bi Nyoka nami twapenda kusonya na kuimba nyimbo kando ya ziwa"
+              }
+            ],
+            "sentence": "Bi Nyoka nami twapenda kusonya na kuimba nyimbo kando ya ziwa."
+          }
+        ]
+      ]
+    },
+    {
+      "image": "level2_12_page_10_image_0001.jpg",
+      "text": [
+        [
+          {
+            "narration": [
+              {
+                "audio": "mimi_na_familia_yangu_nzima_tunaishi_pamoja_kwa_furaha_kubwa.mp3",
+                "from": 21,
+                "segmentation": [
+                  {
+                    "end": 77,
+                    "start": 21,
+                    "word": "Mimi"
+                  },
+                  {
+                    "end": 101,
+                    "start": 78,
+                    "word": "na"
+                  },
+                  {
+                    "end": 175,
+                    "start": 102,
+                    "word": "familia"
+                  },
+                  {
+                    "end": 237,
+                    "start": 176,
+                    "word": "yangu"
+                  },
+                  {
+                    "end": 309,
+                    "start": 238,
+                    "word": "nzima"
+                  },
+                  {
+                    "end": 431,
+                    "start": 310,
+                    "word": "tunaishi"
+                  },
+                  {
+                    "end": 512,
+                    "start": 432,
+                    "word": "pamoja"
+                  },
+                  {
+                    "end": 546,
+                    "start": 513,
+                    "word": "kwa"
+                  },
+                  {
+                    "end": 678,
+                    "start": 547,
+                    "word": "furaha"
+                  },
+                  {
+                    "end": 749,
+                    "start": 679,
+                    "word": "kubwa"
+                  }
+                ],
+                "until": 749,
+                "utterances": "Mimi na familia yangu nzima tunaishi pamoja kwa furaha kubwa"
+              }
+            ],
+            "sentence": "Mimi na familia yangu nzima tunaishi pamoja kwa furaha kubwa!"
+          }
+        ]
+      ]
+    }
+  ],
+  "illustrators": "Wiehan de Jager",
+  "language": "Kiswahili",
+  "level": "2",
+  "license": "CC-BY Version 3.0 Unported Licence",
+  "status": "Translated by: Brigid Simiyu",
+  "title": "Mimi na familia yangu",
+  "titleimage": "level2_12_page_01_image_0001.jpg"
+}
