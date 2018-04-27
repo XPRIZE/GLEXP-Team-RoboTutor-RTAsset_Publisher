@@ -2,7 +2,18 @@
 
 # **RoboTutor Asset Publisher**
 
+---
 
+## XPrize Pre-Installation Process
+
+1. Clone this repo into your development computer.
+2. Note that cloning this support repo will require up to a GB of space.
+3. Run the following command:
+ `ZIP_Audio_SW_Set1.sh`
+4. Copy the resulting zip file into the assets folder of your local SystemBuild directory.
+
+
+--- 
 This repository should be used for publishing Asset data for use in RoboTutor.  If you wish to add or update an existing asset please click the asset in the list to access its repository and follow the instructions given to manage that specific Asset.
 
 
