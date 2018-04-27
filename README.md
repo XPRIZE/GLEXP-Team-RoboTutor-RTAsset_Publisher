@@ -10,6 +10,7 @@
 2. Note that cloning this support repo will require up to a GB of space.
 3. Run the following command:
  `ZIP_Audio_SW_Set1.sh`
+ This will give you the file "RTAsset_Audio_SW_Set1.1.1.0.zip".
 4. Copy the resulting zip file into the assets folder of your local SystemBuild directory.
 
 
