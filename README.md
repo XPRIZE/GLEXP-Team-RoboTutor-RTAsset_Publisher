@@ -2,57 +2,18 @@
 
 # **RoboTutor Asset Publisher**
 
+This repository should be used for publishing Asset data for use in RoboTutor.  If you wish to add or update an existing asset please click the asset in the list to access its repository and follow the instructions given to manage that specific Asset.
 ---
 
-## XPrize Pre-Installation Process
+## Setup and Configuration:
 
 1. Clone this repo into your development computer.
 2. Note that cloning this support repo will require up to a GB of space.
-3. Run the following command:
- `ZIP_Audio_SW_Set1.sh`
- This will give you the file "RTAsset_Audio_SW_Set1.1.1.0.zip".
-4. Copy the resulting zip file into the assets folder of your local SystemBuild directory.
-
-
---- 
-This repository should be used for publishing Asset data for use in RoboTutor.  If you wish to add or update an existing asset please click the asset in the list to access its repository and follow the instructions given to manage that specific Asset.
-
-
-**Setup and Configuration:**
-
-1 Clone this repo to your development computer
-
-```
- git clone https://github.com/synaptek/RTAsset_Publisher.git
-```
-
-2 Note that cloning this support repo will require up to a GB of space.
-
-3 Once you have cloned the assets:
-  * Attach your target device to the development machine.
-  * Execute:
-     * PUSH_Audio_EN.bat      (or the respective .sh file if you use Mac/Linux)
-     * PUSH_Audio_SW.bat 
-     * PUSH_Stories_EN.bat 
-     * PUSH_Stories_SW.bat 
-
-4 RoboTutor will then have the assets required on the target device.
-
-5 Continue to [build RoboTutor](https://github.com/RoboTutorLLC/RoboTutor).
-
-
-**Zipping Assets**
-
-An alternative method to Step 3 above (after cloning) is to zip the assets. This is useful for pushing to remote devices.
-
-  * Execute:
-     * ZIP_Audio_EN_Set1.bat  (or .sh)
-     * ZIP_Audio_SW_Set1.bat  (or .sh)
-     * ZIP_Stories_EN_Set1.bat  (or .sh)
-     * ZIP_Stories_SW_Set1.bat  (or .sh)
-  * Zipped folders will be ignored by git (see .gitignore)
-  * When placed in the "Download" folder of an Android, RoboTutor will detect these .zip files and install them into the "robotutor_assets" folder.
-
+3. Execute the following files:
+   * ZIP_Audio_EN_Set1.bat
+   * ZIP_Stories_EN_Set1.bat
+4. Copy the resulting zip file into the [assets](https://github.com/XPRIZE/GLEXP-Team-RoboTutor-SystemBuild/tree/master/assets) folder of your local SystemBuild directory.
+5. Continue to [build RoboTutor](https://github.com/RoboTutorLLC/RoboTutor).
 
 ## **Usage:**
 
